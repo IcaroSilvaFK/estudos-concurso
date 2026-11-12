@@ -1201,6 +1201,1056 @@
       },
       "gabarito": "e",
       "comentario": "Aumentos: Vara 1: 126/840 = 15%; Vara 2: 150/750 = 20%; Vara 3: 216/1.200 = 18%; Vara 4: 160/640 = 25%; Vara 5: 135/900 = 15%. Maior aumento percentual: Vara 4 (a Vara 3 tem o maior aumento absoluto, 216, mas não o maior percentual)."
+    },
+    {
+      "id": "mat-081",
+      "assunto": "Números inteiros – problemas",
+      "origem": "fcc",
+      "enunciado": "Em uma prova com 40 questões, cada acerto vale +5 pontos e cada erro vale −3 pontos; todas as questões foram respondidas. Um candidato totalizou 104 pontos. O número de questões que ele errou foi",
+      "alternativas": {
+        "a": "28.",
+        "b": "12.",
+        "c": "13.",
+        "d": "8.",
+        "e": "16."
+      },
+      "gabarito": "b",
+      "comentario": "Sejam a acertos e 40 − a erros: 5a − 3(40 − a) = 104 ⇒ 8a − 120 = 104 ⇒ 8a = 224 ⇒ a = 28. Erros: 40 − 28 = 12."
+    },
+    {
+      "id": "mat-082",
+      "assunto": "Média aritmética ponderada",
+      "origem": "fcc",
+      "enunciado": "Em um curso de formação, a nota final é a média ponderada de quatro avaliações, com pesos 1, 2, 3 e 4, respectivamente. Um aluno obteve 8,0 na primeira avaliação, 6,5 na segunda e 7,0 na terceira. Para que sua nota final seja 7,5, a nota mínima que ele precisa obter na quarta avaliação é",
+      "alternativas": {
+        "a": "8,5.",
+        "b": "8,0.",
+        "c": "7,5.",
+        "d": "9,0.",
+        "e": "8,25."
+      },
+      "gabarito": "e",
+      "comentario": "Soma dos pesos: 10. É preciso que 8·1 + 6,5·2 + 7·3 + 4x = 7,5 × 10 = 75 ⇒ 8 + 13 + 21 + 4x = 75 ⇒ 4x = 33 ⇒ x = 8,25."
+    },
+    {
+      "id": "mat-083",
+      "assunto": "Orientação espacial – simetria",
+      "origem": "fcc",
+      "enunciado": "Um servidor viu, refletida em um espelho plano, a imagem de um relógio analógico de ponteiros sem números no mostrador, apenas com as marcações das horas. Na imagem, os ponteiros pareciam indicar 4h20min. O horário real marcado pelo relógio era",
+      "alternativas": {
+        "a": "8h40min.",
+        "b": "4h40min.",
+        "c": "7h40min.",
+        "d": "7h20min.",
+        "e": "8h20min."
+      },
+      "gabarito": "c",
+      "comentario": "A imagem no espelho é simétrica em relação ao eixo vertical (12–6). O horário real é obtido por 12h00min − 4h20min = 7h40min."
+    },
+    {
+      "id": "mat-084",
+      "assunto": "Regra de três – trabalho em etapas",
+      "origem": "fcc",
+      "enunciado": "Uma equipe de 6 servidores, todos com a mesma produtividade, concluiria a organização de um arquivo em 10 dias. Após 4 dias de trabalho, mais 3 servidores, com a mesma produtividade, juntaram-se à equipe. Contando desde o início, a organização do arquivo foi concluída em",
+      "alternativas": {
+        "a": "6 dias.",
+        "b": "8 dias.",
+        "c": "4 dias.",
+        "d": "7 dias.",
+        "e": "9 dias."
+      },
+      "gabarito": "b",
+      "comentario": "Trabalho total: 6 × 10 = 60 servidores-dia. Em 4 dias foram feitos 6 × 4 = 24; restam 36. Com 9 servidores: 36 ÷ 9 = 4 dias. Total: 4 + 4 = 8 dias."
+    },
+    {
+      "id": "mat-085",
+      "assunto": "Divisão em partes inversamente proporcionais",
+      "origem": "fcc",
+      "enunciado": "Um prêmio foi dividido entre três servidores em partes inversamente proporcionais ao número de erros que cada um cometeu na conferência de documentos: 3, 4 e 6 erros, respectivamente. Se o servidor que cometeu 4 erros recebeu R$ 1.800,00, o valor total do prêmio era",
+      "alternativas": {
+        "a": "R$ 5.400,00.",
+        "b": "R$ 7.800,00.",
+        "c": "R$ 5.850,00.",
+        "d": "R$ 7.200,00.",
+        "e": "R$ 4.500,00."
+      },
+      "gabarito": "a",
+      "comentario": "As partes são k/3, k/4 e k/6. De k/4 = 1.800, vem k = 7.200. Partes: 7.200/3 = 2.400; 1.800; 7.200/6 = 1.200. Total: 2.400 + 1.800 + 1.200 = R$ 5.400,00."
+    },
+    {
+      "id": "mat-086",
+      "assunto": "Medidas de tendência central",
+      "origem": "inedita",
+      "enunciado": "Os tempos, em minutos, de dez atendimentos realizados no balcão de uma secretaria foram:\n12, 15, 9, 15, 20, 11, 15, 18, 9, 16\nCom relação a esses dados, é correto afirmar:",
+      "alternativas": {
+        "a": "A média é menor que a mediana, e a mediana é igual à moda.",
+        "b": "A média, a mediana e a moda são iguais.",
+        "c": "A mediana é 17,5.",
+        "d": "A média é maior que a moda.",
+        "e": "A amplitude dos dados é 9."
+      },
+      "gabarito": "a",
+      "comentario": "Soma = 140, média = 14. Ordenando: 9, 9, 11, 12, 15, 15, 15, 16, 18, 20; mediana = (15 + 15)/2 = 15; moda = 15 (três ocorrências); amplitude = 20 − 9 = 11. Logo, média (14) < mediana (15) = moda (15)."
+    },
+    {
+      "id": "mat-087",
+      "assunto": "Raciocínio sequencial – disposição de números",
+      "origem": "fcc",
+      "enunciado": "Os números naturais, a partir do 1, foram dispostos em linhas, da seguinte forma:\nLinha 1: 1\nLinha 2: 2  3\nLinha 3: 4  5  6\nLinha 4: 7  8  9  10\n...\nMantido esse padrão, o primeiro número da linha 20 é",
+      "alternativas": {
+        "a": "191.",
+        "b": "190.",
+        "c": "210.",
+        "d": "211.",
+        "e": "181."
+      },
+      "gabarito": "a",
+      "comentario": "A linha k tem k números. Até a linha 19 há 1 + 2 + ... + 19 = 19 × 20/2 = 190 números. Logo, o primeiro número da linha 20 é 191."
+    },
+    {
+      "id": "mat-088",
+      "assunto": "Lógica – verdades e mentiras",
+      "origem": "fcc",
+      "enunciado": "Sabe-se que exatamente um dentre quatro servidores — Ester, Fábio, Gil e Hilda — deixou de registrar a saída de um processo no sistema. Questionados, eles declararam:\n- Ester: “Foi Fábio ou Gil.”\n- Fábio: “Foi Hilda.”\n- Gil: “Não fui eu.”\n- Hilda: “Fábio está mentindo.”\nSabendo que apenas um dos quatro mentiu, quem deixou de registrar a saída do processo foi",
+      "alternativas": {
+        "a": "Hilda.",
+        "b": "Gil.",
+        "c": "Ester.",
+        "d": "Gil ou Hilda, não sendo possível determinar qual deles.",
+        "e": "Fábio."
+      },
+      "gabarito": "e",
+      "comentario": "As falas de Fábio e Hilda são contraditórias: exatamente uma delas é falsa. Como só há um mentiroso, Ester e Gil dizem a verdade: foi Fábio ou Gil, e não foi Gil. Logo foi Fábio — de fato, então Fábio mente (não foi Hilda) e Hilda diz a verdade. Testando os demais casos, nenhum outro culpado resulta em exatamente uma mentira."
+    },
+    {
+      "id": "mat-089",
+      "assunto": "Porcentagem – acréscimos e descontos sucessivos",
+      "origem": "fcc",
+      "enunciado": "O preço de um serviço sofreu, sucessivamente, um aumento de 25%, um desconto de 20% e um novo aumento de 10%. Em relação ao preço inicial, o preço final ficou",
+      "alternativas": {
+        "a": "10% maior.",
+        "b": "15% maior.",
+        "c": "igual.",
+        "d": "5% maior.",
+        "e": "12,5% maior."
+      },
+      "gabarito": "a",
+      "comentario": "Fator acumulado: 1,25 × 0,80 × 1,10 = 1,00 × 1,10 = 1,10. O preço final é 10% maior que o inicial."
+    },
+    {
+      "id": "mat-090",
+      "assunto": "Raciocínio matemático – conjuntos",
+      "origem": "fcc",
+      "enunciado": "Em um levantamento com os 120 servidores de um fórum, verificou-se que 60 fizeram o curso de Direito do Trabalho, 50 fizeram o de Processo do Trabalho e 40 fizeram o de Língua Portuguesa. Além disso, 20 fizeram Direito e Processo do Trabalho, 15 fizeram Direito do Trabalho e Língua Portuguesa, 10 fizeram Processo do Trabalho e Língua Portuguesa, e 5 fizeram os três cursos. O número de servidores que fizeram exatamente um desses cursos é",
+      "alternativas": {
+        "a": "75.",
+        "b": "110.",
+        "c": "65.",
+        "d": "80.",
+        "e": "70."
+      },
+      "gabarito": "a",
+      "comentario": "Somente Direito: 60 − 20 − 15 + 5 = 30. Somente Processo: 50 − 20 − 10 + 5 = 25. Somente Português: 40 − 15 − 10 + 5 = 20. Exatamente um curso: 30 + 25 + 20 = 75. (Ao menos um curso: 110; nenhum: 10.)"
+    },
+    {
+      "id": "mat-091",
+      "assunto": "Frações – problemas",
+      "origem": "fcc",
+      "enunciado": "Uma caixa-d’água estava com 3/5 de sua capacidade ocupados. Após a retirada de 270 litros, passou a ter apenas 3/8 de sua capacidade ocupados. A capacidade total dessa caixa-d’água é de",
+      "alternativas": {
+        "a": "720 litros.",
+        "b": "1.080 litros.",
+        "c": "450 litros.",
+        "d": "1.350 litros.",
+        "e": "1.200 litros."
+      },
+      "gabarito": "e",
+      "comentario": "A retirada corresponde a 3/5 − 3/8 = 24/40 − 15/40 = 9/40 da capacidade. Assim, 9/40 · C = 270 ⇒ C = 270 × 40/9 = 1.200 litros."
+    },
+    {
+      "id": "mat-092",
+      "assunto": "Orientação temporal – calendário",
+      "origem": "fcc",
+      "enunciado": "Em 2027, ano não bissexto, o dia 1º de janeiro caiu em uma sexta-feira. Nesse mesmo ano, o dia 25 de dezembro caiu em um(a)",
+      "alternativas": {
+        "a": "Sexta-feira.",
+        "b": "Sábado.",
+        "c": "Domingo.",
+        "d": "Quinta-feira.",
+        "e": "Segunda-feira."
+      },
+      "gabarito": "b",
+      "comentario": "Do dia 1º/01 (dia 1 do ano) ao dia 25/12 (dia 359 do ano) há 358 dias. Como 358 = 7 × 51 + 1, o dia 25/12 cai 1 dia da semana depois de sexta-feira: sábado."
+    },
+    {
+      "id": "mat-093",
+      "assunto": "Estrutura lógica de relações arbitrárias",
+      "origem": "fcc",
+      "enunciado": "Aline, Bruno, Celso e Dalva trabalham em setores distintos de um fórum trabalhista — Protocolo, Arquivo, Contadoria e Distribuição — e cada um utiliza um meio diferente para ir ao trabalho: ônibus, carro, bicicleta ou a pé. Sabe-se que:\n- Aline não trabalha no Protocolo nem no Arquivo;\n- quem trabalha na Distribuição vai a pé;\n- Bruno vai de carro;\n- Dalva não trabalha na Contadoria e não vai de bicicleta;\n- quem vai de ônibus trabalha no Arquivo;\n- Celso não trabalha no Protocolo e não vai de ônibus;\n- Aline não vai a pé.\nCom base nessas informações, é correto afirmar que",
+      "alternativas": {
+        "a": "Aline trabalha na Contadoria e vai ao trabalho de bicicleta.",
+        "b": "Celso trabalha no Arquivo.",
+        "c": "Dalva vai ao trabalho a pé.",
+        "d": "Bruno trabalha na Distribuição.",
+        "e": "quem trabalha no Protocolo vai ao trabalho de ônibus."
+      },
+      "gabarito": "a",
+      "comentario": "Se Dalva estivesse no Protocolo, seu meio de transporte não poderia ser a pé (Distribuição), ônibus (Arquivo), carro (Bruno) nem bicicleta (proibido) — impossível. Bruno (carro) não está na Distribuição nem no Arquivo; como Aline e Celso também não estão no Protocolo, Bruno está no Protocolo. Aline não vai a pé, logo não está na Distribuição; não estando no Arquivo, está na Contadoria e vai de bicicleta. Celso não vai de ônibus, então não está no Arquivo: está na Distribuição (a pé). Dalva fica no Arquivo, de ônibus. Solução única (verificada por enumeração)."
+    },
+    {
+      "id": "mat-094",
+      "assunto": "Regra de três composta",
+      "origem": "fcc",
+      "enunciado": "Cinco scanners, funcionando 8 horas por dia, digitalizam 1.800 processos em 12 dias. Com um dos scanners em manutenção, quantas horas por dia os demais deverão funcionar para digitalizar 1.500 processos em 10 dias, mantido o mesmo ritmo de cada aparelho?",
+      "alternativas": {
+        "a": "8 horas.",
+        "b": "6 horas e 24 minutos.",
+        "c": "10 horas.",
+        "d": "12 horas.",
+        "e": "9 horas."
+      },
+      "gabarito": "c",
+      "comentario": "Restam 4 scanners. Horas/dia são inversamente proporcionais ao nº de scanners e aos dias, e diretamente proporcionais aos processos: h = 8 × (5/4) × (12/10) × (1.500/1.800) = 8 × 1,25 × 1,2 × 5/6 = 10 horas por dia."
+    },
+    {
+      "id": "mat-095",
+      "assunto": "Leitura e interpretação de gráficos – histograma",
+      "origem": "inedita",
+      "enunciado": "Um histograma apresenta a distribuição das idades dos servidores de uma vara, com classes de mesma amplitude, fechadas à esquerda e abertas à direita:\n\nClasse (anos) | Frequência\n20 ⊢ 30 | 8\n30 ⊢ 40 | 14\n40 ⊢ 50 | 12\n50 ⊢ 60 | 6\n\nUtilizando os pontos médios das classes, a idade média estimada desses servidores é de",
+      "alternativas": {
+        "a": "40 anos.",
+        "b": "37,5 anos.",
+        "c": "38 anos.",
+        "d": "41 anos.",
+        "e": "39 anos."
+      },
+      "gabarito": "e",
+      "comentario": "Pontos médios: 25, 35, 45 e 55; total de servidores: 40. Média: (25·8 + 35·14 + 45·12 + 55·6)/40 = (200 + 490 + 540 + 330)/40 = 1.560/40 = 39 anos."
+    },
+    {
+      "id": "mat-096",
+      "assunto": "Porcentagem – acréscimos e descontos",
+      "origem": "inedita",
+      "enunciado": "Após um aumento de 60%, o preço de um equipamento passou a ser considerado alto. Para que o preço volte a ser exatamente o valor anterior ao aumento, deve-se aplicar sobre o preço atual um desconto de",
+      "alternativas": {
+        "a": "60%.",
+        "b": "40%.",
+        "c": "62,5%.",
+        "d": "37,5%.",
+        "e": "35%."
+      },
+      "gabarito": "d",
+      "comentario": "Se o preço inicial é P, o atual é 1,6P. Desconto d tal que 1,6P(1 − d) = P ⇒ 1 − d = 1/1,6 = 0,625 ⇒ d = 0,375 = 37,5%."
+    },
+    {
+      "id": "mat-097",
+      "assunto": "Múltiplos e divisores – MDC",
+      "origem": "fcc",
+      "enunciado": "O piso de uma sala retangular de 3,84 m por 2,40 m será revestido com placas quadradas, todas iguais, do maior tamanho possível, de modo que não haja cortes nem sobras. O número de placas utilizadas será",
+      "alternativas": {
+        "a": "48.",
+        "b": "60.",
+        "c": "24.",
+        "d": "80.",
+        "e": "40."
+      },
+      "gabarito": "e",
+      "comentario": "Em centímetros: 384 e 240. MDC(384, 240) = 48 cm é o lado da placa. Placas: (384 ÷ 48) × (240 ÷ 48) = 8 × 5 = 40."
+    },
+    {
+      "id": "mat-098",
+      "assunto": "Problemas aritméticos – idades",
+      "origem": "inedita",
+      "enunciado": "Hoje, a soma das idades de um pai e de seu filho é 56 anos. Há 4 anos, a idade do pai era o quíntuplo da idade do filho. Daqui a quantos anos a idade do pai será o dobro da idade do filho?",
+      "alternativas": {
+        "a": "20.",
+        "b": "12.",
+        "c": "16.",
+        "d": "8.",
+        "e": "24."
+      },
+      "gabarito": "a",
+      "comentario": "Sejam p e f as idades atuais: p + f = 56 e p − 4 = 5(f − 4) ⇒ p = 5f − 16. Então 6f − 16 = 56 ⇒ f = 12 e p = 44. Daqui a x anos: 44 + x = 2(12 + x) ⇒ x = 20."
+    },
+    {
+      "id": "mat-099",
+      "assunto": "Números inteiros – expressões numéricas",
+      "origem": "fcc",
+      "enunciado": "O valor da expressão [(−2)⁵ + 3³] · (−4) − (−6)² ÷ 9 é",
+      "alternativas": {
+        "a": "16.",
+        "b": "24.",
+        "c": "−24.",
+        "d": "−16.",
+        "e": "−4."
+      },
+      "gabarito": "a",
+      "comentario": "(−2)⁵ = −32 e 3³ = 27, então [−32 + 27] · (−4) = (−5) · (−4) = 20. (−6)² = 36 e 36 ÷ 9 = 4. Resultado: 20 − 4 = 16."
+    },
+    {
+      "id": "mat-100",
+      "assunto": "Estrutura lógica de relações arbitrárias",
+      "origem": "inedita",
+      "enunciado": "Lia, Mara e Nina são servidoras de um tribunal; seus sobrenomes são Souza, Lima e Rocha, não necessariamente nessa ordem, e cada uma mora em uma cidade diferente: Belém, Castanhal e Ananindeua. Sabe-se que:\n- Lia não tem o sobrenome Souza e não mora em Belém;\n- a servidora de sobrenome Lima mora em Belém;\n- Mara não mora em Castanhal e não tem o sobrenome Lima.\nNessas condições, é correto afirmar que",
+      "alternativas": {
+        "a": "Mara mora em Belém.",
+        "b": "Nina tem o sobrenome Souza.",
+        "c": "Lia mora em Ananindeua.",
+        "d": "a servidora de sobrenome Rocha mora em Castanhal.",
+        "e": "a servidora de sobrenome Souza mora em Castanhal."
+      },
+      "gabarito": "d",
+      "comentario": "Lia não mora em Belém, então não é Lima; como também não é Souza, Lia é Rocha. Mara não é Lima, logo é Souza, e Nina é Lima, morando em Belém. Mara não mora em Castanhal, então mora em Ananindeua, e Lia mora em Castanhal. Assim, a servidora Rocha (Lia) mora em Castanhal."
+    },
+    {
+      "id": "mat-101",
+      "assunto": "Formação de conceitos – discriminação de elementos",
+      "origem": "fcc",
+      "enunciado": "Considerando o alfabeto de 26 letras, quatro dos cinco grupos de letras abaixo seguem um mesmo padrão, e um deles não o segue:\nBDF – HJL – MOQ – RTV – SUX\nO grupo que não segue o padrão dos demais é",
+      "alternativas": {
+        "a": "BDF.",
+        "b": "HJL.",
+        "c": "SUX.",
+        "d": "MOQ.",
+        "e": "RTV."
+      },
+      "gabarito": "c",
+      "comentario": "Nos grupos BDF, HJL, MOQ e RTV, cada letra está duas posições à frente da anterior no alfabeto (pula-se uma letra). Em SUX, de U para X avança-se três posições (pulam-se V e W). Logo, SUX não segue o padrão."
+    },
+    {
+      "id": "mat-102",
+      "assunto": "Medidas de tendência central – moda, mediana e média",
+      "origem": "fcc",
+      "enunciado": "Uma pesquisa registrou o número de filhos de cada um dos 40 servidores de um setor, com os resultados a seguir:\n\nNº de filhos | Nº de servidores\n0 | 7\n1 | 12\n2 | 10\n3 | 6\n4 | 5\n\nA moda, a mediana e a média aritmética do número de filhos desses servidores são, respectivamente,",
+      "alternativas": {
+        "a": "1; 1 e 1,75.",
+        "b": "12; 2 e 2.",
+        "c": "1; 2 e 1,75.",
+        "d": "1; 2 e 2.",
+        "e": "2; 1,5 e 1,75."
+      },
+      "gabarito": "c",
+      "comentario": "Moda: valor de maior frequência = 1 (12 servidores). Mediana: média do 20º e do 21º valores ordenados; as frequências acumuladas são 7, 19, 29, ... , logo o 20º e o 21º valores são 2 ⇒ mediana 2. Média: (0·7 + 1·12 + 2·10 + 3·6 + 4·5)/40 = 70/40 = 1,75."
+    },
+    {
+      "id": "mat-103",
+      "assunto": "Potenciação – potências de 10",
+      "origem": "fcc",
+      "enunciado": "O valor da expressão (4 · 10⁻³ · 6 · 10⁵) ÷ (8 · 10⁻²) é",
+      "alternativas": {
+        "a": "3 · 10⁰.",
+        "b": "3 · 10².",
+        "c": "3 · 10⁶.",
+        "d": "3 · 10⁻⁴.",
+        "e": "3 · 10⁴."
+      },
+      "gabarito": "e",
+      "comentario": "Numerador: 4 · 6 · 10⁻³⁺⁵ = 24 · 10². Dividindo por 8 · 10⁻²: (24/8) · 10²⁻⁽⁻²⁾ = 3 · 10⁴."
+    },
+    {
+      "id": "mat-104",
+      "assunto": "Regra de três composta",
+      "origem": "fcc",
+      "enunciado": "Dezesseis digitadores, trabalhando 6 horas por dia durante 5 dias, digitam 2.400 páginas. Deseja-se digitar 4.320 páginas cujo grau de dificuldade é 1,5 vez o das anteriores, em 8 dias, com jornada de 9 horas por dia. Mantida a produtividade de cada digitador, o número de digitadores necessários será",
+      "alternativas": {
+        "a": "12.",
+        "b": "27.",
+        "c": "18.",
+        "d": "24.",
+        "e": "16."
+      },
+      "gabarito": "c",
+      "comentario": "Digitadores são diretamente proporcionais a páginas e dificuldade e inversamente proporcionais a dias e horas/dia: n = 16 × (4.320/2.400) × 1,5 × (5/8) × (6/9) = 16 × 1,8 × 1,5 × 0,625 × 2/3 = 18."
+    },
+    {
+      "id": "mat-105",
+      "assunto": "Leitura e interpretação de tabelas",
+      "origem": "fcc",
+      "enunciado": "A tabela abaixo apresenta o consumo mensal de resmas de papel de quatro setores de um fórum:\n\nSetor | Resmas por mês\nProtocolo | 24\nSecretaria | 36\nGabinete | 18\nContadoria | 42\n\nO preço da resma é R$ 27,50. Para o próximo ano, prevê-se redução de 15% no consumo mensal total e aumento de 8% no preço da resma. Confirmadas as previsões, o gasto mensal com papel desses quatro setores passará a ser de",
+      "alternativas": {
+        "a": "R$ 3.069,00.",
+        "b": "R$ 3.029,40.",
+        "c": "R$ 3.300,00.",
+        "d": "R$ 2.805,00.",
+        "e": "R$ 3.201,00."
+      },
+      "gabarito": "b",
+      "comentario": "Consumo atual: 24 + 36 + 18 + 42 = 120 resmas; gasto atual: 120 × 27,50 = R$ 3.300,00. Novo consumo: 120 × 0,85 = 102 resmas; novo preço: 27,50 × 1,08 = R$ 29,70. Novo gasto: 102 × 29,70 = R$ 3.029,40. (R$ 3.069,00 seria aplicar −7% = −15% + 8%, o que é incorreto.)"
+    },
+    {
+      "id": "mat-106",
+      "assunto": "Múltiplos e divisores – MDC e MMC",
+      "origem": "fcc",
+      "enunciado": "O produto de dois números naturais é 1.512, e o máximo divisor comum entre eles é 6. O mínimo múltiplo comum desses dois números é",
+      "alternativas": {
+        "a": "126.",
+        "b": "252.",
+        "c": "1.506.",
+        "d": "9.072.",
+        "e": "504."
+      },
+      "gabarito": "b",
+      "comentario": "Para dois naturais, MDC × MMC = produto dos números. Assim, 6 × MMC = 1.512 ⇒ MMC = 252. (Exemplo: 18 e 84, com MDC 6 e MMC 252.)"
+    },
+    {
+      "id": "mat-107",
+      "assunto": "Leitura e interpretação de gráficos – barras",
+      "origem": "fcc",
+      "enunciado": "Um gráfico de barras mostra o número de processos recebidos por uma vara do trabalho no primeiro semestre de um ano:\n\nJaneiro: 320\nFevereiro: 280\nMarço: 350\nAbril: 420\nMaio: 378\nJunho: 390\n\nO maior aumento percentual do número de processos recebidos em relação ao mês imediatamente anterior ocorreu",
+      "alternativas": {
+        "a": "de março para abril.",
+        "b": "de maio para junho.",
+        "c": "de janeiro para fevereiro.",
+        "d": "de fevereiro para março.",
+        "e": "de abril para maio."
+      },
+      "gabarito": "d",
+      "comentario": "Variações: jan→fev: −40/320 = −12,5%; fev→mar: 70/280 = 25%; mar→abr: 70/350 = 20%; abr→mai: −42/420 = −10%; mai→jun: 12/378 ≈ 3,2%. Maior aumento percentual: de fevereiro para março (25%). Note que os aumentos absolutos de fev→mar e mar→abr são iguais (70), mas a base de fevereiro é menor."
+    },
+    {
+      "id": "mat-108",
+      "assunto": "Raciocínio sequencial – sequência de figuras",
+      "origem": "fcc",
+      "enunciado": "Uma sequência de figuras é formada por palitos de fósforo, todos iguais. A 1ª figura é um quadrado formado por 4 palitos; a 2ª figura é formada por 2 quadrados lado a lado, com um palito comum entre eles, usando 7 palitos; a 3ª figura é formada por 3 quadrados enfileirados da mesma forma, usando 10 palitos, e assim sucessivamente. A figura dessa sequência que é construída com exatamente 151 palitos possui um número de quadrados igual a",
+      "alternativas": {
+        "a": "37.",
+        "b": "50.",
+        "c": "51.",
+        "d": "49.",
+        "e": "38."
+      },
+      "gabarito": "b",
+      "comentario": "Cada quadrado acrescentado usa 3 novos palitos; a figura com n quadrados usa 3n + 1 palitos. Então 3n + 1 = 151 ⇒ 3n = 150 ⇒ n = 50 quadrados."
+    },
+    {
+      "id": "mat-109",
+      "assunto": "Regra de três composta",
+      "origem": "fcc",
+      "enunciado": "Doze pintores, trabalhando 8 horas por dia, pintam 600 m² de paredes em 15 dias. Mantida a mesma produtividade, 9 pintores, trabalhando 10 horas por dia, pintarão 750 m² de paredes em",
+      "alternativas": {
+        "a": "15 dias.",
+        "b": "18 dias.",
+        "c": "25 dias.",
+        "d": "20 dias.",
+        "e": "12 dias."
+      },
+      "gabarito": "d",
+      "comentario": "Dias são inversamente proporcionais a pintores e a horas/dia, e diretamente proporcionais à área. d = 15 × (12/9) × (8/10) × (750/600) = 15 × 4/3 × 4/5 × 5/4 = 20 dias."
+    },
+    {
+      "id": "mat-110",
+      "assunto": "Frações – problemas de trabalho conjunto",
+      "origem": "fcc",
+      "enunciado": "Uma torneira enche um reservatório vazio em 5 horas e outra torneira enche o mesmo reservatório em 20 horas. Um ralo, sozinho, esvazia o reservatório cheio em 10 horas. Com o reservatório inicialmente vazio, as duas torneiras e o ralo abertos simultaneamente, o reservatório ficará cheio em",
+      "alternativas": {
+        "a": "4 horas.",
+        "b": "6 horas e 30 minutos.",
+        "c": "8 horas e 20 minutos.",
+        "d": "6 horas e 40 minutos.",
+        "e": "3 horas e 20 minutos."
+      },
+      "gabarito": "d",
+      "comentario": "Em 1 hora: 1/5 + 1/20 − 1/10 = (4 + 1 − 2)/20 = 3/20 do reservatório. Tempo: 20/3 h = 6 h + 2/3 h = 6 horas e 40 minutos."
+    },
+    {
+      "id": "mat-111",
+      "assunto": "Lógica – verdades e mentiras",
+      "origem": "fcc",
+      "enunciado": "Pedro mente às segundas, terças e quartas-feiras e diz a verdade nos demais dias da semana. Rita mente às quintas, sextas e sábados e diz a verdade nos demais dias. Em certo dia, ambos fizeram a mesma afirmação: “Ontem foi um dos meus dias de mentir.” Esse dia foi um(a)",
+      "alternativas": {
+        "a": "segunda-feira.",
+        "b": "domingo.",
+        "c": "quarta-feira.",
+        "d": "quinta-feira.",
+        "e": "sexta-feira."
+      },
+      "gabarito": "d",
+      "comentario": "Para Pedro, a afirmação é coerente na segunda (ele mente e, de fato, no domingo não mentiu) e na quinta (diz a verdade e, de fato, mentiu na quarta). Para Rita, é coerente na quinta (ela mente e, de fato, não mentiu na quarta) e no domingo (diz a verdade e mentiu no sábado). O único dia comum é quinta-feira."
+    },
+    {
+      "id": "mat-112",
+      "assunto": "Medidas de dispersão – propriedades",
+      "origem": "inedita",
+      "enunciado": "Em uma empresa, a média dos salários dos empregados era R$ 3.200,00, com desvio padrão de R$ 400,00. Todos os salários foram reajustados em 10% e, em seguida, cada empregado passou a receber também um abono fixo de R$ 150,00. Após essas alterações, a média e o desvio padrão dos novos salários são, respectivamente,",
+      "alternativas": {
+        "a": "R$ 3.670,00 e R$ 590,00.",
+        "b": "R$ 3.670,00 e R$ 440,00.",
+        "c": "R$ 3.535,00 e R$ 440,00.",
+        "d": "R$ 3.670,00 e R$ 400,00.",
+        "e": "R$ 3.520,00 e R$ 550,00."
+      },
+      "gabarito": "b",
+      "comentario": "Multiplicar todos os valores por 1,1 multiplica a média e o desvio padrão por 1,1; somar uma constante altera a média, mas não o desvio padrão. Média: 3.200 × 1,1 + 150 = 3.670. Desvio padrão: 400 × 1,1 = 440."
+    },
+    {
+      "id": "mat-113",
+      "assunto": "Regra de três simples (inversa)",
+      "origem": "inedita",
+      "enunciado": "Com uma vazão de 18 litros por minuto, uma bomba enche um tanque em 2 horas e 30 minutos. Se a vazão for aumentada para 25 litros por minuto, o mesmo tanque será enchido em",
+      "alternativas": {
+        "a": "3 horas e 28 minutos.",
+        "b": "1 hora e 8 minutos.",
+        "c": "1 hora e 48 minutos.",
+        "d": "1 hora e 58 minutos.",
+        "e": "2 horas e 8 minutos."
+      },
+      "gabarito": "c",
+      "comentario": "Vazão e tempo são inversamente proporcionais. 2h30min = 150 min. Volume = 18 × 150 = 2.700 L. Novo tempo: 2.700 ÷ 25 = 108 min = 1 hora e 48 minutos."
+    },
+    {
+      "id": "mat-114",
+      "assunto": "Leitura e interpretação de gráficos – setores",
+      "origem": "fcc",
+      "enunciado": "Um gráfico de setores representa a distribuição dos 720 servidores de um tribunal por área de atuação. Os ângulos centrais dos setores são: área Judiciária, 150°; área Administrativa, 90°; Tecnologia da Informação, 45°; e o setor restante corresponde à área de Apoio. A diferença entre o número de servidores da área Judiciária e o da área de Apoio é",
+      "alternativas": {
+        "a": "75.",
+        "b": "120.",
+        "c": "300.",
+        "d": "150.",
+        "e": "180."
+      },
+      "gabarito": "d",
+      "comentario": "Ângulo da área de Apoio: 360° − (150° + 90° + 45°) = 75°. Diferença de ângulos: 150° − 75° = 75°, que corresponde a 75/360 de 720 = 150 servidores."
+    },
+    {
+      "id": "mat-115",
+      "assunto": "Leitura e interpretação de gráficos – linhas",
+      "origem": "fcc",
+      "enunciado": "Um gráfico de linhas apresenta o tempo médio de tramitação, em dias, dos processos de uma unidade em sete meses consecutivos. Os valores indicados no gráfico são, mês a mês:\n42, 38, 45, 40, 38, 50, 41\nA mediana e a amplitude desses valores são, respectivamente,",
+      "alternativas": {
+        "a": "40 e 12.",
+        "b": "38 e 12.",
+        "c": "41 e 8.",
+        "d": "41 e 12.",
+        "e": "42 e 12."
+      },
+      "gabarito": "d",
+      "comentario": "Ordenando: 38, 38, 40, 41, 42, 45, 50. Com 7 valores, a mediana é o 4º: 41. Amplitude: 50 − 38 = 12. (40 seria o 4º valor da lista sem ordenar; 38 é a moda.)"
+    },
+    {
+      "id": "mat-116",
+      "assunto": "Orientação temporal – horas",
+      "origem": "fcc",
+      "enunciado": "Um relógio atrasa, de modo uniforme, 3 minutos a cada hora. Ele foi acertado às 8h de uma segunda-feira. No dia seguinte, terça-feira, quando o horário correto for 18h, esse relógio estará marcando",
+      "alternativas": {
+        "a": "17h30min.",
+        "b": "16h42min.",
+        "c": "17h18min.",
+        "d": "15h18min.",
+        "e": "16h18min."
+      },
+      "gabarito": "e",
+      "comentario": "De 8h de segunda a 18h de terça passam-se 24 + 10 = 34 horas. Atraso acumulado: 34 × 3 = 102 min = 1h42min. O relógio marcará 18h − 1h42min = 16h18min."
+    },
+    {
+      "id": "mat-117",
+      "assunto": "Frações – problemas",
+      "origem": "fcc",
+      "enunciado": "Um servidor gastou 1/4 de seu salário com aluguel, 2/5 do que restou com alimentação e 1/3 do novo restante com transporte, sobrando-lhe ainda R$ 1.260,00. O salário desse servidor é",
+      "alternativas": {
+        "a": "R$ 2.800,00.",
+        "b": "R$ 3.600,00.",
+        "c": "R$ 4.200,00.",
+        "d": "R$ 5.040,00.",
+        "e": "R$ 4.800,00."
+      },
+      "gabarito": "c",
+      "comentario": "Após o aluguel resta 3/4 do salário; após a alimentação, 3/5 de 3/4 = 9/20; após o transporte, 2/3 de 9/20 = 3/10 do salário. Assim, 3/10 · S = 1.260 ⇒ S = R$ 4.200,00."
+    },
+    {
+      "id": "mat-118",
+      "assunto": "Estrutura lógica de relações arbitrárias – mesa circular",
+      "origem": "fcc",
+      "enunciado": "Seis servidores — Rui, Sara, Tito, Uiara, Vera e Zeca — sentaram-se em torno de uma mesa circular com seis lugares igualmente espaçados, todos voltados para o centro da mesa. Sabe-se que:\n- Rui está sentado em frente a Vera;\n- Sara está sentada imediatamente à direita de Rui;\n- Zeca está sentado em frente a Sara;\n- Tito não está sentado ao lado de Sara.\nNessas condições, quem está sentado em frente a Tito é",
+      "alternativas": {
+        "a": "Sara.",
+        "b": "Zeca.",
+        "c": "Uiara.",
+        "d": "Rui.",
+        "e": "Vera."
+      },
+      "gabarito": "c",
+      "comentario": "Numerando os lugares de 1 a 6 no sentido em que 'à direita' avança uma posição: Rui em 1, Sara em 2 (à sua direita), Vera em 4 (em frente a Rui) e Zeca em 5 (em frente a Sara). Sobram os lugares 3 e 6 para Tito e Uiara; o lugar 3 é vizinho de Sara, logo Tito ocupa o 6 e Uiara o 3. Em frente ao lugar 6 está o lugar 3: Uiara."
+    },
+    {
+      "id": "mat-119",
+      "assunto": "Números racionais – expressões com frações",
+      "origem": "inedita",
+      "enunciado": "O valor da expressão (1/2 + 2/3) · 6/7 − 3/4 ÷ 9/8 é",
+      "alternativas": {
+        "a": "1/3.",
+        "b": "2/3.",
+        "c": "1/6.",
+        "d": "5/12.",
+        "e": "−1/3."
+      },
+      "gabarito": "a",
+      "comentario": "1/2 + 2/3 = 7/6; 7/6 · 6/7 = 1. 3/4 ÷ 9/8 = 3/4 · 8/9 = 24/36 = 2/3. Resultado: 1 − 2/3 = 1/3."
+    },
+    {
+      "id": "mat-120",
+      "assunto": "Medidas de dispersão – variância",
+      "origem": "fcc",
+      "enunciado": "A tabela abaixo mostra o número de diligências cumpridas por dia por um oficial de justiça em 10 dias de trabalho:\n\nDiligências por dia | Nº de dias\n2 | 2\n4 | 3\n6 | 3\n8 | 2\n\nConsiderando esses dados como uma população, a variância do número de diligências por dia é",
+      "alternativas": {
+        "a": "5,0.",
+        "b": "4,2.",
+        "c": "2,05.",
+        "d": "4,67.",
+        "e": "20,0."
+      },
+      "gabarito": "b",
+      "comentario": "Média: (2·2 + 4·3 + 6·3 + 8·2)/10 = 50/10 = 5. Desvios ao quadrado: (2−5)² = 9 (2 vezes), (4−5)² = 1 (3 vezes), (6−5)² = 1 (3 vezes), (8−5)² = 9 (2 vezes). Soma: 18 + 3 + 3 + 18 = 42. Variância: 42/10 = 4,2."
+    },
+    {
+      "id": "mat-121",
+      "assunto": "Raciocínio verbal – codificação",
+      "origem": "fcc",
+      "enunciado": "Em um código, cada letra de uma palavra é substituída pela letra que está duas posições à frente no alfabeto de 26 letras. Assim, a palavra VARA é codificada como XCTC. Nesse código, a palavra PRAZO é codificada como",
+      "alternativas": {
+        "a": "RTCAQ.",
+        "b": "RTCBQ.",
+        "c": "QSBAP.",
+        "d": "RTBBQ.",
+        "e": "STCBR."
+      },
+      "gabarito": "b",
+      "comentario": "Avançando cada letra duas posições: P→R, R→T, A→C, Z→B (Z, A, B: retorna-se ao início do alfabeto) e O→Q. Resultado: RTCBQ."
+    },
+    {
+      "id": "mat-122",
+      "assunto": "Múltiplos e divisores – MMC",
+      "origem": "fcc",
+      "enunciado": "Dois oficiais de justiça cumprem plantões periódicos: um deles a cada 8 dias e o outro a cada 14 dias. Ambos estiveram de plantão no dia 3 de março de 2027. A próxima data em que os dois estarão de plantão no mesmo dia será",
+      "alternativas": {
+        "a": "14 de abril de 2027.",
+        "b": "25 de abril de 2027.",
+        "c": "28 de abril de 2027.",
+        "d": "29 de abril de 2027.",
+        "e": "1º de maio de 2027."
+      },
+      "gabarito": "c",
+      "comentario": "MMC(8, 14) = 56. Contando 56 dias a partir de 3 de março: restam 28 dias em março (até o dia 31), faltando 28 dias, o que leva a 28 de abril de 2027."
+    },
+    {
+      "id": "mat-123",
+      "assunto": "Estrutura lógica – avaliação das condições",
+      "origem": "fcc",
+      "enunciado": "Cinco servidores — Gil, Hélio, Ivo, Joel e Kátia — têm alturas distintas. Sabe-se que:\n- Gil é mais alto que Hélio;\n- Ivo é mais baixo que Hélio;\n- Joel é mais alto que Gil;\n- Kátia é mais baixa que Joel.\nCom base nessas informações, é necessariamente verdadeiro que",
+      "alternativas": {
+        "a": "Kátia é a mais baixa dos cinco.",
+        "b": "Joel é o mais alto dos cinco.",
+        "c": "Ivo é o mais baixo dos cinco.",
+        "d": "Gil é mais alto que Kátia.",
+        "e": "Hélio é o terceiro mais alto dos cinco."
+      },
+      "gabarito": "b",
+      "comentario": "Das três primeiras informações: Joel > Gil > Hélio > Ivo. Kátia é mais baixa que Joel, mas sua posição em relação aos demais não é determinada (pode ser a 2ª, 3ª, 4ª ou 5ª mais alta). Em qualquer caso, Joel é mais alto que todos: é o mais alto dos cinco. As demais alternativas dependem da posição de Kátia."
+    },
+    {
+      "id": "mat-124",
+      "assunto": "Formação de conceitos – discriminação de elementos",
+      "origem": "inedita",
+      "enunciado": "Dos números 13, 29, 41, 53 e 57, quatro têm uma característica em comum que o quinto não possui. O número que não possui essa característica é",
+      "alternativas": {
+        "a": "13.",
+        "b": "29.",
+        "c": "57.",
+        "d": "41.",
+        "e": "53."
+      },
+      "gabarito": "c",
+      "comentario": "13, 29, 41 e 53 são números primos. Já 57 = 3 × 19 é composto, logo é o único que não possui a característica."
+    },
+    {
+      "id": "mat-125",
+      "assunto": "Medidas de dispersão – desvio padrão",
+      "origem": "fcc",
+      "enunciado": "Em cinco semanas, um servidor realizou as seguintes quantidades de horas extras: 2, 6, 8, 10 e 14. Considerando esses dados como uma população, o desvio padrão do número de horas extras semanais é",
+      "alternativas": {
+        "a": "16.",
+        "b": "3,2.",
+        "c": "4.",
+        "d": "8.",
+        "e": "2."
+      },
+      "gabarito": "c",
+      "comentario": "Média: 40/5 = 8. Desvios ao quadrado: 36, 4, 0, 4, 36; soma = 80. Variância: 80/5 = 16. Desvio padrão: √16 = 4. (3,2 é o desvio médio: 16/5.)"
+    },
+    {
+      "id": "mat-126",
+      "assunto": "Estrutura lógica de relações arbitrárias – ordenação",
+      "origem": "fcc",
+      "enunciado": "Seis advogados — Fábio, Gisele, Hugo, Íris, Júlio e Laura — foram atendidos, um de cada vez, no balcão de uma secretaria de vara. Sabe-se que:\n- Hugo foi atendido imediatamente antes de Íris;\n- Gisele foi atendida imediatamente depois de Íris;\n- Laura foi atendida depois de Gisele, mas antes de Fábio;\n- Júlio foi o primeiro ou o último a ser atendido;\n- Fábio não foi o último a ser atendido.\nO quarto advogado a ser atendido foi",
+      "alternativas": {
+        "a": "Laura.",
+        "b": "Gisele.",
+        "c": "Fábio.",
+        "d": "Íris.",
+        "e": "Hugo."
+      },
+      "gabarito": "a",
+      "comentario": "Hugo, Íris e Gisele formam um bloco consecutivo (H–I–G), seguido, não necessariamente de imediato, por Laura e depois Fábio. Se Júlio fosse o primeiro, a ordem seria J, H, I, G, L, F, com Fábio em último — proibido. Logo Júlio é o último e a ordem é H, I, G, L, F, J. O 4º atendido foi Laura."
+    },
+    {
+      "id": "mat-127",
+      "assunto": "Razões e proporções – consumo",
+      "origem": "fcc",
+      "enunciado": "Um veículo oficial percorre, em média, 12,5 km com 1 litro de combustível. Ele fará uma viagem de ida e volta entre duas cidades distantes 450 km uma da outra. Se o litro do combustível custa R$ 6,20, o gasto com combustível nessa viagem será de",
+      "alternativas": {
+        "a": "R$ 223,20.",
+        "b": "R$ 348,75.",
+        "c": "R$ 697,50.",
+        "d": "R$ 434,00.",
+        "e": "R$ 446,40."
+      },
+      "gabarito": "e",
+      "comentario": "Distância total: 2 × 450 = 900 km. Combustível: 900 ÷ 12,5 = 72 litros. Gasto: 72 × 6,20 = R$ 446,40."
+    },
+    {
+      "id": "mat-128",
+      "assunto": "Medidas de dispersão – amplitude e desvio médio",
+      "origem": "fcc",
+      "enunciado": "O número de petições protocoladas por um escritório em seis dias foi: 1, 5, 6, 10, 14 e 18. A amplitude total e o desvio médio desses dados são, respectivamente,",
+      "alternativas": {
+        "a": "17 e 9.",
+        "b": "18 e 5.",
+        "c": "17 e 6.",
+        "d": "13 e 5.",
+        "e": "17 e 5."
+      },
+      "gabarito": "e",
+      "comentario": "Amplitude: 18 − 1 = 17. Média: 54/6 = 9. Desvios absolutos: 8, 4, 3, 1, 5, 9; soma = 30. Desvio médio: 30/6 = 5."
+    },
+    {
+      "id": "mat-129",
+      "assunto": "Razões e proporções",
+      "origem": "inedita",
+      "enunciado": "Três números positivos x, y e z são tais que x/3 = y/5 = z/8 e x + y + z = 128. A diferença z − x é igual a",
+      "alternativas": {
+        "a": "40.",
+        "b": "24.",
+        "c": "64.",
+        "d": "16.",
+        "e": "5."
+      },
+      "gabarito": "a",
+      "comentario": "Pela propriedade das proporções, x/3 = y/5 = z/8 = (x + y + z)/(3 + 5 + 8) = 128/16 = 8. Logo x = 24, y = 40 e z = 64, e z − x = 64 − 24 = 40."
+    },
+    {
+      "id": "mat-130",
+      "assunto": "Orientação temporal – calendário",
+      "origem": "inedita",
+      "enunciado": "Em determinado mês de 31 dias, houve exatamente cinco sextas-feiras, cinco sábados e cinco domingos. Nesse mês, o dia 20 caiu em uma",
+      "alternativas": {
+        "a": "quinta-feira.",
+        "b": "terça-feira.",
+        "c": "sexta-feira.",
+        "d": "segunda-feira.",
+        "e": "quarta-feira."
+      },
+      "gabarito": "e",
+      "comentario": "Um mês de 31 dias tem 4 semanas completas (28 dias) e mais 3 dias; os dias da semana que aparecem 5 vezes são os dos dias 1, 2 e 3. Logo, dia 1 = sexta, dia 2 = sábado, dia 3 = domingo. O dia 20 está 19 dias após o dia 1; 19 = 2 × 7 + 5, e sexta + 5 dias = quarta-feira."
+    },
+    {
+      "id": "mat-131",
+      "assunto": "Lógica – verdades e mentiras",
+      "origem": "fcc",
+      "enunciado": "Ari, Bia e Ciro são tais que cada um deles ou sempre diz a verdade ou sempre mente. Em uma conversa, eles declararam:\n- Ari: “Bia e Ciro são mentirosos.”\n- Bia: “Ari é mentiroso.”\n- Ciro: “Ari diz a verdade.”\nÉ correto concluir que",
+      "alternativas": {
+        "a": "apenas Ari diz a verdade.",
+        "b": "Bia e Ciro dizem a verdade.",
+        "c": "os três mentem.",
+        "d": "apenas Bia diz a verdade.",
+        "e": "apenas Ciro diz a verdade."
+      },
+      "gabarito": "d",
+      "comentario": "Se Ari dissesse a verdade, Ciro seria mentiroso; mas Ciro afirma que Ari diz a verdade, o que seria verdadeiro — contradição. Logo Ari mente. Então a fala de Bia (“Ari é mentiroso”) é verdadeira: Bia diz a verdade. A fala de Ciro é falsa: Ciro mente. Conferindo: Ari diz que Bia e Ciro mentem, o que é falso (Bia é veraz), coerente com Ari ser mentiroso."
+    },
+    {
+      "id": "mat-132",
+      "assunto": "Porcentagem – acréscimos",
+      "origem": "fcc",
+      "enunciado": "Um equipamento de R$ 2.500,00 pode ser pago com entrada de 30% do preço e o restante em 5 parcelas mensais iguais, sendo que o saldo a parcelar sofre um acréscimo de 8%. O valor de cada parcela será",
+      "alternativas": {
+        "a": "R$ 350,00.",
+        "b": "R$ 378,00.",
+        "c": "R$ 540,00.",
+        "d": "R$ 390,00.",
+        "e": "R$ 370,00."
+      },
+      "gabarito": "b",
+      "comentario": "Entrada: 30% de 2.500 = R$ 750,00. Saldo: R$ 1.750,00. Com acréscimo de 8%: 1.750 × 1,08 = R$ 1.890,00. Parcela: 1.890 ÷ 5 = R$ 378,00."
+    },
+    {
+      "id": "mat-133",
+      "assunto": "Raciocínio sequencial – sequência de letras",
+      "origem": "fcc",
+      "enunciado": "Considerando o alfabeto oficial de 26 letras, observe a sequência de pares de letras:\nZA, YC, XE, WG, ...\nMantido o padrão, o próximo par da sequência é",
+      "alternativas": {
+        "a": "VH.",
+        "b": "UI.",
+        "c": "VJ.",
+        "d": "VI.",
+        "e": "UH."
+      },
+      "gabarito": "d",
+      "comentario": "A primeira letra de cada par recua uma posição no alfabeto (Z, Y, X, W, V) e a segunda avança duas posições (A, C, E, G, I). O próximo par é VI."
+    },
+    {
+      "id": "mat-134",
+      "assunto": "Razões e proporções – escala",
+      "origem": "fcc",
+      "enunciado": "Em um mapa na escala 1:500.000, a distância em linha reta entre duas cidades é de 12,6 cm. Um veículo que percorresse essa distância à velocidade média constante de 84 km/h gastaria",
+      "alternativas": {
+        "a": "1 hora e 15 minutos.",
+        "b": "40 minutos.",
+        "c": "45 minutos.",
+        "d": "6 minutos.",
+        "e": "54 minutos."
+      },
+      "gabarito": "c",
+      "comentario": "Distância real: 12,6 cm × 500.000 = 6.300.000 cm = 63 km. Tempo: 63/84 h = 0,75 h = 45 minutos."
+    },
+    {
+      "id": "mat-135",
+      "assunto": "Raciocínio sequencial – padrão cíclico",
+      "origem": "inedita",
+      "enunciado": "A palavra TRIBUNAL foi escrita repetidamente, sem espaços, formando a sequência de letras\nTRIBUNALTRIBUNALTRIBUNAL...\nA letra que ocupa a 2.027ª posição dessa sequência é",
+      "alternativas": {
+        "a": "R.",
+        "b": "B.",
+        "c": "L.",
+        "d": "I.",
+        "e": "T."
+      },
+      "gabarito": "d",
+      "comentario": "A palavra tem 8 letras, que se repetem em ciclos. 2.027 = 8 × 253 + 3, ou seja, após 253 ciclos completos, a 2.027ª letra é a 3ª letra da palavra: I."
+    },
+    {
+      "id": "mat-136",
+      "assunto": "Porcentagem – misturas",
+      "origem": "fcc",
+      "enunciado": "Foram misturados 40 litros de uma solução com 15% de álcool e 60 litros de outra solução com 30% de álcool. A porcentagem de álcool na mistura obtida é",
+      "alternativas": {
+        "a": "22,5%.",
+        "b": "45%.",
+        "c": "21%.",
+        "d": "24%.",
+        "e": "25%."
+      },
+      "gabarito": "d",
+      "comentario": "Álcool: 15% de 40 = 6 L; 30% de 60 = 18 L; total 24 L em 100 L de mistura: 24%. (22,5% seria a média simples das concentrações.)"
+    },
+    {
+      "id": "mat-137",
+      "assunto": "Média aritmética simples",
+      "origem": "fcc",
+      "enunciado": "A média aritmética das idades dos 12 integrantes de uma comissão é 30 anos. Com a entrada de dois novos integrantes, a média das idades dos 14 integrantes passou a ser 31 anos. Se um dos novos integrantes tem 40 anos, a idade do outro é",
+      "alternativas": {
+        "a": "22 anos.",
+        "b": "31 anos.",
+        "c": "32 anos.",
+        "d": "34 anos.",
+        "e": "36 anos."
+      },
+      "gabarito": "d",
+      "comentario": "Soma inicial: 12 × 30 = 360. Soma final: 14 × 31 = 434. Soma das idades dos novos integrantes: 434 − 360 = 74. O outro tem 74 − 40 = 34 anos."
+    },
+    {
+      "id": "mat-138",
+      "assunto": "Porcentagem – lucro",
+      "origem": "fcc",
+      "enunciado": "Um comerciante vendeu uma mercadoria por R$ 540,00, obtendo um lucro de 20% sobre o preço de venda. O lucro obtido, em relação ao preço de custo, corresponde a",
+      "alternativas": {
+        "a": "20%.",
+        "b": "16%.",
+        "c": "22,5%.",
+        "d": "30%.",
+        "e": "25%."
+      },
+      "gabarito": "e",
+      "comentario": "Lucro = 20% de 540 = R$ 108,00; custo = 540 − 108 = R$ 432,00. Em relação ao custo: 108/432 = 0,25 = 25%."
+    },
+    {
+      "id": "mat-139",
+      "assunto": "Porcentagem",
+      "origem": "fcc",
+      "enunciado": "Em uma unidade judiciária, 40% dos servidores são homens. Sabe-se que 25% dos homens e 30% das mulheres dessa unidade usam óculos. Em relação ao total de servidores da unidade, os que usam óculos representam",
+      "alternativas": {
+        "a": "28%.",
+        "b": "27,5%.",
+        "c": "55%.",
+        "d": "30%.",
+        "e": "26%."
+      },
+      "gabarito": "a",
+      "comentario": "Homens com óculos: 25% de 40% = 10%. Mulheres com óculos: 30% de 60% = 18%. Total: 10% + 18% = 28%. (27,5% seria a média simples de 25% e 30%, que ignora as proporções.)"
+    },
+    {
+      "id": "mat-140",
+      "assunto": "Média aritmética ponderada",
+      "origem": "fcc",
+      "enunciado": "A tabela a seguir apresenta a distribuição das notas obtidas pelos 40 participantes de um curso de capacitação:\n\nNota | Nº de participantes\n4 | 3\n5 | 5\n6 | 8\n7 | 10\n8 | 9\n9 | 5\n\nA média aritmética das notas desses participantes é",
+      "alternativas": {
+        "a": "6,8.",
+        "b": "6,5.",
+        "c": "7,0.",
+        "d": "6,6.",
+        "e": "7,2."
+      },
+      "gabarito": "a",
+      "comentario": "Soma das notas: 4·3 + 5·5 + 6·8 + 7·10 + 8·9 + 9·5 = 12 + 25 + 48 + 70 + 72 + 45 = 272. Média: 272 ÷ 40 = 6,8. (6,5 seria a média simples dos valores 4 a 9, sem considerar as frequências.)"
+    },
+    {
+      "id": "mat-141",
+      "assunto": "Lógica de argumentação – validade",
+      "origem": "fcc",
+      "enunciado": "Considere verdadeiras as seguintes premissas:\nP1: Se Ana é promovida, então Bia é transferida.\nP2: Bia não é transferida ou Caio entra de férias.\nP3: Caio não entrou de férias.\nA partir dessas premissas, conclui-se corretamente que",
+      "alternativas": {
+        "a": "Ana foi promovida.",
+        "b": "Ana não foi promovida e Bia não foi transferida.",
+        "c": "Bia foi transferida.",
+        "d": "Ana não foi promovida e Bia foi transferida.",
+        "e": "Caio entrou de férias ou Bia foi transferida."
+      },
+      "gabarito": "b",
+      "comentario": "De P3, Caio não entrou de férias; em P2 (disjunção verdadeira), como “Caio entra de férias” é falso, “Bia não é transferida” é verdadeira. Em P1, o consequente (Bia é transferida) é falso, logo o antecedente também é falso: Ana não foi promovida (modus tollens). Conclusão: Ana não foi promovida e Bia não foi transferida."
+    },
+    {
+      "id": "mat-142",
+      "assunto": "Leitura e interpretação de tabelas",
+      "origem": "inedita",
+      "enunciado": "A tabela a seguir apresenta a distribuição dos 200 servidores de um tribunal por cargo e maior titulação acadêmica:\n\nCargo | Graduação | Especialização | Mestrado\nAnalista | 30 | 45 | 15\nTécnico | 70 | 30 | 10\n\nDentre os servidores com pós-graduação (especialização ou mestrado), a porcentagem dos que ocupam o cargo de analista é",
+      "alternativas": {
+        "a": "30%.",
+        "b": "66,7%.",
+        "c": "60%.",
+        "d": "40%.",
+        "e": "45%."
+      },
+      "gabarito": "c",
+      "comentario": "Servidores com pós-graduação: analistas 45 + 15 = 60; técnicos 30 + 10 = 40; total 100. Porcentagem de analistas: 60/100 = 60%. (30% seria 60/200, em relação ao total; 66,7% seria 60/90, em relação aos analistas.)"
+    },
+    {
+      "id": "mat-143",
+      "assunto": "Múltiplos e divisores",
+      "origem": "fcc",
+      "enunciado": "A quantidade de números naturais entre 100 e 500 que são múltiplos de 6, mas não são múltiplos de 9, é",
+      "alternativas": {
+        "a": "67.",
+        "b": "22.",
+        "c": "45.",
+        "d": "44.",
+        "e": "56."
+      },
+      "gabarito": "c",
+      "comentario": "Múltiplos de 6 entre 100 e 500: de 102 = 6 × 17 a 498 = 6 × 83, total 83 − 17 + 1 = 67. Um múltiplo de 6 que também é múltiplo de 9 é múltiplo de MMC(6, 9) = 18: de 108 = 18 × 6 a 486 = 18 × 27, total 27 − 6 + 1 = 22. Resposta: 67 − 22 = 45."
+    },
+    {
+      "id": "mat-144",
+      "assunto": "Lógica de argumentação – quantificadores",
+      "origem": "inedita",
+      "enunciado": "Considere verdadeiras as afirmações:\n- Todo conciliador é paciente.\n- Nenhum paciente é impulsivo.\n- Algum servidor é impulsivo.\nA partir dessas afirmações, é necessariamente verdadeiro que",
+      "alternativas": {
+        "a": "algum servidor não é conciliador.",
+        "b": "nenhum servidor é paciente.",
+        "c": "algum conciliador é servidor.",
+        "d": "todo impulsivo é servidor.",
+        "e": "algum paciente é servidor."
+      },
+      "gabarito": "a",
+      "comentario": "Existe um servidor impulsivo. Como nenhum paciente é impulsivo, esse servidor não é paciente; como todo conciliador é paciente, ele também não é conciliador. Logo, algum servidor não é conciliador. As demais afirmações podem ser falsas em situações compatíveis com as premissas (por exemplo, pode não haver servidor paciente, ou pode haver)."
+    },
+    {
+      "id": "mat-145",
+      "assunto": "Porcentagem – variação real",
+      "origem": "fcc",
+      "enunciado": "Em um período, os preços de uma cesta de produtos subiram 10%, enquanto o salário de um trabalhador foi reajustado em 4,5%. Em relação a essa cesta, o poder de compra desse salário",
+      "alternativas": {
+        "a": "diminuiu 5,5%.",
+        "b": "diminuiu 4,5%.",
+        "c": "aumentou 5,5%.",
+        "d": "diminuiu 10%.",
+        "e": "diminuiu 5%."
+      },
+      "gabarito": "e",
+      "comentario": "Poder de compra = salário/preço. Novo poder de compra: 1,045/1,10 = 0,95 do anterior, ou seja, diminuiu 5%. (5,5% seria a simples diferença 10% − 4,5%, que não é correta.)"
+    },
+    {
+      "id": "mat-146",
+      "assunto": "Raciocínio sequencial – sequência numérica",
+      "origem": "fcc",
+      "enunciado": "Observe a sequência: 3, 4, 8, 17, 33, ... Mantida a lei de formação, o sexto termo dessa sequência é",
+      "alternativas": {
+        "a": "49.",
+        "b": "58.",
+        "c": "66.",
+        "d": "57.",
+        "e": "50."
+      },
+      "gabarito": "b",
+      "comentario": "As diferenças entre termos consecutivos são 1, 4, 9, 16, ... (quadrados perfeitos). A próxima diferença é 25: 33 + 25 = 58."
+    },
+    {
+      "id": "mat-147",
+      "assunto": "Orientação temporal – dias da semana",
+      "origem": "fcc",
+      "enunciado": "Se o anteontem do dia de amanhã foi um sábado, então o depois de amanhã do dia de ontem será um(a)",
+      "alternativas": {
+        "a": "domingo.",
+        "b": "terça-feira.",
+        "c": "sábado.",
+        "d": "segunda-feira.",
+        "e": "sexta-feira."
+      },
+      "gabarito": "d",
+      "comentario": "Anteontem do amanhã = (hoje + 1) − 2 = hoje − 1 = ontem. Se ontem foi sábado, hoje é domingo. Depois de amanhã do ontem = (hoje − 1) + 2 = hoje + 1 = segunda-feira."
+    },
+    {
+      "id": "mat-148",
+      "assunto": "Divisão em partes proporcionais – composta",
+      "origem": "fcc",
+      "enunciado": "Três sócios, A, B e C, montaram uma empresa. A investiu R$ 20.000,00 durante 8 meses; B investiu R$ 30.000,00 durante 6 meses; e C investiu R$ 25.000,00 durante 12 meses. O lucro de R$ 32.000,00 foi dividido em partes diretamente proporcionais aos capitais investidos e aos respectivos tempos de aplicação. O sócio B recebeu",
+      "alternativas": {
+        "a": "R$ 12.800,00.",
+        "b": "R$ 8.000,00.",
+        "c": "R$ 11.000,00.",
+        "d": "R$ 15.000,00.",
+        "e": "R$ 9.000,00."
+      },
+      "gabarito": "e",
+      "comentario": "Produtos capital × tempo: A: 160.000; B: 180.000; C: 300.000; soma 640.000. Constante: 32.000/640.000 = 0,05. Parte de B: 180.000 × 0,05 = R$ 9.000,00 (A recebe R$ 8.000,00 e C, R$ 15.000,00)."
+    },
+    {
+      "id": "mat-149",
+      "assunto": "Orientação espacial – posições relativas",
+      "origem": "fcc",
+      "enunciado": "Ana, Beto, Caio, Dani e Edu trabalham em andares distintos de um prédio de cinco andares (1º ao 5º), um em cada andar. Sabe-se que:\n- Caio trabalha em um andar acima do de Ana e abaixo do de Edu;\n- Beto trabalha no andar imediatamente acima do de Dani;\n- Ana não trabalha no 1º andar.\nQuem trabalha no 3º andar é",
+      "alternativas": {
+        "a": "Caio.",
+        "b": "Beto.",
+        "c": "Dani.",
+        "d": "Edu.",
+        "e": "Ana."
+      },
+      "gabarito": "e",
+      "comentario": "Dani e Beto ocupam andares consecutivos (Beto logo acima). Ana, Caio e Edu ocupam os demais andares nessa ordem crescente. Possibilidades para (Dani, Beto): (1,2), (2,3), (3,4) ou (4,5); nas três últimas, Ana ficaria no 1º andar, o que é proibido. Logo Dani–1º, Beto–2º, Ana–3º, Caio–4º e Edu–5º."
+    },
+    {
+      "id": "mat-150",
+      "assunto": "Porcentagem – descontos sucessivos",
+      "origem": "fcc",
+      "enunciado": "A loja A oferece a promoção “leve 4 unidades e pague 3” para um produto. A loja B, que vende o mesmo produto pelo mesmo preço unitário, concede dois descontos sucessivos, de 20% e de 5%, sobre o valor da compra. Para quem compra 4 unidades, é correto afirmar que",
+      "alternativas": {
+        "a": "os descontos efetivos das duas lojas são iguais a 25%.",
+        "b": "o desconto efetivo da loja A supera o da loja B em 1 ponto percentual.",
+        "c": "o desconto efetivo da loja B supera o da loja A em 1 ponto percentual.",
+        "d": "o desconto efetivo da loja A é de 33,3%.",
+        "e": "o desconto efetivo da loja B é de 25%, e o da loja A, de 24%."
+      },
+      "gabarito": "b",
+      "comentario": "Loja A: paga 3 de 4 unidades, desconto de 1/4 = 25%. Loja B: fator 0,80 × 0,95 = 0,76, desconto de 24%. A supera B em 25 − 24 = 1 ponto percentual."
     }
   ]
 }

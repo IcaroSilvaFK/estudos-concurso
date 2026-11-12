@@ -1051,6 +1051,831 @@
       },
       "gabarito": "e",
       "comentario": "O art. 10, § 2º, do PIDESC determina proteção especial às mães por período razoável antes e depois do parto, com licença remunerada ou acompanhada de benefícios previdenciários adequados para as mães trabalhadoras."
+    },
+    {
+      "id": "dh-071",
+      "assunto": "Declaração Universal dos Direitos Humanos",
+      "origem": "fcc",
+      "enunciado": "Nos termos do art. 1º da Declaração Universal dos Direitos Humanos, todos os seres humanos nascem livres e iguais em dignidade e direitos e, sendo dotados de razão e consciência, devem agir em relação uns aos outros com espírito de",
+      "alternativas": {
+        "a": "tolerância.",
+        "b": "justiça.",
+        "c": "igualdade material.",
+        "d": "cooperação internacional.",
+        "e": "fraternidade."
+      },
+      "gabarito": "e",
+      "comentario": "Art. 1º da DUDH: “Todos os seres humanos nascem livres e iguais em dignidade e direitos. São dotados de razão e consciência e devem agir em relação uns aos outros com espírito de fraternidade.” O dispositivo sintetiza o lema da Revolução Francesa (liberdade, igualdade e fraternidade)."
+    },
+    {
+      "id": "dh-072",
+      "assunto": "Declaração Universal dos Direitos Humanos",
+      "origem": "fcc",
+      "enunciado": "De acordo com o art. 2º da Declaração Universal dos Direitos Humanos,",
+      "alternativas": {
+        "a": "não será feita nenhuma distinção fundada na condição política, jurídica ou internacional do país ou território a que pertença uma pessoa, quer se trate de território independente, sob tutela, sem governo próprio, quer sujeito a qualquer outra limitação de soberania.",
+        "b": "os habitantes de territórios sob tutela gozam dos direitos da Declaração na medida fixada pela potência administradora.",
+        "c": "a capacidade para gozar os direitos e liberdades estabelecidos na Declaração é reconhecida apenas aos nacionais dos Estados-membros das Nações Unidas.",
+        "d": "a vedação de distinção abrange raça, cor e sexo, mas não alcança a opinião política ou a origem social.",
+        "e": "admite-se distinção no gozo dos direitos fundada na riqueza ou no nascimento, desde que prevista em lei do Estado."
+      },
+      "gabarito": "a",
+      "comentario": "Art. 2º, 1, da DUDH: todo ser humano tem capacidade para gozar os direitos e as liberdades da Declaração “sem distinção de qualquer espécie, seja de raça, cor, sexo, língua, religião, opinião política ou de outra natureza, origem nacional ou social, riqueza, nascimento, ou qualquer outra condição”. Art. 2º, 2: “Não será também feita nenhuma distinção fundada na condição política, jurídica ou internacional do país ou território a que pertença uma pessoa, quer se trate de um território independente, sob tutela, sem governo próprio, quer sujeito a qualquer outra limitação de soberania.”"
+    },
+    {
+      "id": "dh-073",
+      "assunto": "Declaração Universal dos Direitos Humanos",
+      "origem": "inedita",
+      "enunciado": "Um trabalhador teve violado direito fundamental que lhe é reconhecido pela Constituição de seu país, mas a legislação interna não lhe oferece nenhum meio de impugnar o ato perante o Judiciário. À luz do art. 8º da Declaração Universal dos Direitos Humanos, é correto afirmar que",
+      "alternativas": {
+        "a": "todo ser humano tem direito a receber dos tribunais nacionais competentes remédio efetivo para os atos que violem os direitos fundamentais que lhe sejam reconhecidos pela constituição ou pela lei.",
+        "b": "o remédio efetivo deve ser prestado exclusivamente por órgãos internacionais, após o esgotamento dos recursos internos.",
+        "c": "a Declaração assegura ao indivíduo o direito de peticionar diretamente à Corte Internacional de Justiça contra o Estado violador.",
+        "d": "a Declaração assegura remédio efetivo apenas contra atos praticados por particulares, uma vez que os atos estatais estão sujeitos ao controle político.",
+        "e": "o direito a remédio efetivo restringe-se às violações dos direitos enunciados na própria Declaração, não alcançando os direitos reconhecidos pela legislação interna."
+      },
+      "gabarito": "a",
+      "comentario": "Art. 8º da DUDH: “Todo ser humano tem direito a receber dos tribunais nacionais competentes remédio efetivo para os atos que violem os direitos fundamentais que lhe sejam reconhecidos pela constituição ou pela lei.” O dispositivo refere-se aos tribunais nacionais e aos direitos reconhecidos pelo direito interno; a CIJ, ademais, só julga litígios entre Estados."
+    },
+    {
+      "id": "dh-074",
+      "assunto": "Declaração Universal dos Direitos Humanos",
+      "origem": "fcc",
+      "enunciado": "Conforme os arts. 9º e 10 da Declaração Universal dos Direitos Humanos,",
+      "alternativas": {
+        "a": "todo ser humano acusado de crime tem direito a ser julgado por júri popular, composto por seus pares.",
+        "b": "a audiência perante o tribunal será sempre sigilosa quando se tratar de acusação criminal, para preservar a imagem do acusado.",
+        "c": "ninguém será exilado, salvo por decisão de tribunal independente em tempo de guerra declarada.",
+        "d": "ninguém será arbitrariamente preso, detido ou exilado, e todo ser humano tem direito, em plena igualdade, a uma justa e pública audiência por parte de um tribunal independente e imparcial.",
+        "e": "ninguém será preso senão em flagrante delito ou por ordem escrita e fundamentada de autoridade judiciária, sendo vedado o exílio em qualquer hipótese."
+      },
+      "gabarito": "d",
+      "comentario": "Art. 9º da DUDH: “Ninguém será arbitrariamente preso, detido ou exilado.” Art. 10: “Todo ser humano tem direito, em plena igualdade, a uma justa e pública audiência por parte de um tribunal independente e imparcial, para decidir seus direitos e deveres ou fundamento de qualquer acusação criminal contra ele.” A exigência de flagrante ou ordem escrita de autoridade judiciária é previsão da CF/1988 (art. 5º, LXI), não da Declaração."
+    },
+    {
+      "id": "dh-075",
+      "assunto": "Declaração Universal dos Direitos Humanos",
+      "origem": "fcc",
+      "enunciado": "Segundo o art. 11, § 2º, da Declaração Universal dos Direitos Humanos,",
+      "alternativas": {
+        "a": "ninguém poderá ser culpado por qualquer ação ou omissão que, no momento, não constituía delito perante o direito nacional ou internacional, nem será imposta pena mais forte do que aquela que, no momento da prática, era aplicável ao ato delituoso.",
+        "b": "o julgamento criminal será realizado em sessão secreta, a fim de assegurar ao acusado todas as garantias necessárias à sua defesa.",
+        "c": "ninguém poderá ser culpado por ação ou omissão que, no momento, não constituía delito perante o direito nacional, sendo vedada a invocação do direito internacional para a definição de delitos.",
+        "d": "a presunção de inocência cessa com o recebimento formal da acusação criminal pelo tribunal competente.",
+        "e": "admite-se a imposição de pena mais grave do que a vigente no momento da prática do ato, desde que a lei posterior assim disponha expressamente."
+      },
+      "gabarito": "a",
+      "comentario": "Art. 11, § 2º, da DUDH: “Ninguém poderá ser culpado por qualquer ação ou omissão que, no momento, não constituíam delito perante o direito nacional ou internacional. Também não será imposta pena mais forte de que aquela que, no momento da prática, era aplicável ao ato delituoso.” O § 1º assegura a presunção de inocência até que a culpabilidade seja provada de acordo com a lei, em julgamento público."
+    },
+    {
+      "id": "dh-076",
+      "assunto": "Declaração Universal dos Direitos Humanos",
+      "origem": "fcc",
+      "enunciado": "Nos termos do art. 12 da Declaração Universal dos Direitos Humanos,",
+      "alternativas": {
+        "a": "a proteção à vida privada é assegurada ao indivíduo, mas não se estende à sua família.",
+        "b": "a proteção contra ataques à honra e à reputação é assegurada apenas contra atos estatais, não alcançando ofensas praticadas por particulares.",
+        "c": "ninguém será sujeito à interferência na sua vida privada, na sua família, no seu lar ou na sua correspondência, nem a ataque à sua honra e reputação, e todo ser humano tem direito à proteção da lei contra tais interferências ou ataques.",
+        "d": "a proteção alcança a vida privada e o lar, mas não a correspondência, cuja inviolabilidade foi deixada à disciplina exclusiva do direito interno.",
+        "e": "interferências na vida privada e no lar são admitidas sempre que autorizadas por autoridade administrativa competente."
+      },
+      "gabarito": "c",
+      "comentario": "Art. 12 da DUDH: “Ninguém será sujeito à interferência na sua vida privada, na sua família, no seu lar ou na sua correspondência, nem a ataque à sua honra e reputação. Todo ser humano tem direito à proteção da lei contra tais interferências ou ataques.”"
+    },
+    {
+      "id": "dh-077",
+      "assunto": "Declaração Universal dos Direitos Humanos",
+      "origem": "fcc",
+      "enunciado": "Quanto ao direito de propriedade, a Declaração Universal dos Direitos Humanos, em seu art. 17, estabelece que",
+      "alternativas": {
+        "a": "o direito de propriedade é assegurado somente em sua dimensão individual, vedada a titularidade em sociedade com outros.",
+        "b": "a propriedade é assegurada desde que atendida sua função social, expressamente referida no dispositivo.",
+        "c": "o direito de propriedade não foi contemplado, por se tratar de direito de natureza econômica, previsto apenas no PIDESC.",
+        "d": "o direito de propriedade é absoluto, sendo vedada qualquer forma de privação, ainda que não arbitrária.",
+        "e": "todo ser humano tem direito à propriedade, só ou em sociedade com outros, e ninguém será arbitrariamente privado de sua propriedade."
+      },
+      "gabarito": "e",
+      "comentario": "Art. 17 da DUDH: “1. Todo ser humano tem direito à propriedade, só ou em sociedade com outros. 2. Ninguém será arbitrariamente privado de sua propriedade.” Apenas a privação arbitrária é vedada. A função social da propriedade não consta do texto da Declaração (é previsão, por exemplo, da CF/1988, art. 5º, XXIII)."
+    },
+    {
+      "id": "dh-078",
+      "assunto": "Declaração Universal dos Direitos Humanos",
+      "origem": "fcc",
+      "enunciado": "De acordo com o art. 18 da Declaração Universal dos Direitos Humanos, o direito à liberdade de pensamento, consciência e religião",
+      "alternativas": {
+        "a": "não abrange a liberdade de mudar de religião, a fim de preservar as tradições culturais de cada povo.",
+        "b": "inclui a liberdade de mudar de religião ou crença e a liberdade de manifestar essa religião ou crença pelo ensino, pela prática, pelo culto em público ou em particular.",
+        "c": "admite a manifestação da religião ou crença apenas em particular, vedado o culto público.",
+        "d": "compreende as religiões oficialmente reconhecidas pelo Estado, a quem cabe definir as crenças admitidas.",
+        "e": "abrange a liberdade de crença, mas não a de manifestá-la pelo ensino."
+      },
+      "gabarito": "b",
+      "comentario": "Art. 18 da DUDH: “Todo ser humano tem direito à liberdade de pensamento, consciência e religião; esse direito inclui a liberdade de mudar de religião ou crença e a liberdade de manifestar essa religião ou crença pelo ensino, pela prática, pelo culto em público ou em particular.”"
+    },
+    {
+      "id": "dh-079",
+      "assunto": "Declaração Universal dos Direitos Humanos",
+      "origem": "inedita",
+      "enunciado": "Determinada associação de moradores passou a exigir que todos os proprietários de imóveis de um bairro se filiassem compulsoriamente a ela, sob pena de sanções. À luz do art. 20 da Declaração Universal dos Direitos Humanos, a exigência",
+      "alternativas": {
+        "a": "contraria a Declaração, segundo a qual todo ser humano tem direito à liberdade de reunião e associação pacífica e ninguém pode ser obrigado a fazer parte de uma associação.",
+        "b": "não pode ser examinada à luz da Declaração, que não trata do direito de associação, matéria disciplinada apenas pelo PIDCP.",
+        "c": "é compatível com a Declaração, que assegura a liberdade de reunião, mas não trata da liberdade de associação.",
+        "d": "contraria a Declaração apenas se a associação tiver finalidade sindical, única hipótese em que a filiação é livre.",
+        "e": "é compatível com a Declaração, que admite a filiação compulsória sempre que a associação tenha fins pacíficos."
+      },
+      "gabarito": "a",
+      "comentario": "Art. 20 da DUDH: “1. Todo ser humano tem direito à liberdade de reunião e associação pacífica. 2. Ninguém pode ser obrigado a fazer parte de uma associação.” A Declaração consagra, assim, a dimensão negativa da liberdade de associação."
+    },
+    {
+      "id": "dh-080",
+      "assunto": "Declaração Universal dos Direitos Humanos",
+      "origem": "fcc",
+      "enunciado": "Conforme o art. 21 da Declaração Universal dos Direitos Humanos, a vontade do povo será a base da autoridade do governo e será expressa em",
+      "alternativas": {
+        "a": "eleições indiretas, por colégio eleitoral composto de representantes livremente escolhidos.",
+        "b": "eleições periódicas, por sufrágio censitário, admitido o voto aberto para assegurar a transparência.",
+        "c": "eleições realizadas a cada quatro anos, com voto direto, secreto e obrigatório.",
+        "d": "plebiscitos e referendos, vedada a representação política por intermédio de mandatários.",
+        "e": "eleições periódicas e legítimas, por sufrágio universal, por voto secreto ou processo equivalente que assegure a liberdade de voto."
+      },
+      "gabarito": "e",
+      "comentario": "Art. 21, § 3º, da DUDH: “A vontade do povo será a base da autoridade do governo; essa vontade será expressa em eleições periódicas e legítimas, por sufrágio universal, por voto secreto ou processo equivalente que assegure a liberdade de voto.” O § 1º admite a participação no governo diretamente ou por intermédio de representantes livremente escolhidos; a Declaração não fixa periodicidade nem obrigatoriedade do voto."
+    },
+    {
+      "id": "dh-081",
+      "assunto": "Declaração Universal dos Direitos Humanos",
+      "origem": "fcc",
+      "enunciado": "Considerando o art. 23 da Declaração Universal dos Direitos Humanos, é correto afirmar:",
+      "alternativas": {
+        "a": "O direito de greve é expressamente assegurado, nos termos da lei de cada país.",
+        "b": "Todo ser humano que trabalha tem direito a remuneração justa e satisfatória que assegure existência digna ao próprio trabalhador, sem referência à sua família.",
+        "c": "O direito de organizar sindicatos é assegurado aos trabalhadores do setor privado, podendo ser vedado aos servidores públicos.",
+        "d": "Todo ser humano tem direito ao trabalho e à livre escolha de emprego, ficando a proteção contra o desemprego a cargo exclusivo do direito interno de cada Estado.",
+        "e": "Todo ser humano, sem qualquer distinção, tem direito a igual remuneração por igual trabalho, bem como a organizar sindicatos e a neles ingressar para proteção de seus interesses."
+      },
+      "gabarito": "e",
+      "comentario": "Art. 23 da DUDH: § 1º direito ao trabalho, à livre escolha de emprego, a condições justas e favoráveis de trabalho e à proteção contra o desemprego; § 2º igual remuneração por igual trabalho, sem qualquer distinção; § 3º remuneração justa e satisfatória que assegure ao trabalhador “assim como à sua família” existência compatível com a dignidade humana; § 4º direito a organizar sindicatos e a neles ingressar. O direito de greve não consta da DUDH (está no art. 8º, 1, d, do PIDESC)."
+    },
+    {
+      "id": "dh-082",
+      "assunto": "Declaração Universal dos Direitos Humanos",
+      "origem": "inedita",
+      "enunciado": "Lei de determinado país passou a conceder benefício de proteção social apenas às crianças nascidas de pais casados entre si, excluindo as demais. À luz do art. 25 da Declaração Universal dos Direitos Humanos, essa lei",
+      "alternativas": {
+        "a": "é incompatível com a Declaração apenas se a criança tiver sido reconhecida pelo pai, hipótese em que se equipara à nascida no matrimônio.",
+        "b": "é compatível com a Declaração, que reconhece a família fundada no casamento como destinatária preferencial da proteção social.",
+        "c": "não pode ser examinada à luz da Declaração, que não trata de direitos sociais, previstos apenas no PIDESC.",
+        "d": "é incompatível com a Declaração, segundo a qual a maternidade e a infância têm direito a cuidados e assistência especiais, e todas as crianças, nascidas dentro ou fora do matrimônio, gozarão da mesma proteção social.",
+        "e": "é compatível com a Declaração, que remete integralmente ao direito interno a definição dos beneficiários da proteção social."
+      },
+      "gabarito": "d",
+      "comentario": "Art. 25, § 2º, da DUDH: “A maternidade e a infância têm direito a cuidados e assistência especiais. Todas as crianças, nascidas dentro ou fora do matrimônio, gozarão da mesma proteção social.” A DUDH contempla tanto direitos civis e políticos quanto econômicos, sociais e culturais (arts. 22 a 27)."
+    },
+    {
+      "id": "dh-083",
+      "assunto": "Declaração Universal dos Direitos Humanos",
+      "origem": "fcc",
+      "enunciado": "Nos termos do art. 27 da Declaração Universal dos Direitos Humanos,",
+      "alternativas": {
+        "a": "os direitos culturais não foram contemplados pela Declaração, constando apenas do PIDESC.",
+        "b": "a proteção do autor limita-se aos interesses materiais decorrentes de sua produção científica, literária ou artística.",
+        "c": "a proteção dos interesses do autor depende de prévio registro da obra em organismo internacional.",
+        "d": "todo ser humano tem o direito de participar livremente da vida cultural da comunidade, de fruir as artes e de participar do progresso científico e de seus benefícios, além do direito à proteção dos interesses morais e materiais decorrentes de qualquer produção científica, literária ou artística da qual seja autor.",
+        "e": "o direito de participar do progresso científico é assegurado apenas aos pesquisadores credenciados pelo Estado."
+      },
+      "gabarito": "d",
+      "comentario": "Art. 27 da DUDH: “1. Todo ser humano tem o direito de participar livremente da vida cultural da comunidade, de fruir as artes e de participar do progresso científico e de seus benefícios. 2. Todo ser humano tem direito à proteção dos interesses morais e materiais decorrentes de qualquer produção científica literária ou artística da qual seja autor.”"
+    },
+    {
+      "id": "dh-084",
+      "assunto": "Declaração Universal dos Direitos Humanos",
+      "origem": "fcc",
+      "enunciado": "De acordo com os arts. 28 e 30 da Declaração Universal dos Direitos Humanos,",
+      "alternativas": {
+        "a": "a vedação de interpretação destinada à destruição dos direitos dirige-se apenas aos Estados, não alcançando grupos ou pessoas.",
+        "b": "admite-se a supressão de direitos e liberdades da Declaração quando aprovada por maioria qualificada da Assembleia Geral da ONU.",
+        "c": "todo ser humano tem direito a uma ordem social e internacional em que os direitos e liberdades da Declaração possam ser plenamente realizados, e nenhuma de suas disposições pode ser interpretada como reconhecimento, a qualquer Estado, grupo ou pessoa, do direito de praticar ato destinado à destruição de quaisquer desses direitos e liberdades.",
+        "d": "o direito a uma ordem social e internacional adequada é titularizado exclusivamente pelos Estados, e não pelos indivíduos.",
+        "e": "os direitos da Declaração somente podem ser plenamente realizados mediante prévia ratificação, pelo Estado, de cada um de seus artigos."
+      },
+      "gabarito": "c",
+      "comentario": "Art. 28 da DUDH: “Todo ser humano tem direito a uma ordem social e internacional em que os direitos e liberdades estabelecidos na presente Declaração possam ser plenamente realizados.” Art. 30: “Nenhuma disposição da presente Declaração pode ser interpretada como o reconhecimento a qualquer Estado, grupo ou pessoa, do direito de exercer qualquer atividade ou praticar qualquer ato destinado à destruição de quaisquer dos direitos e liberdades aqui estabelecidos.”"
+    },
+    {
+      "id": "dh-085",
+      "assunto": "Declaração Universal dos Direitos Humanos",
+      "origem": "fcc",
+      "enunciado": "Segundo o preâmbulo da Declaração Universal dos Direitos Humanos, é essencial que os direitos humanos sejam protegidos pelo império da lei, para que o ser humano não seja compelido, como último recurso, à",
+      "alternativas": {
+        "a": "guerra entre as nações.",
+        "b": "rebelião contra a tirania e a opressão.",
+        "c": "busca de asilo em outros países.",
+        "d": "renúncia à sua nacionalidade.",
+        "e": "desobediência civil contra as leis injustas."
+      },
+      "gabarito": "b",
+      "comentario": "Preâmbulo da DUDH: “Considerando ser essencial que os direitos humanos sejam protegidos pelo império da lei, para que o ser humano não seja compelido, como último recurso, à rebelião contra a tirania e a opressão”."
+    },
+    {
+      "id": "dh-086",
+      "assunto": "PIDCP e protocolos facultativos",
+      "origem": "fcc",
+      "enunciado": "Sobre o Segundo Protocolo Facultativo ao Pacto Internacional sobre Direitos Civis e Políticos, com vistas à abolição da pena de morte, é correto afirmar:",
+      "alternativas": {
+        "a": "Permite que o Estado-parte restabeleça a pena de morte em situação excepcional que ameace a existência da nação, desde que oficialmente proclamada.",
+        "b": "O direito de nenhum indivíduo sujeito à jurisdição de Estado-parte no Protocolo ser executado não pode ser objeto de derrogação sob o art. 4º do Pacto, sem prejuízo da reserva admitida pelo próprio Protocolo.",
+        "c": "Trata-se de tratado autônomo, ao qual pode aderir qualquer Estado, ainda que não seja parte do Pacto.",
+        "d": "A competência do Comitê de Direitos Humanos para receber comunicações individuais relativas ao Protocolo independe de o Estado ser parte do Primeiro Protocolo Facultativo.",
+        "e": "No Brasil, foi aprovado pelo Congresso Nacional sem qualquer reserva, por ser a pena de morte vedada pela Constituição Federal em qualquer hipótese."
+      },
+      "gabarito": "b",
+      "comentario": "Segundo Protocolo (promulgado pelo Decreto nº 11.777/2023, após aprovação pelo Decreto Legislativo nº 311/2009 com reserva ao art. 2º): art. 1º, 1 – nenhum indivíduo sujeito à jurisdição de Estado-parte será executado; art. 6º, 1 – suas disposições aplicam-se como disposições adicionais ao Pacto; art. 6º, 2 – sem prejuízo da reserva do art. 2º, o direito do art. 1º, 1, não pode ser objeto de derrogação sob o art. 4º do Pacto; art. 5º – a competência do Comitê para comunicações individuais estende-se ao Protocolo para os Estados partes do Primeiro Protocolo; art. 7º – aberto apenas a Estados que assinaram/ratificaram o Pacto. A CF/1988 admite pena de morte em caso de guerra declarada (art. 5º, XLVII, a)."
+    },
+    {
+      "id": "dh-087",
+      "assunto": "PIDCP e protocolos facultativos",
+      "origem": "fcc",
+      "enunciado": "Nos termos do art. 7º do Pacto Internacional sobre Direitos Civis e Políticos, além de ninguém poder ser submetido à tortura, nem a penas ou tratamento cruéis, desumanos ou degradantes, será proibido, sobretudo,",
+      "alternativas": {
+        "a": "aplicar pena privativa de liberdade por prazo superior a trinta anos.",
+        "b": "extraditar nacional do Estado-parte para país que adote a pena de morte.",
+        "c": "submeter uma pessoa, sem seu livre consentimento, a experiências médicas ou científicas.",
+        "d": "impor pena de trabalhos forçados, em qualquer hipótese, ainda que aplicada por tribunal competente.",
+        "e": "decretar a prisão civil do devedor de alimentos."
+      },
+      "gabarito": "c",
+      "comentario": "Art. 7º do PIDCP: “Ninguém poderá ser submetido à tortura, nem a penas ou tratamento cruéis, desumanos ou degradantes. Será proibido, sobretudo, submeter uma pessoa, sem seu livre consentimento, a experiências médicas ou científicas.” O art. 8º, 3, b, admite, nos países em que certos crimes sejam punidos com prisão e trabalhos forçados, o cumprimento dessa pena imposta por tribunal competente."
+    },
+    {
+      "id": "dh-088",
+      "assunto": "PIDCP e protocolos facultativos",
+      "origem": "fcc",
+      "enunciado": "Para os efeitos do art. 8º, § 3º, do Pacto Internacional sobre Direitos Civis e Políticos, NÃO são considerados “trabalhos forçados ou obrigatórios”:",
+      "alternativas": {
+        "a": "o trabalho exigido do devedor em razão de dívida contraída com o empregador, até a sua integral quitação.",
+        "b": "a servidão a que a pessoa tenha anuído por contrato escrito.",
+        "c": "o trabalho imposto a membros de minorias étnicas como medida de integração à cultura nacional.",
+        "d": "o trabalho exigido de qualquer pessoa em liberdade, independentemente de decisão judicial, para atender a metas de desenvolvimento econômico.",
+        "e": "o serviço exigido em casos de emergência ou de calamidade que ameacem o bem-estar da comunidade e o trabalho ou serviço que faça parte das obrigações cívicas normais."
+      },
+      "gabarito": "e",
+      "comentario": "Art. 8º, § 3º, c, do PIDCP: não são “trabalhos forçados ou obrigatórios”: i) trabalho normalmente exigido de quem esteja encarcerado em cumprimento de decisão judicial ou em liberdade condicional; ii) serviço militar e, onde admitida a objeção de consciência, o serviço nacional alternativo; iii) serviço exigido em casos de emergência ou calamidade que ameacem o bem-estar da comunidade; iv) trabalho ou serviço que faça parte das obrigações cívicas normais. O art. 8º, §§ 1º e 2º, proíbe a escravidão e a servidão."
+    },
+    {
+      "id": "dh-089",
+      "assunto": "PIDCP e protocolos facultativos",
+      "origem": "fcc",
+      "enunciado": "Conforme o art. 12 do Pacto Internacional sobre Direitos Civis e Políticos,",
+      "alternativas": {
+        "a": "o direito de sair livremente de qualquer país não abrange o país de que a pessoa é nacional.",
+        "b": "toda pessoa que se encontre no território de um Estado, ainda que ilegalmente, terá o direito de nele livremente circular e escolher sua residência.",
+        "c": "os direitos de circulação e de escolha de residência não podem constituir objeto de nenhuma restrição.",
+        "d": "ninguém poderá ser privado arbitrariamente do direito de entrar em seu próprio país.",
+        "e": "as restrições à liberdade de circulação podem ser impostas por ato administrativo, independentemente de previsão legal, para proteger a ordem pública."
+      },
+      "gabarito": "d",
+      "comentario": "Art. 12 do PIDCP: § 1º – toda pessoa que se ache “legalmente” no território de um Estado pode nele circular e escolher residência; § 2º – direito de sair de qualquer país, “inclusive de seu próprio país”; § 3º – restrições somente se previstas em lei e necessárias para proteger a segurança nacional, a ordem, a saúde ou a moral públicas e os direitos e liberdades alheios; § 4º – “Ninguém poderá ser privado arbitrariamente do direito de entrar em seu próprio país.”"
+    },
+    {
+      "id": "dh-090",
+      "assunto": "PIDCP e protocolos facultativos",
+      "origem": "inedita",
+      "enunciado": "Estrangeiro que se encontra legalmente no território de Estado-parte do Pacto Internacional sobre Direitos Civis e Políticos passa a responder a procedimento de expulsão. Nos termos do art. 13 do Pacto, esse estrangeiro",
+      "alternativas": {
+        "a": "não poderá ser expulso em nenhuma hipótese, por se encontrar legalmente no território do Estado.",
+        "b": "terá sempre direito a expor as razões contrárias à expulsão e ao reexame de seu caso, ainda que razões imperativas de segurança nacional se oponham.",
+        "c": "só poderá ser expulso em decorrência de decisão adotada em conformidade com a lei e, a menos que razões imperativas de segurança nacional se oponham, terá a possibilidade de expor as razões contrárias à expulsão e de ter seu caso reexaminado pelas autoridades competentes.",
+        "d": "poderá ser expulso por decisão discricionária do Poder Executivo, sem possibilidade de expor razões, por se tratar de ato de soberania.",
+        "e": "somente poderá ser expulso após decisão favorável do Comitê de Direitos Humanos."
+      },
+      "gabarito": "c",
+      "comentario": "Art. 13 do PIDCP: o estrangeiro que se ache legalmente no território de um Estado-parte “só poderá dele ser expulso em decorrência de decisão adotada em conformidade com a lei e, a menos que razões imperativas de segurança nacional a isso se oponham, terá a possibilidade de expor as razões que militem contra sua expulsão e de ter seu caso reexaminado pelas autoridades competentes”, podendo fazer-se representar com esse objetivo."
+    },
+    {
+      "id": "dh-091",
+      "assunto": "PIDCP e protocolos facultativos",
+      "origem": "inedita",
+      "enunciado": "Pessoa condenada por sentença transitada em julgado cumpriu integralmente a pena. Anos depois, a condenação foi anulada pela descoberta de fatos novos que provaram cabalmente a existência de erro judicial. Nos termos do art. 14, § 6º, do Pacto Internacional sobre Direitos Civis e Políticos, essa pessoa",
+      "alternativas": {
+        "a": "não terá direito a indenização, em respeito à intangibilidade da coisa julgada.",
+        "b": "deverá ser indenizada, de acordo com a lei, a menos que fique provado que se lhe pode imputar, total ou parcialmente, a não revelação dos fatos desconhecidos em tempo útil.",
+        "c": "deverá ser indenizada mediante decisão do Comitê de Direitos Humanos, a quem compete fixar o valor da reparação.",
+        "d": "deverá ser indenizada em qualquer caso, ainda que ela própria tenha dado causa à não revelação dos fatos em tempo útil.",
+        "e": "somente terá direito a indenização se demonstrar dolo ou fraude do magistrado que proferiu a condenação."
+      },
+      "gabarito": "b",
+      "comentario": "Art. 14, § 6º, do PIDCP: se uma sentença condenatória passada em julgado for posteriormente anulada ou se um indulto for concedido, pela ocorrência ou descoberta de fatos novos que provem cabalmente a existência de erro judicial, a pessoa que sofreu a pena “deverá ser indenizada, de acordo com a lei, a menos que fique provado que se lhe pode imputar, total ou parcialmente, a não-revelação dos fatos desconhecidos em tempo útil”."
+    },
+    {
+      "id": "dh-092",
+      "assunto": "PIDCP e protocolos facultativos",
+      "origem": "fcc",
+      "enunciado": "De acordo com o art. 15 do Pacto Internacional sobre Direitos Civis e Políticos,",
+      "alternativas": {
+        "a": "a lei posterior que estipule pena mais leve somente retroage se ainda não houver sentença condenatória transitada em julgado.",
+        "b": "somente o direito nacional pode definir as condutas puníveis, vedada a condenação com base no direito internacional.",
+        "c": "se, depois de perpetrado o delito, a lei estipular a imposição de pena mais leve, o delinquente deverá dela beneficiar-se, e o Pacto não impede o julgamento ou a condenação por atos que, quando cometidos, eram considerados delituosos de acordo com os princípios gerais de direito reconhecidos pela comunidade das nações.",
+        "d": "admite-se a imposição de pena mais grave do que a aplicável no momento da ocorrência do delito, se a nova lei for mais adequada à gravidade do fato.",
+        "e": "a irretroatividade da lei penal pode ser suspensa em situações excepcionais que ameacem a existência da nação, oficialmente proclamadas."
+      },
+      "gabarito": "c",
+      "comentario": "Art. 15 do PIDCP: § 1º – ninguém será condenado por atos ou omissões que não constituam delito de acordo com o direito nacional ou internacional no momento em que cometidos; não se imporá pena mais grave que a aplicável à época; “Se, depois de perpetrado o delito, a lei estipular a imposição de pena mais leve, o delinqüente deverá dela beneficiar-se.” § 2º – ressalva os atos considerados delituosos segundo os princípios gerais de direito reconhecidos pela comunidade das nações. O art. 4º, § 2º, veda a suspensão do art. 15."
+    },
+    {
+      "id": "dh-093",
+      "assunto": "PIDCP e protocolos facultativos",
+      "origem": "fcc",
+      "enunciado": "Nos termos do art. 18 do Pacto Internacional sobre Direitos Civis e Políticos,",
+      "alternativas": {
+        "a": "a liberdade de professar religião ou crença é assegurada apenas quando exercida individualmente e em ambiente privado.",
+        "b": "a liberdade de pensamento, de consciência e de religião pode ser suspensa em situações excepcionais que ameacem a existência da nação.",
+        "c": "a liberdade de manifestar a própria religião ou crença estará sujeita apenas às limitações previstas em lei e que se façam necessárias para proteger a segurança, a ordem, a saúde ou a moral públicas ou os direitos e as liberdades das demais pessoas.",
+        "d": "os Estados-partes não assumem nenhum compromisso quanto à liberdade dos pais de assegurar a educação religiosa e moral dos filhos.",
+        "e": "a liberdade de ter ou de adotar uma religião ou crença pode ser restringida por medidas coercitivas, desde que previstas em lei."
+      },
+      "gabarito": "c",
+      "comentario": "Art. 18 do PIDCP: § 1º – liberdade de pensamento, consciência e religião, inclusive de professá-la individual ou coletivamente, pública ou privadamente; § 2º – ninguém será submetido a medidas coercitivas que possam restringir a liberdade de ter ou adotar religião ou crença; § 3º – a liberdade de manifestar a religião sujeita-se apenas a limitações previstas em lei e necessárias para proteger a segurança, a ordem, a saúde ou a moral públicas ou os direitos e liberdades alheios; § 4º – respeito à liberdade dos pais (e tutores) quanto à educação religiosa e moral dos filhos. O art. 4º, § 2º, veda a suspensão do art. 18."
+    },
+    {
+      "id": "dh-094",
+      "assunto": "PIDCP e protocolos facultativos",
+      "origem": "fcc",
+      "enunciado": "Segundo o art. 19 do Pacto Internacional sobre Direitos Civis e Políticos, o exercício da liberdade de expressão",
+      "alternativas": {
+        "a": "compreende a liberdade de procurar, receber e difundir informações, desde que provenientes do território do próprio Estado.",
+        "b": "abrange a difusão de informações e ideias verbalmente ou por escrito, mas não em forma artística.",
+        "c": "pode ser restringido por ato administrativo, sempre que a autoridade o reputar conveniente ao interesse público.",
+        "d": "não admite nenhuma espécie de restrição, por se tratar de direito absoluto.",
+        "e": "implica deveres e responsabilidades especiais e poderá sujeitar-se a restrições expressamente previstas em lei e necessárias para assegurar o respeito dos direitos e da reputação das demais pessoas ou para proteger a segurança nacional, a ordem, a saúde ou a moral públicas."
+      },
+      "gabarito": "e",
+      "comentario": "Art. 19 do PIDCP: § 1º – ninguém poderá ser molestado por suas opiniões; § 2º – a liberdade de expressão inclui procurar, receber e difundir informações e ideias de qualquer natureza, independentemente de fronteiras, verbalmente ou por escrito, em forma impressa ou artística, ou por qualquer outro meio; § 3º – o exercício desse direito implica deveres e responsabilidades especiais e pode sofrer restrições expressamente previstas em lei e necessárias para assegurar o respeito dos direitos e da reputação das demais pessoas ou proteger a segurança nacional, a ordem, a saúde ou a moral públicas."
+    },
+    {
+      "id": "dh-095",
+      "assunto": "PIDCP e protocolos facultativos",
+      "origem": "inedita",
+      "enunciado": "Lei de Estado-parte do Pacto Internacional sobre Direitos Civis e Políticos submeteu a restrições legais o exercício do direito de associação sindical por membros das forças armadas e da polícia. À luz do art. 22 do Pacto, essa lei",
+      "alternativas": {
+        "a": "é compatível com o Pacto, que autoriza, inclusive, os Estados-partes da Convenção de 1948 da OIT sobre liberdade sindical a adotar medidas legislativas que restrinjam as garantias nela previstas.",
+        "b": "é compatível com o Pacto, que expressamente não impede que se submeta a restrições legais o exercício desse direito por membros das forças armadas e da polícia.",
+        "c": "é incompatível com o Pacto, que considera o direito de associação insuscetível de qualquer restrição.",
+        "d": "é compatível com o Pacto apenas se as restrições forem estabelecidas por decreto do Poder Executivo.",
+        "e": "é incompatível com o Pacto, que somente admite restrições ao direito de associação durante o estado de emergência oficialmente proclamado."
+      },
+      "gabarito": "b",
+      "comentario": "Art. 22 do PIDCP: § 1º – direito de associar-se livremente, inclusive de constituir sindicatos e a eles filiar-se; § 2º – restrições apenas previstas em lei e necessárias em uma sociedade democrática, não impedindo o artigo “que se submeta a restrições legais o exercício desse direito por membros das forças armadas e da polícia”; § 3º – nenhuma disposição permite que Estados-partes da Convenção de 1948 da OIT adotem medidas que restrinjam as garantias nela previstas."
+    },
+    {
+      "id": "dh-096",
+      "assunto": "PIDCP e protocolos facultativos",
+      "origem": "fcc",
+      "enunciado": "Nos termos do art. 24 do Pacto Internacional sobre Direitos Civis e Políticos,",
+      "alternativas": {
+        "a": "toda criança deverá ser registrada no prazo máximo de um ano após o nascimento, sob pena de responsabilidade dos pais.",
+        "b": "toda criança deverá ser registrada imediatamente após seu nascimento e deverá receber um nome, tendo o direito de adquirir uma nacionalidade.",
+        "c": "as medidas de proteção à criança podem ser diferenciadas conforme o nascimento ou a situação econômica da família.",
+        "d": "as medidas de proteção que a condição de menor requer incumbem exclusivamente ao Estado.",
+        "e": "toda criança terá direito à nacionalidade do Estado em cujo território nasceu."
+      },
+      "gabarito": "b",
+      "comentario": "Art. 24 do PIDCP: § 1º – toda criança terá direito, sem discriminação por motivo de cor, sexo, língua, religião, origem nacional ou social, situação econômica ou nascimento, às medidas de proteção que sua condição de menor requerer “por parte de sua família, da sociedade e do Estado”; § 2º – “Toda criança deverá ser registrada imediatamente após seu nascimento e deverá receber um nome”; § 3º – “Toda criança terá o direito de adquirir uma nacionalidade” (o Pacto não impõe o critério do jus soli)."
+    },
+    {
+      "id": "dh-097",
+      "assunto": "PIDCP e protocolos facultativos",
+      "origem": "fcc",
+      "enunciado": "De acordo com o art. 25 do Pacto Internacional sobre Direitos Civis e Políticos, todo cidadão terá o direito e a possibilidade, sem qualquer das formas de discriminação mencionadas no art. 2º e sem restrições infundadas, de",
+      "alternativas": {
+        "a": "ter acesso, independentemente de quaisquer condições, a todas as funções públicas de seu país.",
+        "b": "votar em eleições periódicas, realizadas por sufrágio universal e voto obrigatório, sendo facultativo o voto apenas aos maiores de setenta anos.",
+        "c": "participar da condução dos assuntos públicos exclusivamente por meio de representantes livremente escolhidos, vedada a participação direta.",
+        "d": "ser eleito para qualquer cargo público, direito que o Pacto reserva aos nacionais natos.",
+        "e": "votar e de ser eleito em eleições periódicas, autênticas, realizadas por sufrágio universal e igualitário e por voto secreto, que garantam a manifestação da vontade dos eleitores."
+      },
+      "gabarito": "e",
+      "comentario": "Art. 25 do PIDCP: todo cidadão tem o direito e a possibilidade, sem discriminação e sem restrições infundadas: a) de participar da condução dos assuntos públicos, “diretamente ou por meio de representantes livremente escolhidos”; b) de votar e ser eleito em eleições periódicas, autênticas, por sufrágio universal e igualitário e por voto secreto; c) de ter acesso, “em condições gerais de igualdade”, às funções públicas de seu país."
+    },
+    {
+      "id": "dh-098",
+      "assunto": "PIDCP e protocolos facultativos",
+      "origem": "fcc",
+      "enunciado": "Nos Estados em que haja minorias étnicas, religiosas ou linguísticas, o art. 27 do Pacto Internacional sobre Direitos Civis e Políticos assegura que",
+      "alternativas": {
+        "a": "a proteção abrange as minorias étnicas e religiosas, mas não as linguísticas, cuja disciplina compete ao direito interno.",
+        "b": "as minorias oficialmente reconhecidas pelo Estado terão direito à autonomia política e à secessão territorial.",
+        "c": "as pessoas pertencentes a essas minorias não poderão ser privadas do direito de ter, conjuntamente com outros membros de seu grupo, sua própria vida cultural, de professar e praticar sua própria religião e de usar sua própria língua.",
+        "d": "os direitos das minorias são titularizados exclusivamente pelo Estado, que os exerce em favor dos respectivos grupos.",
+        "e": "o uso da própria língua pelas minorias é assegurado apenas no âmbito privado, podendo ser vedado em atos coletivos."
+      },
+      "gabarito": "c",
+      "comentario": "Art. 27 do PIDCP: “Nos Estados em que haja minorias étnicas, religiosas ou lingüísticas, as pessoas pertencentes a essas minorias não poderão ser privadas do direito de ter, conjuntamente com outros membros de seu grupo, sua própria vida cultural, de professar e praticar sua própria religião e usar sua própria língua.”"
+    },
+    {
+      "id": "dh-099",
+      "assunto": "PIDCP e protocolos facultativos",
+      "origem": "fcc",
+      "enunciado": "Sobre o Comitê de Direitos Humanos, disciplinado na Parte IV do Pacto Internacional sobre Direitos Civis e Políticos, é correto afirmar:",
+      "alternativas": {
+        "a": "O quorum do Comitê será de nove membros, e suas decisões serão tomadas por unanimidade dos presentes.",
+        "b": "O Comitê poderá ter mais de um nacional de um mesmo Estado, desde que respeitada a distribuição geográfica equitativa.",
+        "c": "Seus membros são eleitos para mandato de quatro anos e poderão, caso suas candidaturas sejam apresentadas novamente, ser reeleitos.",
+        "d": "Cada Estado-parte poderá indicar até três candidatos, nacionais ou não do Estado que os indicou.",
+        "e": "O Comitê submeterá relatório sobre suas atividades diretamente ao Conselho de Segurança das Nações Unidas."
+      },
+      "gabarito": "c",
+      "comentario": "PIDCP: art. 29, § 2º – cada Estado-parte pode indicar duas pessoas, que deverão ser seus nacionais; art. 31, § 1º – o Comitê não pode ter mais de um nacional de um mesmo Estado; art. 32, § 1º – mandato de quatro anos, admitida a reeleição; art. 39, § 2º – quorum de doze membros e decisões por maioria de votos dos presentes; art. 45 – relatório à Assembleia Geral, por intermédio do Conselho Econômico e Social."
+    },
+    {
+      "id": "dh-100",
+      "assunto": "PIDCP e protocolos facultativos",
+      "origem": "fcc",
+      "enunciado": "Nos termos do Protocolo Facultativo ao Pacto Internacional sobre Direitos Civis e Políticos (aprovado pelo Decreto Legislativo nº 311/2009 e promulgado pelo Decreto nº 11.777/2023),",
+      "alternativas": {
+        "a": "o Comitê poderá examinar a comunicação ainda que a mesma questão esteja sendo examinada por outra instância internacional de inquérito ou de decisão.",
+        "b": "o Estado-parte a que se atribui a violação terá o prazo de trinta dias para submeter ao Comitê, por escrito, suas explicações.",
+        "c": "a denúncia do Protocolo produz efeitos imediatos e impede o exame das comunicações já apresentadas antes de sua notificação.",
+        "d": "o Comitê de Direitos Humanos declarará inadmissíveis as comunicações anônimas e realizará suas sessões a portas fechadas quando examinar as comunicações individuais.",
+        "e": "o Comitê comunicará suas conclusões apenas ao Estado-parte interessado, em caráter sigiloso em relação ao indivíduo."
+      },
+      "gabarito": "d",
+      "comentario": "Protocolo Facultativo ao PIDCP: art. 3º – são inadmissíveis as comunicações anônimas, abusivas ou incompatíveis com o Pacto; art. 4º, § 2º – o Estado tem seis meses para apresentar explicações; art. 5º, § 2º, a – a mesma questão não pode estar sendo examinada por outra instância internacional; art. 5º, § 3º – sessões a portas fechadas; art. 5º, § 4º – conclusões comunicadas ao Estado e ao indivíduo; art. 12 – a denúncia produz efeitos três meses após a notificação e não impede a aplicação do Protocolo às comunicações já apresentadas."
+    },
+    {
+      "id": "dh-101",
+      "assunto": "PIDESC e protocolo facultativo",
+      "origem": "fcc",
+      "enunciado": "O art. 1º, comum ao Pacto Internacional sobre Direitos Econômicos, Sociais e Culturais e ao Pacto Internacional sobre Direitos Civis e Políticos, dispõe que",
+      "alternativas": {
+        "a": "o direito à autodeterminação compreende a livre determinação do estatuto político, mas não o desenvolvimento econômico, social e cultural.",
+        "b": "todos os povos podem dispor livremente de suas riquezas e de seus recursos naturais, sem prejuízo das obrigações decorrentes da cooperação econômica internacional e do Direito Internacional, e em caso algum poderá um povo ser privado de seus próprios meios de subsistência.",
+        "c": "o direito à autodeterminação é reconhecido apenas aos povos de territórios não autônomos ou sob tutela.",
+        "d": "os Estados que administram territórios não autônomos e territórios sob tutela estão dispensados de promover o exercício do direito à autodeterminação.",
+        "e": "o direito dos povos de dispor de suas riquezas e recursos naturais é absoluto, não se sujeitando a nenhuma obrigação de Direito Internacional."
+      },
+      "gabarito": "b",
+      "comentario": "Art. 1º do PIDESC (e do PIDCP): § 1º – todos os povos têm direito à autodeterminação, determinando livremente seu estatuto político e assegurando livremente seu desenvolvimento econômico, social e cultural; § 2º – podem dispor livremente de suas riquezas e recursos naturais, sem prejuízo das obrigações da cooperação econômica internacional, baseada no proveito mútuo, e do Direito Internacional; “Em caso algum, poderá um povo ser privado de seus próprios meios de subsistência”; § 3º – os Estados, inclusive os que administram territórios não autônomos e sob tutela, deverão promover e respeitar esse direito."
+    },
+    {
+      "id": "dh-102",
+      "assunto": "PIDESC e protocolo facultativo",
+      "origem": "fcc",
+      "enunciado": "Nos termos do art. 4º do Pacto Internacional sobre Direitos Econômicos, Sociais e Culturais, o Estado poderá submeter os direitos assegurados no Pacto",
+      "alternativas": {
+        "a": "unicamente às limitações estabelecidas em lei, somente na medida compatível com a natureza desses direitos e exclusivamente com o objetivo de favorecer o bem-estar geral em uma sociedade democrática.",
+        "b": "a limitações necessárias à segurança nacional, ainda que incompatíveis com a natureza desses direitos.",
+        "c": "às limitações que reputar convenientes, estabelecidas por ato do Poder Executivo, conforme a disponibilidade orçamentária.",
+        "d": "a limitações destinadas a assegurar o equilíbrio fiscal, independentemente de previsão legal.",
+        "e": "à suspensão integral em situações excepcionais que ameacem a existência da nação, desde que oficialmente proclamadas."
+      },
+      "gabarito": "a",
+      "comentario": "Art. 4º do PIDESC: o Estado “poderá submeter tais direitos unicamente às limitações estabelecidas em lei, somente na medida compatível com a natureza desses direitos e exclusivamente com o objetivo de favorecer o bem-estar geral em uma sociedade democrática”. A cláusula de suspensão em situações excepcionais que ameacem a existência da nação é do art. 4º do PIDCP, não do PIDESC."
+    },
+    {
+      "id": "dh-103",
+      "assunto": "PIDESC e protocolo facultativo",
+      "origem": "fcc",
+      "enunciado": "Segundo o art. 6º do Pacto Internacional sobre Direitos Econômicos, Sociais e Culturais, o direito ao trabalho",
+      "alternativas": {
+        "a": "compreende o direito de toda pessoa de ter a possibilidade de ganhar a vida mediante um trabalho livremente escolhido ou aceito, devendo as medidas estatais para seu pleno exercício incluir a orientação e a formação técnica e profissional.",
+        "b": "limita-se à proibição de trabalhos forçados, sem impor ao Estado a adoção de medidas positivas.",
+        "c": "impõe ao Estado a obrigação de assegurar, de forma imediata, o pleno emprego, independentemente dos recursos disponíveis.",
+        "d": "compreende o dever de toda pessoa de trabalhar, sob pena de sanção imposta pelo Estado.",
+        "e": "assegura a cada pessoa um posto de trabalho no serviço público, quando não obtido emprego na iniciativa privada."
+      },
+      "gabarito": "a",
+      "comentario": "Art. 6º do PIDESC: § 1º – o direito ao trabalho “compreende o direito de toda pessoa de ter a possibilidade de ganhar a vida mediante um trabalho livremente escolhido ou aceito”; § 2º – as medidas para seu pleno exercício “deverão incluir a orientação e a formação técnica e profissional, a elaboração de programas, normas e técnicas apropriadas” para o desenvolvimento e o pleno emprego produtivo. A realização dos direitos do Pacto é progressiva (art. 2º, § 1º)."
+    },
+    {
+      "id": "dh-104",
+      "assunto": "PIDESC e protocolo facultativo",
+      "origem": "fcc",
+      "enunciado": "De acordo com o art. 7º, a, do Pacto Internacional sobre Direitos Econômicos, Sociais e Culturais, as condições de trabalho justas e favoráveis devem assegurar uma remuneração que proporcione, no mínimo, a todos os trabalhadores",
+      "alternativas": {
+        "a": "a participação nos lucros ou resultados da empresa, desvinculada da remuneração.",
+        "b": "remuneração igual por trabalho de igual valor, ressalvadas as diferenças fundadas no sexo quando a atividade exigir maior esforço físico.",
+        "c": "um salário mínimo uniforme, fixado periodicamente pela Organização Internacional do Trabalho para todos os Estados-partes.",
+        "d": "uma existência decente para o próprio trabalhador, sem extensão à sua família.",
+        "e": "um salário equitativo e uma remuneração igual por um trabalho de igual valor, sem qualquer distinção, garantindo-se às mulheres condições de trabalho não inferiores às dos homens e a mesma remuneração por trabalho igual, além de uma existência decente para eles e suas famílias."
+      },
+      "gabarito": "e",
+      "comentario": "Art. 7º, a, do PIDESC: remuneração que proporcione, no mínimo: “i) Um salário eqüitativo e uma remuneração igual por um trabalho de igual valor, sem qualquer distinção; em particular, as mulheres deverão ter a garantia de condições de trabalho não inferiores às dos homens e perceber a mesma remuneração que eles por trabalho igual; ii) Uma existência decente para eles e suas famílias”."
+    },
+    {
+      "id": "dh-105",
+      "assunto": "PIDESC e protocolo facultativo",
+      "origem": "inedita",
+      "enunciado": "Lei de Estado-parte do Pacto Internacional sobre Direitos Econômicos, Sociais e Culturais submeteu a restrições legais o exercício dos direitos sindicais pelos servidores da administração pública. À luz do art. 8º, § 2º, do Pacto, essa lei",
+      "alternativas": {
+        "a": "é admitida apenas durante situações excepcionais que ameacem a existência da nação.",
+        "b": "é vedada, pois o direito de greve previsto no Pacto não se sujeita a nenhuma limitação.",
+        "c": "é admitida, pois o dispositivo não impede que se submeta a restrições legais o exercício desses direitos pelos membros das forças armadas, da polícia ou da administração pública.",
+        "d": "é vedada, pois o Pacto somente admite restrições legais aos direitos sindicais dos membros das forças armadas.",
+        "e": "é admitida apenas se as restrições forem impostas por decreto do Chefe do Poder Executivo."
+      },
+      "gabarito": "c",
+      "comentario": "Art. 8º, § 2º, do PIDESC: “O presente artigo não impedirá que se submeta a restrições legais o exercício desses direitos pelos membros das forças armadas, da polícia ou da administração pública” (o texto publicado do Decreto nº 591/1992 grafa “da política”, erro material). Diferentemente, o art. 22, § 2º, do PIDCP menciona apenas forças armadas e polícia. O direito de greve é exercido “de conformidade com as leis de cada país” (art. 8º, § 1º, d)."
+    },
+    {
+      "id": "dh-106",
+      "assunto": "PIDESC e protocolo facultativo",
+      "origem": "inedita",
+      "enunciado": "Em determinado Estado-parte do Pacto Internacional sobre Direitos Econômicos, Sociais e Culturais, a legislação não fixa idade mínima para o emprego assalariado de crianças nem pune o emprego de adolescentes em atividades perigosas. À luz do art. 10, § 3º, do Pacto, é correto afirmar:",
+      "alternativas": {
+        "a": "Os Estados devem estabelecer limites de idade sob os quais fique proibido e punido por lei o emprego assalariado da mão de obra infantil, e o emprego de crianças e adolescentes em trabalhos que lhes façam correr perigo de vida deve ser punido por lei.",
+        "b": "O Pacto recomenda, sem caráter obrigatório, que o emprego de crianças em trabalhos nocivos seja objeto apenas de sanções administrativas.",
+        "c": "O Pacto trata apenas da exploração sexual de crianças, deixando o trabalho infantil à disciplina exclusiva das convenções da OIT.",
+        "d": "O Pacto fixa expressamente em dezesseis anos a idade mínima para o emprego assalariado, salvo na condição de aprendiz.",
+        "e": "As medidas especiais de proteção às crianças e adolescentes podem ser diferenciadas conforme a filiação."
+      },
+      "gabarito": "a",
+      "comentario": "Art. 10, § 3º, do PIDESC: medidas especiais de proteção em prol de todas as crianças e adolescentes, “sem distinção alguma por motivo de filiação ou qualquer outra condição”; proteção contra a exploração econômica e social; o emprego em trabalhos nocivos à moral e à saúde, que façam correr perigo de vida ou prejudiquem o desenvolvimento normal “será punido por lei”; e “os Estados devem também estabelecer limites de idade sob os quais fique proibido e punido por lei o emprego assalariado da mão-de-obra infantil”. O Pacto não fixa a idade."
+    },
+    {
+      "id": "dh-107",
+      "assunto": "PIDESC e protocolo facultativo",
+      "origem": "fcc",
+      "enunciado": "Nos termos do art. 11 do Pacto Internacional sobre Direitos Econômicos, Sociais e Culturais, os Estados-partes reconhecem",
+      "alternativas": {
+        "a": "o direito do trabalhador a um nível de vida adequado para si próprio, sem extensão à sua família.",
+        "b": "o direito de toda pessoa a um nível de vida adequado para si próprio e sua família, inclusive à alimentação, vestimenta e moradia adequadas, assim como a uma melhoria contínua de suas condições de vida, e o direito fundamental de toda pessoa de estar protegida contra a fome.",
+        "c": "o direito a um nível de vida adequado, assegurado apenas aos nacionais de cada Estado-parte.",
+        "d": "o direito à alimentação e à vestimenta adequadas, deixando o direito à moradia à disciplina do direito interno.",
+        "e": "o direito de estar protegido contra a fome, a ser assegurado exclusivamente por medidas individuais de cada Estado, vedada a cooperação internacional."
+      },
+      "gabarito": "b",
+      "comentario": "Art. 11 do PIDESC: § 1º – direito de toda pessoa a um nível de vida adequado para si e sua família, “inclusive à alimentação, vestimenta e moradia adequadas, assim como a uma melhoria contínua de suas condições de vida”, reconhecida a importância da cooperação internacional fundada no livre consentimento; § 2º – reconhecimento do “direito fundamental de toda pessoa de estar protegida contra a fome”, com medidas adotadas individualmente e mediante cooperação internacional."
+    },
+    {
+      "id": "dh-108",
+      "assunto": "PIDESC e protocolo facultativo",
+      "origem": "fcc",
+      "enunciado": "O art. 12 do Pacto Internacional sobre Direitos Econômicos, Sociais e Culturais reconhece o direito de toda pessoa de desfrutar",
+      "alternativas": {
+        "a": "do mais elevado nível possível de saúde física, excluída a saúde mental, objeto de tratado específico.",
+        "b": "de assistência médica gratuita e universal, prestada obrigatoriamente por sistema público único.",
+        "c": "do mais elevado nível possível de saúde, excluídos os aspectos de higiene do trabalho e do meio ambiente.",
+        "d": "de um nível mínimo de saúde física, definido periodicamente pela Organização Mundial da Saúde.",
+        "e": "o mais elevado nível possível de saúde física e mental, incluindo-se, entre as medidas a adotar, a diminuição da mortinatalidade e da mortalidade infantil e a prevenção e o tratamento das doenças epidêmicas, endêmicas, profissionais e outras."
+      },
+      "gabarito": "e",
+      "comentario": "Art. 12 do PIDESC: § 1º – “direito de toda pessoa de desfrutar o mais elevado nível possível de saúde física e mental”; § 2º – medidas para: a) diminuição da mortinatalidade e da mortalidade infantil e desenvolvimento são das crianças; b) melhoria de todos os aspectos de higiene do trabalho e do meio ambiente; c) prevenção e tratamento das doenças epidêmicas, endêmicas, profissionais e outras; d) condições que assegurem a todos assistência médica e serviços médicos em caso de enfermidade."
+    },
+    {
+      "id": "dh-109",
+      "assunto": "PIDESC e protocolo facultativo",
+      "origem": "inedita",
+      "enunciado": "Determinado Estado, ao tornar-se parte do Pacto Internacional sobre Direitos Econômicos, Sociais e Culturais, ainda não havia garantido em seu território a obrigatoriedade e a gratuidade da educação primária. Nos termos do art. 14 do Pacto, esse Estado",
+      "alternativas": {
+        "a": "fica dispensado da obrigação, por se tratar de direito de realização progressiva, condicionado à disponibilidade de recursos.",
+        "b": "compromete-se a elaborar e a adotar, dentro de um prazo de dois anos, um plano de ação detalhado destinado à implementação progressiva, dentro de um número razoável de anos estabelecido no próprio plano, do princípio da educação primária obrigatória e gratuita para todos.",
+        "c": "compromete-se a elaborar, no prazo de cinco anos, plano de ação para a implementação da educação secundária e superior gratuitas.",
+        "d": "deverá implementar imediatamente a educação primária obrigatória e gratuita, sob pena de suspensão de seus direitos de membro da ONU.",
+        "e": "deverá submeter ao Comitê de Direitos Humanos, no prazo de um ano, plano de ação a ser por este aprovado."
+      },
+      "gabarito": "b",
+      "comentario": "Art. 14 do PIDESC: o Estado que, ao tornar-se Parte, ainda não tenha garantido a obrigatoriedade e a gratuidade da educação primária “se compromete a elaborar e a adotar, dentro de um prazo de dois anos, um plano de ação detalhado destinado à implementação progressiva, dentro de um número razoável de anos estabelecidos no próprio plano, do princípio da educação primária obrigatória e gratuita para todos”."
+    },
+    {
+      "id": "dh-110",
+      "assunto": "PIDESC e protocolo facultativo",
+      "origem": "fcc",
+      "enunciado": "Nos termos do art. 15 do Pacto Internacional sobre Direitos Econômicos, Sociais e Culturais, os Estados-partes",
+      "alternativas": {
+        "a": "não reconhecem benefícios no fomento da cooperação internacional no domínio da ciência e da cultura, matéria reservada à soberania de cada Estado.",
+        "b": "reconhecem o direito à cultura como direito exclusivamente coletivo dos povos, não titularizado pelo indivíduo.",
+        "c": "reconhecem ao autor a proteção apenas dos interesses materiais decorrentes de sua produção científica, literária ou artística.",
+        "d": "reconhecem a cada indivíduo o direito de participar da vida cultural e de desfrutar o progresso científico e suas aplicações, e comprometem-se a respeitar a liberdade indispensável à pesquisa científica e à atividade criadora.",
+        "e": "podem condicionar a pesquisa científica e a atividade criadora a prévia autorização governamental, para proteger a moral pública."
+      },
+      "gabarito": "d",
+      "comentario": "Art. 15 do PIDESC: § 1º – reconhece a cada indivíduo o direito de participar da vida cultural, desfrutar o progresso científico e suas aplicações e beneficiar-se da proteção dos interesses morais e materiais de sua produção científica, literária ou artística; § 2º – medidas de conservação, desenvolvimento e difusão da ciência e da cultura; § 3º – respeito à “liberdade indispensável à pesquisa científica e à atividade criadora”; § 4º – reconhecimento dos benefícios da cooperação internacional no domínio da ciência e da cultura."
+    },
+    {
+      "id": "dh-111",
+      "assunto": "Evolução histórica dos direitos humanos",
+      "origem": "fcc",
+      "enunciado": "Documento de 12 de junho de 1776 que proclamou que todos os homens são, por natureza, igualmente livres e independentes e titulares de certos direitos inatos, como o gozo da vida e da liberdade, os meios de adquirir e possuir propriedade e de buscar a felicidade e a segurança, sendo apontado pela doutrina como a primeira declaração de direitos em sentido moderno. Trata-se da",
+      "alternativas": {
+        "a": "Bill of Rights inglês.",
+        "b": "Declaração dos Direitos do Homem e do Cidadão.",
+        "c": "Petition of Right.",
+        "d": "Declaração de Direitos do Bom Povo de Virgínia.",
+        "e": "Constituição dos Estados Unidos da América."
+      },
+      "gabarito": "d",
+      "comentario": "A Declaração de Direitos de Virgínia (12/6/1776) antecede a Declaração de Independência dos EUA (4/7/1776) e é considerada a primeira declaração moderna de direitos, ao afirmar direitos inatos de todos os homens. O Bill of Rights (1689) e a Petition of Right (1628) são documentos ingleses; a Declaração francesa é de 1789; a Constituição norte-americana (1787) não continha originalmente declaração de direitos, acrescida pelas emendas de 1791."
+    },
+    {
+      "id": "dh-112",
+      "assunto": "Evolução histórica dos direitos humanos",
+      "origem": "fcc",
+      "enunciado": "O Tribunal Militar Internacional de Nuremberg (1945-1946) é apontado pela doutrina como marco do processo de internacionalização dos direitos humanos, sobretudo por ter",
+      "alternativas": {
+        "a": "sido o primeiro tribunal penal internacional de caráter permanente, posteriormente convertido no Tribunal Penal Internacional.",
+        "b": "afirmado a responsabilidade penal internacional de indivíduos por crimes contra a paz, crimes de guerra e crimes contra a humanidade, relativizando a soberania estatal como escudo para graves violações.",
+        "c": "aprovado o texto da Declaração Universal dos Direitos Humanos, submetido em seguida à Assembleia Geral.",
+        "d": "instituído a Organização das Nações Unidas e aprovado a sua Carta constitutiva.",
+        "e": "limitado a responsabilização internacional aos Estados, afastando a responsabilidade individual de agentes públicos que cumpriam ordens superiores."
+      },
+      "gabarito": "b",
+      "comentario": "O Tribunal de Nuremberg, criado pelo Acordo de Londres (1945), foi tribunal ad hoc que julgou crimes contra a paz, crimes de guerra e crimes contra a humanidade, consagrando a responsabilidade penal individual no plano internacional e rejeitando a obediência a ordens superiores como excludente. A ONU foi criada pela Carta de São Francisco (1945); a DUDH foi adotada pela Assembleia Geral em 1948; o TPI permanente resulta do Estatuto de Roma (1998)."
+    },
+    {
+      "id": "dh-113",
+      "assunto": "Fundamentos filosóficos dos direitos humanos",
+      "origem": "fcc",
+      "enunciado": "Para esse pensador contratualista, os homens, já no estado de natureza, são titulares de direitos naturais à vida, à liberdade e aos bens, constituindo-se a sociedade política para melhor protegê-los; violados esses direitos pelo governante, legitima-se o direito de resistência. Trata-se de",
+      "alternativas": {
+        "a": "John Locke.",
+        "b": "Jean Bodin.",
+        "c": "Karl Marx.",
+        "d": "Thomas Hobbes.",
+        "e": "Nicolau Maquiavel."
+      },
+      "gabarito": "a",
+      "comentario": "No “Segundo Tratado sobre o Governo Civil”, John Locke sustenta que os direitos naturais (vida, liberdade e propriedade) preexistem ao Estado, que é instituído para protegê-los, admitindo o direito de resistência contra o governo que os viole. Hobbes, ao contrário, defendia a transferência quase total da liberdade ao soberano para superar a guerra de todos contra todos; Bodin e Maquiavel são teóricos da soberania e do poder; Marx criticou os direitos do homem como direitos do indivíduo burguês."
+    },
+    {
+      "id": "dh-114",
+      "assunto": "Fundamentos filosóficos dos direitos humanos",
+      "origem": "fcc",
+      "enunciado": "A afirmação de que o direito natural subsistiria ainda que se admitisse que Deus não existe, que marca a laicização do jusnaturalismo e a passagem para o jusnaturalismo racional moderno, fundamento teórico das primeiras declarações de direitos, é associada a",
+      "alternativas": {
+        "a": "Tomás de Aquino.",
+        "b": "Hans Kelsen.",
+        "c": "Hugo Grócio.",
+        "d": "Santo Agostinho.",
+        "e": "Edmund Burke."
+      },
+      "gabarito": "c",
+      "comentario": "Hugo Grócio (De jure belli ac pacis, 1625) formulou a célebre hipótese (etiamsi daremus non esse Deum) de que o direito natural, fundado na razão, valeria mesmo que Deus não existisse, inaugurando o jusnaturalismo racionalista moderno. Tomás de Aquino e Santo Agostinho representam o jusnaturalismo teológico; Kelsen é expoente do positivismo jurídico; Burke foi crítico das declarações abstratas de direitos da Revolução Francesa."
+    },
+    {
+      "id": "dh-115",
+      "assunto": "Fontes e princípios dos direitos humanos",
+      "origem": "fcc",
+      "enunciado": "O costume internacional, fonte do Direito Internacional dos Direitos Humanos referida no art. 38 do Estatuto da Corte Internacional de Justiça como “prova de uma prática geral aceita como sendo o direito”, é integrado por",
+      "alternativas": {
+        "a": "um elemento material, consistente na prática geral e reiterada, e por um elemento subjetivo, consistente na convicção de sua obrigatoriedade (opinio juris).",
+        "b": "resoluções da Assembleia Geral da ONU aprovadas por maioria de dois terços, que lhe conferem forma escrita.",
+        "c": "um único elemento, a prática reiterada dos Estados, independentemente da convicção de sua obrigatoriedade.",
+        "d": "decisões judiciárias e doutrina dos juristas mais qualificados, que constituem seus elementos formadores.",
+        "e": "prática aceita pela unanimidade dos Estados, sem a qual não se forma norma consuetudinária."
+      },
+      "gabarito": "a",
+      "comentario": "O art. 38, 1, b, do Estatuto da CIJ refere-se ao “costume internacional, como prova de uma prática geral aceita como sendo o direito”. A doutrina identifica dois elementos: o objetivo/material (prática geral, constante e uniforme, que não exige unanimidade) e o subjetivo (opinio juris sive necessitatis). Decisões judiciárias e doutrina são meios auxiliares (art. 38, 1, d)."
+    },
+    {
+      "id": "dh-116",
+      "assunto": "Classificação dos direitos humanos",
+      "origem": "fcc",
+      "enunciado": "Na teoria dos quatro status de Georg Jellinek, os direitos que conferem ao indivíduo a possibilidade de participar da formação da vontade estatal, como o direito de votar e de ser votado, correspondem ao status",
+      "alternativas": {
+        "a": "ativo (status activae civitatis).",
+        "b": "de reciprocidade (status reciprocitatis).",
+        "c": "negativo (status libertatis).",
+        "d": "positivo (status civitatis).",
+        "e": "passivo (status subjectionis)."
+      },
+      "gabarito": "a",
+      "comentario": "Jellinek distinguiu quatro posições do indivíduo perante o Estado: status passivo (subjectionis), de sujeição a deveres; status negativo (libertatis), esfera de liberdade imune à interferência estatal; status positivo (civitatis), que permite exigir prestações do Estado; e status ativo (activae civitatis), que permite participar da formação da vontade estatal, como nos direitos políticos."
+    },
+    {
+      "id": "dh-117",
+      "assunto": "Classificação dos direitos humanos",
+      "origem": "fcc",
+      "enunciado": "Na clássica distinção formulada por Rui Barbosa entre direitos e garantias fundamentais,",
+      "alternativas": {
+        "a": "os direitos dirigem-se apenas aos particulares, ao passo que as garantias vinculam apenas o Estado.",
+        "b": "os direitos são disposições declaratórias, que imprimem existência legal aos direitos reconhecidos, ao passo que as garantias são disposições assecuratórias, que, em defesa dos direitos, limitam o poder.",
+        "c": "as garantias são exclusivamente as ações constitucionais, como o habeas corpus e o mandado de segurança, não abrangendo outras disposições constitucionais.",
+        "d": "os direitos são disposições assecuratórias, que limitam o poder, ao passo que as garantias são disposições declaratórias dos bens tutelados.",
+        "e": "direitos e garantias são expressões sinônimas, não havendo distinção relevante entre elas."
+      },
+      "gabarito": "b",
+      "comentario": "Rui Barbosa distinguia “as disposições meramente declaratórias, que são as que imprimem existência legal aos direitos reconhecidos, e as disposições assecuratórias, que são as que, em defesa dos direitos, limitam o poder”. As garantias não se esgotam nos remédios constitucionais (as ações são espécie de garantia), abrangendo outras normas de proteção, como a vedação da censura."
+    },
+    {
+      "id": "dh-118",
+      "assunto": "Características dos direitos humanos",
+      "origem": "fcc",
+      "enunciado": "A característica segundo a qual os direitos humanos não podem ser transferidos, negociados ou vendidos, por não possuírem conteúdo econômico-patrimonial e estarem vinculados à dignidade da pessoa, denomina-se",
+      "alternativas": {
+        "a": "inalienabilidade.",
+        "b": "complementaridade.",
+        "c": "imprescritibilidade.",
+        "d": "universalidade.",
+        "e": "historicidade."
+      },
+      "gabarito": "a",
+      "comentario": "A inalienabilidade indica que os direitos humanos são intransferíveis e inegociáveis, por não terem conteúdo econômico-patrimonial. A historicidade refere-se ao seu surgimento gradual; a universalidade, à titularidade por todas as pessoas; a imprescritibilidade, à não perda pelo decurso do tempo; a complementaridade, à necessidade de interpretação conjunta dos direitos."
+    },
+    {
+      "id": "dh-119",
+      "assunto": "Gerações (dimensões) de direitos humanos",
+      "origem": "fcc",
+      "enunciado": "A classificação dos direitos humanos em “gerações”, inspirada no lema da Revolução Francesa (liberdade, igualdade e fraternidade), foi apresentada originalmente em conferência proferida em 1979 no Instituto Internacional de Direitos Humanos de Estrasburgo pelo jurista",
+      "alternativas": {
+        "a": "Norberto Bobbio.",
+        "b": "Antônio Augusto Cançado Trindade.",
+        "c": "Paulo Bonavides.",
+        "d": "Karel Vasak.",
+        "e": "René Cassin."
+      },
+      "gabarito": "d",
+      "comentario": "A teoria das gerações de direitos é atribuída a Karel Vasak, que a apresentou em 1979, no Instituto Internacional de Direitos Humanos de Estrasburgo, associando a primeira geração à liberdade, a segunda à igualdade e a terceira à fraternidade. Bonavides difundiu a teoria no Brasil e propôs novas dimensões; Cançado Trindade é um de seus principais críticos; Cassin foi um dos redatores da DUDH."
+    },
+    {
+      "id": "dh-120",
+      "assunto": "Interpretação dos tratados de direitos humanos",
+      "origem": "fcc",
+      "enunciado": "Segundo a técnica da interpretação autônoma, utilizada pelos órgãos internacionais de proteção na interpretação dos tratados de direitos humanos, os termos e expressões neles contidos",
+      "alternativas": {
+        "a": "devem ser interpretados restritivamente, em favor da soberania estatal, sempre que houver dúvida.",
+        "b": "devem ser interpretados segundo a intenção original de seus redatores, vedada a evolução de seu sentido.",
+        "c": "possuem sentido próprio, determinado no plano internacional, não ficando vinculados ao significado que lhes é atribuído pelo direito interno de cada Estado-parte.",
+        "d": "têm sua interpretação reservada exclusivamente aos tribunais nacionais do Estado-parte.",
+        "e": "devem ser interpretados conforme o significado que lhes atribui o direito interno do Estado-parte demandado."
+      },
+      "gabarito": "c",
+      "comentario": "Pela interpretação autônoma, os conceitos dos tratados de direitos humanos (ex.: “acusação penal”, “tribunal”, “bens”) têm sentido próprio, fixado pelos órgãos internacionais, independentemente das qualificações do direito interno, evitando que cada Estado esvazie as obrigações assumidas por meio de suas definições domésticas."
+    },
+    {
+      "id": "dh-121",
+      "assunto": "Colisão entre direitos humanos: teorias para resolução",
+      "origem": "inedita",
+      "enunciado": "Quanto à proteção do núcleo essencial dos direitos fundamentais, a chamada teoria relativa sustenta que",
+      "alternativas": {
+        "a": "inexiste proteção ao núcleo essencial, podendo o legislador suprimir integralmente qualquer direito fundamental.",
+        "b": "existe um núcleo fixo e intransponível de cada direito, determinável em abstrato e insuscetível de qualquer ponderação.",
+        "c": "o núcleo essencial corresponde ao conteúdo definido pelo legislador ordinário, que pode modificá-lo livremente.",
+        "d": "o conteúdo essencial é aquilo que resta após a ponderação, sendo definido em cada caso concreto mediante a aplicação da proporcionalidade.",
+        "e": "o núcleo essencial é protegido apenas em relação aos direitos sociais, nunca quanto aos direitos de liberdade."
+      },
+      "gabarito": "d",
+      "comentario": "Na doutrina do conteúdo essencial, a teoria absoluta afirma a existência de um núcleo duro, determinável em abstrato e intransponível; a teoria relativa sustenta que o conteúdo essencial é o que remanesce após a ponderação, aferido caso a caso pela proporcionalidade (posição associada a Robert Alexy)."
+    },
+    {
+      "id": "dh-122",
+      "assunto": "Tratados de direitos humanos em face da CF/1988",
+      "origem": "fcc",
+      "enunciado": "Nos termos do art. 4º da Constituição Federal, a República Federativa do Brasil rege-se nas suas relações internacionais, entre outros, pelos princípios da",
+      "alternativas": {
+        "a": "garantia do desenvolvimento nacional, erradicação da pobreza e redução das desigualdades regionais.",
+        "b": "soberania, cidadania, valores sociais do trabalho e da livre-iniciativa.",
+        "c": "não intervenção, defesa da paz, concessão de extradição de nacionais e prevalência dos tratados sobre a Constituição.",
+        "d": "prevalência dos direitos humanos, dignidade da pessoa humana, soberania e pluralismo político.",
+        "e": "prevalência dos direitos humanos, autodeterminação dos povos, repúdio ao terrorismo e ao racismo e concessão de asilo político."
+      },
+      "gabarito": "e",
+      "comentario": "Art. 4º da CF: independência nacional; prevalência dos direitos humanos; autodeterminação dos povos; não-intervenção; igualdade entre os Estados; defesa da paz; solução pacífica dos conflitos; repúdio ao terrorismo e ao racismo; cooperação entre os povos para o progresso da humanidade; e concessão de asilo político. Soberania, cidadania, dignidade, valores sociais do trabalho e da livre-iniciativa e pluralismo político são fundamentos (art. 1º); desenvolvimento nacional e erradicação da pobreza são objetivos (art. 3º)."
+    },
+    {
+      "id": "dh-123",
+      "assunto": "Tratados de direitos humanos em face da CF/1988",
+      "origem": "inedita",
+      "enunciado": "Defensor de direitos humanos foi assassinado em determinado Estado da federação, e há indícios de que as autoridades locais vêm se omitindo na apuração do crime, com risco de responsabilização internacional do Brasil. Quanto ao incidente de deslocamento de competência (art. 109, § 5º, da CF), é correto afirmar:",
+      "alternativas": {
+        "a": "Pode ser suscitado pelo Procurador-Geral de Justiça do Estado, perante o Supremo Tribunal Federal, apenas após o recebimento da denúncia.",
+        "b": "Desloca a competência para a Justiça Federal somente na fase de execução penal, preservada a competência estadual para o processo de conhecimento.",
+        "c": "Pode ser suscitado pela vítima ou por seus familiares, perante o Tribunal Regional Federal com jurisdição sobre o local do fato.",
+        "d": "Opera automaticamente em toda hipótese de grave violação de direitos humanos, independentemente de decisão judicial.",
+        "e": "Pode ser suscitado pelo Procurador-Geral da República, perante o Superior Tribunal de Justiça, em qualquer fase do inquérito ou processo, exigindo a jurisprudência do STJ, além da grave violação de direitos humanos, o risco de descumprimento de obrigações internacionais e a demonstração de incapacidade ou ineficácia das instâncias locais."
+      },
+      "gabarito": "e",
+      "comentario": "Art. 109, § 5º, da CF (EC 45/2004): nas hipóteses de grave violação de direitos humanos, o Procurador-Geral da República, para assegurar o cumprimento de obrigações decorrentes de tratados de direitos humanos de que o Brasil seja parte, poderá suscitar, perante o STJ, em qualquer fase do inquérito ou processo, incidente de deslocamento de competência para a Justiça Federal. O STJ (IDC 1 – caso Dorothy Stang; IDC 2 – caso Manoel Mattos) exige grave violação, risco de responsabilização internacional e incapacidade/ineficácia das instâncias locais, tratando o deslocamento como medida excepcional."
+    },
+    {
+      "id": "dh-124",
+      "assunto": "Tratados de direitos humanos em face da CF/1988",
+      "origem": "fcc",
+      "enunciado": "Considere as seguintes afirmações à luz da Constituição Federal:\nI. As normas definidoras dos direitos e garantias fundamentais têm aplicação imediata.\nII. O Brasil se submete à jurisdição de Tribunal Penal Internacional a cuja criação tenha manifestado adesão.\nIII. Os tratados e convenções internacionais sobre direitos humanos aprovados, em cada Casa do Congresso Nacional, em turno único, por maioria absoluta, serão equivalentes às emendas constitucionais.\nEstá correto o que se afirma em",
+      "alternativas": {
+        "a": "II e III, apenas.",
+        "b": "III, apenas.",
+        "c": "I, II e III.",
+        "d": "I e II, apenas.",
+        "e": "I, apenas."
+      },
+      "gabarito": "d",
+      "comentario": "I – correta: art. 5º, § 1º, da CF. II – correta: art. 5º, § 4º, incluído pela EC 45/2004. III – incorreta: o art. 5º, § 3º, exige aprovação em cada Casa do Congresso, em dois turnos, por três quintos dos votos dos respectivos membros."
+    },
+    {
+      "id": "dh-125",
+      "assunto": "Controle de convencionalidade",
+      "origem": "fcc",
+      "enunciado": "No caso Gomes Lund e outros (“Guerrilha do Araguaia”) vs. Brasil (2010), a Corte Interamericana de Direitos Humanos",
+      "alternativas": {
+        "a": "declarou-se incompetente, por entender que a revisão de decisão do STF a converteria em quarta instância recursal.",
+        "b": "entendeu que os crimes praticados durante a ditadura militar estavam prescritos, limitando a condenação à reparação pecuniária.",
+        "c": "reconheceu a compatibilidade da Lei de Anistia com a Convenção Americana, em deferência ao julgamento do STF na ADPF 153.",
+        "d": "considerou que as disposições da Lei de Anistia brasileira que impedem a investigação e a sanção de graves violações de direitos humanos são incompatíveis com a Convenção Americana e carecem de efeitos jurídicos, embora o STF, na ADPF 153, tivesse reconhecido a validade da lei.",
+        "e": "condenou o Brasil exclusivamente com base na Declaração Universal dos Direitos Humanos, por não ter o país reconhecido a jurisdição contenciosa da Corte."
+      },
+      "gabarito": "d",
+      "comentario": "No caso Gomes Lund (sentença de 24/11/2010), a Corte IDH concluiu que as disposições da Lei de Anistia (Lei 6.683/1979) que impedem a investigação e sanção de graves violações de direitos humanos são incompatíveis com a Convenção Americana e carecem de efeitos jurídicos, exercendo controle de convencionalidade. Meses antes, o STF, na ADPF 153 (abril/2010), havia julgado a lei compatível com a CF/1988. O Brasil reconheceu a jurisdição contenciosa da Corte em 1998."
     }
   ]
 }

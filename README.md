@@ -1,6 +1,6 @@
 # Caderno TRT-8 — estudos para o concurso (banca FCC)
 
-App de estudo com **443 questões** de múltipla escolha (a–e) sobre o conteúdo programático do concurso do TRT da 8ª Região. São 354 no estilo FCC (80%) e 89 inéditas (20%), com gabarito comentado.
+App de estudo com **826 questões** de múltipla escolha (a–e) sobre o conteúdo programático do concurso do TRT da 8ª Região. São 660 no estilo FCC (80%) e 166 inéditas (20%), com gabarito comentado.
 
 **Site:** https://icarosilvafk.github.io/estudos-concurso/
 
@@ -29,12 +29,12 @@ O progresso fica salvo no navegador de cada pessoa. Em **Painel → Seus dados**
 
 | Disciplina | Questões |
 |---|---|
-| Língua Portuguesa | 80 |
-| Matemática e Raciocínio Lógico | 80 |
-| Noções de Informática | 80 |
-| Noções de Legislação (Código de Ética, Regimento Interno do TRT-8, Res. CNJ 400/351/492, Res. CSJT 360/368, Estatuto de Roma, Carta da ONU) | 73 |
-| Noções de Direitos Humanos | 70 |
-| Direitos das Pessoas com Deficiência (incl. Res. CSJT 386/2024) | 60 |
+| Língua Portuguesa | 150 |
+| Matemática e Raciocínio Lógico | 150 |
+| Noções de Informática | 140 |
+| Noções de Legislação (Código de Ética, Regimento Interno do TRT-8, Res. CNJ 400/351/492, Res. CSJT 360/368, Estatuto de Roma, Carta da ONU) | 141 |
+| Noções de Direitos Humanos | 125 |
+| Direitos das Pessoas com Deficiência (incl. Res. CSJT 386/2024 e Convenção da ONU) | 120 |
 
 O arquivo [BANCO-DE-QUESTOES.md](BANCO-DE-QUESTOES.md) traz todas as questões em formato de caderno, com **gabarito ao final**.
 

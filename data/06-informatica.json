@@ -1201,6 +1201,906 @@
       },
       "gabarito": "a",
       "comentario": "Windows + I abre Configurações e Windows + E abre o Explorador de Arquivos."
+    },
+    {
+      "id": "info-081",
+      "assunto": "Planilhas Google – funções lógicas",
+      "origem": "fcc",
+      "enunciado": "No Planilhas Google, as células A2 a A6 contêm, respectivamente, as notas 9,5; 7; 6,9; 8 e 4,5. Na célula B2 foi digitada a fórmula =SE(A2>=9;\"Ótimo\";SE(A2>=7;\"Bom\";SE(A2>=5;\"Regular\";\"Insuficiente\"))), que foi copiada para B3:B6. Os valores exibidos em B2, B3, B4, B5 e B6 são, respectivamente:",
+      "alternativas": {
+        "a": "Ótimo, Bom, Bom, Bom e Regular.",
+        "b": "Ótimo, Bom, Regular, Bom e Insuficiente.",
+        "c": "Ótimo, Regular, Regular, Bom e Insuficiente.",
+        "d": "Bom, Bom, Regular, Bom e Insuficiente.",
+        "e": "Ótimo, Bom, Regular, Ótimo e Regular."
+      },
+      "gabarito": "b",
+      "comentario": "Testes em ordem: 9,5≥9 → Ótimo; 7≥7 → Bom; 6,9 não atinge 7, mas ≥5 → Regular; 8 → Bom; 4,5<5 → Insuficiente."
+    },
+    {
+      "id": "info-082",
+      "assunto": "Planilhas Google – funções lógicas",
+      "origem": "inedita",
+      "enunciado": "Em uma planilha do Planilhas Google, as colunas A e B registram idade e tempo de contribuição (em anos) de três servidores: linha 2 (62; 20), linha 3 (58; 36) e linha 4 (55; 30). Em C2 foi inserida a fórmula =SE(OU(A2>=60;B2>=35);\"Apto\";\"Inapto\"), copiada para C3 e C4. Os resultados em C2, C3 e C4 são, respectivamente:",
+      "alternativas": {
+        "a": "Apto, Inapto e Inapto.",
+        "b": "Inapto, Apto e Inapto.",
+        "c": "Apto, Apto e Apto.",
+        "d": "Apto, Apto e Inapto.",
+        "e": "Inapto, Inapto e Inapto."
+      },
+      "gabarito": "d",
+      "comentario": "OU retorna VERDADEIRO se ao menos um teste for verdadeiro: linha 2 (62≥60) e linha 3 (36≥35) são Apto; na linha 4 nenhuma condição é atendida (55<60 e 30<35), resultando Inapto."
+    },
+    {
+      "id": "info-083",
+      "assunto": "Planilhas Google – funções",
+      "origem": "fcc",
+      "enunciado": "No Planilhas Google, o intervalo B2:B7 contém os valores 1250, 980, 2310, 1740, 860 e 1500. A fórmula =MÁXIMO(B2:B7)-MÍNIMO(B2:B7) retorna:",
+      "alternativas": {
+        "a": "1450",
+        "b": "1330",
+        "c": "1350",
+        "d": "810",
+        "e": "2310"
+      },
+      "gabarito": "a",
+      "comentario": "MÁXIMO = 2310 e MÍNIMO = 860; 2310 − 860 = 1450."
+    },
+    {
+      "id": "info-084",
+      "assunto": "Planilhas Google – funções",
+      "origem": "fcc",
+      "enunciado": "No Planilhas Google, a célula A2 contém o texto TRT e a célula B2 contém o número 8. A fórmula =CONCATENAR(A2;\" \";B2;\"ª Região\") exibe:",
+      "alternativas": {
+        "a": "TRT8ª Região",
+        "b": "TRT 8 ª Região",
+        "c": "A2 B2ª Região",
+        "d": "TRT 8ª Região",
+        "e": "#VALOR!"
+      },
+      "gabarito": "d",
+      "comentario": "CONCATENAR une os argumentos na ordem: \"TRT\" + \" \" + \"8\" + \"ª Região\" = \"TRT 8ª Região\". O número é convertido em texto, sem erro; o mesmo resultado seria obtido com =A2&\" \"&B2&\"ª Região\"."
+    },
+    {
+      "id": "info-085",
+      "assunto": "Planilhas Google – referências",
+      "origem": "fcc",
+      "enunciado": "Em uma planilha do Planilhas Google, a célula C3 contém a fórmula =A$1+$B2. Essa célula foi copiada e colada na célula E5. A fórmula resultante em E5 é:",
+      "alternativas": {
+        "a": "=A$1+$B2",
+        "b": "=C$1+$B4",
+        "c": "=C$3+$B4",
+        "d": "=C$1+$D4",
+        "e": "=A$3+$D2"
+      },
+      "gabarito": "b",
+      "comentario": "De C3 para E5 há deslocamento de 2 colunas e 2 linhas. Em A$1 só a coluna é relativa (A→C) e a linha 1 fica fixa; em $B2 a coluna B fica fixa e a linha é relativa (2→4): =C$1+$B4."
+    },
+    {
+      "id": "info-086",
+      "assunto": "Planilhas Google – referências",
+      "origem": "fcc",
+      "enunciado": "No Planilhas Google, B2:B5 contêm os valores 200, 350, 120 e 480, e a célula F1 contém 10%. Em C2 foi digitada a fórmula =B2-B2*$F$1, que foi copiada para C3:C5 com a alça de preenchimento. A fórmula em C5 e o valor exibido nela são, respectivamente:",
+      "alternativas": {
+        "a": "=B5-B5*$F$4 e 432.",
+        "b": "=B5-B5*F4 e 480.",
+        "c": "=B2-B2*$F$1 e 180.",
+        "d": "=B5-B5*$F$1 e 432.",
+        "e": "=B5-B5*$F$1 e 48."
+      },
+      "gabarito": "d",
+      "comentario": "A referência relativa B2 vira B5, e a absoluta $F$1 permanece fixa. Resultado: 480 − 480 × 10% = 480 − 48 = 432."
+    },
+    {
+      "id": "info-087",
+      "assunto": "Planilhas Google – funções",
+      "origem": "fcc",
+      "enunciado": "No Planilhas Google, as células A1, A2, A3 e A4 contêm, respectivamente, 3, 7, o texto \"x\" e 10; a célula C2 contém 4. A fórmula =SOMA(A1:A4;C2;5) retorna:",
+      "alternativas": {
+        "a": "29",
+        "b": "24",
+        "c": "20",
+        "d": "#VALOR!",
+        "e": "25"
+      },
+      "gabarito": "a",
+      "comentario": "Em um intervalo, SOMA ignora texto: 3 + 7 + 10 = 20; somando C2 (4) e a constante 5, o resultado é 29."
+    },
+    {
+      "id": "info-088",
+      "assunto": "Planilhas Google – funções",
+      "origem": "fcc",
+      "enunciado": "No Planilhas Google, as células A1 a A6 contêm, respectivamente: 8, 0, (célula vazia), 6, o texto \"NC\" e 10. A fórmula =MÉDIA(A1:A6) retorna:",
+      "alternativas": {
+        "a": "6",
+        "b": "4",
+        "c": "4,8",
+        "d": "8",
+        "e": "#DIV/0!"
+      },
+      "gabarito": "a",
+      "comentario": "MÉDIA ignora células vazias e textos do intervalo, mas considera o zero: (8 + 0 + 6 + 10) / 4 = 24 / 4 = 6."
+    },
+    {
+      "id": "info-089",
+      "assunto": "Planilhas Google – funções",
+      "origem": "fcc",
+      "enunciado": "No Planilhas Google, o intervalo B2:B9 contém os textos: \"Processo arquivado\", \"Recurso ordinário\", \"Processo ativo\", \"Petição inicial\", \"Processo suspenso\", \"Recurso de revista\", \"Processo ativo\" e \"Agravo\". A fórmula =CONT.SE(B2:B9;\"Processo*\") retorna:",
+      "alternativas": {
+        "a": "2",
+        "b": "4",
+        "c": "3",
+        "d": "1",
+        "e": "8"
+      },
+      "gabarito": "b",
+      "comentario": "O curinga * representa qualquer sequência de caracteres, de modo que são contadas as células que começam com \"Processo\": arquivado, ativo, suspenso e ativo, totalizando 4."
+    },
+    {
+      "id": "info-090",
+      "assunto": "Planilhas Google – funções",
+      "origem": "fcc",
+      "enunciado": "No Planilhas Google, o intervalo C2:C8 contém os valores 320, 500, 780, 150, 1200, 499 e 610, e a célula F1 contém 500. A fórmula =SOMASE(C2:C8;\">=\"&F1) retorna:",
+      "alternativas": {
+        "a": "3090",
+        "b": "2590",
+        "c": "2590,5",
+        "d": "4059",
+        "e": "3589"
+      },
+      "gabarito": "a",
+      "comentario": "O critério \">=\"&F1 equivale a \">=500\". Somam-se 500 + 780 + 1200 + 610 = 3090; 320, 150 e 499 ficam de fora."
+    },
+    {
+      "id": "info-091",
+      "assunto": "Planilhas Google – funções de pesquisa",
+      "origem": "inedita",
+      "enunciado": "No Planilhas Google, uma tabela de faixas ocupa A2:B5, com a coluna A em ordem crescente: (0; 0%), (2000; 7,5%), (3000; 15%) e (4500; 22,5%). A fórmula =PROCV(3800;A2:B5;2;VERDADEIRO) retorna:",
+      "alternativas": {
+        "a": "22,5%",
+        "b": "7,5%",
+        "c": "#N/D",
+        "d": "0%",
+        "e": "15%"
+      },
+      "gabarito": "e",
+      "comentario": "Com o último argumento VERDADEIRO, a correspondência é aproximada: como 3800 não existe na coluna A, usa-se o maior valor menor ou igual a ele (3000), e a função retorna a coluna 2 dessa linha, 15%."
+    },
+    {
+      "id": "info-092",
+      "assunto": "Planilhas Google – funções",
+      "origem": "fcc",
+      "enunciado": "No Planilhas Google, a célula A1 contém o valor 1234,567. As fórmulas =ARRED(A1;2) e =ARRED(A1;-2) retornam, respectivamente:",
+      "alternativas": {
+        "a": "1234,56 e 1234,57.",
+        "b": "1234,57 e 1234,6.",
+        "c": "1200 e 1234,57.",
+        "d": "1234,56 e 1300.",
+        "e": "1234,57 e 1200."
+      },
+      "gabarito": "e",
+      "comentario": "Com 2 dígitos, arredonda-se para centésimos: 1234,567 → 1234,57. Com −2, arredonda-se à esquerda da vírgula, para a centena mais próxima: 1234,567 → 1200."
+    },
+    {
+      "id": "info-093",
+      "assunto": "Documentos Google – atalhos",
+      "origem": "fcc",
+      "enunciado": "No Documentos Google, em um computador com Windows, um servidor precisa conferir quantas palavras tem a minuta de um parecer, cujo limite é de 2.000 palavras. Em configuração padrão, a ferramenta adequada e seu atalho são:",
+      "alternativas": {
+        "a": "Formatar > Estatísticas, atalho Ctrl + Shift + W.",
+        "b": "Ferramentas > Contagem de palavras, atalho Ctrl + Shift + C.",
+        "c": "Inserir > Contador, atalho Ctrl + Alt + W.",
+        "d": "Ferramentas > Ortografia e gramática, atalho Ctrl + Alt + X.",
+        "e": "Arquivo > Detalhes, atalho Ctrl + Shift + D."
+      },
+      "gabarito": "b",
+      "comentario": "A contagem de palavras fica em Ferramentas > Contagem de palavras, com atalho Ctrl + Shift + C no Windows. O recurso também pode exibir a contagem durante a digitação."
+    },
+    {
+      "id": "info-094",
+      "assunto": "Documentos Google – recursos",
+      "origem": "fcc",
+      "enunciado": "Um servidor deseja ditar um texto ao microfone para que seja transcrito no Documentos Google, usando o navegador Chrome. O recurso adequado, e seu atalho no Windows, é:",
+      "alternativas": {
+        "a": "Explorar, no menu Ferramentas, com atalho Ctrl + Alt + Shift + I.",
+        "b": "Digitação por voz, no menu Ferramentas, com atalho Ctrl + Shift + S.",
+        "c": "Ditado do Windows, ativado somente pelo menu Inserir > Áudio.",
+        "d": "Legendas, no menu Ver, com atalho Ctrl + Shift + L.",
+        "e": "Leitor de tela, no menu Acessibilidade, com atalho Ctrl + Alt + Z."
+      },
+      "gabarito": "b",
+      "comentario": "A Digitação por voz do Documentos Google fica em Ferramentas > Digitação por voz (atalho Ctrl + Shift + S) e transcreve a fala captada pelo microfone."
+    },
+    {
+      "id": "info-095",
+      "assunto": "Documentos Google – formatação",
+      "origem": "fcc",
+      "enunciado": "No Documentos Google, em um computador com Windows, um revisor quer aplicar a um parágrafo a mesma formatação de texto já usada em outro trecho, sem redigitar nada. Em configuração padrão, ele pode selecionar o trecho de origem e usar os atalhos:",
+      "alternativas": {
+        "a": "Ctrl + C e Ctrl + V, que copiam apenas a formatação, sem o texto.",
+        "b": "Ctrl + Shift + V, que copia a formatação do trecho selecionado.",
+        "c": "Ctrl + Alt + C para copiar a formatação e, após selecionar o destino, Ctrl + Alt + V para colar a formatação.",
+        "d": "Ctrl + \\ para copiar a formatação e Ctrl + Enter para colá-la.",
+        "e": "Alt + F para copiar e Alt + V para colar a formatação."
+      },
+      "gabarito": "c",
+      "comentario": "Ctrl + Alt + C copia e Ctrl + Alt + V cola a formatação do texto, como o ícone de pincel (Pintar formatação). Ctrl + Shift + V cola sem formatação e Ctrl + \\ limpa a formatação."
+    },
+    {
+      "id": "info-096",
+      "assunto": "Documentos Google – configuração da página",
+      "origem": "inedita",
+      "enunciado": "No Documentos Google, um servidor alterou um documento para o formato Sem páginas, por meio de Arquivo > Configuração da página. Nesse formato:",
+      "alternativas": {
+        "a": "o documento passa a ser somente leitura para os colaboradores.",
+        "b": "o conteúdo é dividido automaticamente em páginas de tamanho A4, com numeração obrigatória.",
+        "c": "o arquivo é convertido em uma página web publicada, acessível a qualquer pessoa.",
+        "d": "as imagens e tabelas são removidas definitivamente do documento.",
+        "e": "o texto flui continuamente, sem quebras de página, e cabeçalhos, rodapés, números de página e marcas-d'água deixam de ser exibidos."
+      },
+      "gabarito": "e",
+      "comentario": "No formato Sem páginas não há quebras de página, e cabeçalhos, rodapés, números de página e marcas-d'água não aparecem. Ao voltar ao formato com páginas, esses elementos são exibidos de novo."
+    },
+    {
+      "id": "info-097",
+      "assunto": "Documentos Google – arquivos",
+      "origem": "fcc",
+      "enunciado": "No Documentos Google, o menu Arquivo > Fazer download permite salvar uma cópia do documento em diversos formatos. NÃO é um formato oferecido nessa opção:",
+      "alternativas": {
+        "a": "Microsoft Word (.docx).",
+        "b": "Documento PDF (.pdf).",
+        "c": "Formato OpenDocument (.odt).",
+        "d": "Texto simples (.txt).",
+        "e": "Apresentação do Microsoft PowerPoint (.pptx)."
+      },
+      "gabarito": "e",
+      "comentario": "O Documentos Google exporta, entre outros, para .docx, .odt, .rtf, .pdf, .txt, .epub e página web. O formato .pptx é oferecido pelo Apresentações Google, não pelo Documentos."
+    },
+    {
+      "id": "info-098",
+      "assunto": "Apresentações Google – atalhos",
+      "origem": "fcc",
+      "enunciado": "No Apresentações Google, em um computador com Windows, as combinações de teclas que, respectivamente, inserem um novo slide e duplicam o slide selecionado são:",
+      "alternativas": {
+        "a": "Ctrl + N e Ctrl + C.",
+        "b": "Ctrl + Enter e Ctrl + Shift + D.",
+        "c": "Ctrl + Shift + N e Ctrl + M.",
+        "d": "Ctrl + D e Ctrl + M.",
+        "e": "Ctrl + M e Ctrl + D."
+      },
+      "gabarito": "e",
+      "comentario": "No Apresentações Google, Ctrl + M cria um novo slide e Ctrl + D duplica o slide selecionado. Ctrl + N, no navegador, abre uma nova janela."
+    },
+    {
+      "id": "info-099",
+      "assunto": "Apresentações Google – temas",
+      "origem": "fcc",
+      "enunciado": "Um servidor quer alterar, de uma só vez, a fonte padrão, as cores do tema e o logotipo exibido em todos os slides de uma apresentação no Apresentações Google, em vez de editar slide por slide. Para isso, deve usar:",
+      "alternativas": {
+        "a": "Inserir > Cabeçalho e rodapé.",
+        "b": "Ferramentas > Explorar.",
+        "c": "Slide > Editar tema, que abre o editor do tema com o slide mestre e os layouts.",
+        "d": "Formatar > Colunas.",
+        "e": "Arquivo > Importar slides."
+      },
+      "gabarito": "c",
+      "comentario": "Slide > Editar tema abre o editor do tema (slide mestre e layouts). As alterações feitas ali valem para todos os slides que usam esse tema."
+    },
+    {
+      "id": "info-100",
+      "assunto": "Apresentações Google – atalhos",
+      "origem": "inedita",
+      "enunciado": "No Apresentações Google, em um computador com Windows e configuração padrão, a combinação de teclas que inicia a apresentação dos slides é:",
+      "alternativas": {
+        "a": "F7",
+        "b": "Ctrl + Shift + P",
+        "c": "Alt + F4",
+        "d": "Ctrl + Shift + F",
+        "e": "Ctrl + F5"
+      },
+      "gabarito": "e",
+      "comentario": "A Central de Ajuda do Google lista Ctrl + F5 como o atalho de \"Apresentar slides\" no Windows. Alt + F4 fecha a janela ativa."
+    },
+    {
+      "id": "info-101",
+      "assunto": "Gmail – envio de mensagens",
+      "origem": "fcc",
+      "enunciado": "Um servidor enviará, pelo Gmail, uma comunicação a vários advogados e não quer que cada destinatário veja os endereços dos demais. Ele deve inserir os endereços no campo:",
+      "alternativas": {
+        "a": "Cc, pois esse campo oculta automaticamente os endereços.",
+        "b": "Para, desde que separe os endereços por ponto e vírgula.",
+        "c": "Cco, pois os destinatários incluídos nele não são visíveis aos demais destinatários.",
+        "d": "Responder a, que envia uma cópia individual a cada advogado.",
+        "e": "Assunto, precedendo cada endereço com o caractere @."
+      },
+      "gabarito": "c",
+      "comentario": "Os destinatários em Cco (cópia carbono oculta) recebem a mensagem sem que os demais vejam seus endereços. Os endereços em Para e em Cc ficam visíveis a todos."
+    },
+    {
+      "id": "info-102",
+      "assunto": "Gmail – modo confidencial",
+      "origem": "fcc",
+      "enunciado": "Ao enviar uma mensagem no modo confidencial do Gmail, o remetente:",
+      "alternativas": {
+        "a": "garante que o destinatário não consiga fazer capturas de tela nem fotografar a mensagem.",
+        "b": "criptografa a mensagem com o certificado digital do destinatário, obrigatoriamente emitido pela ICP-Brasil.",
+        "c": "pode definir uma data de validade para a mensagem e exigir uma senha enviada por SMS, ficando desativadas para o destinatário as opções de encaminhar, copiar, baixar e imprimir.",
+        "d": "só pode enviar a mensagem a usuários que também utilizem o Gmail.",
+        "e": "perde o direito de revogar o acesso depois do envio."
+      },
+      "gabarito": "c",
+      "comentario": "O modo confidencial permite definir validade, exigir senha por SMS e revogar o acesso, além de desativar encaminhar, copiar, baixar e imprimir. Segundo o Google, ele não impede capturas de tela ou fotos da mensagem."
+    },
+    {
+      "id": "info-103",
+      "assunto": "Gmail – organização de mensagens",
+      "origem": "fcc",
+      "enunciado": "No Gmail, um servidor recebeu uma mensagem que só poderá tratar na próxima segunda-feira e deseja que ela saia da Caixa de entrada e volte a aparecer no topo da caixa nesse dia, em horário escolhido. O recurso adequado é:",
+      "alternativas": {
+        "a": "Arquivar.",
+        "b": "Silenciar.",
+        "c": "Adiar.",
+        "d": "Marcar como importante.",
+        "e": "Denunciar spam."
+      },
+      "gabarito": "c",
+      "comentario": "Adiar retira a mensagem da Caixa de entrada temporariamente (ela fica em \"Adiados\") e a devolve na data e na hora escolhidas. Arquivar não programa o retorno."
+    },
+    {
+      "id": "info-104",
+      "assunto": "Gmail – anexos",
+      "origem": "fcc",
+      "enunciado": "Um servidor, usando uma conta pessoal do Gmail, tenta anexar a uma mensagem um vídeo de 60 MB. Nessa situação:",
+      "alternativas": {
+        "a": "o Gmail divide o arquivo automaticamente em três anexos de 20 MB.",
+        "b": "o arquivo é compactado em .zip até ficar com menos de 25 MB.",
+        "c": "a mensagem é enviada normalmente, pois o Gmail não tem limite de tamanho para anexos.",
+        "d": "como o tamanho excede o limite de 25 MB para anexos, o arquivo é incluído na mensagem como link do Google Drive.",
+        "e": "o Gmail converte o vídeo em PDF para reduzir o tamanho."
+      },
+      "gabarito": "d",
+      "comentario": "Em contas pessoais, o limite de anexos é de 25 MB. Acima disso, o Gmail coloca o arquivo como link do Google Drive no corpo da mensagem; em contas do Workspace, o administrador pode definir outros limites."
+    },
+    {
+      "id": "info-105",
+      "assunto": "Gmail – configurações",
+      "origem": "inedita",
+      "enunciado": "Um servidor sairá de férias e deseja que o Gmail responda automaticamente às mensagens recebidas no período, informando seu retorno. Para isso, ele deve acessar:",
+      "alternativas": {
+        "a": "Configurações > guia Filtros, e criar um filtro que exclua as mensagens recebidas.",
+        "b": "Configurações > Ver todas as configurações > guia Geral, e ativar a Resposta automática, definindo período, assunto e mensagem.",
+        "c": "o Google Agenda, pois a resposta só pode ser configurada nele.",
+        "d": "a guia Encaminhamento e POP/IMAP, e desativar o recebimento de mensagens.",
+        "e": "a opção Adiar de cada mensagem recebida durante as férias."
+      },
+      "gabarito": "b",
+      "comentario": "A resposta automática (de férias) fica na guia Geral das configurações do Gmail, onde se definem o primeiro e o último dia, o assunto e o texto da mensagem."
+    },
+    {
+      "id": "info-106",
+      "assunto": "Gmail – organização de mensagens",
+      "origem": "fcc",
+      "enunciado": "No Gmail, ao arquivar uma mensagem da Caixa de entrada, ela:",
+      "alternativas": {
+        "a": "é enviada à Lixeira e excluída definitivamente após 30 dias.",
+        "b": "é excluída definitivamente de imediato.",
+        "c": "sai da Caixa de entrada, mas continua disponível em Todos os e-mails, podendo ser encontrada pela pesquisa e mantendo seus marcadores.",
+        "d": "é movida para a pasta Spam.",
+        "e": "é baixada para o computador e removida do servidor."
+      },
+      "gabarito": "c",
+      "comentario": "Arquivar apenas retira o marcador Caixa de entrada; a mensagem fica em Todos os e-mails. A exclusão é que envia a mensagem para a Lixeira, onde fica por 30 dias."
+    },
+    {
+      "id": "info-107",
+      "assunto": "Google Agenda – compartilhamento",
+      "origem": "fcc",
+      "enunciado": "Uma chefe de gabinete quer compartilhar sua agenda no Google Agenda com a equipe para que todos saibam quando ela está ocupada, sem que vejam títulos, locais e descrições dos compromissos. A permissão adequada é:",
+      "alternativas": {
+        "a": "Ver detalhes do evento.",
+        "b": "Fazer alterações e ver detalhes do evento.",
+        "c": "Fazer alterações e gerenciar o compartilhamento.",
+        "d": "Fazer alterações (ver eventos particulares como disponíveis/ocupados).",
+        "e": "Ver apenas os níveis disponível/ocupado (ocultar detalhes)."
+      },
+      "gabarito": "e",
+      "comentario": "Essa permissão mostra apenas os horários ocupados, sem nomes nem detalhes dos eventos. As demais exibem detalhes e/ou permitem editar a agenda."
+    },
+    {
+      "id": "info-108",
+      "assunto": "Google Agenda – convites",
+      "origem": "inedita",
+      "enunciado": "Um servidor recebeu, no Gmail, o convite para uma reunião criada no Google Agenda. Para informar ao organizador se vai participar, o convidado pode responder com as opções:",
+      "alternativas": {
+        "a": "apenas Aceitar, pois recusar exige o envio de e-mail separado.",
+        "b": "Confirmar ou Excluir, e esta última remove o evento da agenda de todos.",
+        "c": "Encaminhar ou Arquivar, únicas opções disponíveis no Gmail.",
+        "d": "Sim, Não ou Talvez, e a resposta fica visível ao organizador na lista de convidados do evento.",
+        "e": "Ocupado ou Disponível, que alteram o horário do evento."
+      },
+      "gabarito": "d",
+      "comentario": "Os convites do Google Agenda podem ser respondidos com Sim, Não ou Talvez, e a resposta de cada convidado aparece para o organizador na lista de participantes."
+    },
+    {
+      "id": "info-109",
+      "assunto": "Google Drive – compartilhamento e permissões",
+      "origem": "fcc",
+      "enunciado": "Em uma conta de trabalho do Google Workspace, um servidor que será removido da unidade deseja que um colega passe a ser o proprietário de uma planilha que ele criou no Google Drive. É correto afirmar:",
+      "alternativas": {
+        "a": "basta conceder ao colega o papel de Editor, que equivale a proprietário.",
+        "b": "a transferência de propriedade só pode ser feita pelo suporte do Google.",
+        "c": "o colega precisa fazer download do arquivo e enviá-lo novamente, já que não existe transferência de propriedade.",
+        "d": "a propriedade pode ser transferida para qualquer conta pessoal do Gmail, fora da organização.",
+        "e": "o proprietário pode usar Transferir propriedade na janela Compartilhar, desde que o colega já tenha acesso ao arquivo e pertença à mesma organização."
+      },
+      "gabarito": "e",
+      "comentario": "A opção Transferir propriedade fica na janela Compartilhar e vale para quem já tem acesso ao arquivo. Em contas de trabalho ou escola, só é possível transferir para pessoas da mesma organização."
+    },
+    {
+      "id": "info-110",
+      "assunto": "Google Drive – versões de arquivos",
+      "origem": "fcc",
+      "enunciado": "Um PDF armazenado no Google Drive foi substituído várias vezes por meio de Gerenciar versões. Sobre as versões anteriores desse tipo de arquivo (que não é Documento, Planilha ou Apresentação Google), é correto afirmar:",
+      "alternativas": {
+        "a": "são mantidas indefinidamente, sem qualquer limite.",
+        "b": "não podem ser baixadas, apenas visualizadas.",
+        "c": "são apagadas imediatamente quando uma nova versão é enviada.",
+        "d": "ficam guardadas na Lixeira, de onde podem ser restauradas por até um ano.",
+        "e": "podem ser excluídas automaticamente após 30 dias ou quando houver 100 versões mais recentes, salvo se marcadas com a opção Manter para sempre."
+      },
+      "gabarito": "e",
+      "comentario": "Em arquivos que não são do Google, uma versão pode ser excluída depois de 30 dias ou quando houver 100 versões mais recentes. A opção Manter para sempre, em Gerenciar versões, impede a exclusão."
+    },
+    {
+      "id": "info-111",
+      "assunto": "Segurança da informação – pragas virtuais",
+      "origem": "fcc",
+      "enunciado": "O conjunto de programas e técnicas que permite esconder e assegurar a presença de um invasor ou de outro código malicioso em um computador comprometido, dificultando sua detecção por antivírus e pelo próprio usuário, é denominado:",
+      "alternativas": {
+        "a": "adware.",
+        "b": "rootkit.",
+        "c": "worm.",
+        "d": "hoax.",
+        "e": "sniffer."
+      },
+      "gabarito": "b",
+      "comentario": "O rootkit serve para esconder a presença de um invasor ou de um malware, por exemplo ocultando arquivos, processos e conexões. Adware exibe propaganda e hoax é um boato."
+    },
+    {
+      "id": "info-112",
+      "assunto": "Segurança da informação – pragas virtuais",
+      "origem": "fcc",
+      "enunciado": "Diversos computadores infectados passaram a ser controlados remotamente por um atacante, que os utilizou em conjunto para enviar spam e realizar um ataque de negação de serviço distribuído (DDoS) contra o portal de um órgão público. Essa rede de computadores infectados é denominada:",
+      "alternativas": {
+        "a": "intranet.",
+        "b": "botnet.",
+        "c": "VPN.",
+        "d": "honeypot.",
+        "e": "DMZ."
+      },
+      "gabarito": "b",
+      "comentario": "Botnet é uma rede de computadores infectados por bots (os \"zumbis\"), comandados remotamente para ações como envio de spam e ataques DDoS."
+    },
+    {
+      "id": "info-113",
+      "assunto": "Segurança da informação – pragas virtuais",
+      "origem": "fcc",
+      "enunciado": "Após uma invasão, o atacante instalou em um servidor um programa que permite seu retorno posterior ao equipamento, sem passar pelos métodos normais de autenticação. Esse tipo de código malicioso é o:",
+      "alternativas": {
+        "a": "spam.",
+        "b": "firewall.",
+        "c": "keylogger.",
+        "d": "backdoor.",
+        "e": "cookie."
+      },
+      "gabarito": "d",
+      "comentario": "O backdoor garante ao invasor o retorno ao equipamento comprometido, contornando a autenticação. O keylogger, por outro lado, captura o que é digitado."
+    },
+    {
+      "id": "info-114",
+      "assunto": "Segurança da informação – spyware",
+      "origem": "fcc",
+      "enunciado": "Para dificultar a ação de keyloggers, alguns sites de bancos passaram a exibir teclados virtuais na tela. Em resposta, criminosos desenvolveram um tipo de spyware que armazena a posição do cursor e imagens da tela quando o mouse é clicado. Esse spyware é denominado:",
+      "alternativas": {
+        "a": "ransomware.",
+        "b": "adware.",
+        "c": "screenlogger.",
+        "d": "bot.",
+        "e": "rootkit."
+      },
+      "gabarito": "c",
+      "comentario": "O screenlogger registra a posição do cursor e capturas da tela no momento do clique, o que permite obter a senha digitada em um teclado virtual."
+    },
+    {
+      "id": "info-115",
+      "assunto": "Segurança da informação – backup",
+      "origem": "fcc",
+      "enunciado": "Uma unidade faz backup completo aos domingos e, de segunda a sexta, backups diferenciais ao fim do expediente. Na sexta-feira à tarde, antes do backup do dia, o disco falhou. Para restaurar os dados até a última cópia disponível, serão necessários:",
+      "alternativas": {
+        "a": "apenas o backup diferencial de quinta-feira.",
+        "b": "o backup completo de domingo e todos os diferenciais de segunda a quinta-feira.",
+        "c": "o backup completo de domingo e o backup diferencial de quinta-feira.",
+        "d": "apenas o backup completo de domingo.",
+        "e": "os diferenciais de segunda e de quinta-feira, sem o backup completo."
+      },
+      "gabarito": "c",
+      "comentario": "O diferencial copia tudo o que mudou desde o último backup completo. Por isso, basta o completo de domingo mais o diferencial mais recente (quinta). No incremental, seriam necessários todos os incrementais em sequência."
+    },
+    {
+      "id": "info-116",
+      "assunto": "Segurança da informação – backup",
+      "origem": "inedita",
+      "enunciado": "Comparando os tipos de backup, é correto afirmar:",
+      "alternativas": {
+        "a": "o completo é o mais rápido de executar, pois copia somente os arquivos alterados.",
+        "b": "o incremental costuma ser o mais rápido de executar e o que ocupa menos espaço, mas a restauração exige o último completo e todos os incrementais posteriores.",
+        "c": "o diferencial copia apenas o que mudou desde o último backup incremental.",
+        "d": "o incremental dispensa a existência de um backup completo anterior.",
+        "e": "o diferencial ocupa sempre menos espaço que o incremental, ao longo da semana."
+      },
+      "gabarito": "b",
+      "comentario": "O incremental copia só o que mudou desde o último backup de qualquer tipo, por isso é rápido e pequeno, mas a restauração depende da cadeia inteira. O diferencial cresce até o próximo completo."
+    },
+    {
+      "id": "info-117",
+      "assunto": "Segurança da informação – ransomware",
+      "origem": "fcc",
+      "enunciado": "Como medida para reduzir o impacto de um eventual ataque de ransomware, que torna os arquivos inacessíveis por meio de criptografia, a prática mais eficaz é:",
+      "alternativas": {
+        "a": "manter backups atualizados e testados, com ao menos uma cópia desconectada da rede (offline), de modo que não possa ser criptografada pelo ataque.",
+        "b": "manter os backups apenas em uma pasta mapeada no próprio computador, sempre conectada.",
+        "c": "pagar o resgate imediatamente, o que garante a recuperação dos dados.",
+        "d": "desativar o firewall para que o antivírus analise o tráfego com mais rapidez.",
+        "e": "renomear as extensões dos arquivos para que o ransomware não os reconheça."
+      },
+      "gabarito": "a",
+      "comentario": "Cópias offline ou isoladas da rede não são alcançadas pelo ransomware e permitem recuperar os dados sem pagar resgate. O pagamento não garante a devolução dos arquivos."
+    },
+    {
+      "id": "info-118",
+      "assunto": "Segurança da informação – pragas virtuais",
+      "origem": "fcc",
+      "enunciado": "Relacione os códigos maliciosos às suas descrições.\nI. Cavalo de troia\nII. Keylogger\nIII. Ransomware\nIV. Worm\n\n1. Captura e armazena as teclas digitadas pelo usuário.\n2. Programa que, além das funções aparentes, executa ações maliciosas sem o conhecimento do usuário.\n3. Propaga-se automaticamente pelas redes, explorando vulnerabilidades, sem depender da execução de um arquivo hospedeiro.\n4. Torna os dados inacessíveis, geralmente por criptografia, e exige resgate.\n\nA associação correta é:",
+      "alternativas": {
+        "a": "I-2, II-1, III-4, IV-3.",
+        "b": "I-1, II-2, III-4, IV-3.",
+        "c": "I-2, II-1, III-3, IV-4.",
+        "d": "I-3, II-1, III-4, IV-2.",
+        "e": "I-4, II-3, III-2, IV-1."
+      },
+      "gabarito": "a",
+      "comentario": "Cavalo de troia: programa aparentemente útil que executa ações maliciosas (2). Keylogger: captura teclas (1). Ransomware: sequestro de dados mediante resgate (4). Worm: propagação automática pela rede (3)."
+    },
+    {
+      "id": "info-119",
+      "assunto": "Segurança da informação – criptografia",
+      "origem": "fcc",
+      "enunciado": "Sobre criptografia, é correto afirmar:",
+      "alternativas": {
+        "a": "na criptografia simétrica, a mesma chave é usada para cifrar e decifrar; na assimétrica, usa-se um par de chaves, uma pública e outra privada.",
+        "b": "na criptografia assimétrica, a chave privada deve ser divulgada a todos os interlocutores.",
+        "c": "a criptografia simétrica utiliza obrigatoriamente um par de chaves matematicamente relacionadas.",
+        "d": "criptografia e compactação de arquivos são sinônimos.",
+        "e": "na criptografia assimétrica, o que é cifrado com a chave pública de alguém só pode ser decifrado com essa mesma chave pública."
+      },
+      "gabarito": "a",
+      "comentario": "A criptografia simétrica usa uma única chave secreta compartilhada. A assimétrica usa um par: o que é cifrado com a chave pública do destinatário só é decifrado com a chave privada dele."
+    },
+    {
+      "id": "info-120",
+      "assunto": "Segurança da informação – assinatura digital",
+      "origem": "fcc",
+      "enunciado": "Um servidor assina digitalmente um documento eletrônico usando seu certificado digital. A assinatura digital, por si só, garante:",
+      "alternativas": {
+        "a": "confidencialidade, impedindo que terceiros leiam o documento.",
+        "b": "apenas a confidencialidade, sem garantir a autoria.",
+        "c": "autenticidade, integridade e não repúdio, mas não a confidencialidade do conteúdo.",
+        "d": "disponibilidade, assegurando que o documento estará sempre acessível.",
+        "e": "a confidencialidade e a disponibilidade, mas não a integridade."
+      },
+      "gabarito": "c",
+      "comentario": "A assinatura é gerada com a chave privada do signatário e verificada com a chave pública dele, o que comprova a autoria e detecta alterações. Para garantir sigilo, o documento teria de ser cifrado."
+    },
+    {
+      "id": "info-121",
+      "assunto": "Segurança da informação – certificado digital",
+      "origem": "inedita",
+      "enunciado": "Sobre o certificado digital no padrão ICP-Brasil, é correto afirmar:",
+      "alternativas": {
+        "a": "é um documento eletrônico emitido por uma Autoridade Certificadora que associa uma chave pública à identidade de seu titular; no tipo A3, a chave privada fica em token ou cartão criptográfico.",
+        "b": "contém a chave privada do titular em texto aberto, para que qualquer pessoa possa verificar suas assinaturas.",
+        "c": "é emitido pelo próprio usuário, sem participação de Autoridade Certificadora.",
+        "d": "tem validade indeterminada e não pode ser revogado.",
+        "e": "substitui o antivírus, pois bloqueia programas maliciosos."
+      },
+      "gabarito": "a",
+      "comentario": "O certificado digital é emitido e assinado por uma AC e vincula a chave pública à identidade do titular. Tem validade definida e pode ser revogado. No A1 a chave fica em software; no A3, em token ou cartão."
+    },
+    {
+      "id": "info-122",
+      "assunto": "Segurança da informação – golpes na internet",
+      "origem": "fcc",
+      "enunciado": "Um servidor digitou corretamente o endereço do site de seu banco, mas foi direcionado a uma página falsa idêntica à original, porque o serviço de resolução de nomes (DNS) havia sido adulterado. Esse golpe é denominado:",
+      "alternativas": {
+        "a": "spam.",
+        "b": "hoax.",
+        "c": "pharming.",
+        "d": "defacement.",
+        "e": "scan."
+      },
+      "gabarito": "c",
+      "comentario": "No pharming, o DNS é envenenado ou alterado e o usuário é levado a um site falso mesmo digitando o endereço correto. Defacement é a alteração do conteúdo de um site legítimo."
+    },
+    {
+      "id": "info-123",
+      "assunto": "Redes – portas e protocolos",
+      "origem": "fcc",
+      "enunciado": "Em configuração padrão, os protocolos HTTP e HTTPS utilizam, respectivamente, as portas TCP:",
+      "alternativas": {
+        "a": "21 e 22.",
+        "b": "25 e 110.",
+        "c": "443 e 80.",
+        "d": "80 e 443.",
+        "e": "53 e 8080."
+      },
+      "gabarito": "d",
+      "comentario": "HTTP usa a porta 80 e HTTPS, a 443. A 21 é do FTP, a 22 do SSH, a 25 do SMTP, a 110 do POP3 e a 53 do DNS."
+    },
+    {
+      "id": "info-124",
+      "assunto": "Redes – portas e protocolos",
+      "origem": "fcc",
+      "enunciado": "Um técnico precisa administrar remotamente um servidor por linha de comando, com a comunicação criptografada. O protocolo adequado, e sua porta padrão, é:",
+      "alternativas": {
+        "a": "Telnet, porta 23.",
+        "b": "SSH, porta 22.",
+        "c": "FTP, porta 21.",
+        "d": "SMTP, porta 25.",
+        "e": "HTTP, porta 80."
+      },
+      "gabarito": "b",
+      "comentario": "O SSH oferece acesso remoto seguro, com criptografia, pela porta 22. O Telnet (porta 23) faz o mesmo tipo de acesso, mas transmite os dados, inclusive senhas, em texto claro."
+    },
+    {
+      "id": "info-125",
+      "assunto": "Redes – VPN",
+      "origem": "fcc",
+      "enunciado": "Um servidor em teletrabalho precisa acessar, a partir de sua residência, sistemas disponíveis apenas na intranet do Tribunal, de forma segura, pela internet. A tecnologia adequada é a:",
+      "alternativas": {
+        "a": "DNS, que criptografa todo o tráfego entre dois computadores.",
+        "b": "DHCP, que autentica o usuário remoto na intranet.",
+        "c": "rede P2P, que dispensa autenticação.",
+        "d": "VPN, que cria um túnel criptografado entre o computador do usuário e a rede da organização.",
+        "e": "navegação anônima do navegador, que dá acesso direto à intranet."
+      },
+      "gabarito": "d",
+      "comentario": "A VPN (rede privada virtual) estabelece pela internet um túnel criptografado até a rede da organização, como se o usuário estivesse conectado localmente."
+    },
+    {
+      "id": "info-126",
+      "assunto": "Redes – computação em nuvem",
+      "origem": "fcc",
+      "enunciado": "Na computação em nuvem, o modelo em que o usuário utiliza aplicações prontas pela internet, sem gerenciar servidores, sistema operacional ou infraestrutura, como ocorre com o Gmail e o Documentos Google, é denominado:",
+      "alternativas": {
+        "a": "IaaS (Infraestrutura como Serviço).",
+        "b": "PaaS (Plataforma como Serviço).",
+        "c": "LAN (Local Area Network).",
+        "d": "SaaS (Software como Serviço).",
+        "e": "DaaS (Disco como Serviço)."
+      },
+      "gabarito": "d",
+      "comentario": "No SaaS, o fornecedor entrega a aplicação pronta. O IaaS fornece infraestrutura (servidores virtuais, armazenamento) e o PaaS, uma plataforma para desenvolver e implantar aplicações."
+    },
+    {
+      "id": "info-127",
+      "assunto": "Redes – Wi-Fi",
+      "origem": "inedita",
+      "enunciado": "Ao configurar o roteador sem fio de uma unidade, o técnico deve escolher o padrão de segurança mais recomendado entre os listados:",
+      "alternativas": {
+        "a": "WEP, por ser o mais recente e robusto.",
+        "b": "WPA3, ou WPA2 com AES quando o WPA3 não for suportado pelos dispositivos.",
+        "c": "rede aberta, sem senha, com ocultação do SSID, o que já garante a segurança.",
+        "d": "WEP com senha de 8 dígitos numéricos.",
+        "e": "filtragem por endereço MAC, que dispensa qualquer criptografia."
+      },
+      "gabarito": "b",
+      "comentario": "O WEP é obsoleto e pode ser quebrado facilmente. O padrão atual é o WPA3, e o WPA2-AES é a alternativa aceitável. Ocultar o SSID ou filtrar MAC não substitui a criptografia."
+    },
+    {
+      "id": "info-128",
+      "assunto": "Redes – protocolos de transporte",
+      "origem": "fcc",
+      "enunciado": "Em relação aos protocolos da camada de transporte da arquitetura TCP/IP, é correto afirmar:",
+      "alternativas": {
+        "a": "o TCP é orientado à conexão e garante entrega ordenada e confiável, enquanto o UDP não estabelece conexão e não garante a entrega, sendo mais leve.",
+        "b": "o UDP é orientado à conexão e retransmite pacotes perdidos.",
+        "c": "o TCP e o UDP são protocolos da camada de aplicação.",
+        "d": "o TCP não utiliza portas, apenas endereços IP.",
+        "e": "o UDP é usado exclusivamente para o envio de e-mails."
+      },
+      "gabarito": "a",
+      "comentario": "O TCP faz o estabelecimento de conexão (handshake), o controle de erros e a retransmissão. O UDP é não orientado à conexão e mais leve, e é usado, por exemplo, em DNS e em streaming."
+    },
+    {
+      "id": "info-129",
+      "assunto": "Redes – endereçamento IP",
+      "origem": "fcc",
+      "enunciado": "Na rede interna de um tribunal, os computadores usam endereços IPv4 privados, que não são roteados diretamente na internet. É um endereço IPv4 privado:",
+      "alternativas": {
+        "a": "200.198.1.10",
+        "b": "8.8.8.8",
+        "c": "192.168.10.25",
+        "d": "172.32.0.5",
+        "e": "11.0.0.1"
+      },
+      "gabarito": "c",
+      "comentario": "As faixas privadas IPv4 são 10.0.0.0/8, 172.16.0.0 a 172.31.255.255 e 192.168.0.0/16. O endereço 172.32.0.5 fica fora da faixa 172.16–172.31."
+    },
+    {
+      "id": "info-130",
+      "assunto": "Redes – servidor proxy",
+      "origem": "inedita",
+      "enunciado": "Em uma organização, as requisições de navegação dos usuários passam por um servidor intermediário, que repassa os pedidos à internet, pode armazenar páginas em cache e permite aplicar filtros de acesso a sites. Esse servidor é o:",
+      "alternativas": {
+        "a": "proxy.",
+        "b": "DHCP.",
+        "c": "DNS reverso.",
+        "d": "SMTP.",
+        "e": "hub."
+      },
+      "gabarito": "a",
+      "comentario": "O proxy fica entre o cliente e a internet: repassa as requisições, pode manter cache de conteúdo e permite controlar e registrar os acessos."
+    },
+    {
+      "id": "info-131",
+      "assunto": "Redes – computação em nuvem",
+      "origem": "fcc",
+      "enunciado": "Um órgão mantém sistemas sensíveis em infraestrutura própria e exclusiva e utiliza serviços de um provedor público para demandas sazonais, com integração entre os ambientes. Esse modelo de implantação de nuvem é denominado:",
+      "alternativas": {
+        "a": "nuvem híbrida.",
+        "b": "nuvem pública.",
+        "c": "nuvem privada.",
+        "d": "nuvem comunitária.",
+        "e": "computação de borda."
+      },
+      "gabarito": "a",
+      "comentario": "A nuvem híbrida combina nuvem privada (exclusiva da organização) e nuvem pública, com integração entre elas."
+    },
+    {
+      "id": "info-132",
+      "assunto": "Redes – protocolos",
+      "origem": "fcc",
+      "enunciado": "Considere os protocolos: HTTP, DNS, IP, TCP e SMTP. Na arquitetura TCP/IP, pertencem à camada de aplicação:",
+      "alternativas": {
+        "a": "IP, TCP e SMTP.",
+        "b": "HTTP, DNS e SMTP.",
+        "c": "HTTP e IP.",
+        "d": "TCP e DNS.",
+        "e": "IP e TCP."
+      },
+      "gabarito": "b",
+      "comentario": "HTTP, DNS e SMTP são protocolos de aplicação. O TCP é da camada de transporte e o IP, da camada de internet (rede)."
+    },
+    {
+      "id": "info-133",
+      "assunto": "Windows 10 e 11 – atalhos",
+      "origem": "fcc",
+      "enunciado": "No Windows 11, em configuração padrão, as combinações Windows + . (ponto) e Windows + H abrem, respectivamente:",
+      "alternativas": {
+        "a": "o painel de emojis e a digitação por voz (ditado).",
+        "b": "a Visão de Tarefas e a Ajuda do Windows.",
+        "c": "o Executar e o histórico de arquivos.",
+        "d": "a lupa e o Narrador.",
+        "e": "o painel de widgets e a central de notificações."
+      },
+      "gabarito": "a",
+      "comentario": "Windows + . (ponto) abre o painel de emojis e Windows + H inicia a digitação por voz. Windows + Tab abre a Visão de Tarefas e Windows + R, o Executar."
+    },
+    {
+      "id": "info-134",
+      "assunto": "Windows 10 e 11 – atalhos",
+      "origem": "fcc",
+      "enunciado": "No Windows 10 e no Windows 11, em configuração padrão, as combinações que, respectivamente, abrem a caixa de diálogo Executar e minimizam todas as janelas são:",
+      "alternativas": {
+        "a": "Windows + E e Windows + D.",
+        "b": "Ctrl + R e Alt + M.",
+        "c": "Windows + X e Windows + Tab.",
+        "d": "Windows + R e Windows + M.",
+        "e": "Windows + I e Windows + seta para cima."
+      },
+      "gabarito": "d",
+      "comentario": "Windows + R abre o Executar e Windows + M minimiza todas as janelas. Windows + seta para cima maximiza a janela ativa."
+    },
+    {
+      "id": "info-135",
+      "assunto": "Windows 10 e 11 – organização de arquivos",
+      "origem": "fcc",
+      "enunciado": "No Windows, um servidor excluiu, pelo Explorador de Arquivos, usando apenas a tecla Delete, um arquivo gravado em um pen drive. Em configuração padrão, o arquivo:",
+      "alternativas": {
+        "a": "é enviado à Lixeira do computador, de onde pode ser restaurado por 30 dias.",
+        "b": "é enviado à Lixeira do OneDrive.",
+        "c": "é excluído permanentemente, sem ser enviado à Lixeira, pois a Lixeira não armazena itens excluídos de unidades removíveis como pen drives.",
+        "d": "é movido para a pasta Documentos.",
+        "e": "permanece no pen drive, apenas oculto."
+      },
+      "gabarito": "c",
+      "comentario": "Itens apagados de unidades removíveis, como pen drives, não vão para a Lixeira do Windows e são excluídos permanentemente; a Lixeira só guarda o que é excluído de discos locais."
+    },
+    {
+      "id": "info-136",
+      "assunto": "Windows 10 e 11 – organização de arquivos",
+      "origem": "inedita",
+      "enunciado": "Sobre arquivos compactados no formato ZIP no Windows 10 e no Windows 11, é correto afirmar:",
+      "alternativas": {
+        "a": "é obrigatório instalar programa de terceiros para abrir qualquer arquivo ZIP.",
+        "b": "a compactação ZIP criptografa automaticamente os arquivos com a senha do usuário do Windows.",
+        "c": "arquivos ZIP só podem conter um único arquivo.",
+        "d": "o próprio Windows permite, sem programas adicionais, compactar arquivos e pastas em ZIP pelo menu de contexto do Explorador de Arquivos e extrair seu conteúdo pela opção Extrair Tudo.",
+        "e": "ao compactar, os arquivos originais são excluídos automaticamente."
+      },
+      "gabarito": "d",
+      "comentario": "O Windows oferece suporte nativo ao ZIP: compacta pelo menu de contexto e extrai com Extrair Tudo. A compactação não criptografa os arquivos e mantém os originais."
+    },
+    {
+      "id": "info-137",
+      "assunto": "Navegadores – Google Chrome",
+      "origem": "fcc",
+      "enunciado": "No Google Chrome, em configuração padrão no Windows, os atalhos que, respectivamente, salvam a página atual como favorito e mostram/ocultam a barra de favoritos são:",
+      "alternativas": {
+        "a": "Ctrl + F e Ctrl + B.",
+        "b": "Ctrl + S e Ctrl + Shift + F.",
+        "c": "Ctrl + B e Ctrl + D.",
+        "d": "Ctrl + Shift + D e Ctrl + H.",
+        "e": "Ctrl + D e Ctrl + Shift + B."
+      },
+      "gabarito": "e",
+      "comentario": "No Chrome, Ctrl + D adiciona a página aos favoritos e Ctrl + Shift + B mostra ou oculta a barra de favoritos. Ctrl + F pesquisa na página e Ctrl + S salva a página."
+    },
+    {
+      "id": "info-138",
+      "assunto": "Navegadores – Google Chrome",
+      "origem": "fcc",
+      "enunciado": "No Google Chrome, em configuração padrão no Windows, um servidor com várias guias abertas deseja, primeiro, posicionar o cursor na barra de endereço e, depois, ir diretamente para a última guia aberta da janela. Os atalhos adequados são, respectivamente:",
+      "alternativas": {
+        "a": "Ctrl + E e Ctrl + 1.",
+        "b": "Alt + Home e Ctrl + Tab.",
+        "c": "Ctrl + U e Ctrl + 0.",
+        "d": "F5 e Ctrl + Shift + Tab.",
+        "e": "Ctrl + L e Ctrl + 9."
+      },
+      "gabarito": "e",
+      "comentario": "Ctrl + L (ou Alt + D, ou F6) leva o foco à barra de endereço e Ctrl + 9 vai para a última guia. Ctrl + 1 a Ctrl + 8 vão para guias específicas e Ctrl + 0 restaura o zoom padrão."
+    },
+    {
+      "id": "info-139",
+      "assunto": "Mecanismos de busca – Bing",
+      "origem": "fcc",
+      "enunciado": "No Bing, um servidor deseja localizar páginas que tenham a palavra \"conciliação\" no título. O operador de pesquisa avançada adequado, conforme a documentação da Microsoft, é:",
+      "alternativas": {
+        "a": "title=conciliação",
+        "b": "#conciliação",
+        "c": "~conciliação",
+        "d": "conciliação:title",
+        "e": "intitle:conciliação"
+      },
+      "gabarito": "e",
+      "comentario": "A Microsoft lista intitle:, inbody: e inanchor: entre as palavras-chave avançadas do Bing, para buscar o termo no título, no corpo ou no texto de âncora das páginas, sem espaço após os dois-pontos."
+    },
+    {
+      "id": "info-140",
+      "assunto": "Navegadores – privacidade",
+      "origem": "inedita",
+      "enunciado": "Nos navegadores web, os cookies são:",
+      "alternativas": {
+        "a": "programas executáveis que sempre contêm vírus.",
+        "b": "cópias completas das páginas visitadas, usadas para navegar sem internet.",
+        "c": "certificados digitais que comprovam a identidade do site.",
+        "d": "pequenos arquivos de dados gravados pelo navegador a pedido dos sites, usados para manter sessões, guardar preferências e, no caso de cookies de terceiros, rastrear a navegação entre sites.",
+        "e": "extensões instaladas automaticamente para bloquear anúncios."
+      },
+      "gabarito": "d",
+      "comentario": "Cookies são pequenos dados que o navegador armazena a pedido dos sites, para manter o login e as preferências. Os cookies de terceiros podem ser usados para rastrear o usuário entre sites."
     }
   ]
 }
