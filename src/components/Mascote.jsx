@@ -1,12 +1,20 @@
 // Gabi, a bolinha do gabarito: mascote da meta diária.
-// Ela se enche de "tinta de caneta" conforme o progresso do dia e muda de humor.
+// A TINTA mostra o volume (quanto da meta do dia já foi feito);
+// a EMOÇÃO mostra o desempenho (o percentual de acerto).
 import { useId } from "react";
 
-/** Escolhe o humor da Gabi a partir do progresso do dia. */
-export function humorDoDia(hoje, meta, hora = new Date().getHours()) {
-  if (hoje >= meta) return "festa";
+/** Emoção pela taxa de acerto (0–1). Com a meta batida e bom desempenho, ela faz festa. */
+export function humorPorAcerto(taxa, metaBatida = false) {
+  if (taxa >= 0.6) return metaBatida ? "festa" : taxa >= 0.8 ? "animado" : "feliz";
+  if (taxa >= 0.4) return "pensativo";
+  return "triste";
+}
+
+/** Emoção do dia: dormindo/preocupada sem respostas; depois, conforme o acerto de hoje. */
+export function humorDoDia(hoje, meta, acertos, hora = new Date().getHours()) {
   if (hoje === 0) return hora >= 18 ? "preocupado" : "dormindo";
-  return hoje / meta >= 0.5 ? "animado" : "feliz";
+  if (hoje < 3) return acertos === hoje ? "feliz" : acertos === 0 ? "pensativo" : "feliz"; // pouca amostra: sem drama
+  return humorPorAcerto(acertos / hoje, hoje >= meta);
 }
 
 const FALAS = {
@@ -15,34 +23,45 @@ const FALAS = {
     "Ainda estou vazia. Bora me encher de tinta?",
     "Cinco minutinhos e a gente começa, combinado?",
   ],
-  feliz: [
-    "Boa! Já tenho um pouco de tinta.",
-    "Começou bem! Continua que eu vou enchendo.",
-    "Cada questão é mais um pouquinho de tinta.",
-  ],
-  animado: [
-    "Passamos da metade! Tô quase cheia!",
-    "Falta pouco pra meta. Não para agora!",
-    "Que ritmo! Mais algumas e a gente comemora.",
-  ],
-  festa: [
-    "Meta batida! Tô cheinha de tinta!",
-    "Arrasou! Hoje já valeu a pena.",
-    "Meta cumprida! Quer fazer umas extras?",
-  ],
   preocupado: [
     "Ei, o dia está acabando e eu continuo vazia…",
     "Só umas questões hoje para manter a sequência?",
     "Não deixa a sequência cair! Uma lição rapidinha?",
   ],
+  feliz: [
+    "Mandando bem: {pct}% de acerto!",
+    "Boa! {pct}% de acerto até agora.",
+    "Tá indo bem, {pct}% de acerto!",
+  ],
+  animado: [
+    "Que pontaria! {pct}% de acerto!",
+    "Uau, {pct}% de acerto! Tô amando!",
+    "{pct}% de acerto? Assim a vaga é sua!",
+  ],
+  festa: [
+    "Meta batida com {pct}% de acerto! Tô cheinha!",
+    "Arrasou! Meta cumprida e {pct}% de acerto!",
+    "Dia perfeito: meta batida e {pct}% de acerto!",
+  ],
+  pensativo: [
+    "{pct}% de acerto… dá pra subir! Olho nas pegadinhas.",
+    "Hmm, {pct}% de acerto. Lê os comentários com calma.",
+    "{pct}% até agora. Bora caprichar na próxima?",
+  ],
+  triste: [
+    "Dia difícil: {pct}% de acerto. A revisão vai ajudar!",
+    "Só {pct}% de acerto… errar faz parte. Revisa comigo?",
+    "{pct}% de acerto. Respira, lê os comentários e tenta de novo!",
+  ],
 };
 
-/** Fala do dia: muda conforme o humor e o dia, mas não fica trocando a cada renderização. */
-export function falaDoDia(humor, faltam) {
+/** Fala do dia: depende do humor, do acerto e do dia (não fica trocando a cada renderização). */
+export function falaDoDia(humor, { faltam = 0, taxa = 0, metaBatida = false } = {}) {
   const lista = FALAS[humor];
-  const base = lista[new Date().getDate() % lista.length];
-  if (humor === "feliz" || humor === "animado") return `${base} Faltam ${faltam}.`;
-  return base;
+  let texto = lista[new Date().getDate() % lista.length].replace("{pct}", Math.round(taxa * 100));
+  if ((humor === "feliz" || humor === "animado") && faltam > 0) texto += ` Faltam ${faltam}.`;
+  if (metaBatida && (humor === "pensativo" || humor === "triste")) texto = `Meta batida! Mas ${texto.charAt(0).toLowerCase()}${texto.slice(1)}`;
+  return texto;
 }
 
 export function Mascote({ progresso = 0, humor = "feliz", tamanho = 120, rotulo }) {
@@ -66,8 +85,12 @@ export function Mascote({ progresso = 0, humor = "feliz", tamanho = 120, rotulo 
           <g className="mascote__bracos mascote__bracos--cima">
             <path d="M26 50 Q14 36 18 22" /><path d="M94 50 Q106 36 102 22" />
           </g>
-        ) : (
+        ) : humor === "pensativo" ? (
           <g className="mascote__bracos">
+            <path d="M24 64 Q14 70 16 80" /><path d="M96 66 Q100 76 84 76" />
+          </g>
+        ) : (
+          <g className={`mascote__bracos${humor === "triste" ? " mascote__bracos--caidos" : ""}`}>
             <path d="M24 64 Q14 70 16 80" /><path d="M96 64 Q106 70 104 80" />
           </g>
         )}
@@ -106,6 +129,26 @@ export function Mascote({ progresso = 0, humor = "feliz", tamanho = 120, rotulo 
               <path d="M46 64 q14 16 28 0 z" className="mascote__boca-aberta" />
             </>
           )}
+          {humor === "pensativo" && (
+            <>
+              <path d="M40 43 q6 -4 12 -1" /><path d="M69 46 l11 0" />
+              <g className="mascote__olhos mascote__olhos--lado">
+                <ellipse cx="48" cy="53" rx="3.6" ry="5" className="mascote__olho" />
+                <ellipse cx="76" cy="53" rx="3.6" ry="5" className="mascote__olho" />
+              </g>
+              <path d="M53 70 q4 -2 8 0 t8 0" />
+            </>
+          )}
+          {humor === "triste" && (
+            <>
+              <path d="M39 49 l11 -4" /><path d="M81 49 l-11 -4" />
+              <g className="mascote__olhos">
+                <ellipse cx="46" cy="56" rx="3.6" ry="4.5" className="mascote__olho" />
+                <ellipse cx="74" cy="56" rx="3.6" ry="4.5" className="mascote__olho" />
+              </g>
+              <path d="M50 73 q10 -8 20 0" />
+            </>
+          )}
           {humor === "preocupado" && (
             <>
               <path d="M39 44 l11 4" /><path d="M81 44 l-11 4" />
@@ -120,6 +163,8 @@ export function Mascote({ progresso = 0, humor = "feliz", tamanho = 120, rotulo 
           <circle cx="82" cy="64" r="4.5" className="mascote__bochecha" />
         </g>
 
+        {humor === "triste" && <path className="mascote__lagrima" d="M44 62 q-3 5 0 7.5 q3 -2.5 0 -7.5z" />}
+
         <ellipse cx="48" cy="99" rx="7" ry="4" className="mascote__pe" />
         <ellipse cx="72" cy="99" rx="7" ry="4" className="mascote__pe" />
       </g>
@@ -128,6 +173,9 @@ export function Mascote({ progresso = 0, humor = "feliz", tamanho = 120, rotulo 
         <g className="mascote__zzz" aria-hidden="true">
           <text x="92" y="28">z</text><text x="100" y="18">z</text><text x="108" y="9">z</text>
         </g>
+      )}
+      {humor === "pensativo" && (
+        <g className="mascote__duvida" aria-hidden="true"><text x="98" y="22">?</text></g>
       )}
       {festa && (
         <g className="mascote__brilhos" aria-hidden="true">

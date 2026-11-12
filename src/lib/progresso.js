@@ -67,13 +67,18 @@ export function definirMeta(n) {
   definir({ ...estado, config: { ...estado.config, metaDiaria: Math.max(1, Math.min(500, Math.round(n) || META_PADRAO)) } });
 }
 
-/** Quantas respostas foram dadas desde a meia-noite. */
-export function respondidasHoje(prog) {
+/** Respostas e acertos desde a meia-noite (a Gabi usa o volume para a tinta e o acerto para o humor). */
+export function desempenhoHoje(prog) {
   const inicio = new Date(); inicio.setHours(0, 0, 0, 0);
-  let n = 0;
-  for (const r of Object.values(prog.questoes)) for (const t of r.tentativas) if (t.t >= inicio.getTime()) n++;
-  return n;
+  let total = 0, acertos = 0;
+  for (const r of Object.values(prog.questoes)) {
+    for (const t of r.tentativas) if (t.t >= inicio.getTime()) { total++; if (t.certo) acertos++; }
+  }
+  return { total, acertos, taxa: total ? acertos / total : 0 };
 }
+
+/** Quantas respostas foram dadas desde a meia-noite. */
+export const respondidasHoje = (prog) => desempenhoHoje(prog).total;
 
 export function zerarProgresso() {
   definir({ ...vazio(), config: estado.config });

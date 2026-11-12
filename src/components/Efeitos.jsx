@@ -1,7 +1,7 @@
 // Animações reutilizáveis: confete, contagem animada de números e a comemoração da meta do dia.
 import { useEffect, useMemo, useRef, useState } from "react";
-import { respondidasHoje, useProgresso } from "../lib/progresso.js";
-import { Mascote } from "./Mascote.jsx";
+import { desempenhoHoje, useProgresso } from "../lib/progresso.js";
+import { Mascote, humorPorAcerto } from "./Mascote.jsx";
 
 export const movimentoReduzido = () =>
   typeof matchMedia === "function" && matchMedia("(prefers-reduced-motion: reduce)").matches;
@@ -70,7 +70,7 @@ export function useContador(alvo, duracao = 800) {
  */
 export function CelebracaoMeta() {
   const prog = useProgresso();
-  const hoje = respondidasHoje(prog);
+  const { total: hoje, taxa } = desempenhoHoje(prog);
   const meta = prog.config.metaDiaria;
   const anterior = useRef(hoje);
   const [aberta, setAberta] = useState(false);
@@ -87,14 +87,19 @@ export function CelebracaoMeta() {
   }, [aberta]);
 
   if (!aberta) return null;
+  const humor = humorPorAcerto(taxa, true);
+  const pctTxt = `${Math.round(taxa * 100)}% de acerto`;
+  const sub = humor === "festa" ? `${hoje} questões com ${pctTxt}. Arrasou!`
+    : humor === "pensativo" ? `${hoje} questões com ${pctTxt}. Revise os erros para subir esse número.`
+    : `${hoje} questões, mas só ${pctTxt}. A revisão vai trazer esses pontos de volta.`;
   return (
     <>
-      <Confete quantidade={90} />
-      <div className="celebra" role="status" onClick={() => setAberta(false)}>
-        <Mascote progresso={1} humor="festa" tamanho={96} rotulo="Gabi comemorando a meta batida" />
+      {humor === "festa" && <Confete quantidade={90} />}
+      <div className={`celebra celebra--${humor}`} role="status" onClick={() => setAberta(false)}>
+        <Mascote progresso={1} humor={humor} tamanho={96} rotulo={`Gabi: meta batida com ${pctTxt}`} />
         <div>
           <strong>Meta do dia batida!</strong>
-          <span>{meta} questões hoje. A Gabi está cheinha de tinta.</span>
+          <span>{sub}</span>
         </div>
       </div>
     </>

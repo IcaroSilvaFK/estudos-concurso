@@ -4,7 +4,7 @@ import { alternarFavorita, registrarResposta } from "../lib/progresso.js";
 import { XP_ACERTO, XP_ERRO, xpDe } from "../lib/estatisticas.js";
 import { pct, useTeclas } from "../lib/util.js";
 import { Bolha, Icone, Questao, fraseAcerto, fraseErro } from "./Questao.jsx";
-import { Mascote } from "./Mascote.jsx";
+import { Mascote, humorPorAcerto } from "./Mascote.jsx";
 import { Confete } from "./Efeitos.jsx";
 
 /** Fileira de bolinhas: uma por questão, preenchida conforme o resultado. */
@@ -138,7 +138,11 @@ export function SessaoPratica({ fila: inicial, modo, titulo, reinserirErros = fa
         <div className="licao__rodape-in">
           {confirmado ? (
             <div className="licao__retorno" role="status">
-              <span className="licao__selo"><Icone nome={certo ? "certo" : "errado"} tamanho={26} /></span>
+              <span className="licao__selo">
+                <Mascote progresso={resultados.filter(Boolean).length / fila.length}
+                  humor={certo ? (combo >= 3 ? "festa" : "animado") : combo === 0 && resultados.filter((r) => r === false).length >= 3 ? "triste" : "pensativo"}
+                  tamanho={64} rotulo={certo ? "Gabi comemorando o acerto" : "Gabi chateada com o erro"} />
+              </span>
               <div>
                 <p className="licao__frase">
                   {certo ? fraseAcerto(q.id) : `${fraseErro(q.id)} Resposta certa: ${q.gabarito.toUpperCase()}.`}
@@ -170,23 +174,25 @@ function Conclusao({ titulo, fila, resultados, melhorCombo, onRefazer, onSair })
   const acertos = resultados.filter((r) => r === true).length;
   const erradas = [...new Map(fila.filter((_, i) => resultados[i] === false).map((x) => [x.id, x])).values()];
   const taxa = respondidas ? acertos / respondidas : 0;
+  // emoção pelo acerto da sessão: 80%+ festa, 60%+ feliz, 40%+ pensativa, abaixo triste
+  const humorFinal = !respondidas ? "dormindo" : humorPorAcerto(taxa, taxa >= 0.8);
   const xp = xpDe(acertos, respondidas - acertos);
   const frase = !respondidas ? "Sessão encerrada"
-    : taxa >= 0.85 ? "Arrasou!"
-    : taxa >= 0.7 ? "Muito bem!"
-    : taxa >= 0.5 ? "Bom treino!"
-    : "Valeu o esforço!";
+    : taxa >= 0.8 ? "Arrasou!"
+    : taxa >= 0.6 ? "Muito bem!"
+    : taxa >= 0.4 ? "Dá pra melhorar!"
+    : "Dia difícil, mas valeu o esforço!";
   const sub = !respondidas ? "Nenhuma questão respondida desta vez."
-    : taxa >= 0.85 ? "Você está dominando esse conteúdo."
-    : taxa >= 0.7 ? "Mais um pouco e fica afiado."
-    : taxa >= 0.5 ? "Os erros já viraram revisão para fixar."
-    : "Começo é assim mesmo. A revisão vai trazer esses pontos de volta.";
+    : taxa >= 0.8 ? "A Gabi está em festa: você está dominando esse conteúdo."
+    : taxa >= 0.6 ? "A Gabi gostou! Mais um pouco e fica afiado."
+    : taxa >= 0.4 ? "A Gabi ficou pensativa. Leia os comentários dos erros com calma."
+    : "A Gabi ficou tristinha, mas errar faz parte. A revisão vai trazer esses pontos de volta.";
 
   return (
     <section className="conclusao">
-      {taxa >= 0.7 && <Confete />}
+      {humorFinal === "festa" && <Confete />}
       <div className="conclusao__selo">
-        <Mascote progresso={taxa} humor={taxa >= 0.7 ? "festa" : taxa >= 0.5 ? "animado" : "feliz"} tamanho={160}
+        <Mascote progresso={taxa} humor={humorFinal} tamanho={160}
           rotulo={`Gabi reagindo ao resultado: ${pct(acertos, respondidas)}% de acerto`} />
       </div>
       <p className="destaque__ola">{titulo} concluído</p>

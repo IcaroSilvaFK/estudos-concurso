@@ -2,7 +2,7 @@ import { useEffect, useMemo, useRef, useState } from "react";
 import { Bar, BarChart, CartesianGrid, Line, LineChart, ResponsiveContainer, Tooltip, XAxis, YAxis } from "recharts";
 import { useBanco } from "../lib/banco.jsx";
 import {
-  definirMeta, exportarProgresso, importarProgresso, pendentes, respondidasHoje, useProgresso, zerarProgresso,
+  definirMeta, desempenhoHoje, exportarProgresso, importarProgresso, pendentes, useProgresso, zerarProgresso,
 } from "../lib/progresso.js";
 import { calcular, diaKey, serieDiaria } from "../lib/estatisticas.js";
 import { disciplinaInfo } from "../lib/disciplinas.js";
@@ -40,11 +40,11 @@ function saudacao() {
 }
 
 function Destaque({ est, nPend, prog }) {
-  const hoje = respondidasHoje(prog);
+  const { total: hoje, acertos: acertosHoje, taxa: taxaHoje } = desempenhoHoje(prog);
   const meta = prog.config.metaDiaria;
   const [editando, setEditando] = useState(false);
   const faltam = Math.max(0, meta - hoje);
-  const humor = humorDoDia(hoje, meta);
+  const humor = humorDoDia(hoje, meta, acertosHoje);
 
   const mensagem = !est.total
     ? "Vamos começar? Responda suas primeiras questões e o painel ganha vida."
@@ -67,9 +67,9 @@ function Destaque({ est, nPend, prog }) {
         </div>
       </div>
       <div className="destaque__meta">
-        <p className="balao">{falaDoDia(humor, faltam)}</p>
+        <p className="balao">{falaDoDia(humor, { faltam, taxa: taxaHoje, metaBatida: hoje >= meta })}</p>
         <Mascote progresso={hoje / meta} humor={humor} tamanho={150} rotulo={`Gabi: ${hoje} de ${meta} questões hoje`} />
-        <p className="destaque__contagem"><strong>{hoje}</strong> de {meta} questões hoje</p>
+        <p className="destaque__contagem"><strong>{hoje}</strong> de {meta} questões hoje{hoje > 0 && <span className="destaque__taxa">{Math.round(taxaHoje * 100)}% de acerto</span>}</p>
         {editando ? (
           <label className="destaque__editar">
             Meta diária

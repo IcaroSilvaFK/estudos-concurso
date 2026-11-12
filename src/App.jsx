@@ -1,6 +1,6 @@
 import { useMemo } from "react";
 import { BancoProvider, MODO_ESTATICO, useBanco } from "./lib/banco.jsx";
-import { pendentes, respondidasHoje, useProgresso } from "./lib/progresso.js";
+import { desempenhoHoje, pendentes, useProgresso } from "./lib/progresso.js";
 import { calcular } from "./lib/estatisticas.js";
 import { guardarLink, useRota } from "./lib/util.js";
 import { DialogoConfirmacao } from "./components/Dialogo.jsx";
@@ -33,7 +33,7 @@ export default function App() {
 function MetaDoDia() {
   const { questoes } = useBanco();
   const prog = useProgresso();
-  const hoje = respondidasHoje(prog);
+  const { total: hoje, acertos: acertosHoje, taxa } = desempenhoHoje(prog);
   const meta = prog.config.metaDiaria;
   const { sequencia, xp, nivel, xpNoNivel, xpDoNivel } = useMemo(() => calcular(prog, questoes), [prog, questoes]);
   const batida = hoje >= meta;
@@ -48,11 +48,11 @@ function MetaDoDia() {
         <span className="meta__barra" aria-hidden="true"><span style={{ width: `${(xpNoNivel / xpDoNivel) * 100}%` }} /></span>
       </span>
       <span className="meta__linha meta__linha--meta">
-        <Mascote progresso={hoje / meta} humor={humorDoDia(hoje, meta)} tamanho={56}
-          rotulo={`Gabi: ${hoje} de ${meta} questões hoje`} />
+        <Mascote progresso={hoje / meta} humor={humorDoDia(hoje, meta, acertosHoje)} tamanho={56}
+          rotulo={`Gabi: ${hoje} de ${meta} questões hoje, ${Math.round(taxa * 100)}% de acerto`} />
         <span className="meta__texto">
           <strong>{batida ? "Meta do dia batida!" : "Meta do dia"}</strong>
-          <span>{hoje} de {meta} questões</span>
+          <span>{hoje} de {meta} questões{hoje > 0 && `, ${Math.round(taxa * 100)}% certas`}</span>
           <span className="meta__barra meta__barra--dia" aria-hidden="true"><span style={{ width: `${Math.min(1, hoje / meta) * 100}%` }} /></span>
         </span>
       </span>
