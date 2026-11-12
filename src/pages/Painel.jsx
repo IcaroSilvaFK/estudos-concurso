@@ -7,7 +7,12 @@ import {
 import { calcular, diaKey, serieDiaria } from "../lib/estatisticas.js";
 import { disciplinaInfo } from "../lib/disciplinas.js";
 import { formatarTempo, navegar, pct } from "../lib/util.js";
-import { Anel } from "../components/Anel.jsx";
+import { Mascote, falaDoDia, humorDoDia } from "../components/Mascote.jsx";
+import { useContador } from "../components/Efeitos.jsx";
+
+function Contador({ valor }) {
+  return <>{useContador(valor)}</>;
+}
 import { Icone } from "../components/Questao.jsx";
 import { confirmar } from "../components/Dialogo.jsx";
 
@@ -39,6 +44,7 @@ function Destaque({ est, nPend, prog }) {
   const meta = prog.config.metaDiaria;
   const [editando, setEditando] = useState(false);
   const faltam = Math.max(0, meta - hoje);
+  const humor = humorDoDia(hoje, meta);
 
   const mensagem = !est.total
     ? "Vamos começar? Responda suas primeiras questões e o painel ganha vida."
@@ -61,11 +67,9 @@ function Destaque({ est, nPend, prog }) {
         </div>
       </div>
       <div className="destaque__meta">
-        <Anel valor={hoje / meta} tamanho={148} espessura={12} cor={hoje >= meta ? "var(--certo)" : "var(--caneta)"}
-          rotulo={`${hoje} de ${meta} questões hoje`}>
-          <strong className="destaque__num">{hoje}</strong>
-          <span className="destaque__de">de {meta} hoje</span>
-        </Anel>
+        <p className="balao">{falaDoDia(humor, faltam)}</p>
+        <Mascote progresso={hoje / meta} humor={humor} tamanho={150} rotulo={`Gabi: ${hoje} de ${meta} questões hoje`} />
+        <p className="destaque__contagem"><strong>{hoje}</strong> de {meta} questões hoje</p>
         {editando ? (
           <label className="destaque__editar">
             Meta diária
@@ -105,10 +109,10 @@ export default function Painel() {
     .slice(0, 6);
 
   const cartoes = [
-    { icone: "raio", rotulo: `Nível ${est.nivel}`, valor: `${est.xp} XP`, nota: `faltam ${est.xpDoNivel - est.xpNoNivel} XP para o nível ${est.nivel + 1}` },
-    { icone: "certo", rotulo: "Acerto geral", valor: `${pct(est.acertos, est.total)}%`, nota: `${est.acertos} acertos` },
-    { icone: "chama", rotulo: "Sequência", valor: `${est.sequencia} ${est.sequencia === 1 ? "dia" : "dias"}`, nota: est.estudouHoje ? "Você já estudou hoje." : "Estude hoje para manter." },
-    { icone: "revisao", rotulo: "Revisões vencidas", valor: nPend, nota: nPend ? "Esperando por você." : "Tudo em dia." },
+    { icone: "raio", rotulo: `Nível ${est.nivel}`, numero: est.xp, sufixo: " XP", nota: `faltam ${est.xpDoNivel - est.xpNoNivel} XP para o nível ${est.nivel + 1}` },
+    { icone: "certo", rotulo: "Acerto geral", numero: pct(est.acertos, est.total), sufixo: "%", nota: `${est.acertos} ${est.acertos === 1 ? "acerto" : "acertos"}` },
+    { icone: "chama", rotulo: "Sequência", numero: est.sequencia, sufixo: est.sequencia === 1 ? " dia" : " dias", nota: est.estudouHoje ? "Você já estudou hoje." : "Estude hoje para manter." },
+    { icone: "revisao", rotulo: "Revisões vencidas", numero: nPend, sufixo: "", nota: nPend ? "Esperando por você." : "Tudo em dia." },
   ];
 
   return (
@@ -116,11 +120,11 @@ export default function Painel() {
       <Destaque est={est} nPend={nPend} prog={prog} />
 
       <ul className="cartoes">
-        {cartoes.map((c) => (
-          <li key={c.rotulo} className="cartao">
+        {cartoes.map((c, i) => (
+          <li key={c.icone} className="cartao" style={{ "--i": i }}>
             <span className={`cartao__icone cartao__icone--${c.icone}`}><Icone nome={c.icone} /></span>
             <span className="cartao__rotulo">{c.rotulo}</span>
-            <strong className="cartao__valor">{c.valor}</strong>
+            <strong className="cartao__valor"><Contador valor={c.numero} />{c.sufixo}</strong>
             <span className="cartao__nota">{c.nota}</span>
           </li>
         ))}
@@ -217,13 +221,13 @@ function PorDisciplina({ questoes, prog, est }) {
     <div className="bloco">
       <h2 className="subtitulo">Disciplinas</h2>
       <ul className="disciplinas">
-        {grupos.map(([nome, qs]) => {
+        {grupos.map(([nome, qs], i) => {
           const d = disciplinaInfo(nome);
           const s = est.porDisciplina.find((x) => x.chave === nome);
           const vistas = qs.filter((q) => prog.questoes[q.id]?.tentativas.length).length;
           const taxa = s ? pct(s.acertos, s.total) : null;
           return (
-            <li key={nome}>
+            <li key={nome} style={{ "--i": i }}>
               <button className="disciplina" style={{ "--cor": d.cor }} onClick={() => navegar("treinar", { disciplina: nome })}>
                 <span className="disciplina__capa" aria-hidden="true"><Icone nome={d.icone} tamanho={30} /></span>
                 <span className="disciplina__corpo">

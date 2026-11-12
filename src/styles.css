@@ -681,3 +681,113 @@ input[type="range"] { accent-color: var(--caneta); width: 100%; height: 22px; }
 .editor--editando .busca input { padding: 9px 0; font-size: .92rem; }
 .editor--editando .chip-disc { padding: 4px 10px; font-size: .8rem; }
 @media (max-width: 960px) { .editor--editando .editor__ferramentas { display: none; } }
+
+/* ---------- Gabi, a mascote da meta diária ---------- */
+.mascote { --m-contorno: var(--grafite); overflow: visible; flex: none; }
+.mascote__corpo { transform-origin: 60px 104px; animation: flutuar 3.2s ease-in-out infinite; }
+.mascote--dormindo .mascote__corpo { animation: respirar 3.6s ease-in-out infinite; }
+.mascote--festa .mascote__corpo { animation: pular .8s cubic-bezier(.3, .7, .4, 1) infinite; }
+.mascote--preocupado .mascote__corpo { animation: tremer 2.8s ease-in-out infinite; }
+.mascote__sombra { fill: rgba(30, 34, 53, .14); transform-origin: 60px 108px; animation: sombra 3.2s ease-in-out infinite; }
+.mascote--festa .mascote__sombra { animation: sombra-pulo .8s cubic-bezier(.3, .7, .4, 1) infinite; }
+.mascote__pele { fill: var(--folha); }
+.mascote__contorno { fill: none; stroke: var(--m-contorno); stroke-width: 4.5; }
+.mascote__tinta { transition: transform 1s cubic-bezier(.3, 1.3, .5, 1); }
+.mascote__onda { fill: var(--caneta); animation: onda 2.2s linear infinite; }
+.mascote__rosto { fill: none; stroke: var(--grafite); stroke-width: 3.5; stroke-linecap: round; stroke-linejoin: round; transition: stroke .4s; }
+.mascote__olho, .mascote__boca-aberta { fill: var(--grafite); stroke: none; transition: fill .4s; }
+.mascote__rosto--claro { stroke: #fff; }
+.mascote__rosto--claro .mascote__olho, .mascote__rosto--claro .mascote__boca-aberta { fill: #fff; }
+.mascote__bochecha { fill: #ff8fa3; stroke: none; opacity: .55; }
+.mascote__olhos { transform-box: fill-box; transform-origin: center; animation: piscar 4.6s infinite; }
+.mascote__bracos path { fill: none; stroke: var(--m-contorno); stroke-width: 4.5; stroke-linecap: round; }
+.mascote__bracos--cima { transform-origin: 60px 58px; animation: acenar .4s ease-in-out infinite alternate; }
+.mascote__pe { fill: var(--m-contorno); }
+.mascote__zzz text { font: 900 13px var(--fonte); fill: var(--grafite-2); opacity: 0; animation: zzz 2.7s ease-in-out infinite; }
+.mascote__zzz text:nth-child(2) { animation-delay: .5s; font-size: 15px; }
+.mascote__zzz text:nth-child(3) { animation-delay: 1s; font-size: 17px; }
+.mascote__brilhos path { fill: var(--ouro); transform-box: fill-box; transform-origin: center; animation: brilhar 1s ease-in-out infinite alternate; }
+.mascote__brilhos path:nth-child(2) { animation-delay: .35s; }
+.mascote__brilhos path:nth-child(3) { animation-delay: .7s; }
+
+@keyframes flutuar { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-4px); } }
+@keyframes respirar { 0%, 100% { transform: scale(1, 1); } 50% { transform: scale(1.03, .97); } }
+@keyframes pular { 0%, 100% { transform: translateY(0) scale(1.04, .96); } 40% { transform: translateY(-14px) scale(.97, 1.04); } 70% { transform: translateY(-2px); } }
+@keyframes tremer { 0%, 88%, 100% { transform: rotate(0); } 91% { transform: rotate(-4deg); } 94% { transform: rotate(4deg); } 97% { transform: rotate(-2deg); } }
+@keyframes sombra { 0%, 100% { transform: scaleX(1); } 50% { transform: scaleX(.88); opacity: .8; } }
+@keyframes sombra-pulo { 0%, 100% { transform: scaleX(1); } 40% { transform: scaleX(.7); opacity: .6; } }
+@keyframes onda { from { transform: translateX(0); } to { transform: translateX(-60px); } }
+@keyframes piscar { 0%, 92%, 100% { transform: scaleY(1); } 95% { transform: scaleY(.1); } }
+@keyframes acenar { from { transform: rotate(-6deg); } to { transform: rotate(6deg); } }
+@keyframes zzz { 0% { opacity: 0; transform: translate(0, 4px); } 30% { opacity: 1; } 100% { opacity: 0; transform: translate(6px, -10px); } }
+@keyframes brilhar { from { transform: scale(.6); opacity: .5; } to { transform: scale(1.2); opacity: 1; } }
+
+/* mascote no widget lateral */
+.meta__linha--meta { align-items: center; }
+.meta:hover .mascote__corpo { animation: pular .8s cubic-bezier(.3, .7, .4, 1) 1; }
+.meta__barra--dia { margin-top: 5px; height: 6px; }
+.meta__barra--dia span { background: var(--caneta); }
+.meta--batida .meta__barra--dia span { background: var(--certo-vivo); }
+.meta__chip--chama .icone, .licao__combo--ativo .icone { transform-origin: 50% 90%; animation: chama 1.4s ease-in-out infinite; }
+@keyframes chama { 0%, 100% { transform: scale(1) rotate(0); } 30% { transform: scale(1.12, .94) rotate(-4deg); } 60% { transform: scale(.95, 1.08) rotate(3deg); } }
+
+/* mascote na faixa de boas-vindas */
+.destaque .mascote { --m-contorno: #1e2235; }
+.destaque .mascote__sombra { fill: rgba(0, 0, 0, .22); }
+.destaque .mascote__zzz text { fill: var(--sobre-caneta); }
+.destaque__meta { gap: 4px; }
+.balao {
+  position: relative; margin: 0 0 6px; max-width: 230px; padding: 10px 14px; border-radius: 16px;
+  background: var(--folha); color: var(--grafite); font-size: .88rem; font-weight: 800; line-height: 1.35; text-align: center;
+  box-shadow: 0 4px 0 rgba(0, 0, 0, .12); animation: balao .5s .25s cubic-bezier(.2, 1.4, .4, 1) both;
+}
+.balao::after {
+  content: ""; position: absolute; left: 50%; bottom: -8px; transform: translateX(-50%);
+  border: 9px solid transparent; border-top-color: var(--folha); border-bottom: 0;
+}
+@keyframes balao { from { opacity: 0; transform: translateY(8px) scale(.9); } to { opacity: 1; transform: none; } }
+.destaque__contagem { margin: 2px 0 0; font-weight: 800; font-size: .9rem; }
+.destaque__contagem strong { font-size: 1.3rem; font-weight: 900; }
+
+/* ---------- Confete ---------- */
+.confete { position: fixed; inset: 0; pointer-events: none; z-index: 50; overflow: hidden; }
+.confete__p { position: absolute; top: -16px; width: 9px; height: 14px; border-radius: 2px; animation-name: cair; animation-timing-function: cubic-bezier(.25, .6, .5, 1); animation-fill-mode: both; }
+.confete__p--1 { width: 10px; height: 10px; border-radius: 50%; }
+.confete__p--2 { width: 6px; height: 16px; }
+@keyframes cair {
+  0% { transform: translate(0, 0) rotate(0); opacity: 1; }
+  85% { opacity: 1; }
+  100% { transform: translate(var(--deriva), 105vh) rotate(var(--giro)); opacity: 0; }
+}
+
+/* ---------- Comemoração da meta ---------- */
+.celebra {
+  position: fixed; left: 50%; top: 22px; z-index: 60; transform: translateX(-50%);
+  display: flex; align-items: center; gap: 14px; max-width: calc(100% - 32px);
+  padding: 10px 22px 10px 10px; border-radius: 24px; cursor: pointer;
+  background: var(--folha); border: 2px solid var(--certo-vivo); border-bottom-width: 5px; box-shadow: var(--sombra-forte);
+  animation: celebrar .55s cubic-bezier(.2, 1.4, .4, 1) both;
+}
+.celebra div { display: grid; gap: 2px; }
+.celebra strong { font-size: 1.2rem; font-weight: 900; color: var(--certo); }
+.celebra span { font-size: .9rem; font-weight: 700; color: var(--grafite-2); }
+@keyframes celebrar { from { opacity: 0; transform: translate(-50%, -40px) scale(.8); } to { opacity: 1; transform: translate(-50%, 0); } }
+
+/* ---------- XP flutuante na lição ---------- */
+.licao__rodape-in { position: relative; }
+.xp-pop {
+  position: absolute; right: 20px; top: -14px; pointer-events: none;
+  font-size: 1.15rem; font-weight: 900; color: var(--ouro); text-shadow: 0 2px 0 rgba(0, 0, 0, .08);
+  animation: xp-sobe 1.2s ease-out forwards;
+}
+.xp-pop--fraco { color: var(--grafite-2); font-size: .95rem; }
+@keyframes xp-sobe {
+  0% { opacity: 0; transform: translateY(12px) scale(.7); }
+  20% { opacity: 1; transform: translateY(0) scale(1.2); }
+  100% { opacity: 0; transform: translateY(-44px) scale(1); }
+}
+
+/* ---------- Entradas escalonadas no painel ---------- */
+.cartoes .cartao, .disciplinas > li { animation: entrar .45s ease-out both; animation-delay: calc(var(--i, 0) * 70ms); }
+.conclusao__selo { animation: pulo .6s cubic-bezier(.2, 1.4, .4, 1) both; }
+.destaque .mascote__onda { fill: var(--caneta-escura); } /* contraste com o fundo da faixa, nos dois temas */

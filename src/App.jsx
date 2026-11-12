@@ -5,7 +5,8 @@ import { calcular } from "./lib/estatisticas.js";
 import { guardarLink, useRota } from "./lib/util.js";
 import { DialogoConfirmacao } from "./components/Dialogo.jsx";
 import { Icone } from "./components/Questao.jsx";
-import { Anel } from "./components/Anel.jsx";
+import { Mascote, humorDoDia } from "./components/Mascote.jsx";
+import { CelebracaoMeta } from "./components/Efeitos.jsx";
 import Painel from "./pages/Painel.jsx";
 import Treinar from "./pages/Treinar.jsx";
 import Prova from "./pages/Prova.jsx";
@@ -47,13 +48,12 @@ function MetaDoDia() {
         <span className="meta__barra" aria-hidden="true"><span style={{ width: `${(xpNoNivel / xpDoNivel) * 100}%` }} /></span>
       </span>
       <span className="meta__linha meta__linha--meta">
-        <Anel valor={hoje / meta} tamanho={40} espessura={5} cor={batida ? "var(--certo)" : "var(--caneta)"}
-          rotulo={`${hoje} de ${meta} questões hoje`}>
-          {batida ? <Icone nome="certo" tamanho={16} /> : null}
-        </Anel>
+        <Mascote progresso={hoje / meta} humor={humorDoDia(hoje, meta)} tamanho={56}
+          rotulo={`Gabi: ${hoje} de ${meta} questões hoje`} />
         <span className="meta__texto">
           <strong>{batida ? "Meta do dia batida!" : "Meta do dia"}</strong>
           <span>{hoje} de {meta} questões</span>
+          <span className="meta__barra meta__barra--dia" aria-hidden="true"><span style={{ width: `${Math.min(1, hoje / meta) * 100}%` }} /></span>
         </span>
       </span>
     </a>
@@ -113,6 +113,7 @@ function Shell() {
         )}
       </main>
       <DialogoConfirmacao />
+      {banco.carregado && <CelebracaoMeta />}
     </div>
   );
 }

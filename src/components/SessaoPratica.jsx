@@ -4,7 +4,8 @@ import { alternarFavorita, registrarResposta } from "../lib/progresso.js";
 import { XP_ACERTO, XP_ERRO, xpDe } from "../lib/estatisticas.js";
 import { pct, useTeclas } from "../lib/util.js";
 import { Bolha, Icone, Questao, fraseAcerto, fraseErro } from "./Questao.jsx";
-import { Anel } from "./Anel.jsx";
+import { Mascote } from "./Mascote.jsx";
+import { Confete } from "./Efeitos.jsx";
 
 /** Fileira de bolinhas: uma por questão, preenchida conforme o resultado. */
 export function Trilha({ total, atual, resultados, onIr }) {
@@ -44,6 +45,7 @@ export function SessaoPratica({ fila: inicial, modo, titulo, reinserirErros = fa
   const [combo, setCombo] = useState(0);
   const [melhorCombo, setMelhorCombo] = useState(0);
   const [fim, setFim] = useState(false);
+  const [xpPop, setXpPop] = useState(null);
   const reinseridas = useRef(new Set());
   const botaoRef = useRef(null);
 
@@ -64,6 +66,7 @@ export function SessaoPratica({ fila: inicial, modo, titulo, reinserirErros = fa
     setConfirmado(true);
     setResultados((r) => { const n = [...r]; n[idx] = ok; return n; });
     registrarResposta(q.id, ok, modo);
+    setXpPop({ k: Date.now(), valor: ok ? XP_ACERTO : XP_ERRO, ok });
     const novoCombo = ok ? combo + 1 : 0;
     setCombo(novoCombo);
     setMelhorCombo((m) => Math.max(m, novoCombo));
@@ -149,6 +152,9 @@ export function SessaoPratica({ fila: inicial, modo, titulo, reinserirErros = fa
               Escolha uma alternativa (<kbd>A</kbd>–<kbd>E</kbd>). Para riscar, use o botão direito ou <kbd>Shift</kbd> + letra.
             </p>
           )}
+          {confirmado && xpPop && (
+            <span key={xpPop.k} className={`xp-pop${xpPop.ok ? "" : " xp-pop--fraco"}`} aria-hidden="true">+{xpPop.valor} XP</span>
+          )}
           <button ref={botaoRef} className={`btn btn--g${confirmado ? (certo ? " btn--certo" : " btn--errado") : ""}`}
             disabled={!confirmado && !escolha} onClick={confirmado ? avancar : confirmar}>
             {confirmado ? (idx + 1 < fila.length ? "Continuar" : "Ver resultado") : "Responder"}
@@ -178,10 +184,10 @@ function Conclusao({ titulo, fila, resultados, melhorCombo, onRefazer, onSair })
 
   return (
     <section className="conclusao">
-      <div className="conclusao__selo" aria-hidden="true">
-        <Anel valor={taxa} tamanho={168} espessura={14} cor={taxa >= 0.7 ? "var(--certo)" : "var(--caneta)"}>
-          <Icone nome={taxa >= 0.7 ? "trofeu" : "brilho"} tamanho={56} />
-        </Anel>
+      {taxa >= 0.7 && <Confete />}
+      <div className="conclusao__selo">
+        <Mascote progresso={taxa} humor={taxa >= 0.7 ? "festa" : taxa >= 0.5 ? "animado" : "feliz"} tamanho={160}
+          rotulo={`Gabi reagindo ao resultado: ${pct(acertos, respondidas)}% de acerto`} />
       </div>
       <p className="destaque__ola">{titulo} concluído</p>
       <h1 className="conclusao__titulo">{frase}</h1>
