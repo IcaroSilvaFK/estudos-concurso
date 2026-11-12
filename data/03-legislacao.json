@@ -1,0 +1,1101 @@
+{
+  "disciplina": "Noções de Legislação",
+  "prefixo": "leg",
+  "questoes": [
+    {
+      "id": "leg-001",
+      "assunto": "Sustentabilidade – Resolução CNJ nº 400/2021",
+      "origem": "fcc",
+      "enunciado": "De acordo com a Resolução CNJ nº 400/2021, que dispõe sobre a política de sustentabilidade no âmbito do Poder Judiciário, o Plano de Logística Sustentável (PLS) é:",
+      "alternativas": {
+        "a": "um documento facultativo, elaborado apenas pelos tribunais superiores.",
+        "b": "um instrumento vinculado ao planejamento estratégico do Poder Judiciário, com objetivos, responsabilidades, ações, metas, prazos e mecanismos de monitoramento e avaliação.",
+        "c": "um regulamento de compras que substitui a legislação federal de licitações.",
+        "d": "um relatório anual de gastos com energia elétrica, sem metas associadas.",
+        "e": "um plano elaborado exclusivamente pelo CNJ e imposto sem adaptação aos tribunais."
+      },
+      "gabarito": "b",
+      "comentario": "O PLS é o instrumento vinculado ao planejamento estratégico, com objetivos e responsabilidades definidas, ações, metas, prazos de execução e mecanismos de monitoramento e avaliação, que permite estabelecer e acompanhar práticas de sustentabilidade."
+    },
+    {
+      "id": "leg-002",
+      "assunto": "Sustentabilidade – Resolução CNJ nº 400/2021",
+      "origem": "inedita",
+      "enunciado": "Sobre a Resolução CNJ nº 400/2021, é correto afirmar que ela:",
+      "alternativas": {
+        "a": "dispensa a adoção de critérios de sustentabilidade nas contratações.",
+        "b": "aplica-se apenas à Justiça Eleitoral.",
+        "c": "trata exclusivamente do teletrabalho de servidores.",
+        "d": "proíbe a divulgação de resultados socioambientais dos tribunais.",
+        "e": "revogou a Resolução CNJ nº 201/2015 e prevê unidades de sustentabilidade nos órgãos do Poder Judiciário."
+      },
+      "gabarito": "e",
+      "comentario": "A Resolução CNJ nº 400/2021 substituiu a Resolução nº 201/2015 e manteve a estrutura de unidades de sustentabilidade e de PLS. Também incentiva contratações sustentáveis e a transparência de resultados."
+    },
+    {
+      "id": "leg-003",
+      "assunto": "Prevenção e enfrentamento do assédio e da discriminação – Resolução CNJ nº 351/2020",
+      "origem": "fcc",
+      "enunciado": "Nos termos da Resolução CNJ nº 351/2020, a caracterização do assédio moral:",
+      "alternativas": {
+        "a": "exige a comprovação de intenção deliberada do agressor de causar dano.",
+        "b": "somente ocorre de superior hierárquico para subordinado.",
+        "c": "restringe-se a condutas praticadas por magistrados.",
+        "d": "independe de intencionalidade, configurando-se pela conduta abusiva que degrada as relações socioprofissionais e o ambiente de trabalho.",
+        "e": "depende de a conduta ter conotação sexual."
+      },
+      "gabarito": "d",
+      "comentario": "A Resolução define assédio moral como violação da dignidade ou integridade psíquica ou física de outra pessoa por meio de conduta abusiva, independentemente de intencionalidade, que degrada as relações socioprofissionais e o ambiente de trabalho."
+    },
+    {
+      "id": "leg-004",
+      "assunto": "Prevenção e enfrentamento do assédio e da discriminação – Resolução CNJ nº 351/2020",
+      "origem": "fcc",
+      "enunciado": "A Política de Prevenção e Enfrentamento do Assédio Moral, do Assédio Sexual e da Discriminação no Poder Judiciário (Resolução CNJ nº 351/2020) aplica-se:",
+      "alternativas": {
+        "a": "a todas as condutas no âmbito do trabalho, envolvendo magistrados, servidores, estagiários, prestadores de serviço, colaboradores e demais pessoas que se relacionem com o órgão.",
+        "b": "apenas às relações entre magistrados.",
+        "c": "apenas a condutas de chefia contra subordinados.",
+        "d": "somente a servidores efetivos, excluídos estagiários e terceirizados.",
+        "e": "somente a casos já apurados judicialmente."
+      },
+      "gabarito": "a",
+      "comentario": "A política tem amplo alcance: abrange todas as pessoas que atuam ou se relacionam com o Judiciário e o assédio em qualquer direção hierárquica (descendente, ascendente e horizontal)."
+    },
+    {
+      "id": "leg-005",
+      "assunto": "Prevenção e enfrentamento do assédio e da discriminação – Resolução CNJ nº 351/2020",
+      "origem": "inedita",
+      "enunciado": "Segundo a Resolução CNJ nº 351/2020, a recusa de adaptação razoável para pessoas com deficiência:",
+      "alternativas": {
+        "a": "integra o conceito de discriminação.",
+        "b": "é matéria estranha à resolução.",
+        "c": "configura assédio sexual.",
+        "d": "é conduta lícita, se houver custo para a Administração.",
+        "e": "só é ilícita se praticada por magistrado."
+      },
+      "gabarito": "a",
+      "comentario": "O conceito de discriminação da Resolução abrange distinções, exclusões, restrições ou preferências fundadas em deficiência, raça, gênero etc., incluindo a recusa de adaptação razoável, em linha com a Convenção sobre os Direitos das Pessoas com Deficiência."
+    },
+    {
+      "id": "leg-006",
+      "assunto": "Perspectiva de gênero – Resolução CNJ nº 492/2023",
+      "origem": "fcc",
+      "enunciado": "A Resolução CNJ nº 492/2023:",
+      "alternativas": {
+        "a": "trata apenas da composição dos tribunais superiores.",
+        "b": "tornou facultativa a adoção do Protocolo para Julgamento com Perspectiva de Gênero.",
+        "c": "aplica-se exclusivamente à Justiça Militar.",
+        "d": "revogou a política de participação feminina no Judiciário.",
+        "e": "estabeleceu a obrigatoriedade das diretrizes do Protocolo para Julgamento com Perspectiva de Gênero no Poder Judiciário."
+      },
+      "gabarito": "e",
+      "comentario": "A Resolução CNJ nº 492/2023 tornou obrigatórias as diretrizes do Protocolo de 2021, previu capacitação de magistrados(as) em direitos humanos, gênero, raça e etnia e instituiu comitês sobre o tema."
+    },
+    {
+      "id": "leg-007",
+      "assunto": "Perspectiva de gênero – Resolução CNJ nº 492/2023",
+      "origem": "fcc",
+      "enunciado": "Entre os órgãos instituídos pela Resolução CNJ nº 492/2023, destaca-se o:",
+      "alternativas": {
+        "a": "Comitê de Incentivo à Participação Institucional Feminina no Poder Judiciário.",
+        "b": "Conselho Federal de Equidade Salarial.",
+        "c": "Tribunal Especial de Gênero.",
+        "d": "Comitê Gestor do Processo Judicial Eletrônico.",
+        "e": "Conselho Superior de Sustentabilidade."
+      },
+      "gabarito": "a",
+      "comentario": "A Resolução instituiu o Comitê de Acompanhamento e Capacitação sobre Julgamento com Perspectiva de Gênero e o Comitê de Incentivo à Participação Institucional Feminina no Poder Judiciário."
+    },
+    {
+      "id": "leg-008",
+      "assunto": "Tribunal Penal Internacional – Estatuto de Roma (Decreto nº 4.388/2002)",
+      "origem": "fcc",
+      "enunciado": "Segundo o Estatuto de Roma, a competência do Tribunal Penal Internacional restringe-se aos crimes mais graves que afetam a comunidade internacional no seu conjunto, quais sejam:",
+      "alternativas": {
+        "a": "genocídio, crimes ambientais, crimes de guerra e terrorismo.",
+        "b": "terrorismo, tráfico de drogas, genocídio e lavagem de dinheiro.",
+        "c": "crimes de guerra, corrupção internacional, pirataria e genocídio.",
+        "d": "genocídio, crimes contra a humanidade, crimes de guerra e crime de agressão.",
+        "e": "crimes contra a humanidade, tráfico de pessoas, terrorismo e tortura."
+      },
+      "gabarito": "d",
+      "comentario": "O art. 5º do Estatuto de Roma lista quatro crimes: genocídio, crimes contra a humanidade, crimes de guerra e crime de agressão."
+    },
+    {
+      "id": "leg-009",
+      "assunto": "Tribunal Penal Internacional – Estatuto de Roma (Decreto nº 4.388/2002)",
+      "origem": "fcc",
+      "enunciado": "Quanto à relação entre o Tribunal Penal Internacional e as jurisdições nacionais, o Estatuto de Roma adota o princípio da:",
+      "alternativas": {
+        "a": "prevalência absoluta, pois o TPI sempre se sobrepõe aos tribunais nacionais.",
+        "b": "complementaridade, atuando o TPI quando o Estado não tiver vontade ou capacidade de levar a cabo o inquérito ou o processo.",
+        "c": "subsidiariedade política, dependendo de autorização do Conselho de Segurança em todos os casos.",
+        "d": "concorrência, cabendo ao réu escolher o foro.",
+        "e": "territorialidade estrita, julgando apenas crimes cometidos na Holanda."
+      },
+      "gabarito": "b",
+      "comentario": "O TPI é complementar às jurisdições penais nacionais (preâmbulo e arts. 1º e 17). Ele atua quando o Estado competente não quer ou não pode, genuinamente, investigar ou processar."
+    },
+    {
+      "id": "leg-010",
+      "assunto": "Tribunal Penal Internacional – Estatuto de Roma (Decreto nº 4.388/2002)",
+      "origem": "fcc",
+      "enunciado": "Nos termos do Estatuto de Roma, o Tribunal Penal Internacional:",
+      "alternativas": {
+        "a": "pode julgar pessoas que tenham entre 16 e 18 anos na data do crime.",
+        "b": "não terá jurisdição sobre pessoas que, à data da alegada prática do crime, não tenham ainda completado 18 anos de idade.",
+        "c": "julga Estados, e não pessoas físicas.",
+        "d": "tem sede em Genebra.",
+        "e": "admite reservas ao seu Estatuto, conforme a conveniência dos Estados."
+      },
+      "gabarito": "b",
+      "comentario": "Art. 26 do Estatuto. O TPI julga pessoas físicas (art. 25), tem sede na Haia (art. 3º) e não admite reservas ao Estatuto (art. 120)."
+    },
+    {
+      "id": "leg-011",
+      "assunto": "Tribunal Penal Internacional – Estatuto de Roma (Decreto nº 4.388/2002)",
+      "origem": "fcc",
+      "enunciado": "Considere as afirmações sobre o Estatuto de Roma:\nI. Os crimes da competência do Tribunal não prescrevem.\nII. A qualidade oficial de Chefe de Estado ou de Governo exime a pessoa da responsabilidade criminal.\nIII. As imunidades decorrentes da qualidade oficial não obstam que o Tribunal exerça sua jurisdição.\nEstá correto o que se afirma em:",
+      "alternativas": {
+        "a": "I, apenas.",
+        "b": "II, apenas.",
+        "c": "I e III, apenas.",
+        "d": "II e III, apenas.",
+        "e": "I, II e III."
+      },
+      "gabarito": "c",
+      "comentario": "I: imprescritibilidade (art. 29). II está errada: o art. 27 consagra a irrelevância da qualidade oficial. III: as imunidades não impedem o exercício da jurisdição (art. 27, §2º)."
+    },
+    {
+      "id": "leg-012",
+      "assunto": "Tribunal Penal Internacional – Estatuto de Roma (Decreto nº 4.388/2002)",
+      "origem": "fcc",
+      "enunciado": "Entre as penas aplicáveis pelo Tribunal Penal Internacional, o Estatuto de Roma prevê:",
+      "alternativas": {
+        "a": "pena de banimento do território do Estado de nacionalidade.",
+        "b": "pena de morte para o crime de genocídio.",
+        "c": "exclusivamente penas pecuniárias.",
+        "d": "pena de prisão de até 50 anos, vedada a prisão perpétua.",
+        "e": "pena de prisão por número determinado de anos, até o limite máximo de 30 anos, ou prisão perpétua, se justificada pela elevada ilicitude do fato e pelas condições pessoais do condenado."
+      },
+      "gabarito": "e",
+      "comentario": "Art. 77 do Estatuto: prisão de até 30 anos ou prisão perpétua, além de multa e perda de produtos, bens e haveres provenientes do crime. Não há pena de morte."
+    },
+    {
+      "id": "leg-013",
+      "assunto": "Carta das Nações Unidas (Decreto nº 19.841/1945)",
+      "origem": "fcc",
+      "enunciado": "Segundo a Carta das Nações Unidas, NÃO é órgão principal da ONU:",
+      "alternativas": {
+        "a": "o Conselho de Direitos Humanos.",
+        "b": "o Conselho de Segurança.",
+        "c": "a Assembleia Geral.",
+        "d": "a Corte Internacional de Justiça.",
+        "e": "o Conselho Econômico e Social."
+      },
+      "gabarito": "a",
+      "comentario": "O art. 7º da Carta lista como órgãos principais: Assembleia Geral, Conselho de Segurança, Conselho Econômico e Social, Conselho de Tutela, Corte Internacional de Justiça e Secretariado. O Conselho de Direitos Humanos (2006) é órgão subsidiário da Assembleia Geral."
+    },
+    {
+      "id": "leg-014",
+      "assunto": "Estatuto da Corte Internacional de Justiça",
+      "origem": "fcc",
+      "enunciado": "De acordo com a Carta da ONU e o Estatuto da Corte Internacional de Justiça, é correto afirmar:",
+      "alternativas": {
+        "a": "Pessoas físicas podem propor ações contenciosas diretamente perante a Corte.",
+        "b": "As decisões da Corte não obrigam as partes.",
+        "c": "Só os Estados poderão ser partes em questões perante a Corte.",
+        "d": "A Corte não pode emitir pareceres consultivos.",
+        "e": "A Corte é órgão subsidiário do Conselho de Segurança."
+      },
+      "gabarito": "c",
+      "comentario": "Art. 34 do Estatuto da CIJ. A Corte é o principal órgão judiciário da ONU (art. 92 da Carta), emite pareceres consultivos a pedido da Assembleia Geral, do Conselho de Segurança ou de órgãos autorizados (art. 96), e suas decisões obrigam as partes no litígio (art. 94 da Carta)."
+    },
+    {
+      "id": "leg-015",
+      "assunto": "Estatuto da Corte Internacional de Justiça",
+      "origem": "inedita",
+      "enunciado": "Quanto à composição da Corte Internacional de Justiça, prevista em seu Estatuto:",
+      "alternativas": {
+        "a": "compõe-se de 9 membros, com mandato vitalício.",
+        "b": "compõe-se de 5 membros permanentes, indicados pelos membros permanentes do Conselho de Segurança.",
+        "c": "compõe-se de 18 juízes, com mandato de 9 anos, vedada a reeleição.",
+        "d": "compõe-se de 15 membros, não podendo figurar entre eles dois nacionais do mesmo Estado, eleitos para mandato de 9 anos, admitida a reeleição.",
+        "e": "compõe-se de 15 membros, admitidos até três nacionais do mesmo Estado."
+      },
+      "gabarito": "d",
+      "comentario": "Arts. 3º e 13 do Estatuto da CIJ: 15 membros, sem dois nacionais do mesmo Estado, eleitos para 9 anos e reelegíveis. Não confunda com o TPI: 18 juízes, mandato de 9 anos, sem reeleição."
+    },
+    {
+      "id": "leg-016",
+      "assunto": "Código de Ética do TRT-8 (Resolução TRT8 nº 88/2012)",
+      "origem": "fcc",
+      "enunciado": "De acordo com o Código de Ética instituído pela Resolução TRT8 nº 88/2012, com as alterações posteriores, as disposições do Código aplicam-se",
+      "alternativas": {
+        "a": "exclusivamente aos servidores ocupantes de cargo efetivo do quadro do Tribunal, uma vez que os magistrados se submetem apenas ao Código de Ética da Magistratura Nacional.",
+        "b": "a todos os agentes públicos vinculados diretamente ao Tribunal, entendidos como magistrados, servidores, estagiários, voluntários, funcionários cedidos por outros órgãos e trabalhadores de empresas contratadas para atividades terceirizadas, desempenhando ou não suas funções nos espaços físicos do Tribunal.",
+        "c": "aos servidores do Tribunal e aos trabalhadores terceirizados, excluídos os funcionários cedidos por outros órgãos, que permanecem sujeitos apenas ao código de ética do órgão de origem.",
+        "d": "aos servidores efetivos e comissionados, não se estendendo a estagiários e voluntários, que se submetem unicamente aos respectivos termos de compromisso.",
+        "e": "aos magistrados e servidores do Tribunal, somente quando no exercício de suas funções nas dependências físicas do Tribunal ou das Varas do Trabalho."
+      },
+      "gabarito": "b",
+      "comentario": "Art. 2º da Resolução TRT8 nº 88/2012 (redação da Resolução 019/2022): o Código aplica-se a todos os agentes públicos vinculados diretamente ao TRT da 8ª Região — magistrados, servidores, estagiários, voluntários, funcionários cedidos por outros órgãos e trabalhadores de empresas terceirizadas, no TRT e na justiça de primeiro grau, desempenhando ou não suas funções nos espaços físicos do Tribunal. O art. 3º ainda equipara a servidores, no que couber, os que prestem serviço de natureza permanente, temporária ou excepcional ao Tribunal."
+    },
+    {
+      "id": "leg-017",
+      "assunto": "Código de Ética do TRT-8 (Resolução TRT8 nº 88/2012)",
+      "origem": "fcc",
+      "enunciado": "Considere os seguintes princípios e valores, à luz do Código de Ética dos Servidores do TRT da 8ª Região (Resolução TRT8 nº 88/2012):\nI. A legalidade, a impessoalidade e a moralidade, bem como o respeito e o decoro.\nII. A transparência, entendida como praticar ações com visibilidade plena no cumprimento das atribuições.\nIII. A disciplina hierárquica, entendida como o dever de cumprir as ordens superiores, ainda que manifestamente ilegais, sob pena de insubordinação.\nSão princípios e valores fundamentais expressamente previstos no Código o que consta em",
+      "alternativas": {
+        "a": "I, apenas.",
+        "b": "I e II, apenas.",
+        "c": "I e III, apenas.",
+        "d": "II e III, apenas.",
+        "e": "I, II e III."
+      },
+      "gabarito": "b",
+      "comentario": "Art. 4º da Resolução TRT8 nº 88/2012: são princípios e valores fundamentais, entre outros, a legalidade, a impessoalidade e a moralidade (inciso I), o respeito e o decoro (inciso II) e a transparência — praticar ações com visibilidade plena no cumprimento das atribuições (inciso X). O item III está errado: o Código não prevê esse “valor”. Pelo contrário, o art. 6º, XI, impõe ao servidor o dever de respeitar a hierarquia sem deixar de representar contra ato, omissão ou ordem ilegal ou antiética de seus superiores."
+    },
+    {
+      "id": "leg-018",
+      "assunto": "Código de Ética do TRT-8 (Resolução TRT8 nº 88/2012)",
+      "origem": "fcc",
+      "enunciado": "Segundo o Código de Ética dos Servidores do TRT da 8ª Região, entre os deveres do servidor, as reuniões com terceiros, como advogados, fornecedores e licitantes, devem ser realizadas",
+      "alternativas": {
+        "a": "apenas mediante prévia autorização escrita do Comitê de Ética e Integridade, dispensado o registro em ata.",
+        "b": "somente nas dependências do Tribunal, com gravação audiovisual obrigatória, arquivada pela Ouvidoria Regional.",
+        "c": "com a presença obrigatória de um membro do Comitê de Ética e Integridade, a quem cabe lavrar a ata respectiva.",
+        "d": "sempre com a participação de duas ou mais pessoas, com registro da reunião em ata assinada por todos os participantes ou por outro meio hábil.",
+        "e": "individualmente pelo servidor responsável pelo processo, para resguardar o sigilo, com posterior comunicação ao superior imediato."
+      },
+      "gabarito": "d",
+      "comentario": "Art. 6º, XXIII, da Resolução TRT8 nº 88/2012 (incluído pela Resolução 019/2022): é dever do servidor realizar reuniões com terceiros (advogados, fornecedores, licitantes) sempre com a participação de duas ou mais pessoas e registrar a reunião em ata assinada por todos os participantes ou por outro meio hábil."
+    },
+    {
+      "id": "leg-019",
+      "assunto": "Código de Ética do TRT-8 (Resolução TRT8 nº 88/2012)",
+      "origem": "fcc",
+      "enunciado": "Nos termos do Código de Ética dos Servidores do TRT da 8ª Região, é vedado ao servidor:\nI. Exercer a advocacia, de forma direta ou mediante a prestação de auxílio.\nII. Manter sob subordinação hierárquica cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade, até o segundo grau, inclusive.\nIII. Compartilhar suas senhas e formas de acesso aos sistemas eletrônicos disponibilizados para o desempenho de suas atividades.\nEstá correto o que se afirma em",
+      "alternativas": {
+        "a": "I, apenas.",
+        "b": "I e II, apenas.",
+        "c": "I e III, apenas.",
+        "d": "II e III, apenas.",
+        "e": "I, II e III."
+      },
+      "gabarito": "c",
+      "comentario": "Art. 7º da Resolução TRT8 nº 88/2012. O item I reproduz o inciso VII e o item III, o inciso XXV (incluído pela Resolução 019/2022). O item II está errado: o inciso XIII proíbe manter sob subordinação hierárquica cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade até o TERCEIRO grau, inclusive."
+    },
+    {
+      "id": "leg-020",
+      "assunto": "Código de Ética do TRT-8 (Resolução TRT8 nº 88/2012)",
+      "origem": "fcc",
+      "enunciado": "O Código de Ética dos Servidores do TRT da 8ª Região proíbe o servidor de receber presentes de pessoa física ou jurídica interessada em sua atividade. Os presentes que, por alguma razão, não possam ser recusados ou devolvidos sem ônus para o servidor",
+      "alternativas": {
+        "a": "serão leiloados pela Administração, e o valor arrecadado será revertido a programas de capacitação dos servidores.",
+        "b": "deverão ser restituídos ao doador pela Presidência do Tribunal, que arcará com as despesas da devolução.",
+        "c": "serão incorporados ao patrimônio do Tribunal e registrados pela unidade de controle patrimonial, independentemente de publicidade.",
+        "d": "poderão ser mantidos pelo servidor, desde que ele comunique o recebimento ao Comitê de Ética e Integridade no prazo de trinta dias.",
+        "e": "serão doados a entidades de caráter assistencial ou filantrópico reconhecidas como de utilidade pública, e o fato deverá constar da página de “Transparência” do Tribunal."
+      },
+      "gabarito": "e",
+      "comentario": "Art. 7º, XV e § 2º, da Resolução TRT8 nº 88/2012 (redação da Resolução 019/2022): os presentes que não possam ser recusados ou devolvidos sem ônus para o servidor serão doados a entidades de caráter assistencial ou filantrópico reconhecidas como de utilidade pública. Se o bem não for perecível, a entidade deve se comprometer a aplicá-lo em suas atividades finalísticas. O fato deve constar da página de “Transparência” do TRT8, para fins de publicidade e controle. Pelo § 1º, os brindes sem valor comercial não são considerados presentes."
+    },
+    {
+      "id": "leg-021",
+      "assunto": "Código de Ética do TRT-8 (Resolução TRT8 nº 88/2012)",
+      "origem": "inedita",
+      "enunciado": "Conforme o Código de Ética dos Servidores do TRT da 8ª Região, a autoridade ocupante de cargo em comissão (CJ), de direção ou chefia que mantiver participação superior a",
+      "alternativas": {
+        "a": "cinco por cento do capital de qualquer sociedade empresária deve comunicar o fato à Secretaria de Gestão de Pessoas, no prazo de trinta dias.",
+        "b": "dez por cento do capital de sociedade de economia mista, de instituição financeira ou de empresa que negocie com o Poder Público deve comunicar o fato ao Comitê de Ética e Integridade do Tribunal.",
+        "c": "dez por cento do capital de sociedade de economia mista, de instituição financeira ou de empresa que negocie com o Poder Público deve comunicar o fato à Presidência do Tribunal.",
+        "d": "um por cento do capital de instituição financeira deve alienar a participação no prazo de noventa dias, sob pena de exoneração.",
+        "e": "cinco por cento do capital de sociedade de economia mista, de instituição financeira ou de empresa que negocie com o Poder Público deve comunicar o fato ao Comitê de Ética e Integridade do Tribunal."
+      },
+      "gabarito": "e",
+      "comentario": "Art. 10 da Resolução TRT8 nº 88/2012 (redação da Resolução 010/2023): a autoridade que mantiver participação superior a cinco por cento do capital de sociedade de economia mista, de instituição financeira ou de empresa que negocie com o Poder Público deve comunicar o fato ao Comitê de Ética e Integridade do Tribunal. Essa é uma das regras específicas para os ocupantes de cargos em comissão (CJ), de direção ou chefia (arts. 8º a 17)."
+    },
+    {
+      "id": "leg-022",
+      "assunto": "Código de Ética do TRT-8 (Resolução TRT8 nº 88/2012)",
+      "origem": "fcc",
+      "enunciado": "Segundo o Código de Ética dos Servidores do TRT da 8ª Região, na ausência de lei que fixe prazo diverso, o período de interdição para atividade incompatível com o cargo em comissão anteriormente exercido é de",
+      "alternativas": {
+        "a": "doze meses, contados da exoneração, e alcança apenas quem tenha exercido cargo em comissão de nível CJ-4.",
+        "b": "quatro meses, contados da exoneração, e alcança quem tenha exercido cargo em comissão de nível CJ-3 ou CJ-4.",
+        "c": "seis meses, contados da exoneração, e alcança quem tenha exercido qualquer cargo em comissão de nível CJ-1 a CJ-4.",
+        "d": "seis meses, contados da exoneração, e alcança quem tenha exercido cargo em comissão de nível CJ-3 ou CJ-4.",
+        "e": "quatro meses, contados da publicação do ato de exoneração, e alcança quem tenha exercido qualquer cargo em comissão ou função comissionada."
+      },
+      "gabarito": "b",
+      "comentario": "Art. 17 da Resolução TRT8 nº 88/2012: na ausência de lei sobre prazo diverso, a interdição para atividade incompatível com o cargo em comissão de nível CJ-3 ou CJ-4 anteriormente exercido dura quatro meses, contados da exoneração. Nesse período, a autoridade não pode, por exemplo, aceitar cargo de administrador, consultor ou conselheiro, nem estabelecer vínculo profissional com pessoa física ou jurídica com quem tenha mantido relacionamento oficial direto e relevante nos seis meses anteriores à exoneração."
+    },
+    {
+      "id": "leg-023",
+      "assunto": "Código de Ética do TRT-8 (Resolução TRT8 nº 88/2012)",
+      "origem": "fcc",
+      "enunciado": "Sobre o Comitê de Ética e Integridade previsto no Código de Ética dos Servidores do TRT da 8ª Região, considere:\nI. É composto por um(a) Desembargador(a) do Trabalho, na função de Coordenador(a), por um(a) Desembargador(a) do Trabalho, na função de Vice-Coordenador(a), e por três servidores(as) membros titulares e seus respectivos suplentes.\nII. O mandato de seus membros é de dois anos, permitida a recondução.\nIII. Na sua composição, deve ser observada, sempre que possível, a ocupação de, no mínimo, um terço das vagas por mulheres.\nEstá correto o que se afirma em",
+      "alternativas": {
+        "a": "I, apenas.",
+        "b": "I e II, apenas.",
+        "c": "I e III, apenas.",
+        "d": "II e III, apenas.",
+        "e": "I, II e III."
+      },
+      "gabarito": "b",
+      "comentario": "Art. 18 da Resolução TRT8 nº 88/2012, com redação da Resolução TRT8 nº 049/2026. O item I reproduz o caput: todos os membros são designados pelo Presidente do Tribunal dentre servidores efetivos que não tenham sofrido punição penal ou administrativa nos últimos 5 anos. O item II reproduz o § 1º. O item III está errado: o § 2º manda observar, sempre que possível, a participação equânime de homens e mulheres, com perspectiva interseccional de raça e etnia, com no mínimo 50% (cinquenta por cento) das vagas ocupadas por mulheres."
+    },
+    {
+      "id": "leg-024",
+      "assunto": "Código de Ética do TRT-8 (Resolução TRT8 nº 88/2012)",
+      "origem": "inedita",
+      "enunciado": "Quanto ao funcionamento do Comitê de Ética e Integridade do TRT da 8ª Região, nos termos da Resolução TRT8 nº 88/2012, é correto afirmar que",
+      "alternativas": {
+        "a": "ficará suspenso do Comitê, até o trânsito em julgado, o membro que vier a ser indiciado criminalmente ou que responder a processo administrativo disciplinar ou sindicância.",
+        "b": "no caso de comprometimento ético de componente do Comitê, o Tribunal Pleno designará Comissão Processante Especial.",
+        "c": "os integrantes do Comitê ficam afastados das atribuições de seus respectivos cargos durante todo o mandato.",
+        "d": "quando o assunto envolver parente de integrante titular até o terceiro grau, este poderá participar do processo, mas sem direito a voto.",
+        "e": "os trabalhos desenvolvidos no Comitê serão remunerados por gratificação específica, fixada anualmente pela Presidência do Tribunal."
+      },
+      "gabarito": "a",
+      "comentario": "Art. 20 da Resolução TRT8 nº 88/2012 (redação da Resolução 010/2023): fica suspenso do Comitê, até o trânsito em julgado, o membro indiciado criminalmente ou que responda a PAD ou sindicância. As demais alternativas estão erradas. O trabalho não é remunerado: é considerado prestação de relevante serviço público e consta da ficha funcional (art. 23). Os membros acumulam essas atribuições com as do cargo (art. 22). Se houver comprometimento ético de um componente, é o Presidente do Tribunal quem designa Subcomitê de Ética Especial (art. 21). E, se o assunto envolver parente até o terceiro grau, o titular fica impedido e assume automaticamente o suplente (art. 19)."
+    },
+    {
+      "id": "leg-025",
+      "assunto": "Código de Ética do TRT-8 (Resolução TRT8 nº 88/2012)",
+      "origem": "fcc",
+      "enunciado": "Nos termos do Código de Ética dos Servidores do TRT da 8ª Região, compete ao Comitê de Ética e Integridade",
+      "alternativas": {
+        "a": "aplicar diretamente as penalidades de advertência e de suspensão aos servidores que violarem as normas do Código.",
+        "b": "apurar o potencial desvio de conduta ética, encaminhando os fatos apurados à Presidência, por meio de relatório circunstanciado.",
+        "c": "instaurar e julgar os processos administrativos disciplinares decorrentes de infrações éticas.",
+        "d": "apresentar relatório semestral de suas atividades ao Tribunal Pleno, para homologação.",
+        "e": "decidir, em caráter definitivo, os casos omissos do Código, dispensada a manifestação da Presidência."
+      },
+      "gabarito": "b",
+      "comentario": "Art. 24, VII, da Resolução TRT8 nº 88/2012 (incluído pela Resolução 010/2023): compete ao Comitê apurar o potencial desvio de conduta ética, encaminhando os fatos apurados à Presidência por relatório circunstanciado. O Comitê não aplica penalidades nem conduz PAD. Ao identificar possível ilícito penal, improbidade ou infração disciplinar, encaminha o caso às autoridades competentes (inciso II). Ele apenas propõe à Presidência solução para os casos omissos (inciso I), pois quem os decide é a Presidência (art. 25). O relatório de atividades é anual (inciso IV)."
+    },
+    {
+      "id": "leg-026",
+      "assunto": "Regimento Interno do TRT-8",
+      "origem": "fcc",
+      "enunciado": "De acordo com o Regimento Interno do Tribunal Regional do Trabalho da 8ª Região, o Tribunal, com sede em Belém e jurisdição nos Estados do Pará e Amapá, compõe-se de",
+      "alternativas": {
+        "a": "23 Desembargadores(as), sendo 18 escolhidos(as) por promoção dentre Titulares de Vara do Trabalho, exclusivamente pelo critério de antiguidade, e 5 dentre advogados(as) e membros do Ministério Público do Trabalho.",
+        "b": "23 Desembargadores(as), sendo 17 escolhidos(as) por promoção dentre Titulares de Vara do Trabalho, 3 dentre advogados(as) e 3 dentre membros do Ministério Público do Trabalho.",
+        "c": "23 Desembargadores(as), sendo 18 escolhidos(as) por promoção dentre Titulares de Vara do Trabalho, 2 dentre advogados(as), 2 dentre membros do Ministério Público do Trabalho e 1 dentre advogados(as) ou procuradores(as) do trabalho, alternadamente.",
+        "d": "28 Desembargadores(as), sendo 22 escolhidos(as) por promoção dentre Titulares de Vara do Trabalho, 3 dentre advogados(as) e 3 dentre membros do Ministério Público do Trabalho.",
+        "e": "24 Desembargadores(as), sendo 19 escolhidos(as) por promoção dentre Titulares de Vara do Trabalho, 2 dentre advogados(as), 2 dentre membros do Ministério Público do Trabalho e 1 dentre advogados(as) ou procuradores(as) do trabalho, alternadamente."
+      },
+      "gabarito": "c",
+      "comentario": "Arts. 1º e 2º do Regimento Interno do TRT da 8ª Região (art. 2º alterado pela Emenda Regimental nº 004/2017): o Tribunal tem 23 Desembargadores(as) vitalícios(as), nomeados(as) pelo Presidente da República. Desses, 18 vêm de promoção dentre Titulares de Vara do Trabalho, alternando antiguidade e merecimento; 2 vêm da advocacia; 2 do Ministério Público da União junto à Justiça do Trabalho; e 1 de advogados ou procuradores do trabalho, alternadamente."
+    },
+    {
+      "id": "leg-027",
+      "assunto": "Regimento Interno do TRT-8",
+      "origem": "fcc",
+      "enunciado": "Considere os seguintes órgãos:\nI. O Tribunal Pleno, as Seções Especializadas e as 4 (quatro) Turmas.\nII. A Escola da Magistratura e o Conselho da Ordem do Mérito Jus et Labor.\nIII. A Ouvidoria Regional e a Ouvidoria Regional da Mulher.\nSão órgãos do Tribunal Regional do Trabalho da 8ª Região, nos termos do art. 3º do seu Regimento Interno atualizado, os indicados em",
+      "alternativas": {
+        "a": "I, apenas.",
+        "b": "I e II, apenas.",
+        "c": "I e III, apenas.",
+        "d": "II e III, apenas.",
+        "e": "I, II e III."
+      },
+      "gabarito": "e",
+      "comentario": "Art. 3º do Regimento Interno do TRT da 8ª Região. São órgãos do Tribunal: o Tribunal Pleno; as Seções Especializadas; as 4 (quatro) Turmas; a Presidência; a Vice-Presidência; a Corregedoria Regional; o Conselho da Ordem do Mérito Jus et Labor; a Escola da Magistratura; a Ouvidoria Regional e a Ouvidoria Regional da Mulher (inciso IX, incluído pelo Ato Regimental nº 026, de 19.10.2026); e os(as) Desembargadores(as) do Trabalho. Todos os itens estão corretos."
+    },
+    {
+      "id": "leg-028",
+      "assunto": "Regimento Interno do TRT-8",
+      "origem": "inedita",
+      "enunciado": "O Regimento Interno do TRT da 8ª Região, atualizado pelo Ato Regimental nº 026/2026, passou a disciplinar a Ouvidoria Regional da Mulher, definindo-a como",
+      "alternativas": {
+        "a": "comissão temporária do Tribunal Pleno, composta exclusivamente por Desembargadoras, destinada a propor políticas de equidade de gênero.",
+        "b": "unidade vinculada à Corregedoria Regional, competente para instaurar e julgar processos disciplinares que envolvam violência de gênero.",
+        "c": "órgão autônomo, integrante da alta administração do Tribunal, com a finalidade de atender às demandas relacionadas à igualdade de gênero, à participação feminina e à violência contra a mulher praticadas por representantes ou em função das atividades da Justiça do Trabalho da 8ª Região.",
+        "d": "órgão consultivo da Escola da Magistratura, voltado à capacitação de magistrados(as) em julgamento com perspectiva de gênero.",
+        "e": "unidade subordinada à Ouvidoria Regional, com a finalidade exclusiva de receber denúncias de assédio sexual praticado contra servidoras do Tribunal."
+      },
+      "gabarito": "c",
+      "comentario": "Art. 75-B do Regimento Interno do TRT da 8ª Região (incluído pelo Ato Regimental nº 026, de 19.10.2026): a Ouvidoria Regional da Mulher é órgão autônomo, integrante da alta administração do Tribunal. Sua finalidade é atender às demandas relacionadas à igualdade de gênero, à participação feminina e à violência contra a mulher praticadas por representantes ou em função das atividades da Justiça do Trabalho da 8ª Região, observada a competência prevista em regulamento próprio. O art. 75-A trata da Ouvidoria Regional, também órgão autônomo da alta administração."
+    },
+    {
+      "id": "leg-029",
+      "assunto": "Regimento Interno do TRT-8",
+      "origem": "fcc",
+      "enunciado": "Conforme o Regimento Interno do TRT da 8ª Região, a eleição do(a) Presidente, do(a) Vice-Presidente e do(a) Corregedor(a) Regional",
+      "alternativas": {
+        "a": "far-se-á na primeira quinzena do mês de outubro, em escrutínio único e secreto, concorrendo todos(as) os(as) Desembargadores(as) vitalícios(as), para mandato de dois anos, vedada a reeleição.",
+        "b": "far-se-á na segunda quinzena do mês de novembro, em votação aberta e nominal, concorrendo os(as) cinco Desembargadores(as) mais antigos(as), para mandato de dois anos, permitida uma reeleição.",
+        "c": "far-se-á em sessão especialmente convocada no mês de agosto, por aclamação, recaindo a escolha sobre os(as) Desembargadores(as) mais antigos(as), para mandato de dois anos, permitida a recondução.",
+        "d": "far-se-á na primeira quinzena do mês de dezembro, em escrutínio secreto, concorrendo os(as) três Desembargadores(as) mais antigos(as), para mandato de três anos, vedada a reeleição.",
+        "e": "far-se-á na primeira quinzena do mês de outubro, em escrutínio único e secreto, concorrendo exclusivamente os(as) três Desembargadores(as) mais antigos(as) não alcançados(as) pelos impedimentos da LOMAN, para mandato de dois anos, vedada a reeleição."
+      },
+      "gabarito": "e",
+      "comentario": "Art. 14, §§ 2º e 3º, do Regimento Interno do TRT da 8ª Região: a eleição ocorre na primeira quinzena de outubro, em escrutínio único e secreto, e concorrem exclusivamente os(as) três Desembargadores(as) mais antigos(as) não alcançados(as) pelos impedimentos da LOMAN. O mandato é de dois anos, vedada a reeleição, e a posse deve ocorrer até o dia 8 de dezembro seguinte."
+    },
+    {
+      "id": "leg-030",
+      "assunto": "Regimento Interno do TRT-8",
+      "origem": "fcc",
+      "enunciado": "A respeito da eleição para os cargos de direção do TRT da 8ª Região, considere o que dispõe o Regimento Interno:\nI. Será considerado(a) eleito(a) o(a) que obtiver maioria absoluta dos votos válidos.\nII. Em caso de empate, proceder-se-á a novo escrutínio e, persistindo o empate, será considerado(a) eleito(a) o(a) mais idoso(a), independentemente da antiguidade.\nIII. O(A) Desembargador(a) eleito(a) Presidente, Vice-Presidente ou Corregedor(a) Regional terá suspensa a distribuição 60 (sessenta) dias antes da posse e continuará como Relator(a) nos processos que já lhe tenham sido distribuídos.\nEstá correto o que se afirma em",
+      "alternativas": {
+        "a": "I, apenas.",
+        "b": "I e II, apenas.",
+        "c": "I e III, apenas.",
+        "d": "II e III, apenas.",
+        "e": "I, II e III."
+      },
+      "gabarito": "c",
+      "comentario": "Art. 14 do Regimento Interno do TRT da 8ª Região. O item I reproduz o § 5º e o item III, o § 10. O item II está errado: pelo § 6º, se o empate persistir no novo escrutínio, é eleito(a) o(a) mais ANTIGO(A); só se a antiguidade for igual é que se elege o(a) mais idoso(a)."
+    },
+    {
+      "id": "leg-031",
+      "assunto": "Regimento Interno do TRT-8",
+      "origem": "fcc",
+      "enunciado": "Sobre as Seções Especializadas do TRT da 8ª Região, nos termos do Regimento Interno, é correto afirmar:",
+      "alternativas": {
+        "a": "A Seção Especializada I é presidida pelo(a) Presidente do Tribunal, e a Seção Especializada II, pelo(a) Vice-Presidente.",
+        "b": "A Seção Especializada II é presidida pelo(a) Desembargador(a) Corregedor(a), e as Seções Especializadas deliberam com a presença mínima de 6 (seis) Desembargadores(as), incluindo o(a) Presidente.",
+        "c": "As Seções Especializadas deliberam com a presença mínima de 8 (oito) Desembargadores(as), excluído o(a) Presidente.",
+        "d": "Cada Seção Especializada é formada por nove Desembargadores(as) do Trabalho, e o quorum mínimo de deliberação é de 5 (cinco) membros.",
+        "e": "Nas sessões de julgamento, o(a) Presidente da Seção Especializada vota apenas em caso de empate."
+      },
+      "gabarito": "b",
+      "comentario": "Arts. 27 e 28 do Regimento Interno do TRT da 8ª Região. Há duas Seções Especializadas, cada uma com onze Desembargadores(as): a SE I é presidida pelo(a) Vice-Presidente e a SE II, pelo(a) Corregedor(a). Elas deliberam com a presença mínima de 6 Desembargadores(as), incluindo o(a) Presidente (art. 28, caput). Nas sessões de julgamento, o(a) Presidente da Seção vota como os demais (art. 28, § 4º). Se houver empate, é convocado para desempatar o(a) Desembargador(a) que estiver presidindo a outra Seção (art. 28-A)."
+    },
+    {
+      "id": "leg-032",
+      "assunto": "Regimento Interno do TRT-8",
+      "origem": "fcc",
+      "enunciado": "Segundo o Regimento Interno do TRT da 8ª Região, é de competência exclusiva da Seção Especializada I processar e julgar",
+      "alternativas": {
+        "a": "as arguições de inconstitucionalidade de lei ou de ato do poder público, quando consideradas relevantes pelas Turmas.",
+        "b": "os mandados de segurança impetrados contra atos do(a) Presidente do Tribunal e de qualquer das Turmas.",
+        "c": "originariamente os dissídios coletivos de natureza econômica ou jurídica, a homologação dos acordos neles celebrados, as revisões das sentenças normativas e a extensão das decisões proferidas em dissídios coletivos, bem como as ações em matéria de greve.",
+        "d": "os conflitos de competência entre as Turmas e o Tribunal Pleno, bem como os pedidos de desaforamento.",
+        "e": "os recursos ordinários interpostos das decisões definitivas de primeiro grau proferidas em ações coletivas e em ações civis públicas."
+      },
+      "gabarito": "c",
+      "comentario": "Art. 30 do Regimento Interno do TRT da 8ª Região. É competência exclusiva da Seção Especializada I processar e julgar originariamente os dissídios coletivos de natureza econômica ou jurídica, inclusive a homologação dos acordos neles celebrados, as revisões das sentenças normativas e a extensão das decisões proferidas em dissídios coletivos. Também lhe cabem as ações em matéria de greve. As outras alternativas tratam de competências de outros órgãos: recursos ordinários são das Turmas (art. 35, I), e arguições de inconstitucionalidade, conflitos entre Turmas e Pleno, desaforamento e mandados de segurança contra atos do Pleno, das Seções ou das Turmas são do Tribunal Pleno (art. 23)."
+    },
+    {
+      "id": "leg-033",
+      "assunto": "Regimento Interno do TRT-8",
+      "origem": "fcc",
+      "enunciado": "De acordo com o Regimento Interno do TRT da 8ª Região, as Turmas do Tribunal",
+      "alternativas": {
+        "a": "são 4 (quatro), cada uma composta de 3 (três) Desembargadores(as), e de suas decisões cabe recurso para o Tribunal Pleno.",
+        "b": "são 5 (cinco), cada uma composta de 4 (quatro) Desembargadores(as), dos quais apenas 3 (três) participam do julgamento, delas participando o(a) Corregedor(a) Regional.",
+        "c": "são 4 (quatro), cada uma composta de 5 (cinco) Desembargadores(as), e seu(sua) Presidente é eleito(a) pelo Tribunal Pleno para mandato de dois anos, permitida a reeleição.",
+        "d": "são 4 (quatro), cada uma composta de 5 (cinco) Desembargadores(as), dos quais apenas 3 (três) participam do julgamento, e de sua formação não participam o(a) Presidente, o(a) Vice-Presidente e o(a) Corregedor(a) Regional.",
+        "e": "são 4 (quatro), cada uma composta de 5 (cinco) Desembargadores(as), todos(as) participando do julgamento, e são presididas pelo(a) Vice-Presidente do Tribunal."
+      },
+      "gabarito": "d",
+      "comentario": "Arts. 31, 32 e 36 do Regimento Interno do TRT da 8ª Região. O Tribunal tem 4 Turmas, cada uma com 5 Desembargadores(as), dos quais apenas 3 participam do julgamento (art. 31). O(a) Presidente, o(a) Vice-Presidente e o(a) Corregedor(a) Regional não participam da formação das Turmas (art. 32). Das decisões das Turmas não cabe recurso para o Tribunal Pleno ou para a Seção Especializada (art. 36). O(a) Presidente de cada Turma é eleito(a) pelos seus pares, para 2 anos, vedada a reeleição (art. 16)."
+    },
+    {
+      "id": "leg-034",
+      "assunto": "Regimento Interno do TRT-8",
+      "origem": "inedita",
+      "enunciado": "Nos termos do Regimento Interno do TRT da 8ª Região, incumbe ao(à) Corregedor(a) Regional",
+      "alternativas": {
+        "a": "decidir as correições parciais apresentadas no prazo de dez dias, a contar da ciência do ato impugnado, cabendo de sua decisão recurso de revista.",
+        "b": "presidir a Seção Especializada I e despachar os recursos de revista interpostos das decisões das Turmas.",
+        "c": "decidir as correições parciais contra atos atentatórios à boa ordem processual, apresentadas no prazo de oito dias, a contar da publicação do ato impugnado, ainda que haja recurso legal cabível.",
+        "d": "exercer correição ordinária nos Foros Trabalhistas e nas Varas do Trabalho da Região, obrigatoriamente, uma vez a cada dois anos.",
+        "e": "decidir as correições parciais contra atos atentatórios à boa ordem processual ou funcional, apresentadas no prazo de cinco dias, a contar da ciência do ato impugnado, nos casos em que não houver recurso legal."
+      },
+      "gabarito": "e",
+      "comentario": "Art. 43 do Regimento Interno do TRT da 8ª Região. Ao(à) Corregedor(a) Regional incumbe presidir a Seção Especializada II (inciso I). Também lhe cabe exercer correição ordinária nos Foros Trabalhistas e Varas do Trabalho, obrigatoriamente, uma vez por ano (inciso II). E decide as correições parciais contra atos atentatórios à boa ordem processual ou funcional, apresentadas em cinco dias da ciência do ato impugnado, quando não houver recurso legal (inciso V, redação da Resolução nº 71/2012). Despachar recursos de revista é atribuição do(a) Vice-Presidente (art. 38, V)."
+    },
+    {
+      "id": "leg-035",
+      "assunto": "Regimento Interno do TRT-8",
+      "origem": "inedita",
+      "enunciado": "Considere as seguintes afirmações sobre o funcionamento da Justiça do Trabalho da 8ª Região, com base no Regimento Interno do TRT da 8ª Região:\nI. Os órgãos da Justiça do Trabalho da Oitava Região não funcionarão nos dias compreendidos entre 20 de dezembro e 6 de janeiro, inclusive.\nII. Ficam suspensos os prazos processuais de 07 a 20 de janeiro, período em que não se realizarão audiências nem sessões de julgamento.\nIII. Os prazos processuais previstos no Regimento serão contados em dias corridos, inclusive quando se relacionarem a processos judiciais.\nEstá correto o que se afirma em",
+      "alternativas": {
+        "a": "I, apenas.",
+        "b": "I e II, apenas.",
+        "c": "I e III, apenas.",
+        "d": "II e III, apenas.",
+        "e": "I, II e III."
+      },
+      "gabarito": "b",
+      "comentario": "Regimento Interno do TRT da 8ª Região. O item I está correto: art. 307, alínea “d”. O item II também: art. 307-A, incluído pelo Ato Regimental nº 006/2017. O item III está errado: pelo art. 307-B (redação da Emenda Regimental nº 021/2023), os prazos processuais do Regimento são contados em dias ÚTEIS, salvo quando se relacionarem a processos administrativos."
+    },
+    {
+      "id": "leg-036",
+      "assunto": "Regimento Interno do TRT-8",
+      "origem": "fcc",
+      "enunciado": "Quanto à alteração do Regimento Interno do TRT da 8ª Região, é correto afirmar que",
+      "alternativas": {
+        "a": "somente a Comissão de Regimento pode propor alterações ao Regimento, que serão aprovadas por maioria absoluta dos membros efetivos do Tribunal.",
+        "b": "o ato regimental introduz modificações no texto, a emenda regimental suprime ou acrescenta dispositivo, e ambos são aprovados por maioria simples dos membros presentes.",
+        "c": "a proposta de alteração será discutida e votada na mesma sessão em que for apresentada, dispensado o parecer da Comissão de Regimento.",
+        "d": "a emenda regimental introduz modificações no texto e depende da aprovação de dois terços dos membros efetivos do Tribunal, e o ato regimental, de maioria simples.",
+        "e": "a emenda regimental introduz modificações no texto, o ato regimental suprime ou acrescenta dispositivo, e ambos são aprovados por maioria absoluta dos membros efetivos do Tribunal."
+      },
+      "gabarito": "e",
+      "comentario": "Art. 308 do Regimento Interno do TRT da 8ª Região (parágrafos alterados pela Resolução nº 50/2016). O Regimento pode ser alterado mediante proposta de qualquer Desembargador(a). A emenda regimental introduz modificações no texto; o ato regimental suprime ou acrescenta dispositivo (§ 1º). A proposta é discutida e votada em sessão posterior, previamente marcada (§ 3º), e a aprovação exige maioria absoluta dos membros efetivos do Tribunal (§ 4º)."
+    },
+    {
+      "id": "leg-037",
+      "assunto": "Política de Prevenção e Enfrentamento da Violência, do Assédio e da Discriminação no TRT-8 (Resolução TRT8 nº 65/2025)",
+      "origem": "fcc",
+      "enunciado": "A Resolução TRT8 nº 065/2025 instituiu a Política de Prevenção e Enfrentamento da Violência, do Assédio e de Todas as Formas de Discriminação no âmbito do Tribunal Regional do Trabalho da 8ª Região. Sobre essa norma, é correto afirmar que",
+      "alternativas": {
+        "a": "revogou a Resolução TRT8 nº 67/2021 e suas alterações e aplica-se às condutas praticadas por qualquer meio contra magistrados(as), servidores(as), estagiários(as), aprendizes, voluntários(as), terceirizados(as), advogados(as) e jurisdicionados(as), independentemente do vínculo jurídico mantido com a instituição.",
+        "b": "aplica-se às condutas praticadas por qualquer meio, desde que a vítima mantenha vínculo estatutário ou contratual com o Tribunal.",
+        "c": "revogou a Resolução TRT8 nº 67/2021, mas excluiu de seu âmbito de proteção advogados(as) e jurisdicionados(as), que devem recorrer à Ouvidoria Regional.",
+        "d": "aplica-se somente às condutas praticadas contra magistrados(as) e servidores(as), pois terceirizados(as) e estagiários(as) estão sujeitos às políticas das respectivas empresas e instituições de ensino.",
+        "e": "manteve em vigor a Resolução TRT8 nº 67/2021, que continua a reger o fluxo de tratamento das notícias, e aplica-se apenas às condutas praticadas presencialmente nas dependências do Tribunal."
+      },
+      "gabarito": "a",
+      "comentario": "Art. 1º, § 2º, e art. 28 da Resolução TRT8 nº 065/2025. A Política aplica-se a todas as condutas de violência, assédio e todas as formas de discriminação nas relações institucionais, da organização do trabalho e socioprofissionais, praticadas por qualquer meio. Protege magistradas(os), servidoras(es), estagiárias(os), aprendizes, voluntárias(os), terceirizadas(os) e demais prestadoras(es) de serviços, colaboradoras(es), advogadas(os) e jurisdicionadas(os), independentemente do vínculo jurídico. O art. 28 revogou expressamente a Resolução TRT8 nº 67/2021 e suas alterações."
+    },
+    {
+      "id": "leg-038",
+      "assunto": "Política de Prevenção e Enfrentamento da Violência, do Assédio e da Discriminação no TRT-8 (Resolução TRT8 nº 65/2025)",
+      "origem": "inedita",
+      "enunciado": "Considere as seguintes afirmações sobre a vedação à retaliação prevista na Resolução TRT8 nº 065/2025, com a redação dada pela Resolução TRT8 nº 23/2026:\nI. É vedada qualquer forma de retaliação contra a pessoa noticiante, a vítima, a testemunha ou qualquer indivíduo que, de boa-fé, relate, testemunhe ou colabore na apuração das condutas abrangidas pela Política.\nII. Constitui ato de retaliação, exemplificativamente, a instauração de procedimento administrativo disciplinar ou de sindicância sem indícios mínimos de materialidade.\nIII. Ainda que demonstrados indícios objetivos de retaliação, cabe à pessoa noticiante comprovar que o ato administrativo questionado não teve motivação legítima.\nEstá correto o que se afirma em",
+      "alternativas": {
+        "a": "I, apenas.",
+        "b": "I e II, apenas.",
+        "c": "I e III, apenas.",
+        "d": "II e III, apenas.",
+        "e": "I, II e III."
+      },
+      "gabarito": "b",
+      "comentario": "Art. 2º-A da Resolução TRT8 nº 065/2025 (redação da Resolução TRT8 nº 23/2026). O item I reproduz o caput e o item II, o § 2º, III. O item III está errado: pelo § 3º, uma vez demonstrados indícios objetivos de retaliação, cabe à ADMINISTRAÇÃO comprovar motivação legítima, proporcional e desvinculada da conduta comunicada, sob pena de responsabilização disciplinar ou funcional."
+    },
+    {
+      "id": "leg-039",
+      "assunto": "Política de Prevenção e Enfrentamento da Violência, do Assédio e da Discriminação no TRT-8 (Resolução TRT8 nº 65/2025)",
+      "origem": "fcc",
+      "enunciado": "No âmbito da Política de Prevenção e Enfrentamento da Violência, do Assédio e de Todas as Formas de Discriminação do TRT da 8ª Região (Resolução TRT8 nº 065/2025), a Corregedoria Regional",
+      "alternativas": {
+        "a": "depende de prévio relatório conclusivo do setor psicossocial para iniciar qualquer providência relativa à notícia recebida.",
+        "b": "somente poderá determinar a apuração das irregularidades noticiadas mediante consentimento expresso e por escrito da vítima.",
+        "c": "não integra os canais de acolhimento inicial, que são exclusivamente os Subcomitês de Prevenção e Enfrentamento da Violência, Assédio e Discriminação.",
+        "d": "atuará tanto no acolhimento inicial da vítima como poderá determinar a apuração imediata das irregularidades levadas ao seu conhecimento, independentemente de formalização, considerando seu poder-dever.",
+        "e": "atua apenas nos casos que envolvam magistrados(as) de primeiro grau, cabendo à Presidência os demais casos."
+      },
+      "gabarito": "d",
+      "comentario": "Art. 5º, §§ 1º e 3º, da Resolução TRT8 nº 065/2025. Os canais de acolhimento inicial são, preferencialmente, os Subcomitês, a Secretaria de Gestão de Pessoas, a Corregedoria Regional, a Ouvidoria Geral e a Ouvidoria da Mulher. A Corregedoria Regional atua no acolhimento inicial da vítima e pode determinar a apuração imediata das irregularidades, independentemente de formalização, por seu poder-dever. Por isso a norma a ressalva da regra geral do consentimento expresso da vítima (arts. 12, § 1º, 13, § 3º, e 21)."
+    },
+    {
+      "id": "leg-040",
+      "assunto": "Política de Prevenção e Enfrentamento da Violência, do Assédio e da Discriminação no TRT-8 (Resolução TRT8 nº 65/2025)",
+      "origem": "fcc",
+      "enunciado": "Conforme a Resolução TRT8 nº 065/2025, para a composição dos Subcomitês de Prevenção e Enfrentamento da Violência, do Assédio e de todas as formas de Discriminação do Tribunal e dos Foros de 1º Grau, é requisito obrigatório que",
+      "alternativas": {
+        "a": "todos os seus membros possuam formação superior em Psicologia, Serviço Social ou Direito.",
+        "b": "todos os seus membros tenham realizado, no mínimo, 10 (dez) horas de capacitação bienal, dispensada a renovação durante o mandato.",
+        "c": "todos os seus membros, voluntários ou não, tenham realizado, no mínimo, 20 (vinte) horas de capacitação anual na temática, mantendo a mesma quantidade de horas de capacitação durante o exercício do mandato.",
+        "d": "todos os seus membros, exceto os voluntários, tenham realizado, no mínimo, 20 (vinte) horas de capacitação na temática, uma única vez, antes da posse.",
+        "e": "apenas o(a) coordenador(a) tenha realizado, no mínimo, 40 (quarenta) horas de capacitação na temática nos dois anos anteriores à designação."
+      },
+      "gabarito": "c",
+      "comentario": "Art. 8º, § 2º, da Resolução TRT8 nº 065/2025: todos os membros dos Subcomitês, voluntários ou não, devem ter realizado no mínimo 20 horas de capacitação anual em Prevenção e Enfrentamento da Violência, do Assédio e de todas as formas de Discriminação no Trabalho. Devem também manter essa carga durante o mandato. O mesmo artigo exige que todos os integrantes assinem Termo de Confidencialidade (§ 4º) e prevê reunião mensal de cada Subcomitê e extraordinária quando necessário (§ 6º)."
+    },
+    {
+      "id": "leg-041",
+      "assunto": "Política de Prevenção e Enfrentamento da Violência, do Assédio e da Discriminação no TRT-8 (Resolução TRT8 nº 65/2025)",
+      "origem": "fcc",
+      "enunciado": "Nos termos da Resolução TRT8 nº 065/2025, que trata da Política de Prevenção e Enfrentamento da Violência, do Assédio e de Todas as Formas de Discriminação no TRT da 8ª Região,",
+      "alternativas": {
+        "a": "os acolhimentos inicial e técnico da vítima comunicam-se automaticamente com os procedimentos formais de natureza disciplinar instaurados pela Administração.",
+        "b": "os membros dos Subcomitês não poderão integrar, concomitantemente, as Comissões de sindicância e/ou de processo administrativo disciplinar, seja como membro titular ou substituto.",
+        "c": "os membros dos Subcomitês podem integrar Comissões de processo administrativo disciplinar apenas na condição de membros substitutos.",
+        "d": "os Subcomitês substituem as Comissões de sindicância e de processo administrativo disciplinar nos casos de assédio moral e sexual.",
+        "e": "a pessoa a que se refere a notícia de assédio deve ser imediatamente cientificada de seu conteúdo e chamada a ser ouvida pelos setores de acolhimento, em respeito ao contraditório."
+      },
+      "gabarito": "b",
+      "comentario": "Art. 9º, §§ 2º a 4º, da Resolução TRT8 nº 065/2025. Os Subcomitês não substituem as Comissões de sindicância e de PAD (§ 2º). Os acolhimentos inicial e técnico não se confundem nem se comunicam com os procedimentos disciplinares. A pessoa a que se refere a notícia não deve ser cientificada nem ouvida sem o consentimento da(o) noticiante, salvo a hipótese da Corregedoria Regional (§ 3º). E os membros dos Subcomitês não podem integrar, ao mesmo tempo, comissões de sindicância ou PAD, nem como titulares nem como substitutos (§ 4º)."
+    },
+    {
+      "id": "leg-042",
+      "assunto": "Política de Prevenção e Enfrentamento da Violência, do Assédio e da Discriminação no TRT-8 (Resolução TRT8 nº 65/2025)",
+      "origem": "inedita",
+      "enunciado": "Segundo a Resolução TRT8 nº 065/2025, nas hipóteses de notícia de violência, assédio ou discriminação cometida contra ou por Membro da Administração do Tribunal, a notícia deve ser encaminhada",
+      "alternativas": {
+        "a": "ao Tribunal Pleno, que designará comissão composta por três Desembargadores(as) para tratamento da notícia.",
+        "b": "à Corregedoria Regional, que a processará com exclusividade, vedada a remessa a órgãos externos.",
+        "c": "ao Conselho Superior da Justiça do Trabalho e/ou ao Conselho Nacional de Justiça, para tratamento, na forma do art. 13 da Resolução CNJ nº 351/2020.",
+        "d": "ao Subcomitê do Tribunal, que a tratará segundo o fluxo ordinário previsto no Anexo I da Resolução.",
+        "e": "ao Tribunal Superior do Trabalho, por intermédio de sua Ouvidoria, que decidirá sobre o arquivamento ou a instauração de processo disciplinar."
+      },
+      "gabarito": "c",
+      "comentario": "Art. 11, § 1º, da Resolução TRT8 nº 065/2025: a notícia de violência, assédio ou discriminação cometida contra ou por Membro da Administração do Tribunal deve ser encaminhada ao CSJT e/ou ao CNJ para tratamento, na forma do art. 13 da Resolução CNJ nº 351/2020. O caput do mesmo artigo lista as instâncias que recebem notícias em geral: Secretaria de Gestão de Pessoas, Subcomitês, Corregedoria Regional e Ouvidorias (Geral e da Mulher)."
+    },
+    {
+      "id": "leg-043",
+      "assunto": "Política de Prevenção e Enfrentamento da Violência, do Assédio e da Discriminação no TRT-8 (Resolução TRT8 nº 65/2025)",
+      "origem": "fcc",
+      "enunciado": "Considere as seguintes disposições da Resolução TRT8 nº 065/2025:\nI. A prática de assédio sexual é considerada infração disciplinar de natureza grave.\nII. Fica instituída a Semana de Combate à Violência, ao Assédio e a todas as formas de Discriminação, realizada na primeira semana de maio de cada ano.\nIII. A Política integrará todos os contratos de estágio e de prestação de serviços firmados pela Justiça do Trabalho da 8ª Região.\nEstá correto o que se afirma em",
+      "alternativas": {
+        "a": "I, apenas.",
+        "b": "I e II, apenas.",
+        "c": "I e III, apenas.",
+        "d": "II e III, apenas.",
+        "e": "I, II e III."
+      },
+      "gabarito": "e",
+      "comentario": "Resolução TRT8 nº 065/2025. O item I está correto: art. 17, § 1º. O item II também: art. 19, que fixa a Semana na primeira semana de maio — a revogada Resolução TRT8 nº 67/2021 a previa na segunda semana de maio. O item III reproduz o art. 22, que busca assegurar o alinhamento entre os colaboradores. Todos os itens estão corretos."
+    },
+    {
+      "id": "leg-044",
+      "assunto": "Violência, assédio e discriminação na Justiça do Trabalho – Resolução CSJT nº 360/2023",
+      "origem": "fcc",
+      "enunciado": "Para os fins da Política de Prevenção e Enfrentamento da Violência, do Assédio e de Todas as Formas de Discriminação no âmbito da Justiça do Trabalho de primeiro e segundo graus (Resolução CSJT nº 360/2023), considera-se violência e assédio o conjunto de comportamentos e práticas inaceitáveis, ou de suas ameaças,",
+      "alternativas": {
+        "a": "de ocorrência única ou repetida, que, independentemente da intencionalidade, visem, causem ou sejam suscetíveis de causar dano físico, psicológico, sexual, patrimonial ou moral, aí incluída a violência e o assédio com base no gênero.",
+        "b": "praticados exclusivamente de forma presencial, que causem efetivo dano patrimonial ou moral, excluída a violência com base no gênero, objeto de norma específica.",
+        "c": "de ocorrência única ou repetida, desde que comprovado o dolo do agente e a efetiva ocorrência de dano físico ou psicológico.",
+        "d": "necessariamente reiterados e sistemáticos, praticados com a intenção deliberada de causar dano psicológico ou moral à vítima.",
+        "e": "de ocorrência repetida, desde que praticados por superior hierárquico e com a finalidade comprovada de excluir a vítima do ambiente de trabalho."
+      },
+      "gabarito": "a",
+      "comentario": "Art. 2º, I, da Resolução CSJT nº 360/2023: violência e assédio são o conjunto de comportamentos e práticas inaceitáveis, ou de suas ameaças, de ocorrência única ou repetida, que, independentemente da intencionalidade, visem, causem ou sejam suscetíveis de causar dano físico, psicológico, sexual, patrimonial ou moral, aí incluída a violência e o assédio com base no gênero. Pelo parágrafo único do art. 1º, a Política abrange condutas praticadas de forma presencial ou por meios telemáticos."
+    },
+    {
+      "id": "leg-045",
+      "assunto": "Violência, assédio e discriminação na Justiça do Trabalho – Resolução CSJT nº 360/2023",
+      "origem": "fcc",
+      "enunciado": "Segundo a Resolução CSJT nº 360/2023, o processo contínuo de condutas abusivas amparado por estratégias organizacionais e/ou métodos gerenciais que visem obter engajamento intensivo de magistrados(as), servidores(as) e demais trabalhadores(as) ou excluir aqueles(as) que a instituição não deseja manter em seus quadros, por meio do desrespeito aos seus direitos fundamentais, corresponde ao conceito de",
+      "alternativas": {
+        "a": "assédio moral organizacional.",
+        "b": "organização do trabalho.",
+        "c": "discriminação.",
+        "d": "risco psicossocial.",
+        "e": "violência e assédio com base no gênero."
+      },
+      "gabarito": "a",
+      "comentario": "Art. 2º, III, da Resolução CSJT nº 360/2023: a definição transcrita no enunciado é a de assédio moral organizacional. A discriminação (inciso V) é toda distinção, exclusão, restrição ou preferência fundada em raça, etnia, cor, sexo, gênero etc., incluída a recusa de adaptação razoável. A organização do trabalho (inciso XI) é o conjunto de normas, instruções, práticas e processos que modulam as relações hierárquicas, a divisão do trabalho e os critérios de desempenho."
+    },
+    {
+      "id": "leg-046",
+      "assunto": "Violência, assédio e discriminação na Justiça do Trabalho – Resolução CSJT nº 360/2023",
+      "origem": "fcc",
+      "enunciado": "Nos termos da Resolução CSJT nº 360/2023, os Comitês de Prevenção e Enfrentamento da Violência, Assédio e Discriminação",
+      "alternativas": {
+        "a": "serão instituídos apenas no âmbito do Conselho Superior da Justiça do Trabalho, com atuação nacional, no prazo máximo de 60 (sessenta) dias.",
+        "b": "serão instituídos em cada tribunal, no prazo máximo de 45 (quarenta e cinco) dias, pelo menos um em cada grau de jurisdição, com participação plúrima de magistrados(as), servidores(as) e trabalhadores(as) terceirizados(as).",
+        "c": "serão instituídos em cada tribunal, no prazo máximo de 90 (noventa) dias, em número de um único Comitê por tribunal, composto exclusivamente por magistrados(as).",
+        "d": "serão instituídos em cada tribunal, no prazo máximo de 45 (quarenta e cinco) dias, e substituirão as comissões de sindicância e de processo administrativo disciplinar nos casos de assédio.",
+        "e": "serão instituídos em cada tribunal, no prazo máximo de 120 (cento e vinte) dias, sendo facultativa a participação de trabalhadores(as) terceirizados(as)."
+      },
+      "gabarito": "b",
+      "comentario": "Art. 15 da Resolução CSJT nº 360/2023: em cada tribunal será instituído, no prazo máximo de 45 dias, pelo menos um Comitê de Prevenção e Enfrentamento da Violência, Assédio e Discriminação em cada grau de jurisdição, com participação plúrima de magistrados(as), servidores(as) e trabalhadores(as) terceirizados(as). Os Comitês não substituem as comissões de sindicância e de PAD (art. 16, § 2º)."
+    },
+    {
+      "id": "leg-047",
+      "assunto": "Violência, assédio e discriminação na Justiça do Trabalho – Resolução CSJT nº 360/2023",
+      "origem": "fcc",
+      "enunciado": "No que se refere ao sigilo e à confidencialidade da notícia de violência, assédio ou discriminação, a Resolução CSJT nº 360/2023 dispõe que:\nI. É admitido o anonimato no encaminhamento da notícia, como forma de proteger a pessoa noticiante.\nII. A confidencialidade é requisito ético e condição necessária para o acolhimento seguro da notícia, sendo exigido o consentimento expresso da pessoa noticiante para qualquer registro ou encaminhamento formal do relato.\nIII. No caso de não haver autorização para o registro, a pessoa será cientificada verbalmente de que não será dado encaminhamento ao relato, ficando restrita a atuação da(s) instância(s) ao acolhimento.\nEstá correto o que se afirma em",
+      "alternativas": {
+        "a": "I, apenas.",
+        "b": "I e II, apenas.",
+        "c": "I e III, apenas.",
+        "d": "II e III, apenas.",
+        "e": "I, II e III."
+      },
+      "gabarito": "d",
+      "comentario": "Art. 14 da Resolução CSJT nº 360/2023. O item I está errado: o caput resguarda o sigilo e a confidencialidade, mas VEDA o anonimato. O item II reproduz o § 1º e o item III, o § 3º. Pelo § 4º, para fins estatísticos registra-se apenas o número de acolhimentos, sem identificar dados nominais nem detalhes do caso."
+    },
+    {
+      "id": "leg-048",
+      "assunto": "Violência, assédio e discriminação na Justiça do Trabalho – Resolução CSJT nº 360/2023",
+      "origem": "inedita",
+      "enunciado": "A Resolução CSJT nº 455/2026 acrescentou o art. 17-A à Resolução CSJT nº 360/2023. Nos procedimentos administrativos disciplinares que envolvam a apuração de infrações contra a dignidade sexual ou violência contra a mulher, esse dispositivo estabelece que",
+      "alternativas": {
+        "a": "é vedada, em especial, a invocação, pelas partes ou por seus procuradores, de elementos relativos à vida sexual pregressa da vítima ou ao seu modo de vida.",
+        "b": "o descumprimento das vedações enseja apenas responsabilização administrativa, afastadas as esferas civil e penal.",
+        "c": "a oitiva da vítima é obrigatória e deve ser realizada na presença da pessoa acusada, em respeito ao contraditório.",
+        "d": "a manifestação sobre circunstâncias alheias aos fatos apurados é permitida quando necessária para aferir a credibilidade da vítima.",
+        "e": "compete exclusivamente ao Comitê de Prevenção e Enfrentamento da Violência, Assédio e Discriminação conduzir a instrução do procedimento."
+      },
+      "gabarito": "a",
+      "comentario": "Art. 17-A da Resolução CSJT nº 360/2023 (incluído pela Resolução CSJT nº 455/2026). Nesses procedimentos, partes, procuradores e demais participantes devem zelar pela integridade física e psicológica da vítima, vedada a revitimização. São vedadas, em especial: a manifestação sobre circunstâncias alheias aos fatos apurados; a invocação de elementos da vida sexual pregressa ou do modo de vida da vítima; e linguagem, informações ou materiais que ofendam a dignidade da vítima ou de testemunhas (§ 2º). Cabe à autoridade que conduz o procedimento assegurar esse cumprimento (§ 1º), e o descumprimento pode gerar responsabilização civil, penal e administrativa (§ 3º)."
+    },
+    {
+      "id": "leg-049",
+      "assunto": "Violência, assédio e discriminação na Justiça do Trabalho – Resolução CSJT nº 360/2023",
+      "origem": "fcc",
+      "enunciado": "De acordo com a Resolução CSJT nº 360/2023, a notícia de assédio ou discriminação poderá ser acolhida em diferentes instâncias institucionais nos órgãos do Poder Judiciário Trabalhista. NÃO consta do rol dessas instâncias",
+      "alternativas": {
+        "a": "a Área de Saúde.",
+        "b": "a Comissão Permanente de Acessibilidade e Inclusão.",
+        "c": "o Ministério Público do Trabalho.",
+        "d": "a Corregedoria-Geral da Justiça do Trabalho.",
+        "e": "a Ouvidoria."
+      },
+      "gabarito": "c",
+      "comentario": "Art. 13 da Resolução CSJT nº 360/2023. A notícia pode ser acolhida pela Área de Gestão de Pessoas, pela Área de Saúde, pelo Comitê de Prevenção e Enfrentamento da Violência, Assédio e Discriminação, pela Comissão Permanente de Acessibilidade e Inclusão, pelo Comitê do Código de Conduta, pelo Comitê de Integridade, pela Corregedoria Regional e Corregedoria-Geral da Justiça do Trabalho e pela Ouvidoria. O Ministério Público do Trabalho não está nesse rol. Ele aparece no art. 22 apenas como possível destinatário de representação, nos casos de retaliação a trabalhadores(as) terceirizados(as)."
+    },
+    {
+      "id": "leg-050",
+      "assunto": "Programa de Equidade de Raça, Gênero e Diversidade – Resolução CSJT nº 368/2023",
+      "origem": "fcc",
+      "enunciado": "O Programa de Equidade de Raça, Gênero e Diversidade no âmbito da Justiça do Trabalho, instituído pela Resolução CSJT nº 368/2023, é orientado, entre outros, pelo princípio da",
+      "alternativas": {
+        "a": "prevalência do mérito individual como critério exclusivo de ascensão funcional.",
+        "b": "supremacia da hierarquia sobre as soluções dialogadas de conflitos.",
+        "c": "primazia da abordagem repressiva e sancionatória.",
+        "d": "neutralidade institucional em relação a ações afirmativas.",
+        "e": "laicidade do Estado."
+      },
+      "gabarito": "e",
+      "comentario": "Art. 3º da Resolução CSJT nº 368/2023. O Programa orienta-se pelos seguintes princípios: respeito à dignidade da pessoa humana; igualdade, não discriminação e respeito à diversidade; garantia de ambiente de trabalho sadio e seguro; primazia da abordagem preventiva e socioeducativa; construção de uma cultura de paz e direitos humanos, com soluções dialogadas para os conflitos; e laicidade do Estado (inciso VI)."
+    },
+    {
+      "id": "leg-051",
+      "assunto": "Programa de Equidade de Raça, Gênero e Diversidade – Resolução CSJT nº 368/2023",
+      "origem": "fcc",
+      "enunciado": "Conforme a Resolução CSJT nº 368/2023, o Comitê Gestor Nacional do Programa de Equidade de Raça, Gênero e Diversidade",
+      "alternativas": {
+        "a": "é presidido pelo(a) Ministro(a) Corregedor(a)-Geral da Justiça do Trabalho e reúne-se mensalmente, em caráter ordinário.",
+        "b": "é presidido por Conselheiro(a) do Conselho Nacional de Justiça e reúne-se semestralmente, em caráter ordinário.",
+        "c": "é presidido pelo(a) Ministro(a) Presidente do CSJT e reúne-se trimestralmente, em caráter ordinário, podendo ser convocadas reuniões extraordinárias.",
+        "d": "é presidido pelo(a) Ministro(a) Presidente do CSJT, admite reconduções ilimitadas de seus membros e reúne-se apenas extraordinariamente.",
+        "e": "é presidido pelo(a) Ministro(a) Coordenador(a) eleito(a) pelos Tribunais Regionais e reúne-se anualmente, em caráter ordinário."
+      },
+      "gabarito": "c",
+      "comentario": "Arts. 6º e 7º da Resolução CSJT nº 368/2023. O Comitê Gestor Nacional é presidido pelo(a) Ministro(a) Presidente do CSJT. Integram-no também um(a) Ministro(a) Coordenador(a), um(a) Ministro(a) Vice-Coordenador(a), cinco magistrados(as) — um(a) por região do país — e dois servidores(as). Ele se reúne trimestralmente em caráter ordinário (art. 7º). A recondução é limitada a um mandato consecutivo ou três alternados (art. 6º, § 1º)."
+    },
+    {
+      "id": "leg-052",
+      "assunto": "Programa de Equidade de Raça, Gênero e Diversidade – Resolução CSJT nº 368/2023",
+      "origem": "fcc",
+      "enunciado": "Sobre o Comitê Gestor Regional do Programa de Equidade de Raça, Gênero e Diversidade, a ser instituído nos Tribunais Regionais do Trabalho (Resolução CSJT nº 368/2023), é correto afirmar:",
+      "alternativas": {
+        "a": "O mandato de seus membros é de três anos, e a eleição ocorrerá até 30 dias após a posse da Administração do Tribunal.",
+        "b": "Sua composição mínima é formada exclusivamente por magistrados(as), vedada a participação de servidores(as) eleitos(as).",
+        "c": "Sua composição mínima inclui representantes sindicais e das associações de magistrados(as), sendo vedada a ampliação por ato do Tribunal Regional.",
+        "d": "A coordenação será exercida conjuntamente pelo(a) magistrado(a) indicado(a) pela Presidência e pelo(a) magistrado(a) eleito(a), que serão os Gestores Regionais do Programa.",
+        "e": "Deverá ser instituído no prazo máximo de 45 dias, e sua coordenação caberá ao(à) servidor(a) indicado(a) pela Diretoria-Geral."
+      },
+      "gabarito": "d",
+      "comentario": "Art. 8º da Resolução CSJT nº 368/2023. O Comitê Gestor Regional deve ser instituído no prazo máximo de 90 dias. Sua composição mínima inclui: um magistrado indicado pela Presidência e um eleito; servidores com deficiência, negro(a), mulher, LGBTQIAP+ e com mais de 60 anos, todos eleitos; e um servidor indicado pela Diretoria-Geral. Cada Regional pode ampliar a composição para incluir terceirizados e representantes sindicais e associativos (§ 1º). A coordenação é conjunta dos dois magistrados, que são os Gestores Regionais (§ 2º). O mandato é de dois anos (§ 6º)."
+    },
+    {
+      "id": "leg-053",
+      "assunto": "Programa de Equidade de Raça, Gênero e Diversidade – Resolução CSJT nº 368/2023",
+      "origem": "fcc",
+      "enunciado": "Considere as seguintes regras relativas ao Comitê Gestor Regional do Programa de Equidade de Raça, Gênero e Diversidade (Resolução CSJT nº 368/2023):\nI. O mandato do Comitê terá duração de dois anos, e a eleição/indicação ocorrerá até 90 dias após a posse da Administração do Tribunal.\nII. Não podem integrar o Comitê magistrados(as) e servidores(as) que tiverem sido punidos judicial ou administrativamente pela prática de qualquer ato de discriminação.\nIII. Os membros do Comitê serão reeleitos/reconduzidos por apenas um mandato consecutivo ou três alternados, exceto no caso de não haver nenhum outro candidato interessado na vaga.\nEstá correto o que se afirma em",
+      "alternativas": {
+        "a": "I, apenas.",
+        "b": "I e II, apenas.",
+        "c": "I e III, apenas.",
+        "d": "II e III, apenas.",
+        "e": "I, II e III."
+      },
+      "gabarito": "e",
+      "comentario": "Art. 8º da Resolução CSJT nº 368/2023. O item I reproduz o § 6º, o item III o § 7º e o item II o § 8º. Todos os itens estão corretos."
+    },
+    {
+      "id": "leg-054",
+      "assunto": "Programa de Equidade de Raça, Gênero e Diversidade – Resolução CSJT nº 368/2023",
+      "origem": "fcc",
+      "enunciado": "Entre as competências do Comitê Gestor Regional de Equidade, Diversidade e Inclusão, a Resolução CSJT nº 368/2023 prevê a promoção de ações, eventos e projetos, em especial nos meses de",
+      "alternativas": {
+        "a": "maio (equidade de gênero), junho (equidade de pessoas LGBTQIAP+), agosto (inclusão de pessoas com deficiência) e novembro (equidade de raça/etnia).",
+        "b": "março (equidade de gênero), maio (inclusão de pessoas com deficiência), setembro (equidade de pessoas LGBTQIAP+) e dezembro (equidade de raça/etnia).",
+        "c": "janeiro (equidade de pessoas LGBTQIAP+), março (equidade de gênero), outubro (inclusão de pessoas com deficiência) e novembro (equidade de raça/etnia).",
+        "d": "março (equidade de gênero), junho (equidade de pessoas LGBTQIAP+), setembro (inclusão de pessoas com deficiência) e novembro (equidade de raça/etnia).",
+        "e": "março (equidade de raça/etnia), junho (equidade de gênero), setembro (equidade de pessoas LGBTQIAP+) e novembro (inclusão de pessoas com deficiência)."
+      },
+      "gabarito": "d",
+      "comentario": "Art. 12, II, da Resolução CSJT nº 368/2023: compete ao Comitê Gestor Regional propor, promover e realizar ações, eventos e projetos ligados ao Programa. Isso deve ocorrer em especial nos meses de março (equidade de gênero), junho (equidade de pessoas LGBTQIAP+), setembro (inclusão de pessoas com deficiência) e novembro (equidade de raça/etnia), com integração transversal entre todas as áreas do Tribunal."
+    },
+    {
+      "id": "leg-055",
+      "assunto": "Programa de Equidade de Raça, Gênero e Diversidade – Resolução CSJT nº 368/2023",
+      "origem": "inedita",
+      "enunciado": "De acordo com as disposições da Resolução CSJT nº 368/2023, é correto afirmar:",
+      "alternativas": {
+        "a": "As horas de trabalho dedicadas às atividades inerentes ao Comitê serão consideradas parte da jornada de trabalho dos(as) servidores(as).",
+        "b": "As horas dedicadas às atividades do Comitê serão compensadas exclusivamente mediante concessão de folgas, vedado seu cômputo na jornada.",
+        "c": "O Programa destina-se exclusivamente a magistrados(as) e servidores(as), não alcançando trabalhadores(as) terceirizados(as), estagiários(as) e aprendizes.",
+        "d": "Os casos omissos serão resolvidos pelos Comitês Gestores Regionais, em caráter definitivo.",
+        "e": "O Comitê Gestor Regional deve encaminhar ao Conselho Nacional de Justiça, até 31 de março, relatório das atividades do exercício anterior."
+      },
+      "gabarito": "a",
+      "comentario": "Art. 14 da Resolução CSJT nº 368/2023: as horas dedicadas às atividades do Comitê são consideradas parte da jornada de trabalho dos(as) servidores(as). As demais alternativas estão erradas. O relatório do Comitê Gestor Regional vai ao Comitê Gestor NACIONAL até 31 de JANEIRO (art. 12, V). Os casos omissos são resolvidos pela Presidência do CSJT (art. 15). E o Programa também se destina a terceirizados(as), estagiários(as), aprendizes e, no que couber, aos demais usuários da Justiça do Trabalho (art. 1º, parágrafo único)."
+    },
+    {
+      "id": "leg-056",
+      "assunto": "Sustentabilidade – Resolução CNJ nº 400/2021",
+      "origem": "fcc",
+      "enunciado": "Nos termos da Resolução CNJ nº 400/2021, a unidade de sustentabilidade dos órgãos do Poder Judiciário deve, preferencialmente, ser subordinada diretamente à Presidência, à Secretaria-Geral ou à Diretoria-Geral, observada a lotação mínima de",
+      "alternativas": {
+        "a": "3 (três) servidores(as) nos tribunais que possuam mais de 5.000 servidores do quadro de pessoal e 2 (dois) servidores(as) nos demais tribunais.",
+        "b": "3 (três) servidores(as) nos tribunais que possuam mais de 10.000 servidores do quadro de pessoal e 1 (um) servidor(a) nos demais tribunais.",
+        "c": "4 (quatro) servidores(as) nos tribunais que possuam mais de 5.000 servidores do quadro de pessoal e 2 (dois) servidores(as) nos demais tribunais.",
+        "d": "5 (cinco) servidores(as) nos tribunais que possuam mais de 5.000 servidores do quadro de pessoal e 3 (três) servidores(as) nos demais tribunais.",
+        "e": "2 (dois) servidores(as) em qualquer tribunal, independentemente do quantitativo do quadro de pessoal."
+      },
+      "gabarito": "a",
+      "comentario": "Art. 15, § 1º, da Resolução CNJ nº 400/2021: a lotação mínima da unidade de sustentabilidade é de 3 servidores(as) nos tribunais com mais de 5.000 servidores do quadro de pessoal e de 2 servidores(as) nos demais. O caput recomenda subordiná-la diretamente à Presidência, à Secretaria-Geral ou à Diretoria-Geral. Pelo art. 14, a unidade tem caráter permanente."
+    },
+    {
+      "id": "leg-057",
+      "assunto": "Sustentabilidade – Resolução CNJ nº 400/2021",
+      "origem": "fcc",
+      "enunciado": "Segundo a Resolução CNJ nº 400/2021, a Comissão Gestora do Plano de Logística Sustentável (PLS) deverá ser",
+      "alternativas": {
+        "a": "presidida pelo(a) Diretor(a)-Geral do órgão e composta por, no mínimo, 3 (três) servidores(as), abrangendo as áreas de engenharia e gestão de pessoas.",
+        "b": "presidida pelo(a) Presidente do Tribunal e composta por, no mínimo, 7 (sete) magistrados(as), vedada a participação de servidores(as).",
+        "c": "presidida por um(a) magistrado(a) e composta por, no mínimo, 3 (três) servidores(as) titulares de unidade, abrangendo apenas a área de sustentabilidade.",
+        "d": "presidida por um(a) magistrado(a) e composta por, no mínimo, 5 (cinco) servidores(as) titulares de unidade, abrangendo, necessariamente, as áreas de gestão estratégica, sustentabilidade e compras ou aquisições.",
+        "e": "presidida por um(a) servidor(a) da unidade de sustentabilidade e composta por, no mínimo, 5 (cinco) magistrados(as), abrangendo as áreas de gestão estratégica e orçamento."
+      },
+      "gabarito": "d",
+      "comentario": "Art. 18 da Resolução CNJ nº 400/2021: a Comissão Gestora do PLS é presidida por um(a) magistrado(a) e composta por, no mínimo, 5 servidores(as) titulares de unidade, abrangendo necessariamente as áreas de gestão estratégica, sustentabilidade e compras ou aquisições. Pelo art. 19, cabe a ela deliberar sobre indicadores e metas, avaliar e aprovar os relatórios de desempenho do PLS, propor a revisão do PLS e sugerir tarefas e iniciativas às unidades."
+    },
+    {
+      "id": "leg-058",
+      "assunto": "Sustentabilidade – Resolução CNJ nº 400/2021",
+      "origem": "fcc",
+      "enunciado": "De acordo com a Resolução CNJ nº 400/2021, com as alterações promovidas pela Resolução CNJ nº 550/2024, o relatório de desempenho do Plano de Logística Sustentável (PLS) de cada órgão deverá ser publicado no respectivo sítio eletrônico e encaminhado ao CNJ, por meio do PLS-Jud,",
+      "alternativas": {
+        "a": "até o dia 28 de fevereiro do ano posterior ao que se refere.",
+        "b": "até o dia 31 de dezembro do próprio ano a que se refere.",
+        "c": "até o dia 31 de janeiro do ano posterior ao que se refere.",
+        "d": "semestralmente, até o último dia útil dos meses de junho e dezembro.",
+        "e": "até o dia 30 de abril do ano posterior ao que se refere."
+      },
+      "gabarito": "a",
+      "comentario": "Art. 10-A, § 3º, da Resolução CNJ nº 400/2021 (incluído pela Resolução nº 550/2024): o relatório de desempenho do PLS deve ser publicado no sítio eletrônico do órgão e encaminhado ao CNJ, pelo PLS-Jud, até 28 de fevereiro do ano posterior ao que se refere. Além disso, a Comissão Gestora deve avaliar os resultados pelo menos uma vez ao ano (art. 10-B), e a revisão do PLS ocorre no máximo a cada 2 anos (art. 8º, parágrafo único)."
+    },
+    {
+      "id": "leg-059",
+      "assunto": "Sustentabilidade – Resolução CNJ nº 400/2021",
+      "origem": "fcc",
+      "enunciado": "Considere as seguintes definições, para os fins da Resolução CNJ nº 400/2021:\nI. Material de consumo: todo material que, em razão de sua utilização, perde normalmente sua identidade física e/ou tem sua utilização limitada a 5 (cinco) anos.\nII. Quadro auxiliar: estagiários(as), terceirizados(as), juízes(as) leigos(as), trabalhadores(as) de serventias judiciais privatizadas, conciliadores(as), voluntários(as) e jovens aprendizes.\nIII. Coleta seletiva solidária: coleta dos resíduos recicláveis descartados, separados na fonte geradora, para destinação às associações e cooperativas de catadores de materiais recicláveis.\nEstá correto o que se afirma em",
+      "alternativas": {
+        "a": "I, apenas.",
+        "b": "I e II, apenas.",
+        "c": "I e III, apenas.",
+        "d": "II e III, apenas.",
+        "e": "I, II e III."
+      },
+      "gabarito": "d",
+      "comentario": "Art. 3º da Resolução CNJ nº 400/2021. O item I está errado: pelo inciso X, material de consumo é o que, em razão de sua utilização, perde normalmente sua identidade física e/ou tem sua utilização limitada a 2 (DOIS) anos. O item II reproduz o inciso VII e o item III, o inciso III."
+    },
+    {
+      "id": "leg-060",
+      "assunto": "Perspectiva de gênero – Resolução CNJ nº 492/2023",
+      "origem": "inedita",
+      "enunciado": "A Resolução CNJ nº 492/2023 determina que os tribunais, em colaboração com as escolas da magistratura, promovam cursos de formação inicial e continuada que incluam, obrigatoriamente, conteúdos relativos a direitos humanos, gênero, raça e etnia, conforme as diretrizes do Protocolo para Julgamento com Perspectiva de Gênero. Tais cursos deverão ser disponibilizados com periodicidade mínima",
+      "alternativas": {
+        "a": "quinquenal, e a capacitação nessas temáticas constará nos regulamentos para concessão do Prêmio CNJ de Qualidade.",
+        "b": "semestral, e a capacitação nessas temáticas será requisito para o vitaliciamento de magistrados e magistradas.",
+        "c": "anual, e a capacitação de magistradas e magistrados nessas temáticas constará nos regulamentos para concessão do Prêmio CNJ de Qualidade.",
+        "d": "anual, sendo a participação facultativa e sem reflexos em premiações ou avaliações institucionais.",
+        "e": "bienal, e a capacitação nessas temáticas será requisito para a promoção por antiguidade de magistrados e magistradas."
+      },
+      "gabarito": "c",
+      "comentario": "Art. 2º, caput e § 1º, da Resolução CNJ nº 492/2023: os cursos devem ser disponibilizados com periodicidade mínima anual, e a capacitação de magistradas e magistrados em direitos humanos, gênero, raça e etnia constará dos regulamentos para concessão do Prêmio CNJ de Qualidade. Pelo § 2º, os tribunais devem facilitar o acesso ao Protocolo por QR Code, card eletrônico, link ou outro recurso de comunicação."
+    },
+    {
+      "id": "leg-061",
+      "assunto": "Perspectiva de gênero – Resolução CNJ nº 492/2023",
+      "origem": "fcc",
+      "enunciado": "O Comitê de Acompanhamento e Capacitação sobre Julgamento com Perspectiva de Gênero no Poder Judiciário, instituído pela Resolução CNJ nº 492/2023,",
+      "alternativas": {
+        "a": "tem caráter nacional e permanente e é coordenado pelo(a) Corregedor(a) Nacional de Justiça, vedada a participação de representantes externos ao Poder Judiciário.",
+        "b": "tem caráter nacional e permanente e é coordenado por um Conselheiro ou uma Conselheira do CNJ, assegurada a participação de representantes da OAB, da academia e da sociedade civil, entre outros.",
+        "c": "tem caráter temporário, com duração de dois anos, e é coordenado pelo(a) Presidente do Supremo Tribunal Federal.",
+        "d": "tem caráter regional e é coordenado pelas escolas da magistratura, com a participação facultativa da Enfam e da Enamat.",
+        "e": "é instituído no âmbito de cada tribunal, sob coordenação do(a) respectivo(a) Presidente, com composição exclusivamente feminina."
+      },
+      "gabarito": "b",
+      "comentario": "Arts. 3º e 5º da Resolução CNJ nº 492/2023. O Comitê é instituído no âmbito do CNJ, em caráter nacional e permanente, e coordenado por um Conselheiro ou Conselheira do CNJ. Tem participação assegurada de representantes das Justiças Estadual, Federal, do Trabalho, Eleitoral e Militar, da Enfam, da Enamat, da OAB, da academia e da sociedade civil. A composição observa a pluralidade de gênero e raça."
+    },
+    {
+      "id": "leg-062",
+      "assunto": "Perspectiva de gênero – Resolução CNJ nº 492/2023",
+      "origem": "fcc",
+      "enunciado": "Sobre o Comitê de Incentivo à Participação Institucional Feminina no Poder Judiciário, considere o que dispõe a Resolução CNJ nº 492/2023:\nI. A Resolução CNJ nº 492/2023 alterou o art. 3º da Resolução CNJ nº 255/2018, que institui a Política Nacional de Incentivo à Participação Institucional Feminina no Poder Judiciário.\nII. O Comitê atua sob a supervisão do(a) Corregedor(a) Nacional de Justiça, a quem compete indicar seus integrantes.\nIII. O Comitê de Acompanhamento e Capacitação sobre Julgamento com Perspectiva de Gênero e o Comitê de Incentivo à Participação Institucional Feminina atuarão de forma articulada.\nEstá correto o que se afirma em",
+      "alternativas": {
+        "a": "I, apenas.",
+        "b": "I e II, apenas.",
+        "c": "I e III, apenas.",
+        "d": "II e III, apenas.",
+        "e": "I, II e III."
+      },
+      "gabarito": "c",
+      "comentario": "Art. 6º da Resolução CNJ nº 492/2023, que deu nova redação ao art. 3º da Resolução CNJ nº 255/2018. O item I está correto. O item III também: é o parágrafo único do art. 3º, na nova redação. O item II está errado: o Comitê de Incentivo atua sob a supervisão de Conselheiro ou Conselheira e de Juiz ou Juíza Auxiliar da Presidência do CNJ, indicados pela Presidência do CNJ — não pelo Corregedor Nacional."
+    },
+    {
+      "id": "leg-063",
+      "assunto": "Tribunal Penal Internacional – Estatuto de Roma (Decreto nº 4.388/2002)",
+      "origem": "fcc",
+      "enunciado": "Nos termos do Estatuto de Roma do Tribunal Penal Internacional, promulgado pelo Decreto nº 4.388/2002, o Tribunal poderá exercer a sua jurisdição em relação aos crimes de sua competência se",
+      "alternativas": {
+        "a": "a Corte Internacional de Justiça autorizar previamente o exercício da jurisdição, mediante provocação de qualquer Estado membro da ONU.",
+        "b": "o Secretário-Geral das Nações Unidas encaminhar ao Tribunal relatório circunstanciado, após consulta à Assembleia dos Estados Partes.",
+        "c": "um Estado Parte ou o Conselho de Segurança, agindo nos termos do Capítulo VII da Carta das Nações Unidas, denunciar ao Procurador qualquer situação em que haja indícios da prática desses crimes, ou se o Procurador tiver dado início a um inquérito sobre tal crime.",
+        "d": "exclusivamente um Estado Parte denunciar ao Procurador a situação, uma vez que o Conselho de Segurança não detém legitimidade para tanto.",
+        "e": "a Assembleia Geral das Nações Unidas, por maioria de dois terços, denunciar ao Procurador a situação, vedada a abertura de inquérito por iniciativa do próprio Procurador."
+      },
+      "gabarito": "c",
+      "comentario": "Art. 13 do Estatuto de Roma (Decreto nº 4.388/2002). O Tribunal pode exercer sua jurisdição quando: a) um Estado Parte denunciar ao Procurador uma situação (art. 14); b) o Conselho de Segurança, agindo nos termos do Capítulo VII da Carta da ONU, denunciar a situação ao Procurador; ou c) o Procurador tiver dado início a um inquérito, nos termos do art. 15."
+    },
+    {
+      "id": "leg-064",
+      "assunto": "Tribunal Penal Internacional – Estatuto de Roma (Decreto nº 4.388/2002)",
+      "origem": "fcc",
+      "enunciado": "Segundo o Estatuto de Roma, o Procurador poderá, por sua própria iniciativa, abrir um inquérito com base em informações sobre a prática de crimes da competência do Tribunal. Nesse caso,",
+      "alternativas": {
+        "a": "o pedido de autorização será apreciado pela Seção de Recursos, cuja recusa impede novo pedido, ainda que fundado em fatos ou provas novos.",
+        "b": "o pedido de autorização será dirigido à Assembleia dos Estados Partes, e sua recusa impedirá definitivamente novo pedido sobre a mesma situação.",
+        "c": "o Procurador deverá obter prévia autorização do Conselho de Segurança das Nações Unidas, que decidirá por maioria de nove votos.",
+        "d": "se concluir que existe fundamento suficiente, o Procurador apresentará pedido de autorização ao Juízo de Instrução, e a eventual recusa não o impedirá de formular ulteriormente outro pedido com base em novos fatos ou provas respeitantes à mesma situação.",
+        "e": "o Procurador poderá abrir o inquérito independentemente de qualquer autorização judicial, bastando comunicar o fato à Presidência do Tribunal."
+      },
+      "gabarito": "d",
+      "comentario": "Art. 15 do Estatuto de Roma. Se concluir que há fundamento suficiente para abrir inquérito, o Procurador pede autorização ao Juízo de Instrução, com a documentação de apoio (parágrafo 3). O Juízo de Instrução autoriza a abertura se considerar que há fundamento suficiente e que o caso parece caber na jurisdição do Tribunal (parágrafo 4). A recusa não impede outro pedido do Procurador baseado em novos fatos ou provas sobre a mesma situação (parágrafo 5)."
+    },
+    {
+      "id": "leg-065",
+      "assunto": "Tribunal Penal Internacional – Estatuto de Roma (Decreto nº 4.388/2002)",
+      "origem": "fcc",
+      "enunciado": "Sobre a composição e a administração do Tribunal Penal Internacional, previstas no Estatuto de Roma, é correto afirmar:",
+      "alternativas": {
+        "a": "O Tribunal será composto, em regra, por 18 juízes, eleitos para um mandato de nove anos, e não poderão ser reeleitos, ressalvadas as hipóteses previstas no próprio Estatuto.",
+        "b": "O Tribunal será composto por 15 juízes, eleitos para um mandato de nove anos, permitida a reeleição.",
+        "c": "O Presidente do Tribunal será eleito pela Assembleia dos Estados Partes, para mandato de nove anos, coincidente com o de juiz.",
+        "d": "O Tribunal será composto por 18 juízes, eleitos para um mandato de seis anos, permitida uma reeleição.",
+        "e": "O Procurador será eleito pelos juízes do Tribunal, por maioria absoluta, para um mandato de cinco anos, permitida a reeleição."
+      },
+      "gabarito": "a",
+      "comentario": "Arts. 36 e 38 do Estatuto de Roma. O Tribunal tem 18 juízes (art. 36, parágrafo 1), número que a Assembleia dos Estados Partes pode aumentar. Eles são eleitos para mandato de nove anos e, em regra, não podem ser reeleitos (art. 36, parágrafo 9). O Presidente e os Vice-Presidentes são eleitos por maioria absoluta dos juízes, para três anos, reelegíveis uma única vez (art. 38). O Procurador é eleito pela Assembleia dos Estados Partes, por escrutínio secreto e maioria absoluta, para nove anos, sem reeleição (art. 42, parágrafo 4). Já os 15 membros com mandato de nove anos e reeleição admitida são da Corte Internacional de Justiça, não do TPI."
+    },
+    {
+      "id": "leg-066",
+      "assunto": "Tribunal Penal Internacional – Estatuto de Roma (Decreto nº 4.388/2002)",
+      "origem": "fcc",
+      "enunciado": "Considere as seguintes afirmações sobre as disposições finais do Estatuto de Roma do Tribunal Penal Internacional:\nI. Não são admitidas reservas ao Estatuto.\nII. A retirada de um Estado Parte produzirá efeitos imediatamente, a partir da data de recepção da notificação pelo Secretário-Geral das Nações Unidas.\nIII. Qualquer Estado Parte poderá propor alterações ao Estatuto a qualquer tempo, a partir da data de sua entrada em vigor.\nEstá correto o que se afirma em",
+      "alternativas": {
+        "a": "I, apenas.",
+        "b": "I e II, apenas.",
+        "c": "I e III, apenas.",
+        "d": "II e III, apenas.",
+        "e": "I, II e III."
+      },
+      "gabarito": "a",
+      "comentario": "Estatuto de Roma. O item I está correto: art. 120. O item II está errado: pelo art. 127, a retirada produz efeitos UM ANO após a data de recepção da notificação, salvo se esta indicar data posterior, e não isenta o Estado das obrigações assumidas enquanto Parte. O item III também está errado: pelo art. 121, só depois de expirado o período de SETE ANOS da entrada em vigor do Estatuto qualquer Estado Parte poderá propor alterações."
+    },
+    {
+      "id": "leg-067",
+      "assunto": "Tribunal Penal Internacional – Estatuto de Roma (Decreto nº 4.388/2002)",
+      "origem": "fcc",
+      "enunciado": "Em relação à responsabilidade de quem comete crime da competência do Tribunal Penal Internacional em cumprimento de decisão emanada de um Governo ou de superior hierárquico, militar ou civil, o Estatuto de Roma estabelece que",
+      "alternativas": {
+        "a": "a obediência a decisão de superior hierárquico civil exclui a responsabilidade criminal, o que não ocorre no caso de superior militar.",
+        "b": "apenas a decisão de cometer crimes de guerra será considerada manifestamente ilegal, não se estendendo tal presunção ao genocídio.",
+        "c": "o cumprimento de ordem de superior hierárquico militar exclui, em qualquer hipótese, a responsabilidade criminal do subordinado.",
+        "d": "basta que o agente não tivesse conhecimento da ilegalidade da decisão para que fique isento de responsabilidade criminal.",
+        "e": "qualquer decisão de cometer genocídio ou crimes contra a humanidade será considerada manifestamente ilegal."
+      },
+      "gabarito": "e",
+      "comentario": "Art. 33 do Estatuto de Roma. Quem comete crime em cumprimento de decisão de Governo ou de superior hierárquico, militar ou civil, não fica isento de responsabilidade criminal. A exceção exige três requisitos cumulativos: a) estar obrigado por lei a obedecer; b) não saber que a decisão era ilegal; e c) a decisão não ser manifestamente ilegal (parágrafo 1). Pelo parágrafo 2, qualquer decisão de cometer genocídio ou crimes contra a humanidade é considerada manifestamente ilegal."
+    },
+    {
+      "id": "leg-068",
+      "assunto": "Tribunal Penal Internacional – Estatuto de Roma (Decreto nº 4.388/2002)",
+      "origem": "inedita",
+      "enunciado": "De acordo com o Estatuto de Roma, as línguas de trabalho do Tribunal Penal Internacional são",
+      "alternativas": {
+        "a": "a inglesa, exclusivamente, vedado o uso de outra língua a pedido das partes.",
+        "b": "a inglesa e a espanhola, sendo línguas oficiais do Tribunal o árabe, o chinês, o espanhol, o francês, o inglês e o russo.",
+        "c": "a francesa, a inglesa e a russa, sendo línguas oficiais apenas aquelas dos membros permanentes do Conselho de Segurança.",
+        "d": "todas as línguas oficiais das Nações Unidas, inclusive o português, por força da ratificação brasileira.",
+        "e": "a francesa e a inglesa, sendo línguas oficiais do Tribunal o árabe, o chinês, o espanhol, o francês, o inglês e o russo."
+      },
+      "gabarito": "e",
+      "comentario": "Art. 50 do Estatuto de Roma. As línguas oficiais do Tribunal são o árabe, o chinês, o espanhol, o francês, o inglês e o russo (parágrafo 1). As línguas de trabalho são o francês e o inglês (parágrafo 2). A pedido de qualquer Parte ou de Estado admitido a intervir, o Tribunal pode autorizar o uso de outra língua, quando se justificar (parágrafo 3)."
+    },
+    {
+      "id": "leg-069",
+      "assunto": "Carta das Nações Unidas (Decreto nº 19.841/1945)",
+      "origem": "fcc",
+      "enunciado": "Segundo a Carta das Nações Unidas, promulgada no Brasil pelo Decreto nº 19.841/1945, a admissão de novos Membros na Organização",
+      "alternativas": {
+        "a": "será efetuada por decisão do Secretário-Geral, após parecer consultivo da Corte Internacional de Justiça.",
+        "b": "será efetuada por decisão da Assembleia Geral, mediante recomendação do Conselho de Segurança.",
+        "c": "será efetuada por decisão do Conselho de Segurança, mediante recomendação da Assembleia Geral.",
+        "d": "dependerá da aprovação unânime dos membros permanentes do Conselho de Segurança, dispensada a manifestação da Assembleia Geral.",
+        "e": "será efetuada por decisão da Assembleia Geral, por maioria simples, independentemente de manifestação do Conselho de Segurança."
+      },
+      "gabarito": "b",
+      "comentario": "Art. 4º, item 2, da Carta das Nações Unidas: a admissão de novos Membros é efetuada por decisão da Assembleia Geral, mediante recomendação do Conselho de Segurança. A mesma lógica vale para a suspensão de direitos e privilégios de Membro (art. 5º) e para a expulsão de Membro que viole persistentemente os Princípios da Carta (art. 6º). Pelo art. 18, item 2, a admissão é questão importante, decidida por dois terços dos Membros presentes e votantes."
+    },
+    {
+      "id": "leg-070",
+      "assunto": "Carta das Nações Unidas (Decreto nº 19.841/1945)",
+      "origem": "fcc",
+      "enunciado": "Quanto ao sistema de votação do Conselho de Segurança previsto na Carta das Nações Unidas, as decisões",
+      "alternativas": {
+        "a": "em questões processuais serão tomadas pelo voto afirmativo de nove membros e, em todos os outros assuntos, pelo voto afirmativo de nove membros, inclusive os votos afirmativos de todos os membros permanentes.",
+        "b": "em quaisquer assuntos serão tomadas pela maioria simples dos quinze membros, sem distinção entre membros permanentes e não permanentes.",
+        "c": "em questões processuais serão tomadas pelo voto afirmativo de sete membros e, nos demais assuntos, pelo voto afirmativo de onze membros.",
+        "d": "em questões processuais exigem o voto afirmativo de todos os membros permanentes, e as demais, de dois terços dos membros presentes e votantes.",
+        "e": "em todos os assuntos exigem unanimidade, sendo vedado ao Membro parte em uma controvérsia abster-se de votar."
+      },
+      "gabarito": "a",
+      "comentario": "Art. 27 da Carta das Nações Unidas, conforme o texto publicado no Decreto nº 19.841/1945. Cada membro do Conselho de Segurança tem um voto. As decisões em questões processuais exigem o voto afirmativo de nove membros. Nos demais assuntos, exigem o voto afirmativo de nove membros, incluídos os votos afirmativos de todos os membros permanentes. Nas decisões do Capítulo VI e do art. 52, parágrafo 3, o membro que for parte na controvérsia deve se abster de votar."
+    },
+    {
+      "id": "leg-071",
+      "assunto": "Carta das Nações Unidas (Decreto nº 19.841/1945)",
+      "origem": "fcc",
+      "enunciado": "Considere as seguintes afirmações à luz da Carta das Nações Unidas:\nI. O Membro em atraso no pagamento de sua contribuição financeira não terá voto na Assembleia Geral se o total das contribuições atrasadas igualar ou exceder a soma das contribuições correspondentes aos dois anos anteriores completos, podendo a Assembleia permitir o voto se a falta de pagamento for devida a condições independentes de sua vontade.\nII. As decisões da Assembleia Geral em questões importantes serão tomadas por maioria absoluta dos Membros da Organização.\nIII. No caso de conflito entre as obrigações dos Membros em virtude da Carta e as resultantes de qualquer outro acordo internacional, prevalecerão as obrigações do acordo mais recente.\nEstá correto o que se afirma em",
+      "alternativas": {
+        "a": "I, apenas.",
+        "b": "I e II, apenas.",
+        "c": "I e III, apenas.",
+        "d": "II e III, apenas.",
+        "e": "I, II e III."
+      },
+      "gabarito": "a",
+      "comentario": "Carta das Nações Unidas. O item I está correto: art. 19. O item II está errado: pelo art. 18, item 2, as decisões em questões importantes são tomadas por maioria de DOIS TERÇOS dos Membros presentes e votantes. O item III também está errado: pelo art. 103, em caso de conflito prevalecem as obrigações assumidas em virtude da CARTA."
+    },
+    {
+      "id": "leg-072",
+      "assunto": "Estatuto da Corte Internacional de Justiça",
+      "origem": "inedita",
+      "enunciado": "Nos termos do Estatuto da Corte Internacional de Justiça, anexo à Carta das Nações Unidas (Decreto nº 19.841/1945), a Corte, cuja função é decidir de acordo com o direito internacional as controvérsias que lhe forem submetidas,",
+      "alternativas": {
+        "a": "aplicará apenas as convenções internacionais expressamente reconhecidas pelos Estados litigantes, vedada a aplicação do costume internacional.",
+        "b": "não poderá aplicar os princípios gerais de direito, por ausência de previsão no seu Estatuto.",
+        "c": "aplicará as decisões judiciárias e a doutrina como fontes principais, hierarquicamente superiores às convenções internacionais e ao costume.",
+        "d": "aplicará as decisões judiciárias e a doutrina dos publicistas mais qualificados como meio auxiliar para a determinação das regras de direito, podendo decidir uma questão ex aequo et bono, se as partes com isto concordarem.",
+        "e": "poderá decidir ex aequo et bono sempre que entender conveniente, independentemente da concordância das partes."
+      },
+      "gabarito": "d",
+      "comentario": "Art. 38 do Estatuto da Corte Internacional de Justiça. A Corte aplica: a) as convenções internacionais, gerais ou especiais, que estabeleçam regras expressamente reconhecidas pelos Estados litigantes; b) o costume internacional, como prova de uma prática geral aceita como direito; c) os princípios gerais de direito reconhecidos pelas nações civilizadas; d) sob ressalva do art. 59, as decisões judiciárias e a doutrina dos publicistas mais qualificados, como meio auxiliar. Pelo parágrafo 2, a Corte pode decidir ex aequo et bono se as partes concordarem."
+    },
+    {
+      "id": "leg-073",
+      "assunto": "Estatuto da Corte Internacional de Justiça",
+      "origem": "fcc",
+      "enunciado": "Considere as seguintes afirmações sobre a Corte Internacional de Justiça, com base na Carta das Nações Unidas e no Estatuto da Corte:\nI. A decisão da Corte é obrigatória para todos os Membros das Nações Unidas, com efeito erga omnes, ainda que não tenham sido partes no litígio.\nII. A sentença é definitiva e inapelável, cabendo à Corte, em caso de controvérsia quanto ao seu sentido e alcance, interpretá-la a pedido de qualquer das partes.\nIII. A Assembleia Geral ou o Conselho de Segurança poderá solicitar parecer consultivo da Corte sobre qualquer questão de ordem jurídica.\nEstá correto o que se afirma em",
+      "alternativas": {
+        "a": "I, apenas.",
+        "b": "I e II, apenas.",
+        "c": "I e III, apenas.",
+        "d": "II e III, apenas.",
+        "e": "I, II e III."
+      },
+      "gabarito": "d",
+      "comentario": "O item I está errado: pelo art. 59 do Estatuto da CIJ, a decisão só é obrigatória para as partes litigantes e a respeito do caso em questão. O item II reproduz o art. 60 do Estatuto. O item III reproduz o art. 96, item 1, da Carta da ONU; pelo item 2, outros órgãos e entidades especializadas autorizados pela Assembleia Geral também podem pedir pareceres consultivos, sobre questões jurídicas da esfera de suas atividades."
+    }
+  ]
+}

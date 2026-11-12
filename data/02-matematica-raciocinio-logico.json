@@ -1,0 +1,1206 @@
+{
+  "disciplina": "Matemática e Raciocínio Lógico",
+  "prefixo": "mat",
+  "questoes": [
+    {
+      "id": "mat-001",
+      "assunto": "Lógica proposicional – negação",
+      "origem": "fcc",
+      "enunciado": "Uma negação lógica da afirmação 'Todos os servidores do setor são pontuais' é:",
+      "alternativas": {
+        "a": "Algum servidor do setor é pontual.",
+        "b": "Todos os servidores do setor são impontuais.",
+        "c": "Nenhum servidor do setor é pontual.",
+        "d": "Algum servidor do setor não é pontual.",
+        "e": "Nenhum servidor do setor é impontual."
+      },
+      "gabarito": "d",
+      "comentario": "A negação de 'Todo A é B' é 'Algum A não é B'. Basta que um servidor não seja pontual para a afirmação original ser falsa."
+    },
+    {
+      "id": "mat-002",
+      "assunto": "Lógica proposicional – negação do condicional",
+      "origem": "fcc",
+      "enunciado": "Uma negação lógica da afirmação 'Se chove, então a audiência é adiada' é:",
+      "alternativas": {
+        "a": "Se não chove, então a audiência não é adiada.",
+        "b": "Chove e a audiência não é adiada.",
+        "c": "Não chove ou a audiência é adiada.",
+        "d": "Se a audiência é adiada, então chove.",
+        "e": "Não chove e a audiência não é adiada."
+      },
+      "gabarito": "b",
+      "comentario": "~(p → q) ≡ p ∧ ~q. O condicional só é falso quando o antecedente é verdadeiro e o consequente é falso."
+    },
+    {
+      "id": "mat-003",
+      "assunto": "Lógica proposicional – equivalência",
+      "origem": "fcc",
+      "enunciado": "É logicamente equivalente à afirmação 'Se Marcos estuda, então ele é aprovado':",
+      "alternativas": {
+        "a": "Se Marcos é aprovado, então ele estuda.",
+        "b": "Se Marcos não estuda, então ele não é aprovado.",
+        "c": "Se Marcos não é aprovado, então ele não estuda.",
+        "d": "Marcos não estuda e não é aprovado.",
+        "e": "Marcos estuda e é aprovado."
+      },
+      "gabarito": "c",
+      "comentario": "A contrapositiva p → q ≡ ~q → ~p é equivalente ao condicional original (outra equivalência é ~p ∨ q). As alternativas (a) e (b) são a recíproca e a inversa, que não são equivalentes."
+    },
+    {
+      "id": "mat-004",
+      "assunto": "Raciocínio sequencial",
+      "origem": "fcc",
+      "enunciado": "Na sequência 2, 5, 11, 23, 47, ..., cada termo, a partir do segundo, é obtido segundo uma mesma regra. O próximo termo é:",
+      "alternativas": {
+        "a": "94",
+        "b": "97",
+        "c": "93",
+        "d": "95",
+        "e": "91"
+      },
+      "gabarito": "d",
+      "comentario": "Cada termo é o dobro do anterior mais 1: 2·2+1=5; 5·2+1=11; 11·2+1=23; 23·2+1=47; 47·2+1=95."
+    },
+    {
+      "id": "mat-005",
+      "assunto": "Raciocínio sequencial (letras)",
+      "origem": "inedita",
+      "enunciado": "Considerando o alfabeto de 26 letras, a sequência A, C, F, J, O, ... segue um padrão lógico. A próxima letra é:",
+      "alternativas": {
+        "a": "T",
+        "b": "S",
+        "c": "V",
+        "d": "U",
+        "e": "X"
+      },
+      "gabarito": "d",
+      "comentario": "As posições são 1, 3, 6, 10, 15, com saltos de +2, +3, +4, +5. O próximo salto é +6: 15 + 6 = 21, que corresponde à letra U."
+    },
+    {
+      "id": "mat-006",
+      "assunto": "Frações e operações com frações",
+      "origem": "fcc",
+      "enunciado": "Um setor recebeu 360 processos. Dois terços deles foram distribuídos à equipe A, e três quartos desses foram concluídos na primeira semana. O número de processos concluídos pela equipe A na primeira semana foi:",
+      "alternativas": {
+        "a": "160",
+        "b": "180",
+        "c": "150",
+        "d": "200",
+        "e": "240"
+      },
+      "gabarito": "b",
+      "comentario": "2/3 de 360 = 240; 3/4 de 240 = 180."
+    },
+    {
+      "id": "mat-007",
+      "assunto": "Porcentagem – acréscimos e descontos sucessivos",
+      "origem": "fcc",
+      "enunciado": "O preço de um equipamento sofreu um aumento de 20% e, em seguida, um desconto de 20% sobre o novo valor. Em relação ao preço inicial, o preço final é:",
+      "alternativas": {
+        "a": "igual ao inicial.",
+        "b": "4% maior.",
+        "c": "4% menor.",
+        "d": "2% menor.",
+        "e": "10% menor."
+      },
+      "gabarito": "c",
+      "comentario": "1,20 × 0,80 = 0,96, ou seja, o preço final é 96% do inicial: 4% menor."
+    },
+    {
+      "id": "mat-008",
+      "assunto": "Regra de três simples (inversa)",
+      "origem": "fcc",
+      "enunciado": "Seis servidores, com a mesma produtividade, digitalizam um acervo em 12 dias. Mantida a produtividade, nove servidores realizariam o mesmo trabalho em:",
+      "alternativas": {
+        "a": "8 dias",
+        "b": "7 dias",
+        "c": "18 dias",
+        "d": "9 dias",
+        "e": "6 dias"
+      },
+      "gabarito": "a",
+      "comentario": "As grandezas são inversamente proporcionais: 6 × 12 = 9 × x, logo x = 72/9 = 8 dias."
+    },
+    {
+      "id": "mat-009",
+      "assunto": "Divisão em partes diretamente proporcionais",
+      "origem": "fcc",
+      "enunciado": "Uma gratificação de R$ 9.000,00 será dividida entre três servidores em partes diretamente proporcionais a 2, 3 e 4. A maior parte será de:",
+      "alternativas": {
+        "a": "R$ 3.000,00",
+        "b": "R$ 5.000,00",
+        "c": "R$ 3.600,00",
+        "d": "R$ 4.500,00",
+        "e": "R$ 4.000,00"
+      },
+      "gabarito": "e",
+      "comentario": "2 + 3 + 4 = 9 partes; 9.000/9 = 1.000 por parte. A maior parte é 4 × 1.000 = R$ 4.000,00."
+    },
+    {
+      "id": "mat-010",
+      "assunto": "Divisão em partes inversamente proporcionais",
+      "origem": "fcc",
+      "enunciado": "A quantia de R$ 1.200,00 foi dividida entre três pessoas em partes inversamente proporcionais a 2, 3 e 6. A menor das partes é:",
+      "alternativas": {
+        "a": "R$ 200,00",
+        "b": "R$ 400,00",
+        "c": "R$ 300,00",
+        "d": "R$ 100,00",
+        "e": "R$ 600,00"
+      },
+      "gabarito": "a",
+      "comentario": "As partes são proporcionais a 1/2, 1/3 e 1/6. Multiplicando por 6, ficam 3, 2 e 1 (total 6); 1.200/6 = 200. As partes são 600, 400 e 200, e a menor é R$ 200,00."
+    },
+    {
+      "id": "mat-011",
+      "assunto": "Múltiplos e divisores (MMC)",
+      "origem": "fcc",
+      "enunciado": "Três linhas de ônibus partem de um mesmo terminal a cada 12, 18 e 30 minutos, respectivamente. Se partiram juntas às 8h, voltarão a partir juntas, pela primeira vez, às:",
+      "alternativas": {
+        "a": "9h30",
+        "b": "10h",
+        "c": "10h30",
+        "d": "11h",
+        "e": "12h"
+      },
+      "gabarito": "d",
+      "comentario": "mmc(12, 18, 30) = 180 minutos = 3 horas. 8h + 3h = 11h."
+    },
+    {
+      "id": "mat-012",
+      "assunto": "Múltiplos e divisores (MDC)",
+      "origem": "fcc",
+      "enunciado": "Três fitas medem 48 cm, 72 cm e 120 cm. Deseja-se cortá-las em pedaços de mesmo comprimento, o maior possível, sem sobras. O número total de pedaços obtidos será:",
+      "alternativas": {
+        "a": "10",
+        "b": "12",
+        "c": "8",
+        "d": "15",
+        "e": "20"
+      },
+      "gabarito": "a",
+      "comentario": "mdc(48, 72, 120) = 24 cm. Pedaços: 48/24 + 72/24 + 120/24 = 2 + 3 + 5 = 10."
+    },
+    {
+      "id": "mat-013",
+      "assunto": "Média aritmética ponderada",
+      "origem": "fcc",
+      "enunciado": "Em um concurso, as provas tinham pesos 2, 3 e 5. Um candidato obteve notas 6, 8 e 5, respectivamente. Sua média ponderada foi:",
+      "alternativas": {
+        "a": "5,9",
+        "b": "6,1",
+        "c": "6,5",
+        "d": "6,3",
+        "e": "6,0"
+      },
+      "gabarito": "b",
+      "comentario": "(6·2 + 8·3 + 5·5)/(2+3+5) = (12 + 24 + 25)/10 = 61/10 = 6,1."
+    },
+    {
+      "id": "mat-014",
+      "assunto": "Medidas de tendência central (mediana e moda)",
+      "origem": "fcc",
+      "enunciado": "O número de atendimentos realizados por um setor em oito dias foi: 3, 7, 2, 9, 5, 7, 4 e 8. A mediana e a moda desses dados são, respectivamente:",
+      "alternativas": {
+        "a": "6 e 7",
+        "b": "5 e 7",
+        "c": "7 e 7",
+        "d": "5,625 e 7",
+        "e": "6 e 9"
+      },
+      "gabarito": "a",
+      "comentario": "Em ordem: 2, 3, 4, 5, 7, 7, 8, 9. Com 8 valores, a mediana é a média dos dois centrais: (5+7)/2 = 6. A moda é 7, que aparece duas vezes. (5,625 é a média aritmética.)"
+    },
+    {
+      "id": "mat-015",
+      "assunto": "Medidas de dispersão (variância)",
+      "origem": "fcc",
+      "enunciado": "Considere o conjunto de dados {2, 4, 6, 8, 10}, tratado como população. A variância desse conjunto é:",
+      "alternativas": {
+        "a": "8",
+        "b": "6",
+        "c": "10",
+        "d": "4",
+        "e": "40"
+      },
+      "gabarito": "a",
+      "comentario": "Média = 6. Quadrados dos desvios: 16, 4, 0, 4, 16, com soma 40. Variância populacional = 40/5 = 8. O desvio padrão é √8 = 2√2 ≈ 2,83."
+    },
+    {
+      "id": "mat-016",
+      "assunto": "Medidas de dispersão (amplitude e desvio médio)",
+      "origem": "inedita",
+      "enunciado": "Para o conjunto {2, 4, 6, 8, 10}, a amplitude total e o desvio médio absoluto são, respectivamente:",
+      "alternativas": {
+        "a": "6 e 2,4",
+        "b": "8 e 2,0",
+        "c": "10 e 2,4",
+        "d": "8 e 2,8",
+        "e": "8 e 2,4"
+      },
+      "gabarito": "e",
+      "comentario": "Amplitude = 10 − 2 = 8. Desvios absolutos em relação à média 6: 4, 2, 0, 2, 4, com soma 12. Desvio médio = 12/5 = 2,4."
+    },
+    {
+      "id": "mat-017",
+      "assunto": "Leitura e interpretação de gráficos (setores)",
+      "origem": "fcc",
+      "enunciado": "Em um gráfico de setores que representa os 450 servidores de um tribunal, distribuídos por lotação, o setor correspondente à área administrativa tem ângulo central de 72°. O número de servidores lotados na área administrativa é:",
+      "alternativas": {
+        "a": "72",
+        "b": "80",
+        "c": "120",
+        "d": "100",
+        "e": "90"
+      },
+      "gabarito": "e",
+      "comentario": "72°/360° = 0,20 = 20%. 20% de 450 = 90 servidores."
+    },
+    {
+      "id": "mat-018",
+      "assunto": "Estrutura lógica de relações arbitrárias",
+      "origem": "inedita",
+      "enunciado": "Ana, Beto e Caio têm profissões distintas: um é médico, outro é advogado e outro é engenheiro. Sabe-se que Ana não é médica e que Beto não é advogado nem médico. Conclui-se corretamente que:",
+      "alternativas": {
+        "a": "Ana é engenheira.",
+        "b": "Beto é médico.",
+        "c": "Caio é advogado.",
+        "d": "Caio é médico.",
+        "e": "Ana é médica."
+      },
+      "gabarito": "d",
+      "comentario": "Beto não é advogado nem médico, logo é engenheiro. Ana não é médica e a vaga de engenheiro já está ocupada, logo é advogada. Resta a Caio ser médico."
+    },
+    {
+      "id": "mat-019",
+      "assunto": "Orientação espacial",
+      "origem": "inedita",
+      "enunciado": "Uma pessoa está voltada para o Norte. Ela gira 90° para a direita, depois 180° e, em seguida, 90° para a esquerda. Ao final, ela estará voltada para o:",
+      "alternativas": {
+        "a": "Norte",
+        "b": "Leste",
+        "c": "Sul",
+        "d": "Oeste",
+        "e": "Nordeste"
+      },
+      "gabarito": "c",
+      "comentario": "Norte → (90° à direita) Leste → (180°) Oeste → (90° à esquerda) Sul."
+    },
+    {
+      "id": "mat-020",
+      "assunto": "Porcentagem – desconto",
+      "origem": "fcc",
+      "enunciado": "Uma impressora custa R$ 250,00. Para pagamento à vista, a loja concede desconto de 12%. O valor pago à vista é:",
+      "alternativas": {
+        "a": "R$ 212,00",
+        "b": "R$ 220,00",
+        "c": "R$ 225,00",
+        "d": "R$ 218,00",
+        "e": "R$ 238,00"
+      },
+      "gabarito": "b",
+      "comentario": "12% de 250 = 30. 250 − 30 = R$ 220,00 (ou 250 × 0,88 = 220)."
+    },
+    {
+      "id": "mat-021",
+      "assunto": "Estrutura lógica de relações arbitrárias",
+      "origem": "fcc",
+      "enunciado": "Paulo, Renata e Sílvio são técnicos judiciários lotados em varas distintas (1ª, 2ª e 3ª Varas do Trabalho) e são naturais de cidades distintas (Belém, Marabá e Santarém). Sabe-se que:\n- Renata não trabalha na 1ª Vara e não é natural de Marabá;\n- quem trabalha na 2ª Vara é natural de Santarém;\n- Paulo não é natural de Santarém e não trabalha na 3ª Vara;\n- Sílvio não trabalha na 2ª Vara e não é natural de Belém.\nCom base nessas informações, é correto afirmar que",
+      "alternativas": {
+        "a": "Renata é natural de Belém.",
+        "b": "Sílvio trabalha na 2ª Vara.",
+        "c": "Quem trabalha na 3ª Vara é natural de Belém.",
+        "d": "Paulo é natural de Marabá.",
+        "e": "Paulo trabalha na 1ª Vara e é natural de Belém."
+      },
+      "gabarito": "e",
+      "comentario": "Paulo não trabalha na 3ª Vara; se trabalhasse na 2ª seria de Santarém (proibido), logo está na 1ª. Sílvio não está na 2ª, então está na 3ª, e Renata na 2ª, sendo de Santarém. Sílvio não é de Belém, logo é de Marabá, e Paulo é de Belém. Única configuração: Paulo–1ª–Belém; Renata–2ª–Santarém; Sílvio–3ª–Marabá."
+    },
+    {
+      "id": "mat-022",
+      "assunto": "Raciocínio sequencial – ordenação",
+      "origem": "fcc",
+      "enunciado": "Cinco petições, identificadas por P, Q, R, S e T, foram protocoladas em momentos distintos de um mesmo dia. Sabe-se que:\n- R foi protocolada imediatamente após P;\n- T foi protocolada depois de R;\n- S foi protocolada antes de P, mas não foi a primeira;\n- Q não foi a última.\nA terceira petição protocolada foi",
+      "alternativas": {
+        "a": "Q.",
+        "b": "P.",
+        "c": "R.",
+        "d": "S.",
+        "e": "T."
+      },
+      "gabarito": "b",
+      "comentario": "P, R e T vêm depois de S (P depois de S; R logo após P; T após R). Como S não é a primeira, alguém vem antes dela: só pode ser Q. Ordem: Q, S, P, R, T. A terceira é P."
+    },
+    {
+      "id": "mat-023",
+      "assunto": "Orientação espacial",
+      "origem": "fcc",
+      "enunciado": "Em um corredor retilíneo do fórum há cinco salas vizinhas, numeradas de 1 a 5 no sentido oeste–leste, ocupadas, uma em cada sala, pelos setores de Protocolo, Arquivo, Contadoria, Distribuição e Biblioteca. Sabe-se que:\n- o Arquivo ocupa uma das salas das extremidades;\n- a Contadoria ocupa a sala imediatamente a leste do Protocolo;\n- o Protocolo é vizinho do Arquivo;\n- a Biblioteca e a Distribuição são vizinhas, estando a Biblioteca a oeste da Distribuição.\nO setor que ocupa a sala 3 é",
+      "alternativas": {
+        "a": "o Protocolo.",
+        "b": "a Biblioteca.",
+        "c": "o Arquivo.",
+        "d": "a Distribuição.",
+        "e": "a Contadoria."
+      },
+      "gabarito": "e",
+      "comentario": "Se o Arquivo estivesse na sala 5, o Protocolo estaria na 4 e a Contadoria na 5 (ocupada) – impossível. Logo Arquivo na 1, Protocolo na 2, Contadoria na 3; Biblioteca (oeste) na 4 e Distribuição na 5. Sala 3: Contadoria."
+    },
+    {
+      "id": "mat-024",
+      "assunto": "Estrutura lógica – avaliação das condições",
+      "origem": "inedita",
+      "enunciado": "Ana, Bruno, Célia e Davi, servidores de uma secretaria, chegaram ao trabalho em horários distintos em determinado dia. Sabe-se que Ana chegou antes de Bruno, que Célia chegou depois de Davi e que Bruno não foi o último a chegar. Para que a ordem completa de chegada dos quatro fique determinada de forma única, basta acrescentar a essas informações a de que",
+      "alternativas": {
+        "a": "Davi chegou antes de Ana.",
+        "b": "Célia foi a última a chegar.",
+        "c": "Ana chegou antes de Davi.",
+        "d": "Bruno chegou antes de Célia.",
+        "e": "Davi não foi o primeiro a chegar."
+      },
+      "gabarito": "a",
+      "comentario": "As condições admitem três ordens: (Ana, Bruno, Davi, Célia), (Ana, Davi, Bruno, Célia) e (Davi, Ana, Bruno, Célia) – em todas Célia é a última e Bruno chega antes dela. 'Ana antes de Davi' e 'Davi não foi o primeiro' deixam duas ordens. Apenas 'Davi chegou antes de Ana' deixa uma única ordem: Davi, Ana, Bruno, Célia."
+    },
+    {
+      "id": "mat-025",
+      "assunto": "Lógica – verdades e mentiras",
+      "origem": "fcc",
+      "enunciado": "Um documento desapareceu de um gabinete e sabe-se que apenas um dentre quatro servidores – Alberto, Bia, Caio e Dora – o retirou. Questionados, declararam:\n- Alberto: “Foi a Bia.”\n- Bia: “Foi a Dora.”\n- Caio: “Não fui eu.”\n- Dora: “A Bia está mentindo.”\nSabendo que apenas um deles disse a verdade, quem retirou o documento foi",
+      "alternativas": {
+        "a": "Alberto.",
+        "b": "Bia.",
+        "c": "Dora.",
+        "d": "Não é possível determinar.",
+        "e": "Caio."
+      },
+      "gabarito": "e",
+      "comentario": "Bia e Dora fazem afirmações contraditórias; logo exatamente uma delas diz a verdade e, assim, Alberto e Caio mentem. Caio mentir significa que foi ele. Conferindo: culpado Caio → Alberto (F), Bia (F), Caio (F), Dora (V): uma só verdade."
+    },
+    {
+      "id": "mat-026",
+      "assunto": "Lógica – verdades e mentiras",
+      "origem": "fcc",
+      "enunciado": "Três servidores, Ana, Bruno e Carla, são tais que cada um deles ou sempre diz a verdade ou sempre mente. Em uma reunião, declararam:\n- Ana: “Bruno mente.”\n- Bruno: “Carla mente.”\n- Carla: “Ana e Bruno mentem.”\nÉ correto concluir que",
+      "alternativas": {
+        "a": "apenas Bruno diz a verdade.",
+        "b": "apenas Ana diz a verdade.",
+        "c": "apenas Carla diz a verdade.",
+        "d": "Ana e Carla dizem a verdade.",
+        "e": "os três mentem."
+      },
+      "gabarito": "a",
+      "comentario": "Se Bruno mentisse, Carla diria a verdade; então Ana e Bruno mentiriam, mas Ana diz que Bruno mente, o que seria verdade – contradição. Logo Bruno diz a verdade: Carla mente e Ana (que diz que Bruno mente) também mente. A fala de Carla ('Ana e Bruno mentem') é de fato falsa. Só Bruno é veraz."
+    },
+    {
+      "id": "mat-027",
+      "assunto": "Silogismos – quantificadores",
+      "origem": "fcc",
+      "enunciado": "Considere verdadeiras as afirmações:\nI. Todo analista do tribunal é graduado.\nII. Algum graduado é concursado.\nA partir dessas afirmações, conclui-se necessariamente que",
+      "alternativas": {
+        "a": "Algum analista é concursado.",
+        "b": "Todo graduado é analista.",
+        "c": "Nenhum analista é concursado.",
+        "d": "Todo concursado é analista.",
+        "e": "Algum concursado é graduado."
+      },
+      "gabarito": "e",
+      "comentario": "II diz que existe alguém que é graduado e concursado; logo existe alguém concursado que é graduado (a afirmação 'algum' é simétrica). As demais não se garantem: os graduados concursados podem estar fora do conjunto dos analistas, e I não diz nada sobre graduados serem analistas."
+    },
+    {
+      "id": "mat-028",
+      "assunto": "Silogismos – quantificadores",
+      "origem": "fcc",
+      "enunciado": "Em uma comissão, sabe-se que:\n- nenhum perito é servidor efetivo;\n- alguns servidores efetivos são bacharéis em Direito.\nConclui-se, necessariamente, que",
+      "alternativas": {
+        "a": "Nenhum perito é bacharel em Direito.",
+        "b": "Alguns peritos são bacharéis em Direito.",
+        "c": "Todos os bacharéis em Direito são servidores efetivos.",
+        "d": "Alguns bacharéis em Direito não são peritos.",
+        "e": "Nenhum bacharel em Direito é servidor efetivo."
+      },
+      "gabarito": "d",
+      "comentario": "Os servidores efetivos que são bacharéis não podem ser peritos (nenhum perito é servidor efetivo). Logo existem bacharéis que não são peritos. As outras alternativas podem ser verdadeiras ou falsas conforme o caso (ex.: pode haver ou não perito bacharel)."
+    },
+    {
+      "id": "mat-029",
+      "assunto": "Silogismos – quantificadores",
+      "origem": "inedita",
+      "enunciado": "Considere verdadeiras as afirmações:\n- Todos os processos do lote A são eletrônicos.\n- Nenhum processo eletrônico está no arquivo físico.\nÉ necessariamente verdadeiro que",
+      "alternativas": {
+        "a": "Algum processo do arquivo físico é do lote A.",
+        "b": "Todo processo eletrônico é do lote A.",
+        "c": "Nenhum processo do lote A está no arquivo físico.",
+        "d": "Algum processo eletrônico está no arquivo físico.",
+        "e": "Nenhum processo eletrônico é do lote A."
+      },
+      "gabarito": "c",
+      "comentario": "O conjunto 'lote A' está contido no conjunto 'eletrônicos', que é disjunto do conjunto 'arquivo físico'. Logo o lote A também é disjunto do arquivo físico: nenhum processo do lote A está no arquivo físico. 'Todo eletrônico é do lote A' inverte a inclusão e não se garante."
+    },
+    {
+      "id": "mat-030",
+      "assunto": "Lógica proposicional – negação",
+      "origem": "fcc",
+      "enunciado": "Uma negação lógica da afirmação “Algum processo foi arquivado e nenhum recurso foi interposto” é:",
+      "alternativas": {
+        "a": "Nenhum processo foi arquivado e algum recurso foi interposto.",
+        "b": "Algum processo não foi arquivado ou algum recurso foi interposto.",
+        "c": "Nenhum processo foi arquivado ou nenhum recurso foi interposto.",
+        "d": "Nenhum processo foi arquivado ou algum recurso foi interposto.",
+        "e": "Algum processo foi arquivado ou algum recurso foi interposto."
+      },
+      "gabarito": "d",
+      "comentario": "Negação de 'p e q' é '~p ou ~q' (De Morgan). A negação de 'algum processo foi arquivado' é 'nenhum processo foi arquivado'; a negação de 'nenhum recurso foi interposto' é 'algum recurso foi interposto'. Resultado: 'Nenhum processo foi arquivado ou algum recurso foi interposto'."
+    },
+    {
+      "id": "mat-031",
+      "assunto": "Lógica proposicional – negação do condicional",
+      "origem": "fcc",
+      "enunciado": "Considere a afirmação: “Se o réu comparecer, então a audiência será realizada e a sentença será proferida”. Uma negação lógica dessa afirmação é:",
+      "alternativas": {
+        "a": "Se o réu não comparecer, então a audiência não será realizada e a sentença não será proferida.",
+        "b": "O réu comparece e a audiência não é realizada ou a sentença não é proferida.",
+        "c": "O réu comparece, a audiência não é realizada e a sentença não é proferida.",
+        "d": "O réu não comparece ou a audiência é realizada e a sentença é proferida.",
+        "e": "Se a audiência não for realizada, então o réu não comparecerá."
+      },
+      "gabarito": "b",
+      "comentario": "A negação de 'p → (q ∧ r)' é 'p ∧ ~(q ∧ r)', isto é, 'p ∧ (~q ∨ ~r)': o réu comparece e (a audiência não é realizada ou a sentença não é proferida). A alternativa com 'e' entre as duas negações é mais forte do que a negação e não lhe é equivalente."
+    },
+    {
+      "id": "mat-032",
+      "assunto": "Lógica proposicional – negação",
+      "origem": "fcc",
+      "enunciado": "A negação da proposição “Carlos é técnico judiciário ou Débora não é analista judiciária” é logicamente equivalente a:",
+      "alternativas": {
+        "a": "Carlos não é técnico judiciário ou Débora é analista judiciária.",
+        "b": "Carlos não é técnico judiciário e Débora é analista judiciária.",
+        "c": "Carlos é técnico judiciário e Débora não é analista judiciária.",
+        "d": "Se Carlos é técnico judiciário, então Débora é analista judiciária.",
+        "e": "Carlos não é técnico judiciário e Débora não é analista judiciária."
+      },
+      "gabarito": "b",
+      "comentario": "~(p ∨ ~q) ≡ ~p ∧ q (De Morgan): Carlos não é técnico judiciário e Débora é analista judiciária. A tabela-verdade confirma que só essa alternativa tem valores opostos aos da proposição original em todas as linhas."
+    },
+    {
+      "id": "mat-033",
+      "assunto": "Lógica proposicional – equivalência (contrapositiva)",
+      "origem": "fcc",
+      "enunciado": "É logicamente equivalente à afirmação “Se o servidor não cumprir a meta, então não receberá a gratificação” a afirmação:",
+      "alternativas": {
+        "a": "Se o servidor receber a gratificação, então terá cumprido a meta.",
+        "b": "Se o servidor cumprir a meta, então receberá a gratificação.",
+        "c": "O servidor cumpre a meta e não recebe a gratificação.",
+        "d": "O servidor não cumpre a meta ou recebe a gratificação.",
+        "e": "Se o servidor não receber a gratificação, então não terá cumprido a meta."
+      },
+      "gabarito": "a",
+      "comentario": "~m → ~g é equivalente à contrapositiva g → m: 'Se receber a gratificação, então terá cumprido a meta'. Também equivale a 'm ∨ ~g'. As alternativas 'm → g', '~m ∨ g' e '~g → ~m' são todas equivalentes à recíproca, e não à afirmação dada."
+    },
+    {
+      "id": "mat-034",
+      "assunto": "Lógica proposicional – equivalência",
+      "origem": "fcc",
+      "enunciado": "A afirmação “Não é verdade que o perito chegou e o laudo ficou pronto” é logicamente equivalente a:",
+      "alternativas": {
+        "a": "O perito não chegou e o laudo não ficou pronto.",
+        "b": "Se o perito não chegou, então o laudo ficou pronto.",
+        "c": "O perito chegou ou o laudo não ficou pronto.",
+        "d": "Se o laudo não ficou pronto, então o perito chegou.",
+        "e": "Se o perito chegou, então o laudo não ficou pronto."
+      },
+      "gabarito": "e",
+      "comentario": "~(p ∧ l) ≡ ~p ∨ ~l (De Morgan) ≡ p → ~l. Logo: 'Se o perito chegou, então o laudo não ficou pronto'. 'O perito não chegou e o laudo não ficou pronto' é mais forte (só uma linha verdadeira) e não equivale."
+    },
+    {
+      "id": "mat-035",
+      "assunto": "Lógica proposicional – bicondicional",
+      "origem": "fcc",
+      "enunciado": "A afirmação “A sessão é realizada se, e somente se, há quórum” é logicamente equivalente a:",
+      "alternativas": {
+        "a": "Se a sessão é realizada, há quórum, e, se não há quórum, a sessão não é realizada.",
+        "b": "Se há quórum, a sessão é realizada, e, se não há quórum, a sessão não é realizada.",
+        "c": "Há quórum e a sessão é realizada.",
+        "d": "Ou há quórum ou a sessão é realizada, mas não ambos.",
+        "e": "Se não há quórum, então a sessão é realizada."
+      },
+      "gabarito": "b",
+      "comentario": "s ↔ q ≡ (q → s) ∧ (s → q). Como s → q equivale a ~q → ~s, temos (q → s) ∧ (~q → ~s). Na alternativa semelhante, 's → q' e '~q → ~s' são a mesma implicação, faltando q → s."
+    },
+    {
+      "id": "mat-036",
+      "assunto": "Lógica proposicional – tabela-verdade (tautologia)",
+      "origem": "fcc",
+      "enunciado": "Considere as proposições p: “o processo foi distribuído” e q: “o prazo foi cumprido”. Dentre as proposições compostas abaixo, a única que é uma tautologia é:",
+      "alternativas": {
+        "a": "(p ∨ q) → q",
+        "b": "p → (p ∧ q)",
+        "c": "p ∨ ~(p ∧ q)",
+        "d": "~(p → q) ∨ q",
+        "e": "(p ↔ q) ∨ p"
+      },
+      "gabarito": "c",
+      "comentario": "p ∨ ~(p ∧ q) ≡ p ∨ ~p ∨ ~q, que contém p ∨ ~p e é sempre verdadeira. As demais falham em alguma linha: (p∨q)→q é F para p=V,q=F; p→(p∧q) é F para p=V,q=F; ~(p→q)∨q ≡ p∨q é F para p=q=F; (p↔q)∨p é F para p=F,q=V."
+    },
+    {
+      "id": "mat-037",
+      "assunto": "Lógica proposicional – validade de argumentos",
+      "origem": "fcc",
+      "enunciado": "Considere as premissas:\nP1: Se o processo é eletrônico, então tramita mais rapidamente.\nP2: Se o processo tramita mais rapidamente, então o prazo é cumprido.\nP3: O prazo não foi cumprido.\nA partir dessas premissas, conclui-se validamente que",
+      "alternativas": {
+        "a": "o processo não é eletrônico.",
+        "b": "o processo é eletrônico.",
+        "c": "o processo tramita mais rapidamente.",
+        "d": "o processo tramita mais rapidamente ou é eletrônico.",
+        "e": "o processo é eletrônico e não tramita mais rapidamente."
+      },
+      "gabarito": "a",
+      "comentario": "De P3 (~c) e P2 (r → c), por modus tollens, ~r. De ~r e P1 (e → r), novamente por modus tollens, ~e: o processo não é eletrônico. Única valoração que torna as premissas verdadeiras: e=F, r=F, c=F."
+    },
+    {
+      "id": "mat-038",
+      "assunto": "Raciocínio verbal – analogia",
+      "origem": "fcc",
+      "enunciado": "JUIZ está para SENTENÇA assim como PERITO está para",
+      "alternativas": {
+        "a": "AUDIÊNCIA.",
+        "b": "PETIÇÃO.",
+        "c": "ACÓRDÃO.",
+        "d": "LAUDO.",
+        "e": "DESPACHO."
+      },
+      "gabarito": "d",
+      "comentario": "A relação é 'profissional → documento técnico que ele elabora como resultado do seu trabalho'. O juiz profere a sentença; o perito elabora o laudo. Acórdão e despacho são atos de magistrados; petição é ato da parte; audiência é um ato processual, não um documento do perito."
+    },
+    {
+      "id": "mat-039",
+      "assunto": "Raciocínio verbal – ordenação alfabética",
+      "origem": "inedita",
+      "enunciado": "As palavras PROTOCOLO, PRAZO, PERITO, PROCESSO, PRECATÓRIO, PAUTA e PREPOSTO serão organizadas em ordem alfabética (desconsiderando acentos). A palavra que ocupará a 4ª posição é",
+      "alternativas": {
+        "a": "PRAZO.",
+        "b": "PREPOSTO.",
+        "c": "PRECATÓRIO.",
+        "d": "PERITO.",
+        "e": "PROCESSO."
+      },
+      "gabarito": "c",
+      "comentario": "Ordem alfabética: PAUTA, PERITO, PRAZO, PRECATÓRIO, PREPOSTO, PROCESSO, PROTOCOLO. PA < PE < PRA < PREC < PREP < PROC < PROT. A 4ª palavra é PRECATÓRIO."
+    },
+    {
+      "id": "mat-040",
+      "assunto": "Raciocínio matemático – conjuntos",
+      "origem": "fcc",
+      "enunciado": "Em uma pesquisa com 40 servidores de um tribunal, verificou-se que 25 falam inglês, 18 falam espanhol e 7 não falam nenhum desses dois idiomas. O número de servidores que falam apenas inglês é",
+      "alternativas": {
+        "a": "10.",
+        "b": "18.",
+        "c": "15.",
+        "d": "8.",
+        "e": "25."
+      },
+      "gabarito": "c",
+      "comentario": "Falam ao menos um idioma: 40 − 7 = 33. Ambos: 25 + 18 − 33 = 10. Apenas inglês: 25 − 10 = 15."
+    },
+    {
+      "id": "mat-041",
+      "assunto": "Raciocínio matemático – princípio da casa dos pombos",
+      "origem": "fcc",
+      "enunciado": "Uma gaveta contém 12 canetas azuis, 9 pretas e 7 vermelhas, todas de mesmo formato. Um servidor, sem enxergar o interior da gaveta, vai retirar canetas uma a uma. O menor número de canetas que ele deve retirar para ter certeza de obter 4 canetas de mesma cor é",
+      "alternativas": {
+        "a": "7.",
+        "b": "4.",
+        "c": "12.",
+        "d": "13.",
+        "e": "10."
+      },
+      "gabarito": "e",
+      "comentario": "No pior caso ele retira 3 de cada cor (3 × 3 = 9) sem ter 4 iguais. A 10ª caneta necessariamente completa 4 de alguma cor (todas as cores têm pelo menos 4 canetas). Mínimo: 10."
+    },
+    {
+      "id": "mat-042",
+      "assunto": "Raciocínio sequencial – sequência numérica",
+      "origem": "fcc",
+      "enunciado": "Observe a sequência numérica: 5, 7, 11, 19, 35, ... Mantido o padrão, o próximo termo é",
+      "alternativas": {
+        "a": "51.",
+        "b": "65.",
+        "c": "67.",
+        "d": "70.",
+        "e": "71."
+      },
+      "gabarito": "c",
+      "comentario": "As diferenças entre termos consecutivos são 2, 4, 8, 16 (dobram a cada passo). A próxima diferença é 32: 35 + 32 = 67."
+    },
+    {
+      "id": "mat-043",
+      "assunto": "Raciocínio sequencial – sequências intercaladas",
+      "origem": "fcc",
+      "enunciado": "Na sequência 2, 10, 5, 20, 8, 30, 11, ..., os termos seguem uma lei de formação. O 9º termo dessa sequência é",
+      "alternativas": {
+        "a": "40.",
+        "b": "13.",
+        "c": "50.",
+        "d": "14.",
+        "e": "17."
+      },
+      "gabarito": "d",
+      "comentario": "Termos de ordem ímpar: 2, 5, 8, 11, 14 (somando 3). Termos de ordem par: 10, 20, 30, 40 (somando 10). O 9º termo é o 5º da subsequência ímpar: 14."
+    },
+    {
+      "id": "mat-044",
+      "assunto": "Raciocínio sequencial – padrão cíclico",
+      "origem": "inedita",
+      "enunciado": "Um servidor organiza pastas em uma estante repetindo sempre a mesma sequência de cores: azul, verde, verde, amarela, vermelha, branca, azul, verde, verde, amarela, vermelha, branca, ... A cor da 2.027ª pasta é",
+      "alternativas": {
+        "a": "vermelha.",
+        "b": "azul.",
+        "c": "verde.",
+        "d": "amarela.",
+        "e": "branca."
+      },
+      "gabarito": "a",
+      "comentario": "O ciclo tem 6 cores. 2.027 = 6 × 337 + 5, logo a 2.027ª pasta ocupa a 5ª posição do ciclo: vermelha."
+    },
+    {
+      "id": "mat-045",
+      "assunto": "Orientação espacial – deslocamentos",
+      "origem": "inedita",
+      "enunciado": "Um oficial de justiça sai do fórum e percorre, em ruas perpendiculares de quarteirões de mesmo tamanho, 3 quarteirões para o norte, 5 para o leste, 7 para o sul e 2 para o oeste. Ao final, a distância em linha reta entre o oficial e o fórum, medida em quarteirões, é",
+      "alternativas": {
+        "a": "17.",
+        "b": "5.",
+        "c": "7.",
+        "d": "1.",
+        "e": "4."
+      },
+      "gabarito": "b",
+      "comentario": "Deslocamento norte–sul: 3 − 7 = −4 (4 ao sul). Leste–oeste: 5 − 2 = 3 (3 a leste). Distância (Pitágoras): √(3² + 4²) = √25 = 5."
+    },
+    {
+      "id": "mat-046",
+      "assunto": "Orientação temporal – calendário",
+      "origem": "fcc",
+      "enunciado": "Em determinado ano, o dia 15 de março caiu em uma terça-feira. Nesse mesmo ano, o dia 1º de junho caiu em uma",
+      "alternativas": {
+        "a": "terça-feira.",
+        "b": "quarta-feira.",
+        "c": "quinta-feira.",
+        "d": "segunda-feira.",
+        "e": "sexta-feira."
+      },
+      "gabarito": "b",
+      "comentario": "De 15/3 a 1º/6: 16 dias (restantes de março) + 30 (abril) + 31 (maio) + 1 = 78 dias. 78 = 7 × 11 + 1, ou seja, 1 dia além de semanas completas: terça + 1 = quarta-feira."
+    },
+    {
+      "id": "mat-047",
+      "assunto": "Orientação temporal – horas",
+      "origem": "inedita",
+      "enunciado": "Uma sessão de julgamento começou às 9h47min. Os trabalhos efetivos duraram, ao todo, 3h38min, e houve ainda um intervalo de 1h15min. A sessão terminou às",
+      "alternativas": {
+        "a": "13h25min.",
+        "b": "14h25min.",
+        "c": "13h40min.",
+        "d": "14h40min.",
+        "e": "15h00min."
+      },
+      "gabarito": "d",
+      "comentario": "9h47min + 3h38min = 12h85min = 13h25min. Somando o intervalo: 13h25min + 1h15min = 14h40min."
+    },
+    {
+      "id": "mat-048",
+      "assunto": "Formação de conceitos – discriminação de elementos",
+      "origem": "inedita",
+      "enunciado": "Quatro dos cinco grupos de letras abaixo seguem um mesmo padrão e um deles não o segue:\nABD – CDF – EFH – GHJ – IJM\nO grupo que não segue o padrão dos demais é",
+      "alternativas": {
+        "a": "ABD.",
+        "b": "CDF.",
+        "c": "EFH.",
+        "d": "IJM.",
+        "e": "GHJ."
+      },
+      "gabarito": "d",
+      "comentario": "Padrão: duas letras consecutivas e a terceira saltando uma letra (A B _ D; C D _ F; E F _ H; G H _ J). Para I J, a terceira deveria ser L, e não M. O grupo destoante é IJM."
+    },
+    {
+      "id": "mat-049",
+      "assunto": "Formação de conceitos – discriminação de elementos",
+      "origem": "fcc",
+      "enunciado": "Dos números 121, 144, 169, 196 e 210, quatro têm uma característica comum que o outro não possui. O número que não possui essa característica é",
+      "alternativas": {
+        "a": "121.",
+        "b": "144.",
+        "c": "169.",
+        "d": "210.",
+        "e": "196."
+      },
+      "gabarito": "d",
+      "comentario": "121 = 11², 144 = 12², 169 = 13² e 196 = 14² são quadrados perfeitos de inteiros consecutivos. 210 não é quadrado perfeito (14² = 196 e 15² = 225)."
+    },
+    {
+      "id": "mat-050",
+      "assunto": "Números inteiros – expressões numéricas",
+      "origem": "fcc",
+      "enunciado": "O valor da expressão (−3)² − 2 · (−4) + 18 ÷ (−6) − (−2)³ é",
+      "alternativas": {
+        "a": "4.",
+        "b": "6.",
+        "c": "-23.",
+        "d": "22.",
+        "e": "28."
+      },
+      "gabarito": "d",
+      "comentario": "(−3)² = 9; −2·(−4) = +8; 18 ÷ (−6) = −3; −(−2)³ = −(−8) = +8. Total: 9 + 8 − 3 + 8 = 22."
+    },
+    {
+      "id": "mat-051",
+      "assunto": "Números racionais – operações com decimais",
+      "origem": "fcc",
+      "enunciado": "O resultado da expressão 0,25 × 1,6 + 2,4 ÷ 0,3 − 1,15 é",
+      "alternativas": {
+        "a": "7,25.",
+        "b": "0,05.",
+        "c": "8,1833.",
+        "d": "9,55.",
+        "e": "-3,1."
+      },
+      "gabarito": "a",
+      "comentario": "0,25 × 1,6 = 0,4; 2,4 ÷ 0,3 = 8; 0,4 + 8 − 1,15 = 7,25."
+    },
+    {
+      "id": "mat-052",
+      "assunto": "Potenciação – propriedades",
+      "origem": "fcc",
+      "enunciado": "O valor de (2¹⁰ · 4³) ÷ 8⁴ é",
+      "alternativas": {
+        "a": "2.",
+        "b": "16.",
+        "c": "8.",
+        "d": "32.",
+        "e": "64."
+      },
+      "gabarito": "b",
+      "comentario": "Escrevendo tudo na base 2: 4³ = 2⁶ e 8⁴ = 2¹². Então 2¹⁰ · 2⁶ ÷ 2¹² = 2^(10+6−12) = 2⁴ = 16."
+    },
+    {
+      "id": "mat-053",
+      "assunto": "Múltiplos e divisores – número de divisores",
+      "origem": "inedita",
+      "enunciado": "Um lote de 360 processos deve ser acondicionado em caixas, todas com a mesma quantidade de processos, sem sobras. Por questão de espaço, cada caixa deve conter no mínimo 2 e no máximo 100 processos. O número de possibilidades distintas para a quantidade de processos por caixa é",
+      "alternativas": {
+        "a": "24.",
+        "b": "18.",
+        "c": "20.",
+        "d": "16.",
+        "e": "22."
+      },
+      "gabarito": "c",
+      "comentario": "360 = 2³ · 3² · 5, que possui (3+1)(2+1)(1+1) = 24 divisores positivos. A quantidade por caixa deve ser divisor de 360 entre 2 e 100. Excluem-se o 1 e os divisores maiores que 100 (120, 180 e 360): 24 − 4 = 20 possibilidades."
+    },
+    {
+      "id": "mat-054",
+      "assunto": "Múltiplos e divisores – MMC",
+      "origem": "fcc",
+      "enunciado": "Três servidores cumprem plantões periódicos: o primeiro a cada 4 dias, o segundo a cada 6 dias e o terceiro a cada 10 dias. Em uma segunda-feira, os três estiveram de plantão juntos. A próxima vez em que os três estarão de plantão no mesmo dia será em uma",
+      "alternativas": {
+        "a": "segunda-feira.",
+        "b": "quarta-feira.",
+        "c": "quinta-feira.",
+        "d": "domingo.",
+        "e": "sexta-feira."
+      },
+      "gabarito": "e",
+      "comentario": "MMC(4, 6, 10) = 60 dias. 60 = 7 × 8 + 4; a partir de segunda, avançar 4 dias da semana: sexta-feira."
+    },
+    {
+      "id": "mat-055",
+      "assunto": "Múltiplos e divisores – MDC",
+      "origem": "fcc",
+      "enunciado": "Três varas possuem, respectivamente, 84, 126 e 210 processos para análise. Esses processos serão divididos em equipes, cada equipe recebendo processos de uma única vara, todas com a mesma quantidade de processos e o maior número possível de processos por equipe. O total de equipes formadas será",
+      "alternativas": {
+        "a": "42.",
+        "b": "21.",
+        "c": "7.",
+        "d": "14.",
+        "e": "10."
+      },
+      "gabarito": "e",
+      "comentario": "MDC(84, 126, 210) = 42 processos por equipe. Equipes: 84/42 + 126/42 + 210/42 = 2 + 3 + 5 = 10."
+    },
+    {
+      "id": "mat-056",
+      "assunto": "Múltiplos e divisores – MMC com resto",
+      "origem": "inedita",
+      "enunciado": "O número de processos de um acervo está entre 100 e 200. Se esses processos forem separados em grupos de 6, de 8 ou de 9, sobrarão sempre 5 processos. A soma dos algarismos desse número é",
+      "alternativas": {
+        "a": "14.",
+        "b": "13.",
+        "c": "12.",
+        "d": "11.",
+        "e": "16."
+      },
+      "gabarito": "a",
+      "comentario": "N − 5 é múltiplo de MMC(6, 8, 9) = 72. Entre 100 e 200: N = 72·2 + 5 = 149. Soma dos algarismos: 1 + 4 + 9 = 14."
+    },
+    {
+      "id": "mat-057",
+      "assunto": "Frações – problemas",
+      "origem": "fcc",
+      "enunciado": "Um analista leu 2/5 das páginas de um processo no primeiro dia e 1/3 das páginas restantes no segundo dia, restando ainda 120 páginas para ler. O número total de páginas do processo é",
+      "alternativas": {
+        "a": "200.",
+        "b": "360.",
+        "c": "300.",
+        "d": "450.",
+        "e": "240."
+      },
+      "gabarito": "c",
+      "comentario": "Após o 1º dia restam 3/5. No 2º dia lê 1/3 · 3/5 = 1/5 do total. Restam 1 − 2/5 − 1/5 = 2/5 do total = 120 páginas → total = 120 · 5/2 = 300."
+    },
+    {
+      "id": "mat-058",
+      "assunto": "Frações – operações",
+      "origem": "fcc",
+      "enunciado": "O valor da expressão (3/4 − 2/3) ÷ (5/6 + 1/12) é",
+      "alternativas": {
+        "a": "11.",
+        "b": "1/12.",
+        "c": "1/11.",
+        "d": "11/12.",
+        "e": "1/6."
+      },
+      "gabarito": "c",
+      "comentario": "3/4 − 2/3 = 9/12 − 8/12 = 1/12. 5/6 + 1/12 = 10/12 + 1/12 = 11/12. (1/12) ÷ (11/12) = 1/12 · 12/11 = 1/11."
+    },
+    {
+      "id": "mat-059",
+      "assunto": "Frações – problemas de trabalho conjunto",
+      "origem": "fcc",
+      "enunciado": "Trabalhando sozinho, um técnico digitaliza um acervo em 12 horas; outro técnico, também sozinho, digitaliza o mesmo acervo em 18 horas. Trabalhando juntos, com as mesmas produtividades, eles digitalizarão esse acervo em",
+      "alternativas": {
+        "a": "7 horas e 12 minutos.",
+        "b": "15 horas.",
+        "c": "7 horas e 20 minutos.",
+        "d": "6 horas.",
+        "e": "7 horas e 30 minutos."
+      },
+      "gabarito": "a",
+      "comentario": "Em 1 hora: 1/12 + 1/18 = 3/36 + 2/36 = 5/36 do acervo. Tempo = 36/5 = 7,2 h = 7 h + 0,2·60 min = 7 h 12 min."
+    },
+    {
+      "id": "mat-060",
+      "assunto": "Razões e proporções",
+      "origem": "fcc",
+      "enunciado": "Em um tribunal, a razão entre o número de servidores homens e o de servidoras mulheres de determinado setor é 4/5. Se o setor possui 117 servidores, o número de mulheres é",
+      "alternativas": {
+        "a": "52.",
+        "b": "65.",
+        "c": "60.",
+        "d": "72.",
+        "e": "45."
+      },
+      "gabarito": "b",
+      "comentario": "Homens = 4k e mulheres = 5k; 9k = 117 → k = 13. Mulheres: 5 · 13 = 65."
+    },
+    {
+      "id": "mat-061",
+      "assunto": "Razões e proporções",
+      "origem": "fcc",
+      "enunciado": "A razão entre o número de processos do setor A e o do setor B é 5/3. Se o setor B receber mais 24 processos, sem alteração no setor A, essa razão passará a ser 5/4. O total de processos dos dois setores, antes do recebimento, era",
+      "alternativas": {
+        "a": "120.",
+        "b": "216.",
+        "c": "160.",
+        "d": "192.",
+        "e": "184."
+      },
+      "gabarito": "d",
+      "comentario": "A = 5k e B = 3k. 5k/(3k + 24) = 5/4 → 20k = 15k + 120 → k = 24. Antes: A = 120 e B = 72; total = 192."
+    },
+    {
+      "id": "mat-062",
+      "assunto": "Divisão em partes proporcionais – direta e inversa",
+      "origem": "inedita",
+      "enunciado": "Um prêmio de R$ 7.800,00 será dividido entre três servidores em partes diretamente proporcionais aos seus anos de serviço no setor (4, 6 e 9 anos) e inversamente proporcionais ao número de faltas de cada um no ano (1, 2 e 3 faltas, respectivamente). A maior parte recebida será de",
+      "alternativas": {
+        "a": "R$ 4.680,00",
+        "b": "R$ 2.600,00",
+        "c": "R$ 3.120,00",
+        "d": "R$ 2.340,00",
+        "e": "R$ 3.900,00"
+      },
+      "gabarito": "c",
+      "comentario": "Pesos: 4/1 = 4; 6/2 = 3; 9/3 = 3. Soma = 10. Constante = 7.800/10 = 780. Partes: 4·780 = R$ 3.120,00; 3·780 = R$ 2.340,00; 3·780 = R$ 2.340,00. A maior é R$ 3.120,00."
+    },
+    {
+      "id": "mat-063",
+      "assunto": "Divisão em partes proporcionais",
+      "origem": "fcc",
+      "enunciado": "Uma quantia foi dividida entre dois peritos em partes diretamente proporcionais a 5 e 8. Se a diferença entre a maior e a menor parte foi de R$ 1.350,00, a quantia total dividida foi",
+      "alternativas": {
+        "a": "R$ 3.600,00",
+        "b": "R$ 4.050,00",
+        "c": "R$ 2.250,00",
+        "d": "R$ 6.750,00",
+        "e": "R$ 5.850,00"
+      },
+      "gabarito": "e",
+      "comentario": "Partes 5k e 8k; 8k − 5k = 3k = 1.350 → k = 450. Total = 13k = 13 · 450 = R$ 5.850,00."
+    },
+    {
+      "id": "mat-064",
+      "assunto": "Regra de três simples",
+      "origem": "fcc",
+      "enunciado": "Uma impressora do setor de expedição imprime 1.350 páginas em 45 minutos. Mantido esse ritmo, o número de páginas impressas em 2 horas e 10 minutos será",
+      "alternativas": {
+        "a": "3.600.",
+        "b": "3.900.",
+        "c": "4.050.",
+        "d": "3.150.",
+        "e": "2.850."
+      },
+      "gabarito": "b",
+      "comentario": "Ritmo: 1.350/45 = 30 páginas por minuto. 2 h 10 min = 130 min. 130 · 30 = 3.900 páginas."
+    },
+    {
+      "id": "mat-065",
+      "assunto": "Regra de três composta",
+      "origem": "fcc",
+      "enunciado": "Oito servidores, trabalhando 6 horas por dia, analisam 1.440 processos em 15 dias. Mantida a mesma produtividade individual, 10 servidores, trabalhando 8 horas por dia, analisarão 2.880 processos em",
+      "alternativas": {
+        "a": "15 dias.",
+        "b": "20 dias.",
+        "c": "24 dias.",
+        "d": "12 dias.",
+        "e": "18 dias."
+      },
+      "gabarito": "e",
+      "comentario": "Dias são inversamente proporcionais a servidores e a horas/dia, e diretamente proporcionais a processos: d = 15 · (8/10) · (6/8) · (2.880/1.440) = 15 · 0,8 · 0,75 · 2 = 18 dias."
+    },
+    {
+      "id": "mat-066",
+      "assunto": "Regra de três composta",
+      "origem": "fcc",
+      "enunciado": "Quatro máquinas, operando 10 horas por dia durante 6 dias, digitalizam 9.600 documentos. Para digitalizar 14.400 documentos em 5 dias, operando 8 horas por dia, o número de máquinas idênticas necessário é",
+      "alternativas": {
+        "a": "6.",
+        "b": "9.",
+        "c": "8.",
+        "d": "10.",
+        "e": "12."
+      },
+      "gabarito": "b",
+      "comentario": "Máquinas são diretamente proporcionais aos documentos e inversamente proporcionais a dias e horas/dia: m = 4 · (14.400/9.600) · (6/5) · (10/8) = 4 · 1,5 · 1,2 · 1,25 = 9 máquinas."
+    },
+    {
+      "id": "mat-067",
+      "assunto": "Porcentagem – acréscimos e descontos",
+      "origem": "fcc",
+      "enunciado": "O vencimento bruto de um servidor era de R$ 4.800,00 e foi reajustado em 12,5%. Sobre o novo valor, incide um desconto previdenciário de 11%. O valor líquido, após o desconto, passou a ser",
+      "alternativas": {
+        "a": "R$ 4.872,00",
+        "b": "R$ 4.806,00",
+        "c": "R$ 4.752,00",
+        "d": "R$ 5.400,00",
+        "e": "R$ 4.272,00"
+      },
+      "gabarito": "b",
+      "comentario": "Reajuste: 4.800 · 1,125 = 5.400,00. Desconto de 11%: 5.400 · 0,89 = R$ 4.806,00."
+    },
+    {
+      "id": "mat-068",
+      "assunto": "Porcentagem – variação percentual",
+      "origem": "fcc",
+      "enunciado": "Uma vara do trabalho julgou 1.680 processos em um ano e 2.016 processos no ano seguinte. O aumento percentual no número de processos julgados foi de",
+      "alternativas": {
+        "a": "20%.",
+        "b": "16,7%.",
+        "c": "33,6%.",
+        "d": "18%.",
+        "e": "25%."
+      },
+      "gabarito": "a",
+      "comentario": "Aumento absoluto: 2.016 − 1.680 = 336. Percentual: 336/1.680 = 0,20 = 20%. (Calcular 336/2.016 ≈ 16,7% é erro de base.)"
+    },
+    {
+      "id": "mat-069",
+      "assunto": "Porcentagem – desconto",
+      "origem": "fcc",
+      "enunciado": "Após receber um desconto de 15%, um equipamento de informática foi adquirido por R$ 1.020,00. O preço do equipamento, sem desconto, era",
+      "alternativas": {
+        "a": "R$ 1.173,00",
+        "b": "R$ 1.180,00",
+        "c": "R$ 1.150,00",
+        "d": "R$ 1.200,00",
+        "e": "R$ 1.250,00"
+      },
+      "gabarito": "d",
+      "comentario": "Preço com desconto = 85% do original: 0,85 · P = 1.020 → P = 1.020/0,85 = R$ 1.200,00. (Somar 15% de 1.020 daria R$ 1.173,00, erro comum.)"
+    },
+    {
+      "id": "mat-070",
+      "assunto": "Porcentagem – descontos sucessivos",
+      "origem": "fcc",
+      "enunciado": "Um fornecedor concedeu a um tribunal dois descontos sucessivos sobre o preço de um lote de materiais: o primeiro de 10% e o segundo de 20%, aplicado sobre o valor já reduzido. Esses dois descontos equivalem a um único desconto de",
+      "alternativas": {
+        "a": "30%.",
+        "b": "25%.",
+        "c": "28%.",
+        "d": "32%.",
+        "e": "72%."
+      },
+      "gabarito": "c",
+      "comentario": "Fator: 0,90 · 0,80 = 0,72; o preço final é 72% do inicial. Desconto equivalente: 100% − 72% = 28%."
+    },
+    {
+      "id": "mat-071",
+      "assunto": "Média aritmética simples",
+      "origem": "fcc",
+      "enunciado": "A média aritmética das notas obtidas por seis candidatos em uma prova foi 7,5. Excluindo-se a nota de um candidato, que foi 4,5, a média aritmética das notas dos cinco candidatos restantes passa a ser",
+      "alternativas": {
+        "a": "8,1.",
+        "b": "7,5.",
+        "c": "8,0.",
+        "d": "8,4.",
+        "e": "6,75."
+      },
+      "gabarito": "a",
+      "comentario": "Soma das seis notas: 6 · 7,5 = 45. Sem a nota 4,5: 45 − 4,5 = 40,5. Nova média: 40,5/5 = 8,1."
+    },
+    {
+      "id": "mat-072",
+      "assunto": "Média aritmética ponderada",
+      "origem": "fcc",
+      "enunciado": "Em um setor com 20 servidores, 10 recebem R$ 3.000,00 mensais, 6 recebem R$ 5.000,00 e 4 recebem R$ 8.000,00. O salário médio mensal desses servidores é",
+      "alternativas": {
+        "a": "R$ 5.333,33",
+        "b": "R$ 4.600,00",
+        "c": "R$ 4.500,00",
+        "d": "R$ 4.800,00",
+        "e": "R$ 4.200,00"
+      },
+      "gabarito": "b",
+      "comentario": "Média ponderada: (10·3.000 + 6·5.000 + 4·8.000)/20 = (30.000 + 30.000 + 32.000)/20 = 92.000/20 = R$ 4.600,00. (A média simples dos três valores, R$ 5.333,33, ignora as frequências.)"
+    },
+    {
+      "id": "mat-073",
+      "assunto": "Medidas de tendência central – mediana e moda",
+      "origem": "fcc",
+      "enunciado": "A tabela a seguir apresenta o número de audiências adiadas por dia em uma vara, durante 25 dias úteis:\n\nAudiências adiadas | Nº de dias\n0 | 2\n1 | 9\n2 | 6\n3 | 5\n4 | 3\n\nA mediana e a moda do número de audiências adiadas por dia são, respectivamente,",
+      "alternativas": {
+        "a": "2 e 1.",
+        "b": "1 e 2.",
+        "c": "2 e 2.",
+        "d": "2 e 9.",
+        "e": "1,5 e 1."
+      },
+      "gabarito": "a",
+      "comentario": "Moda: valor de maior frequência = 1 (9 dias). Mediana: com 25 dados, é o 13º valor ordenado; frequências acumuladas: 2 (valor 0), 11 (valor 1), 17 (valor 2). O 13º dado é 2. Mediana = 2 e moda = 1."
+    },
+    {
+      "id": "mat-074",
+      "assunto": "Medidas de dispersão – amplitude e desvio médio",
+      "origem": "fcc",
+      "enunciado": "O número de recursos recebidos por um gabinete em cinco semanas foi: 3, 5, 8, 10 e 14. A amplitude total e o desvio médio desses dados são, respectivamente,",
+      "alternativas": {
+        "a": "11 e 8.",
+        "b": "14 e 3,2.",
+        "c": "11 e 3,2.",
+        "d": "11 e 4.",
+        "e": "8 e 3,2."
+      },
+      "gabarito": "c",
+      "comentario": "Amplitude: 14 − 3 = 11. Média: 40/5 = 8. Desvios absolutos: 5, 3, 0, 2, 6 (soma 16). Desvio médio: 16/5 = 3,2."
+    },
+    {
+      "id": "mat-075",
+      "assunto": "Medidas de dispersão – variância",
+      "origem": "fcc",
+      "enunciado": "Os tempos, em dias, de tramitação de cinco processos administrativos foram: 4, 6, 7, 9 e 14. Considerando esses dados como uma população, a variância desses tempos é",
+      "alternativas": {
+        "a": "11,6.",
+        "b": "14,5.",
+        "c": "2,8.",
+        "d": "58.",
+        "e": "8."
+      },
+      "gabarito": "a",
+      "comentario": "Média: 40/5 = 8. Quadrados dos desvios: 16, 4, 1, 1, 36 (soma 58). Variância populacional: 58/5 = 11,6. (Dividir por n − 1 = 4 daria 14,5, a variância amostral.)"
+    },
+    {
+      "id": "mat-076",
+      "assunto": "Medidas de dispersão – desvio padrão",
+      "origem": "fcc",
+      "enunciado": "O número de sentenças proferidas por cinco juízes substitutos em um mês foi: 4, 8, 10, 12 e 16. Considerando esses dados como uma população, o desvio padrão é",
+      "alternativas": {
+        "a": "16.",
+        "b": "3,2.",
+        "c": "4.",
+        "d": "2.",
+        "e": "80."
+      },
+      "gabarito": "c",
+      "comentario": "Média: 50/5 = 10. Quadrados dos desvios: 36, 4, 0, 4, 36 (soma 80). Variância: 80/5 = 16. Desvio padrão: √16 = 4. (3,2 é o desvio médio: (6+2+0+2+6)/5.)"
+    },
+    {
+      "id": "mat-077",
+      "assunto": "Medidas de dispersão – propriedades da variância",
+      "origem": "inedita",
+      "enunciado": "A variância do número de atendimentos diários de um balcão virtual, em certo período, foi de 2,5 (atendimentos)². Em outro período, cada valor diário foi exatamente igual ao triplo do correspondente no primeiro período, acrescido de 2 atendimentos. A variância no segundo período é",
+      "alternativas": {
+        "a": "9,5.",
+        "b": "7,5.",
+        "c": "24,5.",
+        "d": "22,5.",
+        "e": "17,5."
+      },
+      "gabarito": "d",
+      "comentario": "Somar uma constante não altera a variância; multiplicar todos os valores por k multiplica a variância por k². Logo: 3² · 2,5 = 9 · 2,5 = 22,5. (7,5 = 3·2,5 e 9,5 = 3·2,5+2 são erros comuns.)"
+    },
+    {
+      "id": "mat-078",
+      "assunto": "Leitura e interpretação de gráficos – setores",
+      "origem": "fcc",
+      "enunciado": "Um gráfico de setores representa os 1.200 processos em tramitação em uma vara, classificados por fase processual. O setor correspondente à fase de execução tem ângulo central de 126°. O número de processos na fase de execução é",
+      "alternativas": {
+        "a": "126.",
+        "b": "350.",
+        "c": "480.",
+        "d": "378.",
+        "e": "420."
+      },
+      "gabarito": "e",
+      "comentario": "A circunferência (360°) corresponde a 1.200 processos. 126°/360° = 0,35 = 35%. 35% de 1.200 = 420 processos."
+    },
+    {
+      "id": "mat-079",
+      "assunto": "Leitura e interpretação de gráficos – histograma",
+      "origem": "fcc",
+      "enunciado": "Um histograma apresenta a distribuição dos salários mensais (em milhares de reais) dos 50 servidores de uma unidade, com as seguintes classes e frequências:\n\nClasse (R$ mil) | Frequência\n2 ⊢ 4 | 12\n4 ⊢ 6 | 18\n6 ⊢ 8 | 15\n8 ⊢ 10 | 5\n\nUtilizando os pontos médios das classes, a média salarial estimada desses servidores é",
+      "alternativas": {
+        "a": "R$ 6.000,00",
+        "b": "R$ 5.500,00",
+        "c": "R$ 5.000,00",
+        "d": "R$ 5.520,00",
+        "e": "R$ 5.800,00"
+      },
+      "gabarito": "d",
+      "comentario": "Pontos médios: 3, 5, 7 e 9 (mil). Soma: 3·12 + 5·18 + 7·15 + 9·5 = 36 + 90 + 105 + 45 = 276. Média: 276/50 = 5,52 mil = R$ 5.520,00."
+    },
+    {
+      "id": "mat-080",
+      "assunto": "Leitura e interpretação de tabelas",
+      "origem": "inedita",
+      "enunciado": "A tabela abaixo apresenta o número de processos distribuídos a cinco varas de um tribunal no 1º e no 2º semestres de um ano:\n\nVara | 1º semestre | 2º semestre\nVara 1 | 840 | 966\nVara 2 | 750 | 900\nVara 3 | 1.200 | 1.416\nVara 4 | 640 | 800\nVara 5 | 900 | 1.035\n\nA vara que apresentou o maior aumento percentual do 1º para o 2º semestre foi a",
+      "alternativas": {
+        "a": "Vara 1.",
+        "b": "Vara 2.",
+        "c": "Vara 3.",
+        "d": "Vara 5.",
+        "e": "Vara 4."
+      },
+      "gabarito": "e",
+      "comentario": "Aumentos: Vara 1: 126/840 = 15%; Vara 2: 150/750 = 20%; Vara 3: 216/1.200 = 18%; Vara 4: 160/640 = 25%; Vara 5: 135/900 = 15%. Maior aumento percentual: Vara 4 (a Vara 3 tem o maior aumento absoluto, 216, mas não o maior percentual)."
+    }
+  ]
+}

@@ -1,0 +1,1206 @@
+{
+  "disciplina": "Noções de Informática",
+  "prefixo": "info",
+  "questoes": [
+    {
+      "id": "info-001",
+      "assunto": "Windows 10 e 11 – atalhos",
+      "origem": "fcc",
+      "enunciado": "No Windows 10 e no Windows 11, em configuração padrão, a combinação de teclas que bloqueia imediatamente a sessão do usuário, exigindo nova autenticação, é:",
+      "alternativas": {
+        "a": "Windows + L",
+        "b": "Windows + E",
+        "c": "Ctrl + Shift + Esc",
+        "d": "Windows + D",
+        "e": "Alt + F4"
+      },
+      "gabarito": "a",
+      "comentario": "Win + L bloqueia o computador. Win + D mostra a área de trabalho; Win + E abre o Explorador de Arquivos; Ctrl + Shift + Esc abre o Gerenciador de Tarefas; Alt + F4 fecha a janela ativa."
+    },
+    {
+      "id": "info-002",
+      "assunto": "Windows 10 e 11 – organização de arquivos",
+      "origem": "fcc",
+      "enunciado": "No Explorador de Arquivos do Windows, ao selecionar um arquivo em disco local e pressionar Shift + Delete, o arquivo será:",
+      "alternativas": {
+        "a": "copiado para a área de transferência.",
+        "b": "movido para a Lixeira.",
+        "c": "excluído permanentemente, sem passar pela Lixeira (após confirmação).",
+        "d": "renomeado.",
+        "e": "compactado em formato ZIP."
+      },
+      "gabarito": "c",
+      "comentario": "Shift + Delete exclui definitivamente, sem enviar à Lixeira. Delete sozinho move o arquivo para a Lixeira, de onde ele pode ser restaurado."
+    },
+    {
+      "id": "info-003",
+      "assunto": "Windows 10 e 11 – área de transferência",
+      "origem": "fcc",
+      "enunciado": "No Windows 10 (versões recentes) e no Windows 11, o atalho que abre o histórico da área de transferência, permitindo colar itens copiados anteriormente, é:",
+      "alternativas": {
+        "a": "Ctrl + V",
+        "b": "Ctrl + Shift + V",
+        "c": "Alt + Tab",
+        "d": "Windows + C",
+        "e": "Windows + V"
+      },
+      "gabarito": "e",
+      "comentario": "Win + V abre o histórico da área de transferência, que precisa estar ativado nas Configurações. Ctrl + V cola apenas o último item copiado."
+    },
+    {
+      "id": "info-004",
+      "assunto": "Windows 11 – recursos",
+      "origem": "inedita",
+      "enunciado": "No Windows 11, o recurso que exibe opções de organização de janelas em grade, ao posicionar o mouse sobre o botão maximizar ou ao pressionar Windows + Z, é denominado:",
+      "alternativas": {
+        "a": "Visão de Tarefas",
+        "b": "Layouts de Ajuste (Snap Layouts)",
+        "c": "Modo Tablet",
+        "d": "Central de Ações",
+        "e": "Área de Trabalho Remota"
+      },
+      "gabarito": "b",
+      "comentario": "Os Snap Layouts (Layouts de Ajuste) permitem organizar janelas em grades predefinidas. A Visão de Tarefas (Win + Tab) mostra janelas abertas e áreas de trabalho virtuais."
+    },
+    {
+      "id": "info-005",
+      "assunto": "Google Drive – compartilhamento e permissões",
+      "origem": "fcc",
+      "enunciado": "Ao compartilhar um arquivo do Google Docs pelo Google Drive com outra pessoa, os níveis de acesso que podem ser atribuídos são:",
+      "alternativas": {
+        "a": "Administrador, Moderador e Visitante.",
+        "b": "Leitor, Comentarista e Editor.",
+        "c": "Proprietário, Auditor e Revisor.",
+        "d": "Somente leitura e Controle total, apenas.",
+        "e": "Leitor e Executor."
+      },
+      "gabarito": "b",
+      "comentario": "No Google Drive, os papéis básicos são Leitor (visualiza), Comentarista (visualiza e comenta) e Editor (altera e, conforme as configurações, compartilha). O Proprietário pode transferir a propriedade."
+    },
+    {
+      "id": "info-006",
+      "assunto": "Google Drive – compartilhamento por link",
+      "origem": "fcc",
+      "enunciado": "No Google Drive, um usuário configurou o acesso geral de um arquivo como 'Qualquer pessoa com o link' e papel 'Leitor'. Nessa situação:",
+      "alternativas": {
+        "a": "somente pessoas da mesma organização poderão abrir o arquivo.",
+        "b": "o arquivo ficará indexado e público em mecanismos de busca automaticamente.",
+        "c": "qualquer pessoa com o link poderá excluir o arquivo.",
+        "d": "ninguém poderá acessá-lo até que o proprietário aprove cada solicitação.",
+        "e": "qualquer pessoa que tenha o link poderá visualizar o arquivo, sem poder editá-lo."
+      },
+      "gabarito": "e",
+      "comentario": "Com 'Qualquer pessoa com o link' e papel Leitor, quem tiver o link visualiza, mas não edita. A opção restrita à organização é outra configuração ('Restrito' ou nome do domínio)."
+    },
+    {
+      "id": "info-007",
+      "assunto": "Gmail – marcadores",
+      "origem": "fcc",
+      "enunciado": "No Gmail, os marcadores (labels) diferenciam-se das pastas tradicionais de outros clientes de e-mail porque:",
+      "alternativas": {
+        "a": "cada mensagem só pode ter um marcador.",
+        "b": "uma mesma mensagem pode receber mais de um marcador simultaneamente.",
+        "c": "os marcadores apagam a mensagem da Caixa de entrada automaticamente.",
+        "d": "não é possível criar marcadores personalizados.",
+        "e": "marcadores só podem ser aplicados a mensagens enviadas."
+      },
+      "gabarito": "b",
+      "comentario": "Uma mensagem pode ter vários marcadores. É possível criar, aninhar e colorir marcadores e usá-los em filtros. A ação 'Mover para' aplica um marcador e retira a mensagem da Caixa de entrada."
+    },
+    {
+      "id": "info-008",
+      "assunto": "Gmail – configurações rápidas e painel de visualização",
+      "origem": "fcc",
+      "enunciado": "No Gmail, pelo menu de Configurações rápidas (ícone de engrenagem), o usuário pode, entre outras opções, definir:",
+      "alternativas": {
+        "a": "o servidor DNS do computador.",
+        "b": "o painel de leitura (dividido à direita ou abaixo da Caixa de entrada), a densidade de exibição, o tema e o tipo de Caixa de entrada.",
+        "c": "a senha da conta Google e a recuperação por SMS, apenas.",
+        "d": "a instalação de antivírus no navegador.",
+        "e": "a formatação de documentos do Google Docs."
+      },
+      "gabarito": "b",
+      "comentario": "As Configurações rápidas oferecem densidade (Padrão, Confortável, Compacto), tema, tipo de Caixa de entrada (Padrão, Importantes primeiro etc.) e painel de leitura. A senha é gerenciada na Conta Google."
+    },
+    {
+      "id": "info-009",
+      "assunto": "Google Agenda e Google Meet",
+      "origem": "inedita",
+      "enunciado": "Ao criar um evento no Google Agenda, é possível:",
+      "alternativas": {
+        "a": "apenas definir título e horário, sem convidar participantes.",
+        "b": "convidar no máximo duas pessoas por evento.",
+        "c": "adicionar convidados, incluir uma videoconferência do Google Meet, anexar arquivos do Google Drive e ajustar horário e recorrência.",
+        "d": "adicionar videoconferência apenas por meio de aplicativos de terceiros.",
+        "e": "anexar arquivos somente se estiverem gravados no disco local."
+      },
+      "gabarito": "c",
+      "comentario": "O Google Agenda integra convidados, Meet, anexos do Drive, recorrência, lembretes e o recurso 'Encontrar um horário', que mostra a disponibilidade dos convidados."
+    },
+    {
+      "id": "info-010",
+      "assunto": "Documentos Google – edição de texto",
+      "origem": "fcc",
+      "enunciado": "No Documentos Google, o modo de edição que registra as alterações feitas por um colaborador como propostas, que o proprietário ou editor pode aceitar ou rejeitar, denomina-se:",
+      "alternativas": {
+        "a": "Sugerindo",
+        "b": "Visualizando",
+        "c": "Editando",
+        "d": "Revisão bloqueada",
+        "e": "Somente leitura"
+      },
+      "gabarito": "a",
+      "comentario": "O modo 'Sugerindo' funciona como o controle de alterações. Para ver versões anteriores do arquivo, usa-se Arquivo > Histórico de versões."
+    },
+    {
+      "id": "info-011",
+      "assunto": "Planilhas Google – referências",
+      "origem": "fcc",
+      "enunciado": "Em uma planilha do Planilhas Google, a célula C2 contém a fórmula =$A1*B$1. Ao copiar essa célula e colá-la na célula D3, a fórmula resultante será:",
+      "alternativas": {
+        "a": "=$A2*C$1",
+        "b": "=$A2*C$2",
+        "c": "=$B2*C$2",
+        "d": "=$A1*B$1",
+        "e": "=$B1*C$1"
+      },
+      "gabarito": "a",
+      "comentario": "De C2 para D3, a fórmula avança 1 coluna e 1 linha. Em $A1, a coluna A é fixa e a linha muda (1 → 2): $A2. Em B$1, a coluna muda (B → C) e a linha 1 é fixa: C$1. Resultado: =$A2*C$1."
+    },
+    {
+      "id": "info-012",
+      "assunto": "Planilhas Google – funções",
+      "origem": "inedita",
+      "enunciado": "Em uma planilha do Planilhas Google configurada em português, a fórmula =CONT.SE(A1:A10;\">5\") retorna:",
+      "alternativas": {
+        "a": "a soma dos valores maiores que 5 no intervalo A1:A10.",
+        "b": "a quantidade de células do intervalo A1:A10 com valor maior que 5.",
+        "c": "a média dos valores maiores que 5.",
+        "d": "o maior valor do intervalo.",
+        "e": "VERDADEIRO se todos os valores forem maiores que 5."
+      },
+      "gabarito": "b",
+      "comentario": "CONT.SE conta as células que atendem ao critério. Para somar valores condicionalmente, usa-se SOMASE; para a média condicional, MÉDIASE."
+    },
+    {
+      "id": "info-013",
+      "assunto": "Redes – internet e intranet",
+      "origem": "fcc",
+      "enunciado": "Sobre intranet, é correto afirmar:",
+      "alternativas": {
+        "a": "É uma rede privada, de acesso restrito a uma organização, que utiliza os mesmos protocolos e tecnologias da internet, como TCP/IP e HTTP.",
+        "b": "É sinônimo de internet pública.",
+        "c": "Utiliza protocolos e tecnologias diferentes dos usados na internet, incompatíveis com navegadores web.",
+        "d": "Não pode ser acessada remotamente em nenhuma hipótese.",
+        "e": "Dispensa qualquer mecanismo de autenticação."
+      },
+      "gabarito": "a",
+      "comentario": "A intranet é uma rede corporativa privada que usa a pilha TCP/IP e serviços como HTTP. Pode ser acessada remotamente, por exemplo via VPN. Extranet é a extensão controlada da intranet a parceiros externos."
+    },
+    {
+      "id": "info-014",
+      "assunto": "Redes – protocolos de e-mail",
+      "origem": "fcc",
+      "enunciado": "Em relação aos protocolos usados no serviço de correio eletrônico, é correto afirmar:",
+      "alternativas": {
+        "a": "O FTP é o protocolo padrão de recebimento de e-mails.",
+        "b": "O POP3 é utilizado exclusivamente para envio de mensagens.",
+        "c": "O HTTP é o único protocolo que permite enviar e-mails.",
+        "d": "O SMTP é utilizado para o envio de mensagens, enquanto o IMAP permite acessar as mensagens mantendo-as sincronizadas no servidor.",
+        "e": "O IMAP apaga obrigatoriamente as mensagens do servidor após o download."
+      },
+      "gabarito": "d",
+      "comentario": "SMTP envia mensagens. POP3 e IMAP recebem: o POP3 tradicionalmente baixa as mensagens (podendo removê-las do servidor), e o IMAP mantém as mensagens no servidor, sincronizadas entre dispositivos."
+    },
+    {
+      "id": "info-015",
+      "assunto": "Navegadores e segurança na web",
+      "origem": "fcc",
+      "enunciado": "Ao acessar um site cujo endereço inicia com https:// e que exibe o ícone de cadeado (ou de configurações do site) na barra de endereços, o usuário tem a indicação de que:",
+      "alternativas": {
+        "a": "o site é necessariamente confiável e livre de golpes.",
+        "b": "o computador do usuário está livre de vírus.",
+        "c": "a comunicação entre o navegador e o servidor está criptografada por meio de TLS/SSL.",
+        "d": "o site não utiliza cookies.",
+        "e": "a navegação está em modo anônimo."
+      },
+      "gabarito": "c",
+      "comentario": "O HTTPS indica que a conexão é cifrada (TLS) e que há certificado digital. Isso não garante que o site seja legítimo: sites de phishing também podem usar HTTPS."
+    },
+    {
+      "id": "info-016",
+      "assunto": "Navegadores web – navegação privativa",
+      "origem": "fcc",
+      "enunciado": "Em configuração padrão, as combinações de teclas que abrem uma janela de navegação privativa no Google Chrome e no Mozilla Firefox são, respectivamente:",
+      "alternativas": {
+        "a": "Ctrl + Shift + T e Ctrl + Shift + D",
+        "b": "Ctrl + Shift + P e Ctrl + Shift + N",
+        "c": "Ctrl + N e Ctrl + P",
+        "d": "Ctrl + Shift + N e Ctrl + Shift + P",
+        "e": "Ctrl + H e Ctrl + J"
+      },
+      "gabarito": "d",
+      "comentario": "Chrome (janela anônima) e Edge (InPrivate): Ctrl + Shift + N. Firefox (janela privativa): Ctrl + Shift + P. Ctrl + Shift + T reabre a última guia fechada; Ctrl + H abre o histórico; Ctrl + J, os downloads."
+    },
+    {
+      "id": "info-017",
+      "assunto": "Sítios de busca e pesquisa na internet",
+      "origem": "fcc",
+      "enunciado": "Um usuário deseja localizar, no Google, apenas arquivos PDF que contenham a expressão exata 'política de sustentabilidade', publicados no domínio cnj.jus.br. A pesquisa adequada é:",
+      "alternativas": {
+        "a": "'política de sustentabilidade' domain=cnj.jus.br type=pdf",
+        "b": "política de sustentabilidade pdf cnj",
+        "c": "+política +sustentabilidade -pdf cnj.jus.br",
+        "d": "política OR sustentabilidade link:cnj.jus.br",
+        "e": "\"política de sustentabilidade\" site:cnj.jus.br filetype:pdf"
+      },
+      "gabarito": "e",
+      "comentario": "As aspas buscam a expressão exata, 'site:' restringe ao domínio e 'filetype:' ao tipo de arquivo. O sinal de menos (-) exclui termos, e OR busca um termo ou outro."
+    },
+    {
+      "id": "info-018",
+      "assunto": "Segurança da informação – pragas virtuais",
+      "origem": "fcc",
+      "enunciado": "O tipo de código malicioso capaz de se propagar automaticamente pelas redes, enviando cópias de si mesmo de computador para computador, sem necessidade de se anexar a outro programa ou arquivo hospedeiro, é o:",
+      "alternativas": {
+        "a": "vírus de macro",
+        "b": "cavalo de troia",
+        "c": "adware",
+        "d": "spyware",
+        "e": "worm"
+      },
+      "gabarito": "e",
+      "comentario": "O worm se propaga sozinho, explorando vulnerabilidades. O vírus precisa de um hospedeiro e de execução. O cavalo de troia se disfarça de programa legítimo. O spyware coleta informações, e o adware exibe propaganda."
+    },
+    {
+      "id": "info-019",
+      "assunto": "Segurança da informação – ransomware",
+      "origem": "fcc",
+      "enunciado": "Um servidor percebeu que todos os arquivos de uma pasta compartilhada se tornaram inacessíveis e foi exibida uma mensagem exigindo pagamento em criptomoeda para a recuperação dos dados. Trata-se de ataque de:",
+      "alternativas": {
+        "a": "phishing",
+        "b": "rootkit",
+        "c": "keylogger",
+        "d": "botnet",
+        "e": "ransomware"
+      },
+      "gabarito": "e",
+      "comentario": "O ransomware criptografa os dados e exige resgate. A principal medida preventiva é manter backups atualizados e isolados (offline ou imutáveis), além de atualizar sistemas e manter um antivírus ativo."
+    },
+    {
+      "id": "info-020",
+      "assunto": "Segurança da informação – autenticação de dois fatores e gestão de senhas",
+      "origem": "inedita",
+      "enunciado": "Constitui exemplo de autenticação de dois fatores (2FA):",
+      "alternativas": {
+        "a": "digitar a senha duas vezes seguidas.",
+        "b": "usar a mesma senha forte em todos os serviços.",
+        "c": "informar senha e responder a uma pergunta secreta.",
+        "d": "informar senha e, em seguida, um código temporário gerado por aplicativo autenticador no celular do usuário.",
+        "e": "salvar a senha em um arquivo de texto na área de trabalho."
+      },
+      "gabarito": "d",
+      "comentario": "A 2FA combina fatores de categorias diferentes: algo que você sabe (senha), algo que você tem (celular, token) e algo que você é (biometria). Senha e pergunta secreta são dois elementos da mesma categoria (conhecimento). Boas práticas incluem senhas únicas e um gerenciador de senhas."
+    },
+    {
+      "id": "info-021",
+      "assunto": "Windows 10 e 11 – atalhos",
+      "origem": "fcc",
+      "enunciado": "Um técnico judiciário precisa capturar apenas uma região da tela para colar a imagem em um relatório. No Windows 10 e no Windows 11, em configuração padrão, o atalho que permite selecionar a área a ser capturada, copiando-a para a área de transferência, é:",
+      "alternativas": {
+        "a": "Windows + PrtScn",
+        "b": "Alt + PrtScn",
+        "c": "Ctrl + Shift + PrtScn",
+        "d": "Windows + Ctrl + S",
+        "e": "Windows + Shift + S"
+      },
+      "gabarito": "e",
+      "comentario": "Windows + Shift + S abre a ferramenta de recorte para seleção de uma região, copiando-a para a área de transferência. Windows + PrtScn salva a tela inteira na pasta Imagens > Capturas de Tela."
+    },
+    {
+      "id": "info-022",
+      "assunto": "Windows 10 e 11 – áreas de trabalho virtuais",
+      "origem": "fcc",
+      "enunciado": "Um servidor do Tribunal deseja separar as janelas de trabalho em áreas de trabalho distintas no Windows 11. Em configuração padrão, as combinações de teclas que, respectivamente, criam uma nova área de trabalho virtual e fecham a área de trabalho virtual em uso são:",
+      "alternativas": {
+        "a": "Windows + D e Windows + M",
+        "b": "Windows + Tab e Alt + F4",
+        "c": "Ctrl + Shift + D e Ctrl + Shift + F4",
+        "d": "Windows + Ctrl + D e Windows + Ctrl + F4",
+        "e": "Windows + N e Windows + Ctrl + Delete"
+      },
+      "gabarito": "d",
+      "comentario": "Windows + Ctrl + D cria nova área de trabalho virtual e Windows + Ctrl + F4 fecha a atual. Windows + Tab abre a Visão de Tarefas, onde também se gerenciam as áreas de trabalho."
+    },
+    {
+      "id": "info-023",
+      "assunto": "Windows 10 e 11 – atalhos",
+      "origem": "fcc",
+      "enunciado": "Um aplicativo travou no computador de um analista. No Windows 10 e no Windows 11, em configuração padrão, o atalho que abre diretamente o Gerenciador de Tarefas, permitindo finalizar o processo, é:",
+      "alternativas": {
+        "a": "Ctrl + Alt + Tab",
+        "b": "Windows + T",
+        "c": "Alt + Shift + Esc",
+        "d": "Ctrl + Shift + Esc",
+        "e": "Windows + Ctrl + Esc"
+      },
+      "gabarito": "d",
+      "comentario": "Ctrl + Shift + Esc abre o Gerenciador de Tarefas diretamente. Ctrl + Alt + Del exibe uma tela de opções que também o inclui."
+    },
+    {
+      "id": "info-024",
+      "assunto": "Windows 10 e 11 – atalhos",
+      "origem": "inedita",
+      "enunciado": "No Windows 11, em configuração padrão, o atalho Windows + X:",
+      "alternativas": {
+        "a": "fecha a janela ativa sem salvar alterações.",
+        "b": "abre a caixa de diálogo Executar.",
+        "c": "minimiza todas as janelas abertas.",
+        "d": "abre o painel de emojis.",
+        "e": "abre o menu de Links Rápidos, equivalente a clicar com o botão direito no botão Iniciar, com acesso a itens como Gerenciador de Dispositivos e Terminal."
+      },
+      "gabarito": "e",
+      "comentario": "Windows + X abre o menu de Links Rápidos. Executar é Windows + R; minimizar todas é Windows + M; o painel de emojis é Windows + ponto."
+    },
+    {
+      "id": "info-025",
+      "assunto": "Windows 10 e 11 – Explorador de Arquivos",
+      "origem": "fcc",
+      "enunciado": "No Explorador de Arquivos do Windows 11, com um arquivo selecionado, as teclas ou combinações que, respectivamente, permitem renomear o item e criar uma nova pasta no local atual são:",
+      "alternativas": {
+        "a": "F3 e Ctrl + N",
+        "b": "F2 e Ctrl + N",
+        "c": "F2 e Ctrl + Shift + N",
+        "d": "F4 e Ctrl + Shift + P",
+        "e": "F5 e Alt + N"
+      },
+      "gabarito": "c",
+      "comentario": "F2 renomeia o item selecionado e Ctrl + Shift + N cria nova pasta. Ctrl + N abre uma nova janela do Explorador."
+    },
+    {
+      "id": "info-026",
+      "assunto": "Windows 10 e 11 – Explorador de Arquivos",
+      "origem": "fcc",
+      "enunciado": "No Explorador de Arquivos do Windows, com um documento selecionado, um servidor deseja visualizar seu conteúdo sem abri-lo e, em seguida, consultar suas propriedades (tamanho, datas e atributos). Os atalhos correspondentes são, respectivamente:",
+      "alternativas": {
+        "a": "Ctrl + P e Ctrl + Enter",
+        "b": "Alt + P e Alt + Enter",
+        "c": "Alt + V e F10",
+        "d": "Ctrl + Shift + P e Alt + F4",
+        "e": "F11 e Shift + Enter"
+      },
+      "gabarito": "b",
+      "comentario": "Alt + P exibe ou oculta o painel de visualização e Alt + Enter abre as propriedades do item selecionado. Ctrl + P, em geral, aciona a impressão."
+    },
+    {
+      "id": "info-027",
+      "assunto": "Windows 10 e 11 – Explorador de Arquivos",
+      "origem": "fcc",
+      "enunciado": "No Explorador de Arquivos do Windows, em configuração padrão, ao arrastar com o mouse um arquivo de uma pasta para outra pasta localizada na mesma unidade de disco, sem pressionar nenhuma tecla, o arquivo será:",
+      "alternativas": {
+        "a": "copiado, sendo que, se a tecla Shift for mantida pressionada, ele será excluído da origem.",
+        "b": "copiado, independentemente da unidade de destino.",
+        "c": "movido, sendo que, se a tecla Ctrl for mantida pressionada durante a ação, ele será copiado.",
+        "d": "movido, sendo que a tecla Ctrl cria um atalho no destino.",
+        "e": "movido somente se for um arquivo do sistema; caso contrário, será copiado."
+      },
+      "gabarito": "c",
+      "comentario": "Arrastar na mesma unidade move o item; entre unidades diferentes, copia. Ctrl força a cópia e Shift força a movimentação."
+    },
+    {
+      "id": "info-028",
+      "assunto": "Windows 10 e 11 – Segurança do Windows",
+      "origem": "inedita",
+      "enunciado": "O aplicativo Segurança do Windows, presente no Windows 10 e no Windows 11, reúne, entre outras, as áreas:",
+      "alternativas": {
+        "a": "Histórico de Arquivos e Restauração do Sistema, exclusivamente.",
+        "b": "Gerenciador de Tarefas e Monitor de Recursos.",
+        "c": "Proteção contra vírus e ameaças, e Firewall e proteção de rede.",
+        "d": "Windows Update e Gerenciamento de Disco.",
+        "e": "Painel de Controle e Editor do Registro."
+      },
+      "gabarito": "c",
+      "comentario": "O Segurança do Windows centraliza o Microsoft Defender Antivírus (Proteção contra vírus e ameaças), o Firewall e proteção de rede, entre outros recursos como controle de aplicativos e do navegador."
+    },
+    {
+      "id": "info-029",
+      "assunto": "Organização de arquivos e pastas",
+      "origem": "fcc",
+      "enunciado": "Ao tentar salvar um arquivo no Windows com o nome \"Relatório: 2025/1?.docx\", um servidor recebeu mensagem de erro. Isso ocorreu porque nomes de arquivos no Windows não podem conter caracteres como:",
+      "alternativas": {
+        "a": "letras acentuadas, como o \"ó\".",
+        "b": "algarismos combinados com letras.",
+        "c": "espaços em branco entre palavras.",
+        "d": "dois-pontos (:), barra (/) e ponto de interrogação (?).",
+        "e": "pontos, pois só é permitido um ponto antes da extensão."
+      },
+      "gabarito": "d",
+      "comentario": "O Windows não aceita os caracteres \\ / : * ? \" < > | em nomes de arquivos e pastas. Acentos, espaços, números e múltiplos pontos são permitidos."
+    },
+    {
+      "id": "info-030",
+      "assunto": "Organização de arquivos e pastas",
+      "origem": "fcc",
+      "enunciado": "No Explorador de Arquivos do Windows 11, um servidor deseja que as extensões dos arquivos (como .pdf e .xlsx) passem a ser exibidas junto aos nomes. Para isso, deve acessar:",
+      "alternativas": {
+        "a": "o menu Classificar e escolher Tipo.",
+        "b": "o menu Exibir, opção Mostrar, e marcar Extensões de nomes de arquivos.",
+        "c": "o botão Novo e escolher Atalho.",
+        "d": "o menu Compartilhar e marcar Extensões.",
+        "e": "as Configurações do Windows, em Personalização > Cores."
+      },
+      "gabarito": "b",
+      "comentario": "No Windows 11 a opção fica em Exibir > Mostrar > Extensões de nomes de arquivos. Classificar por tipo apenas ordena, sem exibir a extensão."
+    },
+    {
+      "id": "info-031",
+      "assunto": "Organização de programas – Windows 11",
+      "origem": "fcc",
+      "enunciado": "No Windows 11, para desinstalar um programa que não será mais utilizado, um servidor pode acessar, no aplicativo Configurações:",
+      "alternativas": {
+        "a": "Sistema > Armazenamento > Lixeira, e arrastar o programa para lá.",
+        "b": "Personalização > Iniciar, e desafixar o programa.",
+        "c": "Aplicativos > Aplicativos instalados, e escolher a opção Desinstalar no menu do programa.",
+        "d": "Rede e Internet > Proxy, e remover o programa.",
+        "e": "Contas > Opções de entrada, e excluir o programa."
+      },
+      "gabarito": "c",
+      "comentario": "A desinstalação é feita em Configurações > Aplicativos > Aplicativos instalados. Desafixar do Iniciar ou excluir o atalho não remove o programa."
+    },
+    {
+      "id": "info-032",
+      "assunto": "Google Drive – compartilhamento e permissões",
+      "origem": "fcc",
+      "enunciado": "Um servidor compartilhou uma planilha do Google Drive com um colega, atribuindo-lhe o papel de Editor. Em configuração padrão, é correto afirmar que o colega:",
+      "alternativas": {
+        "a": "poderá apenas visualizar e comentar, sem alterar o conteúdo.",
+        "b": "poderá excluir definitivamente o arquivo da conta do proprietário.",
+        "c": "poderá compartilhar o arquivo com outras pessoas e alterar permissões, salvo se o proprietário desativar a opção que permite aos editores alterar permissões e compartilhar.",
+        "d": "tornar-se-á automaticamente proprietário do arquivo.",
+        "e": "não poderá ver o histórico de versões, recurso exclusivo do proprietário."
+      },
+      "gabarito": "c",
+      "comentario": "Por padrão, editores podem compartilhar e alterar permissões; o proprietário pode desativar isso nas configurações de compartilhamento. A propriedade só muda por transferência explícita."
+    },
+    {
+      "id": "info-033",
+      "assunto": "Google Drive – compartilhamento e permissões",
+      "origem": "fcc",
+      "enunciado": "Uma servidora deseja compartilhar um PDF no Google Drive com usuários que terão papel de Leitor, mas quer impedir que eles vejam as opções de fazer download, imprimir e copiar o arquivo. Para isso, deve:",
+      "alternativas": {
+        "a": "atribuir aos usuários o papel de Comentarista, que nunca permite download.",
+        "b": "nas configurações de compartilhamento, desmarcar a opção que permite a leitores e comentaristas ver as opções de fazer download, imprimir e copiar.",
+        "c": "mover o arquivo para a Lixeira após o compartilhamento.",
+        "d": "alterar o acesso geral para 'Qualquer pessoa com o link'.",
+        "e": "converter o PDF para o formato do Documentos Google."
+      },
+      "gabarito": "b",
+      "comentario": "O Drive oferece, nas configurações (ícone de engrenagem) da janela de compartilhamento, a opção de impedir que leitores e comentaristas façam download, imprimam ou copiem o arquivo."
+    },
+    {
+      "id": "info-034",
+      "assunto": "Google Drive – organização de arquivos",
+      "origem": "fcc",
+      "enunciado": "Sobre a Lixeira do Google Drive, é correto afirmar:",
+      "alternativas": {
+        "a": "os itens permanecem na Lixeira por tempo indeterminado até que o usuário a esvazie.",
+        "b": "itens na Lixeira deixam de ocupar espaço de armazenamento imediatamente.",
+        "c": "os itens movidos para a Lixeira são excluídos definitivamente de forma automática após 30 dias, podendo ser restaurados antes disso.",
+        "d": "os itens são excluídos definitivamente após 24 horas.",
+        "e": "arquivos excluídos por um editor são removidos também da Lixeira do proprietário sem possibilidade de restauração."
+      },
+      "gabarito": "c",
+      "comentario": "No Google Drive, itens na Lixeira são excluídos permanentemente após 30 dias. Enquanto lá estiverem, podem ser restaurados."
+    },
+    {
+      "id": "info-035",
+      "assunto": "Google Drive – drives compartilhados",
+      "origem": "inedita",
+      "enunciado": "Uma secretaria do Tribunal usa drives compartilhados no Google Drive (Google Workspace). Em comparação com arquivos armazenados no Meu Drive de um servidor, os arquivos de um drive compartilhado:",
+      "alternativas": {
+        "a": "pertencem à equipe/organização, de modo que permanecem disponíveis mesmo que o servidor que os criou deixe o drive ou a organização.",
+        "b": "pertencem a quem os criou e são apagados quando esse usuário deixa a organização.",
+        "c": "não podem ser editados simultaneamente por mais de um membro.",
+        "d": "não podem ser pesquisados pela barra de busca do Drive.",
+        "e": "só podem conter arquivos do Documentos Google, excluindo PDFs e imagens."
+      },
+      "gabarito": "a",
+      "comentario": "Em drives compartilhados, os arquivos pertencem à equipe e não a um indivíduo, preservando o conteúdo quando membros saem."
+    },
+    {
+      "id": "info-036",
+      "assunto": "Gmail – filtros",
+      "origem": "fcc",
+      "enunciado": "Um servidor quer que todas as mensagens enviadas pelo endereço protocolo@trt8.jus.br recebam automaticamente o marcador \"Protocolo\" e não apareçam na Caixa de entrada. No Gmail, ele deve:",
+      "alternativas": {
+        "a": "criar uma resposta automática de férias para o endereço.",
+        "b": "bloquear o remetente, o que aplica automaticamente o marcador.",
+        "c": "criar um filtro com o critério De igual ao endereço e as ações Pular a Caixa de entrada (arquivar) e Aplicar o marcador \"Protocolo\".",
+        "d": "marcar as mensagens como spam, pois o spam aceita marcadores.",
+        "e": "silenciar a primeira conversa, o que vale para todas as mensagens futuras do remetente."
+      },
+      "gabarito": "c",
+      "comentario": "Filtros combinam critérios (De, Para, Assunto, palavras, anexo) com ações como arquivar, aplicar marcador, encaminhar ou excluir. Bloquear envia as mensagens para o Spam."
+    },
+    {
+      "id": "info-037",
+      "assunto": "Gmail – configurações",
+      "origem": "fcc",
+      "enunciado": "Um servidor enviou um e-mail por engano e deseja ter mais tempo para cancelar o envio. Nas configurações do Gmail, o recurso Cancelar envio permite definir um período de cancelamento de, no máximo:",
+      "alternativas": {
+        "a": "5 minutos.",
+        "b": "30 segundos.",
+        "c": "10 segundos.",
+        "d": "1 minuto.",
+        "e": "24 horas."
+      },
+      "gabarito": "b",
+      "comentario": "O período de cancelamento do envio pode ser de 5, 10, 20 ou 30 segundos, configurado em Ver todas as configurações > Geral."
+    },
+    {
+      "id": "info-038",
+      "assunto": "Gmail – configurações rápidas e painel de visualização",
+      "origem": "fcc",
+      "enunciado": "No Gmail, em Configurações rápidas, a opção Painel de leitura permite exibir o conteúdo da mensagem selecionada:",
+      "alternativas": {
+        "a": "à direita da caixa de entrada ou abaixo da caixa de entrada, além da opção sem divisão.",
+        "b": "apenas em uma nova janela do navegador.",
+        "c": "somente em dispositivos móveis.",
+        "d": "acima da caixa de entrada ou em tela cheia, exclusivamente.",
+        "e": "apenas quando a mensagem tiver anexos."
+      },
+      "gabarito": "a",
+      "comentario": "O Painel de leitura tem as opções Sem divisão, À direita da caixa de entrada e Abaixo da caixa de entrada."
+    },
+    {
+      "id": "info-039",
+      "assunto": "Gmail – pesquisa",
+      "origem": "fcc",
+      "enunciado": "Um servidor deseja localizar, no Gmail, mensagens recebidas do endereço rh@trt8.jus.br que contenham anexo. A pesquisa adequada é:",
+      "alternativas": {
+        "a": "to:rh@trt8.jus.br is:attachment",
+        "b": "site:rh@trt8.jus.br filetype:anexo",
+        "c": "de=rh@trt8.jus.br + anexo",
+        "d": "sender:rh@trt8.jus.br attach:yes",
+        "e": "from:rh@trt8.jus.br has:attachment"
+      },
+      "gabarito": "e",
+      "comentario": "No Gmail, from: filtra pelo remetente e has:attachment retorna mensagens com anexo. site: e filetype: são operadores de buscadores web."
+    },
+    {
+      "id": "info-040",
+      "assunto": "Google Agenda – convidados",
+      "origem": "fcc",
+      "enunciado": "Ao criar uma reunião no Google Agenda, um servidor pode definir permissões para os convidados. As permissões disponíveis são:",
+      "alternativas": {
+        "a": "Leitor, Comentarista e Editor.",
+        "b": "Proprietário, Administrador e Membro.",
+        "c": "Modificar evento, Convidar outras pessoas e Ver lista de convidados.",
+        "d": "Excluir evento, Exportar evento e Imprimir agenda.",
+        "e": "Aceitar, Recusar e Talvez."
+      },
+      "gabarito": "c",
+      "comentario": "No Google Agenda, as permissões dos convidados são Modificar evento, Convidar outras pessoas e Ver lista de convidados. Aceitar/Recusar/Talvez são respostas ao convite."
+    },
+    {
+      "id": "info-041",
+      "assunto": "Google Agenda – eventos recorrentes",
+      "origem": "fcc",
+      "enunciado": "No Google Agenda, ao alterar o horário de uma ocorrência de um evento semanal recorrente, o usuário é questionado sobre o alcance da alteração. As opções apresentadas são:",
+      "alternativas": {
+        "a": "Somente hoje; Somente amanhã; Para sempre.",
+        "b": "Apenas para mim; Para todos os convidados; Para o organizador.",
+        "c": "Este mês; Este ano; Todos os anos.",
+        "d": "Este evento; Este e os eventos seguintes; Todos os eventos.",
+        "e": "Rascunho; Publicado; Arquivado."
+      },
+      "gabarito": "d",
+      "comentario": "Para eventos recorrentes, o Google Agenda pergunta se a alteração vale para este evento, para este e os seguintes ou para todos os eventos."
+    },
+    {
+      "id": "info-042",
+      "assunto": "Google Agenda – anexos e horários",
+      "origem": "fcc",
+      "enunciado": "Um servidor está agendando, no Google Agenda, uma reunião com outros cinco colegas da organização e deseja anexar a pauta e verificar a disponibilidade dos participantes. É correto afirmar que ele pode:",
+      "alternativas": {
+        "a": "anexar apenas arquivos de até 1 MB enviados do computador, sem integração com o Drive.",
+        "b": "verificar a disponibilidade apenas depois que todos aceitarem o convite.",
+        "c": "anexar documentos somente após o término do evento.",
+        "d": "consultar a disponibilidade apenas de pessoas fora da organização.",
+        "e": "anexar um arquivo do Google Drive na descrição do evento e usar a opção Encontrar um horário para visualizar a disponibilidade dos convidados."
+      },
+      "gabarito": "e",
+      "comentario": "O evento aceita anexos do Google Drive (ícone de clipe na descrição), e a guia Encontrar um horário mostra as agendas dos convidados conforme as permissões de visualização."
+    },
+    {
+      "id": "info-043",
+      "assunto": "Google Agenda – recursos",
+      "origem": "inedita",
+      "enunciado": "Em uma conta de trabalho do Google Workspace, ao criar no Google Agenda um evento do tipo Fora do escritório para o período de férias, é correto afirmar que:",
+      "alternativas": {
+        "a": "o Google Agenda pode recusar automaticamente os novos convites de reunião recebidos para o período.",
+        "b": "o Gmail passa a excluir as mensagens recebidas no período.",
+        "c": "a conta do usuário é bloqueada até o fim do período.",
+        "d": "os convites recebidos são aceitos automaticamente em nome do usuário.",
+        "e": "o evento fica visível apenas para o administrador da organização."
+      },
+      "gabarito": "a",
+      "comentario": "O evento Fora do escritório permite recusar automaticamente convites que conflitem com o período, com mensagem personalizável."
+    },
+    {
+      "id": "info-044",
+      "assunto": "Google Tarefas",
+      "origem": "fcc",
+      "enunciado": "Sobre o Google Tarefas, integrado ao Google Workspace, é correto afirmar:",
+      "alternativas": {
+        "a": "é possível criar uma tarefa a partir de um e-mail no Gmail, e as tarefas com data definida podem ser visualizadas no Google Agenda.",
+        "b": "as tarefas só podem ser criadas no aplicativo para celular.",
+        "c": "as tarefas não aceitam data de conclusão nem repetição.",
+        "d": "uma tarefa criada a partir de um e-mail apaga a mensagem original.",
+        "e": "o Google Tarefas substitui o Google Agenda, que deixa de exibir eventos."
+      },
+      "gabarito": "a",
+      "comentario": "No Gmail é possível adicionar uma mensagem às Tarefas, mantendo o link para o e-mail. Tarefas com data aparecem no Google Agenda."
+    },
+    {
+      "id": "info-045",
+      "assunto": "Google Tarefas",
+      "origem": "inedita",
+      "enunciado": "Um analista organiza suas atividades no Google Tarefas. Entre os recursos disponíveis no aplicativo, inclui-se:",
+      "alternativas": {
+        "a": "a gravação automática de reuniões do Google Meet.",
+        "b": "a criação de fórmulas que somam valores de colunas.",
+        "c": "a criação de subtarefas, a organização em listas diferentes e a definição de tarefas que se repetem periodicamente.",
+        "d": "a edição colaborativa de slides com transições.",
+        "e": "a configuração de registros DNS do domínio."
+      },
+      "gabarito": "c",
+      "comentario": "O Google Tarefas permite listas, subtarefas, datas, horários e repetição. Os demais recursos pertencem a outros aplicativos."
+    },
+    {
+      "id": "info-046",
+      "assunto": "Google Meet",
+      "origem": "fcc",
+      "enunciado": "Durante uma videoconferência no Google Meet pelo navegador, em computador com Windows, um servidor deseja ativar/desativar rapidamente o microfone e, depois, a câmera. Os atalhos de teclado correspondentes são, respectivamente:",
+      "alternativas": {
+        "a": "Ctrl + M e Ctrl + C",
+        "b": "Ctrl + D e Ctrl + E",
+        "c": "Alt + M e Alt + V",
+        "d": "Ctrl + Shift + M e Ctrl + Shift + V",
+        "e": "F9 e F10"
+      },
+      "gabarito": "b",
+      "comentario": "No Google Meet, Ctrl + D liga/desliga o microfone e Ctrl + E liga/desliga a câmera (no Mac, ⌘ + D e ⌘ + E)."
+    },
+    {
+      "id": "info-047",
+      "assunto": "Google Meet",
+      "origem": "fcc",
+      "enunciado": "Em uma reunião pelo Google Meet, um servidor precisa exibir aos participantes uma planilha aberta no navegador. Ao usar o recurso de apresentar (compartilhar tela), ele pode escolher compartilhar:",
+      "alternativas": {
+        "a": "apenas a tela inteira, sem possibilidade de escolha.",
+        "b": "somente arquivos armazenados no Google Drive.",
+        "c": "apenas a câmera, já que a tela não pode ser compartilhada.",
+        "d": "a tela inteira, uma janela ou uma guia do navegador.",
+        "e": "somente apresentações do Apresentações Google."
+      },
+      "gabarito": "d",
+      "comentario": "O Meet permite apresentar a tela inteira, uma janela específica ou uma guia do navegador."
+    },
+    {
+      "id": "info-048",
+      "assunto": "Documentos Google – atalhos",
+      "origem": "fcc",
+      "enunciado": "No Documentos Google, em um computador com Windows, um revisor deseja inserir um comentário no trecho selecionado e, em outro momento, inserir um link. Os atalhos são, respectivamente:",
+      "alternativas": {
+        "a": "Ctrl + M e Ctrl + L",
+        "b": "Ctrl + Shift + C e Ctrl + H",
+        "c": "Ctrl + Alt + M e Ctrl + K",
+        "d": "Alt + C e Alt + L",
+        "e": "Ctrl + Alt + C e Ctrl + Shift + K"
+      },
+      "gabarito": "c",
+      "comentario": "No Documentos Google, Ctrl + Alt + M insere comentário e Ctrl + K insere link. Ctrl + Shift + C mostra a contagem de palavras e Ctrl + H abre localizar e substituir."
+    },
+    {
+      "id": "info-049",
+      "assunto": "Documentos Google – histórico de versões",
+      "origem": "fcc",
+      "enunciado": "Um documento elaborado colaborativamente no Documentos Google foi alterado indevidamente. Para recuperar uma versão anterior, o servidor pode:",
+      "alternativas": {
+        "a": "usar a Lixeira do Google Drive, onde ficam as versões anteriores de cada documento.",
+        "b": "pressionar Ctrl + Z, único meio de recuperar versões após o fechamento do arquivo.",
+        "c": "solicitar ao Google o envio da versão anterior por e-mail.",
+        "d": "acessar Arquivo > Histórico de versões > Ver histórico de versões e restaurar a versão desejada.",
+        "e": "usar Inserir > Versão, disponível apenas para o proprietário."
+      },
+      "gabarito": "d",
+      "comentario": "O histórico de versões (também pelo atalho Ctrl + Alt + Shift + H) mostra as alterações e permite nomear e restaurar versões."
+    },
+    {
+      "id": "info-050",
+      "assunto": "Documentos Google – edição de texto",
+      "origem": "fcc",
+      "enunciado": "Um servidor copiou um trecho de uma página web e deseja colá-lo no Documentos Google sem a formatação original (fontes, cores e tamanhos). Em computador com Windows, o atalho adequado é:",
+      "alternativas": {
+        "a": "Ctrl + Alt + V",
+        "b": "Ctrl + Shift + V",
+        "c": "Ctrl + V",
+        "d": "Alt + V",
+        "e": "Ctrl + Shift + F"
+      },
+      "gabarito": "b",
+      "comentario": "Ctrl + Shift + V cola sem formatação no Documentos Google; Ctrl + V cola mantendo a formatação."
+    },
+    {
+      "id": "info-051",
+      "assunto": "Google Workspace – compartilhamento de arquivos",
+      "origem": "inedita",
+      "enunciado": "Ao compartilhar um documento do Documentos Google digitando o e-mail de um colega na janela Compartilhar, é correto afirmar que o usuário pode:",
+      "alternativas": {
+        "a": "compartilhar somente com pessoas que já tenham uma conta Gmail pessoal.",
+        "b": "atribuir somente o papel de Editor a pessoas da mesma organização.",
+        "c": "enviar o documento apenas como anexo, já que o compartilhamento direto não é possível.",
+        "d": "escolher o papel (Leitor, Comentarista ou Editor), decidir se notifica a pessoa e incluir uma mensagem no convite.",
+        "e": "definir a senha que o colega deverá digitar para abrir o documento."
+      },
+      "gabarito": "d",
+      "comentario": "A janela Compartilhar permite escolher o papel, marcar ou desmarcar a opção de notificar e escrever uma mensagem."
+    },
+    {
+      "id": "info-052",
+      "assunto": "Planilhas Google – funções",
+      "origem": "fcc",
+      "enunciado": "Em uma planilha do Planilhas Google, em português, as células A1 a A6 contêm, respectivamente: 10, 20, (célula vazia), 30, texto e 40. A fórmula =CONT.VALORES(A1:A6) retorna:",
+      "alternativas": {
+        "a": "4",
+        "b": "6",
+        "c": "5",
+        "d": "100",
+        "e": "2"
+      },
+      "gabarito": "c",
+      "comentario": "CONT.VALORES conta as células não vazias, incluindo textos: 10, 20, 30, \"texto\" e 40, total de 5. CONT.NÚM retornaria 4."
+    },
+    {
+      "id": "info-053",
+      "assunto": "Planilhas Google – funções",
+      "origem": "fcc",
+      "enunciado": "Em uma planilha do Planilhas Google, o intervalo B2:B6 contém as unidades \"Vara 1\", \"Vara 2\", \"Vara 1\", \"Vara 3\" e \"Vara 1\", e o intervalo C2:C6 contém, respectivamente, as quantidades de processos 12, 8, 15, 7 e 20. A fórmula =SOMASE(B2:B6;\"Vara 1\";C2:C6) retorna:",
+      "alternativas": {
+        "a": "47",
+        "b": "3",
+        "c": "35",
+        "d": "62",
+        "e": "27"
+      },
+      "gabarito": "a",
+      "comentario": "SOMASE soma em C2:C6 os valores cujas células correspondentes em B2:B6 são \"Vara 1\": 12 + 15 + 20 = 47."
+    },
+    {
+      "id": "info-054",
+      "assunto": "Planilhas Google – funções lógicas",
+      "origem": "fcc",
+      "enunciado": "No Planilhas Google, a célula A2 contém 6,5 (nota) e B2 contém 90 (frequência). A fórmula =SE(E(A2>=7;B2>=75);\"Aprovado\";\"Reprovado\") retorna:",
+      "alternativas": {
+        "a": "Aprovado",
+        "b": "Reprovado",
+        "c": "VERDADEIRO",
+        "d": "FALSO",
+        "e": "#VALOR!"
+      },
+      "gabarito": "b",
+      "comentario": "E exige que todas as condições sejam verdadeiras; como A2>=7 é falso, E retorna FALSO e SE retorna \"Reprovado\"."
+    },
+    {
+      "id": "info-055",
+      "assunto": "Planilhas Google – funções de pesquisa",
+      "origem": "fcc",
+      "enunciado": "Em uma planilha do Planilhas Google, o intervalo A2:C5 contém, nas colunas A, B e C, código, nome e salário de servidores: (101; Ana; 4500), (102; Bruno; 5200), (103; Carla; 6100) e (104; Davi; 3900). A fórmula =PROCV(103;A2:C5;3;FALSO) retorna:",
+      "alternativas": {
+        "a": "Carla",
+        "b": "6100",
+        "c": "103",
+        "d": "5200",
+        "e": "#N/A"
+      },
+      "gabarito": "b",
+      "comentario": "PROCV procura 103 na primeira coluna (correspondência exata, FALSO) e devolve o valor da 3ª coluna do intervalo: 6100."
+    },
+    {
+      "id": "info-056",
+      "assunto": "Planilhas Google – funções",
+      "origem": "inedita",
+      "enunciado": "No Planilhas Google, as células A1 a A4 contêm 7,5; 8; 9 e 6. A fórmula =ARRED(MÉDIA(A1:A4);1) retorna:",
+      "alternativas": {
+        "a": "7,6",
+        "b": "7,7",
+        "c": "7,63",
+        "d": "8",
+        "e": "7,62"
+      },
+      "gabarito": "a",
+      "comentario": "A média é (7,5 + 8 + 9 + 6)/4 = 7,625; ARRED com 1 casa decimal resulta em 7,6."
+    },
+    {
+      "id": "info-057",
+      "assunto": "Apresentações Google",
+      "origem": "fcc",
+      "enunciado": "Durante uma palestra, um servidor quer ver as anotações do orador em sua tela enquanto o público vê apenas os slides. No Apresentações Google, o recurso adequado é:",
+      "alternativas": {
+        "a": "o modo de sugestão.",
+        "b": "a Visualização do apresentador.",
+        "c": "o Histórico de versões.",
+        "d": "a opção Importar slides.",
+        "e": "o Slide mestre em modo de edição."
+      },
+      "gabarito": "b",
+      "comentario": "A Visualização do apresentador abre uma janela com as anotações do orador, cronômetro e slides seguintes, enquanto a apresentação é exibida ao público."
+    },
+    {
+      "id": "info-058",
+      "assunto": "Apresentações Google",
+      "origem": "fcc",
+      "enunciado": "Um servidor deseja reaproveitar slides de outra apresentação (do Apresentações Google ou de arquivo PowerPoint) em sua apresentação atual no Apresentações Google. Ele deve utilizar:",
+      "alternativas": {
+        "a": "Inserir > Diagrama.",
+        "b": "Ferramentas > Explorar.",
+        "c": "Slide > Mudar transição.",
+        "d": "Arquivo > Importar slides.",
+        "e": "Formatar > Colunas."
+      },
+      "gabarito": "d",
+      "comentario": "Arquivo > Importar slides permite escolher slides de outra apresentação do Drive ou de um arquivo enviado (como .pptx)."
+    },
+    {
+      "id": "info-059",
+      "assunto": "Redes – DNS",
+      "origem": "fcc",
+      "enunciado": "Ao digitar www.trt8.jus.br na barra de endereços do navegador, o computador precisa descobrir o endereço IP correspondente ao nome. Esse serviço de tradução de nomes de domínio em endereços IP é realizado pelo:",
+      "alternativas": {
+        "a": "DHCP",
+        "b": "SMTP",
+        "c": "FTP",
+        "d": "HTTP",
+        "e": "DNS"
+      },
+      "gabarito": "e",
+      "comentario": "O DNS (Domain Name System) traduz nomes de domínio em endereços IP. O DHCP atribui configurações de IP automaticamente aos dispositivos."
+    },
+    {
+      "id": "info-060",
+      "assunto": "Redes – URL",
+      "origem": "fcc",
+      "enunciado": "Considere a URL https://www.exemplo.jus.br/servicos/consulta.html. Nela, é correto afirmar que:",
+      "alternativas": {
+        "a": "www é o protocolo de comunicação utilizado.",
+        "b": "https indica o protocolo, www.exemplo.jus.br identifica o servidor (nome de domínio) e /servicos/consulta.html indica o caminho do recurso.",
+        "c": "jus.br é o caminho da pasta no servidor.",
+        "d": "consulta.html é o nome do domínio de primeiro nível.",
+        "e": "https indica que o site pertence a um órgão público."
+      },
+      "gabarito": "b",
+      "comentario": "Uma URL é composta por protocolo (esquema), nome do host/domínio e caminho do recurso. O https indica HTTP com criptografia TLS, não a natureza do órgão."
+    },
+    {
+      "id": "info-061",
+      "assunto": "Redes – endereçamento IP",
+      "origem": "fcc",
+      "enunciado": "Em relação aos endereços IP, é correto afirmar:",
+      "alternativas": {
+        "a": "o IPv4 utiliza 128 bits e o IPv6, 32 bits.",
+        "b": "ambos utilizam 64 bits, diferindo apenas na notação.",
+        "c": "o IPv6 utiliza 48 bits, o mesmo tamanho de um endereço MAC.",
+        "d": "o IPv4 utiliza endereços de 32 bits e o IPv6 utiliza endereços de 128 bits.",
+        "e": "o IPv4 utiliza 16 bits, motivo de seu esgotamento."
+      },
+      "gabarito": "d",
+      "comentario": "O IPv4 tem 32 bits (ex.: 192.168.0.1) e o IPv6 tem 128 bits, escrito em hexadecimal, o que amplia muito o número de endereços."
+    },
+    {
+      "id": "info-062",
+      "assunto": "Redes – DHCP",
+      "origem": "inedita",
+      "enunciado": "Na rede de um tribunal, os computadores recebem automaticamente endereço IP, máscara de sub-rede, gateway padrão e servidores DNS ao serem conectados. Esse comportamento é proporcionado pelo protocolo:",
+      "alternativas": {
+        "a": "DHCP",
+        "b": "DNS",
+        "c": "POP3",
+        "d": "SNMP",
+        "e": "HTTPS"
+      },
+      "gabarito": "a",
+      "comentario": "O DHCP (Dynamic Host Configuration Protocol) distribui automaticamente as configurações de rede aos dispositivos."
+    },
+    {
+      "id": "info-063",
+      "assunto": "Redes – ferramentas",
+      "origem": "fcc",
+      "enunciado": "Um técnico precisa, no Windows, verificar o endereço IP do computador e, em seguida, testar se um servidor da rede responde. Os comandos adequados, executados no Prompt de Comando, são, respectivamente:",
+      "alternativas": {
+        "a": "ping e ipconfig",
+        "b": "netstat e format",
+        "c": "tracert e chkdsk",
+        "d": "dir e ftp",
+        "e": "ipconfig e ping"
+      },
+      "gabarito": "e",
+      "comentario": "ipconfig exibe as configurações IP das interfaces; ping envia pacotes ICMP para testar se um host responde. tracert mostra o caminho até o destino."
+    },
+    {
+      "id": "info-064",
+      "assunto": "Redes – internet, intranet e extranet",
+      "origem": "fcc",
+      "enunciado": "Um tribunal permite que advogados cadastrados acessem, pela internet e com autenticação, parte dos sistemas de sua rede privada. Esse tipo de acesso controlado de usuários externos a recursos da rede interna caracteriza:",
+      "alternativas": {
+        "a": "uma intranet exclusiva, de acesso apenas interno.",
+        "b": "a deep web.",
+        "c": "uma rede ponto a ponto (P2P).",
+        "d": "um servidor DNS público.",
+        "e": "uma extranet."
+      },
+      "gabarito": "e",
+      "comentario": "Extranet é a extensão da intranet a usuários externos autorizados (parceiros, clientes), geralmente via internet com autenticação."
+    },
+    {
+      "id": "info-065",
+      "assunto": "Navegadores – atalhos",
+      "origem": "fcc",
+      "enunciado": "Um servidor fechou por engano uma guia no Google Chrome. Em configuração padrão, o atalho que reabre a última guia fechada, também válido no Microsoft Edge e no Mozilla Firefox, é:",
+      "alternativas": {
+        "a": "Ctrl + T",
+        "b": "Ctrl + Shift + N",
+        "c": "Ctrl + Shift + W",
+        "d": "Ctrl + Shift + T",
+        "e": "Ctrl + R"
+      },
+      "gabarito": "d",
+      "comentario": "Ctrl + Shift + T reabre a última guia fechada. Ctrl + T abre nova guia e Ctrl + R recarrega a página."
+    },
+    {
+      "id": "info-066",
+      "assunto": "Navegadores – privacidade",
+      "origem": "fcc",
+      "enunciado": "Nos navegadores Google Chrome, Microsoft Edge e Mozilla Firefox, em configuração padrão no Windows, o atalho Ctrl + Shift + Delete:",
+      "alternativas": {
+        "a": "abre a opção para limpar dados de navegação, como histórico, cookies e cache.",
+        "b": "fecha todas as janelas do navegador.",
+        "c": "exclui o perfil do usuário e seus favoritos.",
+        "d": "abre uma janela de navegação privativa.",
+        "e": "exclui o arquivo baixado mais recentemente."
+      },
+      "gabarito": "a",
+      "comentario": "Ctrl + Shift + Delete abre a limpeza de dados de navegação nos três navegadores."
+    },
+    {
+      "id": "info-067",
+      "assunto": "Navegadores – Microsoft Edge",
+      "origem": "inedita",
+      "enunciado": "Sobre o Microsoft Edge, é correto afirmar:",
+      "alternativas": {
+        "a": "possui o Microsoft Defender SmartScreen, que ajuda a bloquear sites de phishing e downloads maliciosos, e o modo Internet Explorer para sites legados.",
+        "b": "a janela InPrivate é aberta com Ctrl + Shift + P e grava o histórico normalmente.",
+        "c": "não permite instalar extensões.",
+        "d": "baseia-se no mecanismo Gecko, o mesmo do Firefox.",
+        "e": "não sincroniza favoritos entre dispositivos."
+      },
+      "gabarito": "a",
+      "comentario": "O Edge, baseado no Chromium, tem SmartScreen e modo IE. A janela InPrivate é aberta com Ctrl + Shift + N e não salva histórico ao ser fechada."
+    },
+    {
+      "id": "info-068",
+      "assunto": "Navegadores – Google Chrome",
+      "origem": "fcc",
+      "enunciado": "No Google Chrome, em configuração padrão no Windows, os atalhos que abrem, respectivamente, a página de Histórico e a página de Downloads são:",
+      "alternativas": {
+        "a": "Ctrl + J e Ctrl + H",
+        "b": "Ctrl + Shift + H e Ctrl + D",
+        "c": "Ctrl + Y e Ctrl + L",
+        "d": "Alt + H e Alt + D",
+        "e": "Ctrl + H e Ctrl + J"
+      },
+      "gabarito": "e",
+      "comentario": "No Chrome, Ctrl + H abre o histórico e Ctrl + J abre os downloads. Ctrl + D adiciona a página aos favoritos."
+    },
+    {
+      "id": "info-069",
+      "assunto": "Mecanismos de busca – operadores",
+      "origem": "fcc",
+      "enunciado": "Um servidor deseja pesquisar, no Google, páginas sobre \"teletrabalho\" que não contenham a palavra \"privado\". A pesquisa correta é:",
+      "alternativas": {
+        "a": "teletrabalho +privado",
+        "b": "teletrabalho site:privado",
+        "c": "\"teletrabalho privado\"",
+        "d": "teletrabalho filetype:privado",
+        "e": "teletrabalho -privado"
+      },
+      "gabarito": "e",
+      "comentario": "O sinal de menos (-) imediatamente antes de uma palavra a exclui dos resultados. As aspas buscam a expressão exata."
+    },
+    {
+      "id": "info-070",
+      "assunto": "Mecanismos de busca – operadores",
+      "origem": "fcc",
+      "enunciado": "No Google, para localizar resultados sobre \"processo eletrônico\" atualizados a partir de 2024, um usuário pode digitar:",
+      "alternativas": {
+        "a": "\"processo eletrônico\" date>2024",
+        "b": "\"processo eletrônico\" since:2024",
+        "c": "\"processo eletrônico\" ano:2024",
+        "d": "\"processo eletrônico\" filetype:2024",
+        "e": "\"processo eletrônico\" after:2024"
+      },
+      "gabarito": "e",
+      "comentario": "O Google documenta os operadores before: e after: para limitar resultados por data. As aspas exigem a frase exata."
+    },
+    {
+      "id": "info-071",
+      "assunto": "Mecanismos de busca – Bing",
+      "origem": "inedita",
+      "enunciado": "Sobre o uso de operadores em mecanismos de busca, é correto afirmar:",
+      "alternativas": {
+        "a": "o Bing não aceita aspas para pesquisa de frase exata.",
+        "b": "o operador filetype: é exclusivo do Bing.",
+        "c": "no Google, o operador - inclui obrigatoriamente o termo seguinte.",
+        "d": "os mecanismos de busca diferenciam letras maiúsculas e minúsculas nas palavras pesquisadas.",
+        "e": "o operador site:, que restringe os resultados a um domínio, funciona tanto no Google quanto no Bing."
+      },
+      "gabarito": "e",
+      "comentario": "site: é suportado por Google e Bing; ambos aceitam aspas para frase exata e filetype:. A busca, em regra, não diferencia maiúsculas de minúsculas."
+    },
+    {
+      "id": "info-072",
+      "assunto": "Segurança da informação – pragas virtuais",
+      "origem": "fcc",
+      "enunciado": "Um servidor baixou um programa que se apresentava como um utilitário gratuito para converter PDF. Além de funcionar como prometido, o programa passou a executar, de forma oculta, funções maliciosas sem o conhecimento do usuário. Esse tipo de código malicioso é denominado:",
+      "alternativas": {
+        "a": "worm.",
+        "b": "adware legítimo.",
+        "c": "firewall pessoal.",
+        "d": "cavalo de troia (trojan).",
+        "e": "hoax."
+      },
+      "gabarito": "d",
+      "comentario": "O cavalo de troia executa as funções aparentes e também ações maliciosas ocultas. O worm se propaga sozinho pela rede; hoax é boato."
+    },
+    {
+      "id": "info-073",
+      "assunto": "Segurança da informação – spyware",
+      "origem": "fcc",
+      "enunciado": "Um tipo de spyware que captura e armazena as teclas digitadas pelo usuário, podendo obter senhas e dados de cartões, é denominado:",
+      "alternativas": {
+        "a": "ransomware.",
+        "b": "keylogger.",
+        "c": "rootkit.",
+        "d": "bot.",
+        "e": "backdoor."
+      },
+      "gabarito": "b",
+      "comentario": "Keylogger é o spyware que registra as teclas digitadas. Screenlogger captura a tela e as posições do clique do mouse."
+    },
+    {
+      "id": "info-074",
+      "assunto": "Segurança da informação – firewall",
+      "origem": "fcc",
+      "enunciado": "Em relação aos mecanismos de proteção, é correto afirmar que um firewall:",
+      "alternativas": {
+        "a": "remove vírus de arquivos já infectados no disco rígido.",
+        "b": "dispensa o uso de antivírus, pois detecta qualquer tipo de malware.",
+        "c": "criptografa automaticamente todos os arquivos do computador.",
+        "d": "controla o tráfego de rede que entra e sai, permitindo ou bloqueando conexões de acordo com regras definidas.",
+        "e": "realiza cópias de segurança periódicas dos dados."
+      },
+      "gabarito": "d",
+      "comentario": "O firewall filtra conexões de rede segundo regras; não substitui o antivírus nem o antispyware, que analisam arquivos e programas."
+    },
+    {
+      "id": "info-075",
+      "assunto": "Segurança da informação – backup",
+      "origem": "fcc",
+      "enunciado": "Uma unidade realiza backup completo aos domingos. De segunda a sábado, faz backups que copiam somente os arquivos alterados desde o último backup de qualquer tipo. Esses backups diários são do tipo:",
+      "alternativas": {
+        "a": "diferencial.",
+        "b": "completo (full).",
+        "c": "incremental.",
+        "d": "espelhado.",
+        "e": "de imagem do sistema."
+      },
+      "gabarito": "c",
+      "comentario": "O backup incremental copia o que mudou desde o último backup (completo ou incremental). O diferencial copia o que mudou desde o último completo."
+    },
+    {
+      "id": "info-076",
+      "assunto": "Segurança da informação – backup",
+      "origem": "inedita",
+      "enunciado": "Considerando boas práticas de backup, a chamada regra 3-2-1 recomenda:",
+      "alternativas": {
+        "a": "manter três cópias dos dados, em pelo menos dois tipos de mídia diferentes, com uma cópia fora do local (off-site).",
+        "b": "fazer três backups por dia, em dois horários, com um único dispositivo.",
+        "c": "manter três senhas para cada backup, duas delas anotadas e uma memorizada.",
+        "d": "manter uma cópia de segurança no mesmo disco dos dados originais, para agilizar a restauração.",
+        "e": "guardar os backups por três dias, dois meses e um ano."
+      },
+      "gabarito": "a",
+      "comentario": "A regra 3-2-1 prevê 3 cópias, em 2 mídias diferentes, 1 delas fora do local, reduzindo o risco de perda por falha, desastre ou ransomware."
+    },
+    {
+      "id": "info-077",
+      "assunto": "Segurança da informação – phishing",
+      "origem": "fcc",
+      "enunciado": "Um servidor recebeu um e-mail com o logotipo do Tribunal informando que sua senha expiraria em 2 horas e pedindo que clicasse em um link para \"revalidar\" o acesso. Ao passar o mouse sobre o link, viu o endereço http://trt8-jus-br.acesso-seguro.xyz. Essa situação caracteriza:",
+      "alternativas": {
+        "a": "phishing, devendo o servidor não clicar no link e reportar a mensagem à equipe de TI.",
+        "b": "um aviso legítimo, pois contém o logotipo do Tribunal.",
+        "c": "spam comercial inofensivo, que pode ser apenas ignorado.",
+        "d": "ataque de negação de serviço (DoS) contra o servidor de e-mail.",
+        "e": "atualização automática de certificado digital."
+      },
+      "gabarito": "a",
+      "comentario": "Urgência, pedido de credenciais e link para domínio diferente do oficial são sinais típicos de phishing. O correto é não clicar e reportar."
+    },
+    {
+      "id": "info-078",
+      "assunto": "Segurança da informação – engenharia social",
+      "origem": "fcc",
+      "enunciado": "Uma pessoa telefona para um servidor, apresenta-se como técnico do suporte de TI e, alegando uma manutenção urgente, solicita sua senha e o código recebido por SMS. Essa técnica, que explora a confiança e a boa-fé das pessoas, é denominada:",
+      "alternativas": {
+        "a": "força bruta.",
+        "b": "engenharia social.",
+        "c": "sniffing.",
+        "d": "spoofing de IP.",
+        "e": "defacement."
+      },
+      "gabarito": "b",
+      "comentario": "Engenharia social manipula pessoas para obter informações. O suporte legítimo não pede senhas nem códigos de verificação."
+    },
+    {
+      "id": "info-079",
+      "assunto": "Segurança da informação – gestão de senhas",
+      "origem": "inedita",
+      "enunciado": "Sobre boas práticas de gestão de senhas, é correto afirmar:",
+      "alternativas": {
+        "a": "reutilizar a mesma senha forte em todos os serviços é seguro, desde que tenha mais de 8 caracteres.",
+        "b": "anotar as senhas em papel colado ao monitor é a forma recomendada de não esquecê-las.",
+        "c": "a autenticação de dois fatores torna desnecessário o uso de senhas fortes, podendo-se usar datas de nascimento.",
+        "d": "compartilhar a senha com colegas de confiança é aceitável quando há urgência.",
+        "e": "usar um gerenciador de senhas permite manter senhas longas e diferentes para cada serviço, protegido por uma senha-mestra forte e, de preferência, por autenticação de dois fatores."
+      },
+      "gabarito": "e",
+      "comentario": "Gerenciadores de senhas permitem senhas únicas e fortes por serviço. Reutilizar senhas expõe todas as contas quando uma delas vaza."
+    },
+    {
+      "id": "info-080",
+      "assunto": "Windows 10 e 11 – configurações",
+      "origem": "fcc",
+      "enunciado": "No Windows 11, em configuração padrão, as combinações Windows + I e Windows + E abrem, respectivamente:",
+      "alternativas": {
+        "a": "o aplicativo Configurações e o Explorador de Arquivos.",
+        "b": "o Explorador de Arquivos e o Microsoft Edge.",
+        "c": "a Central de Notificações e o Painel de Controle.",
+        "d": "o Gerenciador de Tarefas e a caixa Executar.",
+        "e": "o aplicativo Configurações e o painel de emojis."
+      },
+      "gabarito": "a",
+      "comentario": "Windows + I abre Configurações e Windows + E abre o Explorador de Arquivos."
+    }
+  ]
+}

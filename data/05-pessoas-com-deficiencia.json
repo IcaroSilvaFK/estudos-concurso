@@ -1,0 +1,906 @@
+{
+  "disciplina": "Direitos das Pessoas com Deficiência",
+  "prefixo": "pcd",
+  "questoes": [
+    {
+      "id": "pcd-001",
+      "assunto": "Lei nº 13.146/2015 (LBI) – conceito de pessoa com deficiência",
+      "origem": "fcc",
+      "enunciado": "Segundo a Lei Brasileira de Inclusão (Lei nº 13.146/2015), considera-se pessoa com deficiência aquela que tem impedimento de:",
+      "alternativas": {
+        "a": "curto prazo, de natureza exclusivamente física, que a impeça de trabalhar.",
+        "b": "longo prazo de natureza física, mental, intelectual ou sensorial, o qual, em interação com uma ou mais barreiras, pode obstruir sua participação plena e efetiva na sociedade em igualdade de condições com as demais pessoas.",
+        "c": "qualquer natureza, desde que atestado por laudo exclusivamente médico.",
+        "d": "natureza física ou sensorial, excluídos os impedimentos mentais e intelectuais.",
+        "e": "longo prazo, independentemente da interação com barreiras."
+      },
+      "gabarito": "b",
+      "comentario": "Art. 2º da LBI, que adota o modelo social (biopsicossocial) da deficiência. Quando necessária, a avaliação é biopsicossocial, feita por equipe multiprofissional e interdisciplinar (art. 2º, §1º)."
+    },
+    {
+      "id": "pcd-002",
+      "assunto": "Lei nº 13.146/2015 (LBI) – capacidade civil",
+      "origem": "fcc",
+      "enunciado": "Conforme a Lei nº 13.146/2015, a deficiência:",
+      "alternativas": {
+        "a": "torna a pessoa absolutamente incapaz para os atos da vida civil.",
+        "b": "impede o casamento, salvo autorização judicial.",
+        "c": "não afeta a plena capacidade civil da pessoa, inclusive para casar-se, exercer direitos sexuais e reprodutivos e exercer o direito à guarda e à adoção.",
+        "d": "exige a nomeação obrigatória de curador para todos os atos negociais.",
+        "e": "impede a adoção de crianças."
+      },
+      "gabarito": "c",
+      "comentario": "Art. 6º da LBI. A curatela é medida protetiva extraordinária, proporcional às necessidades e circunstâncias de cada caso, e afeta apenas atos de natureza patrimonial e negocial (arts. 84 e 85)."
+    },
+    {
+      "id": "pcd-003",
+      "assunto": "Lei nº 13.146/2015 (LBI) – barreiras",
+      "origem": "fcc",
+      "enunciado": "Na Lei Brasileira de Inclusão, as atitudes ou comportamentos que impeçam ou prejudiquem a participação social da pessoa com deficiência em igualdade de condições e oportunidades com as demais pessoas são denominados barreiras:",
+      "alternativas": {
+        "a": "urbanísticas.",
+        "b": "arquitetônicas.",
+        "c": "atitudinais.",
+        "d": "tecnológicas.",
+        "e": "nos transportes."
+      },
+      "gabarito": "c",
+      "comentario": "Art. 3º, IV, 'e', da LBI. As barreiras se classificam em urbanísticas, arquitetônicas, nos transportes, nas comunicações e na informação, atitudinais e tecnológicas."
+    },
+    {
+      "id": "pcd-004",
+      "assunto": "Lei nº 13.146/2015 (LBI) – tomada de decisão apoiada",
+      "origem": "inedita",
+      "enunciado": "A tomada de decisão apoiada, prevista no Código Civil a partir das alterações da Lei nº 13.146/2015, é o processo pelo qual a pessoa com deficiência elege:",
+      "alternativas": {
+        "a": "um único curador, nomeado pelo Ministério Público.",
+        "b": "um representante legal com poderes ilimitados.",
+        "c": "um tutor, que passa a decidir em seu nome.",
+        "d": "pelo menos duas pessoas idôneas, com as quais mantenha vínculos e que gozem de sua confiança, para prestar-lhe apoio na tomada de decisões sobre atos da vida civil.",
+        "e": "três familiares, obrigatoriamente."
+      },
+      "gabarito": "d",
+      "comentario": "Art. 1.783-A do Código Civil. Na tomada de decisão apoiada, a pessoa mantém a capacidade e escolhe pelo menos dois apoiadores. É diferente da curatela, que é medida extraordinária."
+    },
+    {
+      "id": "pcd-005",
+      "assunto": "Lei nº 10.098/2000 e LBI – acessibilidade em estacionamentos",
+      "origem": "fcc",
+      "enunciado": "Em estacionamentos abertos ao público, de uso público ou privado de uso coletivo e em vias públicas, devem ser reservadas vagas próximas aos acessos de circulação de pedestres, devidamente sinalizadas, para veículos que transportem pessoa com deficiência com comprometimento de mobilidade, no percentual de:",
+      "alternativas": {
+        "a": "1% do total, garantida no mínimo 1 vaga.",
+        "b": "10% do total.",
+        "c": "5% do total, sem mínimo garantido.",
+        "d": "2% do total, garantida, no mínimo, 1 vaga devidamente sinalizada.",
+        "e": "20% do total."
+      },
+      "gabarito": "d",
+      "comentario": "O art. 47 da LBI prevê 2% do total, com no mínimo 1 vaga. A Lei nº 10.098/2000 (art. 7º) também trata da reserva de vagas próximas aos acessos. Não confunda com os idosos: 5% das vagas (Estatuto da Pessoa Idosa)."
+    },
+    {
+      "id": "pcd-006",
+      "assunto": "Lei nº 11.126/2005 – cão-guia",
+      "origem": "fcc",
+      "enunciado": "A Lei nº 11.126/2005 assegura à pessoa com deficiência visual acompanhada de cão-guia o direito de:",
+      "alternativas": {
+        "a": "ingressar com o animal apenas mediante pagamento de taxa adicional.",
+        "b": "ingressar e permanecer com o animal em todos os meios de transporte e em estabelecimentos abertos ao público, de uso público e privados de uso coletivo.",
+        "c": "receber o animal gratuitamente do Estado.",
+        "d": "ingressar com o animal apenas em repartições públicas federais.",
+        "e": "permanecer com o animal somente em áreas externas dos estabelecimentos."
+      },
+      "gabarito": "b",
+      "comentario": "Art. 1º da Lei nº 11.126/2005. O ingresso e a permanência do cão-guia são garantidos, e impedir ou dificultar esse direito constitui ato de discriminação passível de sanção."
+    },
+    {
+      "id": "pcd-007",
+      "assunto": "Lei nº 8.160/1991 – símbolo de identificação da pessoa com deficiência auditiva",
+      "origem": "fcc",
+      "enunciado": "A Lei nº 8.160/1991 torna obrigatória a colocação, de forma visível, em todos os locais que possibilitem acesso, circulação e utilização por pessoas com deficiência auditiva, e em todos os serviços que forem postos à sua disposição ou que possibilitem seu uso, do:",
+      "alternativas": {
+        "a": "símbolo de atendimento preferencial ao idoso.",
+        "b": "Símbolo Internacional de Acesso.",
+        "c": "símbolo do cão-guia.",
+        "d": "alfabeto Braille.",
+        "e": "Símbolo Internacional de Surdez."
+      },
+      "gabarito": "e",
+      "comentario": "A Lei nº 8.160/1991 trata do 'Símbolo Internacional de Surdez'. O Símbolo Internacional de Acesso é disciplinado pela Lei nº 7.405/1985."
+    },
+    {
+      "id": "pcd-008",
+      "assunto": "Lei nº 7.853/1989 – apoio e integração social",
+      "origem": "fcc",
+      "enunciado": "Nos termos da Lei nº 7.853/1989, com as alterações da Lei nº 13.146/2015, constitui crime punível com reclusão de 2 a 5 anos e multa:",
+      "alternativas": {
+        "a": "deixar de cumprimentar pessoa com deficiência em local público.",
+        "b": "deixar de usar linguagem simples em correspondência particular.",
+        "c": "não doar recursos a entidades assistenciais.",
+        "d": "estacionar em vaga comum.",
+        "e": "recusar, cobrar valores adicionais, suspender, procrastinar, cancelar ou fazer cessar inscrição de aluno em estabelecimento de ensino em razão de sua deficiência."
+      },
+      "gabarito": "e",
+      "comentario": "Art. 8º, I, da Lei nº 7.853/1989. O mesmo artigo tipifica, entre outras condutas, obstar inscrição em concurso público ou negar emprego em razão da deficiência."
+    },
+    {
+      "id": "pcd-009",
+      "assunto": "Lei nº 10.048/2000 e Decreto nº 5.296/2004 – prioridade de atendimento",
+      "origem": "fcc",
+      "enunciado": "A Lei nº 10.048/2000 assegura atendimento prioritário, entre outros, às:",
+      "alternativas": {
+        "a": "pessoas com renda inferior a um salário mínimo.",
+        "b": "pessoas com deficiência e idosos com idade igual ou superior a 70 anos, apenas.",
+        "c": "gestantes, apenas no período do último trimestre.",
+        "d": "pessoas com deficiência, apenas em órgãos federais.",
+        "e": "pessoas com deficiência, idosos com idade igual ou superior a 60 anos, gestantes, lactantes, pessoas com crianças de colo e obesos."
+      },
+      "gabarito": "e",
+      "comentario": "Art. 1º da Lei nº 10.048/2000. O Decreto nº 5.296/2004 regulamenta as Leis nº 10.048/2000 e nº 10.098/2000 e detalha o tratamento diferenciado e o atendimento imediato."
+    },
+    {
+      "id": "pcd-010",
+      "assunto": "Constituição Federal de 1988 – pessoas com deficiência",
+      "origem": "inedita",
+      "enunciado": "Sobre a proteção da pessoa com deficiência na Constituição Federal de 1988, é correto afirmar:",
+      "alternativas": {
+        "a": "É competência privativa da União cuidar da proteção e garantia das pessoas com deficiência.",
+        "b": "A reserva de vagas em concursos públicos para pessoas com deficiência depende de emenda constitucional futura.",
+        "c": "A Constituição proíbe qualquer discriminação no tocante a salário e critérios de admissão do trabalhador com deficiência e prevê reserva de percentual de cargos e empregos públicos para pessoas com deficiência.",
+        "d": "O benefício assistencial de um salário mínimo é garantido a todas as pessoas com deficiência, independentemente de renda.",
+        "e": "A Constituição não trata de acessibilidade em logradouros e edifícios."
+      },
+      "gabarito": "c",
+      "comentario": "Arts. 7º, XXXI, e 37, VIII, da CF. A competência é comum (art. 23, II) e, para legislar, concorrente (art. 24, XIV). O BPC exige que a pessoa comprove não possuir meios de prover a própria manutenção (art. 203, V). A acessibilidade está nos arts. 227, §2º, e 244."
+    },
+    {
+      "id": "pcd-011",
+      "assunto": "Lei nº 13.146/2015 (LBI) – avaliação biopsicossocial",
+      "origem": "fcc",
+      "enunciado": "De acordo com a Lei nº 13.146/2015, a avaliação da deficiência, quando necessária, será biopsicossocial, realizada por equipe multiprofissional e interdisciplinar, e considerará, entre outros fatores,",
+      "alternativas": {
+        "a": "a renda familiar per capita e o grau de escolaridade do avaliado.",
+        "b": "o tempo de contribuição previdenciária e a idade de manifestação do impedimento.",
+        "c": "exclusivamente o laudo médico que ateste a espécie e o grau da deficiência, com referência à CID.",
+        "d": "a existência de curatela e o histórico de internações do avaliado.",
+        "e": "a limitação no desempenho de atividades e a restrição de participação."
+      },
+      "gabarito": "e",
+      "comentario": "Art. 2º, § 1º, da LBI: a avaliação biopsicossocial considera os impedimentos nas funções e estruturas do corpo, os fatores socioambientais, psicológicos e pessoais, a limitação no desempenho de atividades e a restrição de participação."
+    },
+    {
+      "id": "pcd-012",
+      "assunto": "Lei nº 13.146/2015 (LBI) – adaptações razoáveis",
+      "origem": "fcc",
+      "enunciado": "Nos termos da Lei nº 13.146/2015, as adaptações, modificações e ajustes necessários e adequados que não acarretem ônus desproporcional e indevido, quando requeridos em cada caso, a fim de assegurar que a pessoa com deficiência possa gozar ou exercer, em igualdade de condições e oportunidades com as demais pessoas, todos os direitos e liberdades fundamentais, correspondem ao conceito de",
+      "alternativas": {
+        "a": "desenho universal.",
+        "b": "adaptações razoáveis.",
+        "c": "tecnologia assistiva.",
+        "d": "acessibilidade.",
+        "e": "elemento de urbanização."
+      },
+      "gabarito": "b",
+      "comentario": "Art. 3º, VI, da LBI define adaptações razoáveis. O desenho universal (inciso II) é a concepção de produtos e ambientes usáveis por todos sem necessidade de adaptação."
+    },
+    {
+      "id": "pcd-013",
+      "assunto": "Lei nº 13.146/2015 (LBI) – atendente pessoal",
+      "origem": "fcc",
+      "enunciado": "Segundo a Lei nº 13.146/2015, a pessoa, membro ou não da família, que, com ou sem remuneração, assiste ou presta cuidados básicos e essenciais à pessoa com deficiência no exercício de suas atividades diárias, excluídas as técnicas ou os procedimentos identificados com profissões legalmente estabelecidas, é denominada",
+      "alternativas": {
+        "a": "profissional de apoio escolar.",
+        "b": "acompanhante.",
+        "c": "curador.",
+        "d": "atendente pessoal.",
+        "e": "apoiador."
+      },
+      "gabarito": "d",
+      "comentario": "Art. 3º, XII, da LBI. O profissional de apoio escolar (XIII) atua no ambiente escolar, e o acompanhante (XIV) é quem acompanha a pessoa com deficiência, podendo ou não desempenhar as funções de atendente pessoal."
+    },
+    {
+      "id": "pcd-014",
+      "assunto": "Lei nº 13.146/2015 (LBI) – pessoas especialmente vulneráveis",
+      "origem": "fcc",
+      "enunciado": "Conforme o parágrafo único do art. 5º da Lei nº 13.146/2015, para fins da proteção contra toda forma de negligência, discriminação, exploração, violência, tortura, crueldade, opressão e tratamento desumano ou degradante, são considerados especialmente vulneráveis",
+      "alternativas": {
+        "a": "a criança, o adolescente, a mulher e o idoso, com deficiência.",
+        "b": "a gestante, a lactante e a pessoa com criança de colo, com deficiência.",
+        "c": "a pessoa com deficiência intelectual e a pessoa com deficiência múltipla.",
+        "d": "a pessoa com deficiência sob curatela e a pessoa com deficiência em situação de rua.",
+        "e": "a criança e o adolescente com deficiência, apenas."
+      },
+      "gabarito": "a",
+      "comentario": "Art. 5º, parágrafo único, da LBI: são especialmente vulneráveis a criança, o adolescente, a mulher e o idoso, com deficiência."
+    },
+    {
+      "id": "pcd-015",
+      "assunto": "Lei nº 13.146/2015 (LBI) – atendimento prioritário",
+      "origem": "fcc",
+      "enunciado": "A Lei nº 13.146/2015 assegura à pessoa com deficiência atendimento prioritário, estendendo esses direitos ao acompanhante ou ao atendente pessoal, EXCETO quanto",
+      "alternativas": {
+        "a": "ao recebimento de restituição de imposto de renda e à tramitação processual e aos procedimentos judiciais e administrativos.",
+        "b": "à proteção e socorro em quaisquer circunstâncias e ao atendimento em todas as instituições e serviços de atendimento ao público.",
+        "c": "à disponibilização de recursos humanos e tecnológicos que garantam atendimento em igualdade de condições.",
+        "d": "à disponibilização de pontos de parada, estações e terminais acessíveis de transporte coletivo.",
+        "e": "ao acesso a informações e à disponibilização de recursos de comunicação acessíveis."
+      },
+      "gabarito": "a",
+      "comentario": "Art. 9º, § 1º, da LBI: os direitos de prioridade estendem-se ao acompanhante ou atendente pessoal, exceto quanto aos incisos VI (restituição de imposto de renda) e VII (tramitação processual e procedimentos judiciais e administrativos)."
+    },
+    {
+      "id": "pcd-016",
+      "assunto": "Lei nº 13.146/2015 (LBI) – consentimento e atendimento de saúde",
+      "origem": "fcc",
+      "enunciado": "Nos termos da Lei nº 13.146/2015, a pessoa com deficiência somente será atendida sem seu consentimento prévio, livre e esclarecido",
+      "alternativas": {
+        "a": "sempre que estiver submetida a curatela, bastando a autorização do curador.",
+        "b": "quando se tratar de pesquisa científica de interesse público, mediante autorização do comitê de ética.",
+        "c": "em casos de risco de morte e de emergência em saúde, resguardado seu superior interesse e adotadas as salvaguardas legais cabíveis.",
+        "d": "em qualquer caso de internação hospitalar, a critério do médico responsável.",
+        "e": "quando houver requisição do Ministério Público ou da Defensoria Pública."
+      },
+      "gabarito": "c",
+      "comentario": "Art. 13 da LBI. O art. 12 exige o consentimento prévio, livre e esclarecido para tratamento, procedimento, hospitalização e pesquisa científica; em caso de curatela, deve ser assegurada a participação da pessoa no maior grau possível."
+    },
+    {
+      "id": "pcd-017",
+      "assunto": "Lei nº 13.146/2015 (LBI) – educação em instituições privadas",
+      "origem": "inedita",
+      "enunciado": "Uma escola particular informou aos pais de aluno com deficiência que, para disponibilizar profissional de apoio escolar, cobraria acréscimo de 20% na mensalidade. À luz da Lei nº 13.146/2015, essa conduta é",
+      "alternativas": {
+        "a": "lícita, pois a oferta de profissional de apoio escolar é obrigação exclusiva das instituições públicas de ensino.",
+        "b": "lícita, desde que o acréscimo não ultrapasse o limite fixado pelo órgão de defesa do consumidor.",
+        "c": "lícita, se houver prévia anuência dos pais em termo aditivo ao contrato de prestação de serviços educacionais.",
+        "d": "vedada, pois é proibida às instituições privadas a cobrança de valores adicionais de qualquer natureza em suas mensalidades, anuidades e matrículas no cumprimento dessas determinações.",
+        "e": "vedada apenas na educação infantil e no ensino fundamental, sendo admitida no ensino médio e superior."
+      },
+      "gabarito": "d",
+      "comentario": "Art. 28, XVII e § 1º, da LBI: as instituições privadas devem cumprir, entre outros, o dever de oferta de profissionais de apoio escolar, vedada a cobrança de valores adicionais de qualquer natureza em mensalidades, anuidades e matrículas."
+    },
+    {
+      "id": "pcd-018",
+      "assunto": "Lei nº 13.146/2015 (LBI) – processos seletivos no ensino superior",
+      "origem": "fcc",
+      "enunciado": "Em processos seletivos para ingresso e permanência nos cursos oferecidos pelas instituições de ensino superior, a Lei nº 13.146/2015 determina a adoção, entre outras, da seguinte medida:",
+      "alternativas": {
+        "a": "dilação de tempo, conforme demanda apresentada pelo candidato com deficiência, tanto na realização de exame para seleção quanto nas atividades acadêmicas, mediante prévia solicitação e comprovação da necessidade.",
+        "b": "dilação de tempo de, no máximo, uma hora, concedida de ofício a todo candidato com deficiência, independentemente de solicitação.",
+        "c": "tradução em Libras apenas do resultado final do certame, dispensada a tradução do edital.",
+        "d": "aplicação de provas idênticas às dos demais candidatos, vedados critérios de avaliação diferenciados.",
+        "e": "reserva obrigatória de 20% das vagas do curso para pessoas com deficiência."
+      },
+      "gabarito": "a",
+      "comentario": "Art. 30, V, da LBI. O mesmo artigo prevê ainda atendimento preferencial, provas em formatos acessíveis e tradução completa do edital e de suas retificações em Libras (inciso VII)."
+    },
+    {
+      "id": "pcd-019",
+      "assunto": "Lei nº 13.146/2015 (LBI) – direito à moradia",
+      "origem": "fcc",
+      "enunciado": "Nos programas habitacionais, públicos ou subsidiados com recursos públicos, a pessoa com deficiência ou o seu responsável goza de prioridade na aquisição de imóvel para moradia própria, observada, conforme a Lei nº 13.146/2015, a reserva de, no mínimo,",
+      "alternativas": {
+        "a": "2% das unidades habitacionais para pessoa com deficiência.",
+        "b": "5% das unidades habitacionais para pessoa com deficiência.",
+        "c": "10% das unidades habitacionais para pessoa com deficiência.",
+        "d": "1 unidade habitacional para cada grupo de 20 unidades construídas.",
+        "e": "3% das unidades habitacionais para pessoa com deficiência."
+      },
+      "gabarito": "e",
+      "comentario": "Art. 32, I, da LBI: reserva de, no mínimo, 3% das unidades habitacionais. O direito à prioridade é reconhecido à pessoa com deficiência beneficiária apenas uma vez (§ 1º)."
+    },
+    {
+      "id": "pcd-020",
+      "assunto": "Lei nº 13.146/2015 (LBI) – direito ao trabalho",
+      "origem": "fcc",
+      "enunciado": "A respeito do direito ao trabalho da pessoa com deficiência, a Lei nº 13.146/2015 estabelece que é vedada restrição ao trabalho da pessoa com deficiência e qualquer discriminação em razão de sua condição, inclusive nas etapas de recrutamento, seleção, contratação, admissão, exames admissional e periódico, permanência no emprego, ascensão profissional e reabilitação profissional, bem como",
+      "alternativas": {
+        "a": "a fixação de jornada de trabalho reduzida.",
+        "b": "exigência de aptidão plena.",
+        "c": "a contratação por prazo determinado.",
+        "d": "a adoção de trabalho com apoio.",
+        "e": "a concessão de adaptações razoáveis no ambiente de trabalho."
+      },
+      "gabarito": "b",
+      "comentario": "Art. 34, § 3º, da LBI: é vedada restrição ao trabalho da pessoa com deficiência e qualquer discriminação em razão de sua condição, bem como exigência de aptidão plena."
+    },
+    {
+      "id": "pcd-021",
+      "assunto": "Lei nº 13.146/2015 (LBI) – turismo e hotelaria",
+      "origem": "fcc",
+      "enunciado": "Segundo a Lei nº 13.146/2015, os hotéis, pousadas e similares já existentes deverão disponibilizar, pelo menos,",
+      "alternativas": {
+        "a": "5% de seus dormitórios acessíveis, garantida, no mínimo, 1 unidade acessível.",
+        "b": "2% de seus dormitórios acessíveis, dispensada a exigência se o resultado for fração inferior a 1.",
+        "c": "15% de seus dormitórios acessíveis, sem garantia de número mínimo.",
+        "d": "10% de seus dormitórios acessíveis, garantida, no mínimo, 1 unidade acessível.",
+        "e": "1 dormitório acessível por andar, independentemente do total de unidades."
+      },
+      "gabarito": "d",
+      "comentario": "Art. 45, § 1º, da LBI. A dispensa do percentual por impossibilidade técnica depende de laudo de risco estrutural, renovado periodicamente (§ 3º)."
+    },
+    {
+      "id": "pcd-022",
+      "assunto": "Lei nº 13.146/2015 (LBI) – táxis e locadoras de veículos",
+      "origem": "inedita",
+      "enunciado": "Uma locadora de veículos possui frota de 100 automóveis. De acordo com a Lei nº 13.146/2015, ela é obrigada a oferecer, para uso de pessoa com deficiência, ao menos",
+      "alternativas": {
+        "a": "5 veículos adaptados, dotados, no mínimo, de câmbio automático, direção hidráulica, vidros elétricos e comandos manuais de freio e de embreagem.",
+        "b": "10 veículos adaptados, por aplicação do percentual de 10% exigido das frotas de táxi.",
+        "c": "2 veículos adaptados, correspondentes a 2% da frota.",
+        "d": "1 veículo adaptado, independentemente do tamanho da frota.",
+        "e": "3 veículos adaptados, dotados, no mínimo, de câmbio automático e comandos manuais de freio, dispensada a direção hidráulica."
+      },
+      "gabarito": "a",
+      "comentario": "Art. 52 da LBI: 1 veículo adaptado a cada conjunto de 20 veículos da frota (100 ÷ 20 = 5), com os itens mínimos do parágrafo único. O percentual de 10% aplica-se às frotas de empresas de táxi (art. 51)."
+    },
+    {
+      "id": "pcd-023",
+      "assunto": "Lei nº 13.146/2015 (LBI) – acesso à informação na internet",
+      "origem": "fcc",
+      "enunciado": "Nos termos da Lei nº 13.146/2015, os telecentros comunitários que receberem recursos públicos federais e as lan houses devem garantir, no mínimo,",
+      "alternativas": {
+        "a": "5% de seus computadores com recursos de acessibilidade para pessoa com deficiência visual, sendo assegurado pelo menos 1 equipamento.",
+        "b": "2% de seus computadores com recursos de acessibilidade para pessoa com deficiência auditiva.",
+        "c": "10% de seus computadores com recursos de acessibilidade para pessoa com deficiência visual, sendo assegurado pelo menos 1 equipamento quando o resultado percentual for inferior a 1.",
+        "d": "20% de seus computadores com recursos de acessibilidade para qualquer tipo de deficiência.",
+        "e": "1 computador com recursos de acessibilidade para cada grupo de 50 equipamentos."
+      },
+      "gabarito": "c",
+      "comentario": "Art. 63, § 3º, da LBI. O § 1º do mesmo artigo exige que os sítios de internet contenham símbolo de acessibilidade em destaque."
+    },
+    {
+      "id": "pcd-024",
+      "assunto": "Lei nº 13.146/2015 (LBI) – curatela",
+      "origem": "inedita",
+      "enunciado": "João, pessoa com deficiência intelectual, foi submetido a curatela. Seu curador pretende impedi-lo de votar nas eleições e de se casar. Segundo a Lei nº 13.146/2015, a curatela",
+      "alternativas": {
+        "a": "alcança todos os atos da vida civil, inclusive o direito ao voto e ao matrimônio, desde que haja autorização judicial.",
+        "b": "alcança o direito ao matrimônio, mas não o direito ao voto, assegurado pela Constituição.",
+        "c": "constitui medida protetiva ordinária, de duração indeterminada, que transfere ao curador a representação integral do curatelado.",
+        "d": "afeta tão somente os atos relacionados aos direitos de natureza patrimonial e negocial, não alcançando o direito ao matrimônio nem ao voto.",
+        "e": "alcança o direito ao voto, mas não o direito ao matrimônio, que depende de manifestação pessoal."
+      },
+      "gabarito": "d",
+      "comentario": "Art. 85, caput e § 1º, da LBI: a curatela afeta apenas atos patrimoniais e negociais e não alcança o direito ao próprio corpo, à sexualidade, ao matrimônio, à privacidade, à educação, à saúde, ao trabalho e ao voto. É medida extraordinária e dura o menor tempo possível (art. 84, § 3º)."
+    },
+    {
+      "id": "pcd-025",
+      "assunto": "Lei nº 13.146/2015 (LBI) – crimes",
+      "origem": "fcc",
+      "enunciado": "Nos termos da Lei nº 13.146/2015, praticar, induzir ou incitar discriminação de pessoa em razão de sua deficiência é crime punido com reclusão de",
+      "alternativas": {
+        "a": "2 a 5 anos, e multa, aumentando-se a pena em 1/2 se a vítima for menor de 18 anos.",
+        "b": "6 meses a 2 anos, e multa, aumentando-se a pena em 1/3 se cometido por tutor ou curador.",
+        "c": "1 a 4 anos, e multa, aumentando-se a pena em 1/3 se cometido por meio de comunicação social.",
+        "d": "1 a 3 anos, e multa, aumentando-se a pena em 1/3 se a vítima encontrar-se sob cuidado e responsabilidade do agente.",
+        "e": "2 a 4 anos, e multa, sem previsão de causa de aumento de pena."
+      },
+      "gabarito": "d",
+      "comentario": "Art. 88, caput e § 1º, da LBI. Se o crime for cometido por intermédio de meios de comunicação social ou publicação de qualquer natureza, a pena é de reclusão de 2 a 5 anos, e multa (§ 2º)."
+    },
+    {
+      "id": "pcd-026",
+      "assunto": "Lei nº 13.146/2015 (LBI) – crimes",
+      "origem": "fcc",
+      "enunciado": "Reter ou utilizar cartão magnético, qualquer meio eletrônico ou documento de pessoa com deficiência destinados ao recebimento de benefícios, proventos, pensões ou remuneração, com o fim de obter vantagem indevida para si ou para outrem, é crime previsto na Lei nº 13.146/2015, punido com",
+      "alternativas": {
+        "a": "reclusão, de 1 a 3 anos, e multa.",
+        "b": "detenção, de 6 meses a 2 anos, e multa.",
+        "c": "reclusão, de 2 a 5 anos, e multa.",
+        "d": "detenção, de 1 a 4 anos, e multa.",
+        "e": "reclusão, de 1 a 4 anos, e multa."
+      },
+      "gabarito": "b",
+      "comentario": "Art. 91 da LBI: detenção de 6 meses a 2 anos, e multa; a pena é aumentada em 1/3 se o crime for cometido por tutor ou curador (parágrafo único)."
+    },
+    {
+      "id": "pcd-027",
+      "assunto": "Constituição Federal de 1988 – direitos sociais do trabalhador",
+      "origem": "fcc",
+      "enunciado": "Entre os direitos dos trabalhadores urbanos e rurais, a Constituição Federal de 1988 prevê expressamente a",
+      "alternativas": {
+        "a": "reserva de 5% dos empregos nas empresas privadas com mais de cem empregados para trabalhadores com deficiência.",
+        "b": "jornada reduzida de seis horas diárias para o trabalhador com deficiência, sem redução salarial.",
+        "c": "proibição de qualquer discriminação no tocante a salário e critérios de admissão do trabalhador com deficiência.",
+        "d": "estabilidade no emprego ao trabalhador com deficiência após doze meses de contrato.",
+        "e": "isenção de contribuição previdenciária para o trabalhador com deficiência."
+      },
+      "gabarito": "c",
+      "comentario": "Art. 7º, XXXI, da CF (que usa a expressão \"portador de deficiência\"). A reserva de vagas em empresas privadas decorre de lei (Lei nº 8.213/1991 e Decreto nº 3.298/1999), não da Constituição."
+    },
+    {
+      "id": "pcd-028",
+      "assunto": "Constituição Federal de 1988 – repartição de competências",
+      "origem": "fcc",
+      "enunciado": "Considerando a repartição de competências na Constituição Federal de 1988, a proteção e integração social das pessoas com deficiência é matéria de competência",
+      "alternativas": {
+        "a": "legislativa privativa da União, sendo de competência exclusiva dos Municípios cuidar da proteção e garantia dessas pessoas.",
+        "b": "legislativa concorrente da União, dos Estados e do Distrito Federal, sendo de competência comum da União, dos Estados, do Distrito Federal e dos Municípios cuidar da proteção e garantia dessas pessoas.",
+        "c": "legislativa comum da União, dos Estados, do Distrito Federal e dos Municípios, sendo de competência privativa da União cuidar da proteção e garantia dessas pessoas.",
+        "d": "legislativa exclusiva dos Estados, cabendo à União apenas editar normas gerais em matéria de acessibilidade.",
+        "e": "legislativa concorrente da União, dos Estados, do Distrito Federal e dos Municípios, vedada a atuação administrativa dos Municípios."
+      },
+      "gabarito": "b",
+      "comentario": "Art. 24, XIV, da CF (competência legislativa concorrente sobre proteção e integração social) e art. 23, II (competência comum para cuidar da proteção e garantia das pessoas com deficiência)."
+    },
+    {
+      "id": "pcd-029",
+      "assunto": "Constituição Federal de 1988 – aposentadoria do servidor com deficiência",
+      "origem": "fcc",
+      "enunciado": "Conforme a Constituição Federal, com a redação dada pela Emenda Constitucional nº 103/2019, poderão ser estabelecidos idade e tempo de contribuição diferenciados para aposentadoria de servidores com deficiência, previamente submetidos a avaliação biopsicossocial realizada por equipe multiprofissional e interdisciplinar, por meio de",
+      "alternativas": {
+        "a": "lei ordinária federal, de observância obrigatória por todos os entes.",
+        "b": "decreto do chefe do Poder Executivo de cada ente federativo.",
+        "c": "lei complementar federal, exclusivamente.",
+        "d": "resolução do Conselho Nacional de Previdência Social.",
+        "e": "lei complementar do respectivo ente federativo."
+      },
+      "gabarito": "e",
+      "comentario": "Art. 40, § 4º-A, da CF, incluído pela EC nº 103/2019."
+    },
+    {
+      "id": "pcd-030",
+      "assunto": "Constituição Federal de 1988 – precatórios",
+      "origem": "fcc",
+      "enunciado": "Nos termos do art. 100, § 2º, da Constituição Federal, os débitos de natureza alimentícia cujos titulares, originários ou por sucessão hereditária, sejam pessoas com deficiência, assim definidas na forma da lei, serão pagos com preferência sobre todos os demais débitos até o valor equivalente",
+      "alternativas": {
+        "a": "ao dobro do fixado em lei para as obrigações de pequeno valor, vedado o fracionamento.",
+        "b": "ao triplo do fixado em lei para as obrigações de pequeno valor, admitido o fracionamento para essa finalidade.",
+        "c": "ao quíntuplo do fixado em lei para as obrigações de pequeno valor, admitido o fracionamento.",
+        "d": "a sessenta salários mínimos, vedado o fracionamento.",
+        "e": "ao valor integral do débito, independentemente de limite."
+      },
+      "gabarito": "b",
+      "comentario": "Art. 100, § 2º, da CF (redação da EC nº 94/2016): preferência até o triplo do valor fixado para as obrigações de pequeno valor (§ 3º), admitido o fracionamento; o restante segue a ordem cronológica."
+    },
+    {
+      "id": "pcd-031",
+      "assunto": "Constituição Federal de 1988 – educação",
+      "origem": "fcc",
+      "enunciado": "Segundo a Constituição Federal, o dever do Estado com a educação será efetivado mediante a garantia de atendimento educacional especializado às pessoas com deficiência,",
+      "alternativas": {
+        "a": "exclusivamente em escolas especiais mantidas pelo Poder Público.",
+        "b": "obrigatoriamente na rede regular de ensino, vedadas as classes especiais.",
+        "c": "preferencialmente em instituições filantrópicas conveniadas.",
+        "d": "exclusivamente no ensino fundamental, a cargo dos Municípios.",
+        "e": "preferencialmente na rede regular de ensino."
+      },
+      "gabarito": "e",
+      "comentario": "Art. 208, III, da CF: atendimento educacional especializado aos portadores de deficiência, preferencialmente na rede regular de ensino."
+    },
+    {
+      "id": "pcd-032",
+      "assunto": "Lei nº 10.048/2000 – beneficiários da prioridade",
+      "origem": "fcc",
+      "enunciado": "De acordo com a redação atual do art. 1º da Lei nº 10.048/2000, terão atendimento prioritário, entre outros,",
+      "alternativas": {
+        "a": "as pessoas idosas com idade igual ou superior a 65 anos e as gestantes.",
+        "b": "as pessoas com transtorno do espectro autista, os obesos e os doadores de sangue.",
+        "c": "as pessoas com doença grave e os acompanhantes de pessoas idosas, independentemente da presença do titular.",
+        "d": "as lactantes, apenas até o sexto mês de vida da criança, e as pessoas com criança de colo.",
+        "e": "os doadores de medula óssea e os doadores de órgãos."
+      },
+      "gabarito": "b",
+      "comentario": "Art. 1º da Lei nº 10.048/2000 (redação da Lei nº 14.626/2023): pessoas com deficiência, com TEA, idosas com 60 anos ou mais, gestantes, lactantes, pessoas com criança de colo, obesos, pessoas com mobilidade reduzida e doadores de sangue."
+    },
+    {
+      "id": "pcd-033",
+      "assunto": "Lei nº 10.048/2000 – doadores de sangue",
+      "origem": "inedita",
+      "enunciado": "Maria doou sangue há 90 dias e, ao chegar a uma agência bancária, solicitou atendimento prioritário. Na fila preferencial havia uma gestante e uma pessoa com deficiência. Conforme a Lei nº 10.048/2000, Maria",
+      "alternativas": {
+        "a": "tem direito à prioridade, mas será atendida após os demais beneficiários, mediante apresentação de comprovante de doação, cuja validade é de 120 dias.",
+        "b": "não tem direito à prioridade, pois os doadores de sangue não estão entre os beneficiários da lei.",
+        "c": "tem direito à prioridade em igualdade com os demais beneficiários, mediante apresentação de comprovante de doação válido por 180 dias.",
+        "d": "tem direito à prioridade, mas o comprovante de doação somente é válido por 60 dias, razão pela qual seu pedido deve ser negado.",
+        "e": "tem direito à prioridade apenas em repartições públicas, não alcançando as instituições financeiras."
+      },
+      "gabarito": "a",
+      "comentario": "Art. 1º, § 2º, da Lei nº 10.048/2000: doadores de sangue terão atendimento prioritário após os demais beneficiários, mediante comprovante de doação com validade de 120 dias. O art. 2º, parágrafo único, assegura a prioridade em todas as instituições financeiras."
+    },
+    {
+      "id": "pcd-034",
+      "assunto": "Lei nº 10.048/2000 – sanções",
+      "origem": "fcc",
+      "enunciado": "A Lei nº 10.048/2000 prevê que a infração ao nela disposto sujeitará as empresas concessionárias de serviço público, em relação ao descumprimento das regras sobre reserva de assentos e adaptação de veículos,",
+      "alternativas": {
+        "a": "a multa de R$ 500,00 a R$ 2.500,00, por veículo sem as condições previstas, dobrando-se as penalidades em caso de reincidência.",
+        "b": "a multa de R$ 1.000,00 a R$ 5.000,00, por veículo sem as condições previstas, triplicando-se as penalidades em caso de reincidência.",
+        "c": "à cassação imediata da concessão, independentemente de reincidência.",
+        "d": "a multa única de R$ 2.500,00 por empresa, aplicada em dobro em caso de reincidência.",
+        "e": "às penalidades previstas na Lei nº 4.595/1964, aplicáveis às instituições financeiras."
+      },
+      "gabarito": "a",
+      "comentario": "Art. 6º, II e parágrafo único, da Lei nº 10.048/2000. As penalidades da Lei nº 4.595/1964 aplicam-se às instituições financeiras (inciso III)."
+    },
+    {
+      "id": "pcd-035",
+      "assunto": "Decreto nº 5.296/2004 – atendimento imediato",
+      "origem": "fcc",
+      "enunciado": "Nos termos do Decreto nº 5.296/2004, entende-se por imediato o atendimento prestado às pessoas beneficiárias da prioridade",
+      "alternativas": {
+        "a": "antes de qualquer outra, devendo ser interrompido o atendimento que estiver em andamento.",
+        "b": "em até quinze minutos contados da chegada ao estabelecimento.",
+        "c": "em guichê exclusivo, vedado o atendimento em guichês comuns.",
+        "d": "antes de qualquer outra, depois de concluído o atendimento que estiver em andamento.",
+        "e": "após o atendimento de duas pessoas não beneficiárias, alternadamente."
+      },
+      "gabarito": "d",
+      "comentario": "Art. 6º, § 2º, do Decreto nº 5.296/2004. Nos serviços de emergência dos estabelecimentos de saúde, a prioridade fica condicionada à avaliação médica em face da gravidade dos casos (§ 3º)."
+    },
+    {
+      "id": "pcd-036",
+      "assunto": "Decreto nº 5.296/2004 – tratamento diferenciado",
+      "origem": "fcc",
+      "enunciado": "O tratamento diferenciado assegurado pelo Decreto nº 5.296/2004 às pessoas com direito a atendimento prioritário inclui, entre outros,",
+      "alternativas": {
+        "a": "a admissão de entrada e permanência de cão-guia, mediante apresentação de laudo veterinário emitido nos últimos trinta dias.",
+        "b": "a admissão de entrada e permanência de cão-guia junto da pessoa com deficiência, mediante apresentação da carteira de vacina atualizada do animal.",
+        "c": "o serviço de atendimento a pessoas com deficiência auditiva prestado exclusivamente por meio de comunicação escrita.",
+        "d": "a disponibilização de guias-intérpretes apenas em repartições federais.",
+        "e": "a dispensa de sinalização ambiental, desde que haja atendente no local."
+      },
+      "gabarito": "b",
+      "comentario": "Art. 6º, § 1º, VIII, do Decreto nº 5.296/2004. O inciso III prevê atendimento em LIBRAS a pessoas com deficiência auditiva e guias-intérpretes para pessoas surdocegas."
+    },
+    {
+      "id": "pcd-037",
+      "assunto": "Lei nº 10.098/2000 – parques de diversões",
+      "origem": "fcc",
+      "enunciado": "Segundo a Lei nº 10.098/2000, os parques de diversões, públicos e privados, devem adaptar, no mínimo,",
+      "alternativas": {
+        "a": "10% de cada brinquedo e equipamento, garantida, no mínimo, uma unidade adaptada por parque.",
+        "b": "2% do total de brinquedos do parque, garantido, no mínimo, um brinquedo adaptado.",
+        "c": "5% de cada brinquedo e equipamento e identificá-los para possibilitar sua utilização por pessoas com deficiência ou com mobilidade reduzida, tanto quanto tecnicamente possível.",
+        "d": "1 brinquedo a cada conjunto de 20 brinquedos existentes no parque.",
+        "e": "3% de cada brinquedo e equipamento, dispensada a identificação."
+      },
+      "gabarito": "c",
+      "comentario": "Art. 4º, parágrafo único, da Lei nº 10.098/2000 (incluído pela LBI)."
+    },
+    {
+      "id": "pcd-038",
+      "assunto": "Lei nº 10.098/2000 – banheiros químicos",
+      "origem": "fcc",
+      "enunciado": "Os eventos organizados em espaços públicos e privados em que haja instalação de banheiros químicos deverão contar com unidades acessíveis a pessoas com deficiência ou com mobilidade reduzida. Conforme a Lei nº 10.098/2000, o número mínimo de unidades acessíveis corresponderá a",
+      "alternativas": {
+        "a": "5% do total, garantindo-se pelo menos 1 unidade acessível.",
+        "b": "2% do total, garantindo-se pelo menos 1 unidade acessível.",
+        "c": "20% do total, dispensada a exigência para eventos com menos de 10 unidades.",
+        "d": "10% do total, garantindo-se pelo menos 1 unidade acessível caso a aplicação do percentual resulte em fração inferior a 1.",
+        "e": "1 unidade acessível para cada grupo de 50 unidades instaladas."
+      },
+      "gabarito": "d",
+      "comentario": "Art. 6º, §§ 1º e 2º, da Lei nº 10.098/2000 (incluídos pela LBI)."
+    },
+    {
+      "id": "pcd-039",
+      "assunto": "Decreto nº 5.296/2004 – teatros, cinemas e similares",
+      "origem": "inedita",
+      "enunciado": "Um teatro com capacidade para 1.500 lugares deve, conforme a redação vigente do art. 23 do Decreto nº 5.296/2004, reservar espaços para pessoas em cadeira de rodas em número mínimo de",
+      "alternativas": {
+        "a": "30 espaços, correspondentes a 2% do total de lugares.",
+        "b": "20 espaços, número fixo para locais com mais de 1.000 lugares.",
+        "c": "15 espaços, correspondentes a 1% do total de lugares.",
+        "d": "25 espaços, isto é, 20 espaços acrescidos de 1% do que exceder 1.000 lugares.",
+        "e": "75 espaços, correspondentes a 5% do total de lugares."
+      },
+      "gabarito": "d",
+      "comentario": "Art. 23, § 1º, do Decreto nº 5.296/2004 (redação do Decreto nº 9.404/2018): até 1.000 lugares, 2% de espaços para cadeira de rodas (mínimo 1); acima de 1.000, 20 espaços mais 1% do que exceder 1.000 (20 + 5 = 25). A Lei nº 10.098/2000, art. 12, exige espaços reservados para cadeira de rodas e lugares específicos para pessoas com deficiência auditiva e visual."
+    },
+    {
+      "id": "pcd-040",
+      "assunto": "Lei nº 10.098/2000 – kit para pessoa com deficiência visual",
+      "origem": "fcc",
+      "enunciado": "De acordo com a Lei nº 10.098/2000, às pessoas com deficiência visual será garantido um kit contendo, no mínimo, etiqueta em braile, entre outros itens,",
+      "alternativas": {
+        "a": "mediante pagamento de taxa fixada pelo fornecedor, limitada ao custo de produção.",
+        "b": "sem custo adicional, desde que apresentado laudo médico atualizado.",
+        "c": "independentemente de solicitação, apenas às pessoas com cegueira total.",
+        "d": "mediante requerimento ao órgão federal de política para pessoas com deficiência.",
+        "e": "sem custo adicional, quando por elas solicitado."
+      },
+      "gabarito": "e",
+      "comentario": "Art. 21-A da Lei nº 10.098/2000: o kit (etiqueta em braile, fita adesiva, porta-cartão, entre outros itens) é garantido sem custo adicional, quando solicitado pela pessoa com deficiência visual."
+    },
+    {
+      "id": "pcd-041",
+      "assunto": "Lei nº 10.098/2000 – semáforos",
+      "origem": "fcc",
+      "enunciado": "Nos termos da Lei nº 10.098/2000, os semáforos para pedestres instalados em vias públicas de grande circulação, ou que deem acesso aos serviços de reabilitação, devem obrigatoriamente estar equipados com mecanismo que emita sinal sonoro",
+      "alternativas": {
+        "a": "contínuo e de alta intensidade, para garantir a percepção em meio ao ruído urbano.",
+        "b": "acionado exclusivamente por controle remoto fornecido pelo órgão de trânsito.",
+        "c": "suave, intermitente e sem estridência, ou com mecanismo alternativo, que sirva de guia ou orientação para a travessia de pessoas com deficiência visual.",
+        "d": "emitido apenas no período noturno, quando reduzida a visibilidade.",
+        "e": "intermitente e estridente, dispensado o mecanismo alternativo."
+      },
+      "gabarito": "c",
+      "comentario": "Art. 9º, parágrafo único, da Lei nº 10.098/2000."
+    },
+    {
+      "id": "pcd-042",
+      "assunto": "Decreto nº 5.296/2004 – conceitos de acessibilidade",
+      "origem": "fcc",
+      "enunciado": "Para os fins do Decreto nº 5.296/2004, o conjunto de objetos existentes nas vias e espaços públicos, superpostos ou adicionados aos elementos da urbanização ou da edificação, de forma que sua modificação ou traslado não provoque alterações substanciais nesses elementos, tais como semáforos, postes de sinalização, cabines telefônicas, lixeiras, toldos e quiosques, denomina-se",
+      "alternativas": {
+        "a": "elemento da urbanização.",
+        "b": "ajuda técnica.",
+        "c": "edificação de uso coletivo.",
+        "d": "desenho universal.",
+        "e": "mobiliário urbano."
+      },
+      "gabarito": "e",
+      "comentario": "Art. 8º, IV, do Decreto nº 5.296/2004. Elemento da urbanização (inciso III) refere-se a componentes de obras como pavimentação, saneamento, iluminação pública e paisagismo."
+    },
+    {
+      "id": "pcd-043",
+      "assunto": "Decreto nº 5.296/2004 – prazos de adaptação",
+      "origem": "fcc",
+      "enunciado": "O Decreto nº 5.296/2004 fixou prazos para a promoção da acessibilidade. Nesse sentido, as edificações de uso público já existentes deveriam garantir acessibilidade às pessoas com deficiência ou com mobilidade reduzida e os portais e sítios eletrônicos da administração pública deveriam tornar-se acessíveis, respectivamente, no prazo de",
+      "alternativas": {
+        "a": "trinta meses e de até doze meses, contados da data de publicação do Decreto.",
+        "b": "doze meses e de até trinta meses, contados da data de publicação do Decreto.",
+        "c": "vinte e quatro meses e de até seis meses, contados da data de publicação do Decreto.",
+        "d": "quarenta e oito meses e de até vinte e quatro meses, contados da data de publicação do Decreto.",
+        "e": "trinta meses e de até cento e oitenta dias, contados da data de publicação do Decreto."
+      },
+      "gabarito": "a",
+      "comentario": "Art. 19, § 1º (30 meses para edificações de uso público existentes) e art. 47 (até 12 meses para portais e sítios eletrônicos da administração pública) do Decreto nº 5.296/2004."
+    },
+    {
+      "id": "pcd-044",
+      "assunto": "Lei nº 11.126/2005 – cão-guia",
+      "origem": "fcc",
+      "enunciado": "Para os efeitos da Lei nº 11.126/2005, a deficiência visual que assegura o direito de ingressar e permanecer com cão-guia em ambientes de uso coletivo",
+      "alternativas": {
+        "a": "restringe-se à cegueira total, bilateral e irreversível.",
+        "b": "abrange qualquer redução de acuidade visual, ainda que corrigível por lentes.",
+        "c": "restringe-se à cegueira e à baixa visão.",
+        "d": "abrange a cegueira, a baixa visão e a visão monocular, exclusivamente.",
+        "e": "deve ser comprovada por laudo renovado anualmente perante o órgão de trânsito."
+      },
+      "gabarito": "c",
+      "comentario": "Art. 1º, § 1º, da Lei nº 11.126/2005: a deficiência visual referida no caput restringe-se à cegueira e à baixa visão."
+    },
+    {
+      "id": "pcd-045",
+      "assunto": "Lei nº 11.126/2005 – discriminação e sanções",
+      "origem": "inedita",
+      "enunciado": "O gerente de um restaurante tentou impedir a entrada de cliente cega acompanhada de seu cão-guia, alegando normas internas de higiene. À luz da Lei nº 11.126/2005, essa conduta",
+      "alternativas": {
+        "a": "é lícita, pois estabelecimentos que manipulam alimentos podem restringir a entrada de animais.",
+        "b": "constitui mera infração administrativa sujeita apenas a advertência.",
+        "c": "é lícita, desde que o estabelecimento ofereça local separado para o cão-guia.",
+        "d": "constitui crime de discriminação punido com reclusão de 2 a 5 anos, sem previsão de sanção administrativa.",
+        "e": "constitui ato de discriminação, a ser apenado com interdição e multa."
+      },
+      "gabarito": "e",
+      "comentario": "Art. 3º da Lei nº 11.126/2005: constitui ato de discriminação qualquer tentativa voltada a impedir ou dificultar o gozo do direito previsto no art. 1º, apenado com interdição e multa."
+    },
+    {
+      "id": "pcd-046",
+      "assunto": "Lei nº 11.126/2005 – transporte e regulamentação",
+      "origem": "fcc",
+      "enunciado": "Sobre a Lei nº 11.126/2005, que dispõe sobre o direito da pessoa com deficiência visual de ingressar e permanecer em ambientes de uso coletivo acompanhada de cão-guia, é correto afirmar:",
+      "alternativas": {
+        "a": "O direito aplica-se apenas ao transporte interestadual e internacional, cabendo a Estados e Municípios disciplinar o transporte local.",
+        "b": "A própria lei fixa o valor da multa e o prazo de interdição aplicáveis ao infrator.",
+        "c": "O direito aplica-se a todas as modalidades e jurisdições do serviço de transporte coletivo de passageiros, inclusive em esfera internacional com origem no território brasileiro.",
+        "d": "A lei dispensa qualquer identificação do cão-guia e comprovação de treinamento do usuário.",
+        "e": "O direito restringe-se a estabelecimentos públicos, não alcançando os privados de uso coletivo."
+      },
+      "gabarito": "c",
+      "comentario": "Art. 1º, § 2º, da Lei nº 11.126/2005 (redação da LBI). O art. 4º remete ao regulamento os requisitos de identificação do cão-guia, a comprovação do treinamento do usuário, o valor da multa e o tempo de interdição."
+    },
+    {
+      "id": "pcd-047",
+      "assunto": "Lei nº 8.160/1991 – Símbolo Internacional de Surdez",
+      "origem": "fcc",
+      "enunciado": "Nos termos da Lei nº 8.160/1991, o Símbolo Internacional de Surdez deverá ser colocado obrigatoriamente em local visível ao público,",
+      "alternativas": {
+        "a": "admitidas adaptações de cor e de formato a critério do responsável pelo local.",
+        "b": "sendo facultativa sua utilização em serviços públicos.",
+        "c": "admitida a inclusão de logotipo do estabelecimento, desde que mantidas as proporções originais.",
+        "d": "devendo ser acompanhado do Símbolo Internacional de Acesso.",
+        "e": "não sendo permitida nenhuma modificação ou adição ao desenho reproduzido no anexo da lei."
+      },
+      "gabarito": "e",
+      "comentario": "Art. 2º da Lei nº 8.160/1991: vedada qualquer modificação ou adição ao desenho reproduzido no anexo."
+    },
+    {
+      "id": "pcd-048",
+      "assunto": "Lei nº 8.160/1991 – utilização do símbolo",
+      "origem": "fcc",
+      "enunciado": "A Lei nº 8.160/1991 proíbe a utilização do Símbolo Internacional de Surdez para finalidade outra que não seja a de identificar, assinalar ou indicar local ou serviço habilitado ao uso de pessoas com deficiência auditiva. Tal proibição, porém,",
+      "alternativas": {
+        "a": "não se aplica ao uso comercial do símbolo, desde que autorizado pelo órgão federal competente.",
+        "b": "não se aplica à reprodução do símbolo em publicações e outros meios de comunicação relevantes para os interesses das pessoas com deficiência auditiva, a exemplo de adesivos específicos para veículos por elas conduzidos.",
+        "c": "admite exceção apenas para campanhas publicitárias governamentais.",
+        "d": "é absoluta, inclusive para publicações dirigidas às pessoas com deficiência auditiva.",
+        "e": "não se aplica aos estabelecimentos privados, que podem utilizá-lo livremente."
+      },
+      "gabarito": "b",
+      "comentario": "Art. 3º, parágrafo único, da Lei nº 8.160/1991. O art. 4º previu regulamentação pelo Poder Executivo no prazo de 90 dias."
+    },
+    {
+      "id": "pcd-049",
+      "assunto": "Lei nº 7.853/1989 – legitimidade para ação civil",
+      "origem": "inedita",
+      "enunciado": "Uma associação civil, constituída há oito meses, que tem entre suas finalidades institucionais a promoção dos direitos das pessoas com deficiência, pretende propor ação para tutela de interesses difusos desse grupo. Nos termos da Lei nº 7.853/1989, a associação",
+      "alternativas": {
+        "a": "não preenche o requisito legal, pois a lei exige associação constituída há mais de 1 ano, nos termos da lei civil.",
+        "b": "tem legitimidade, pois a lei não exige tempo mínimo de constituição para associações.",
+        "c": "não tem legitimidade, pois somente o Ministério Público e a Defensoria Pública podem propor tais ações.",
+        "d": "não preenche o requisito legal, pois a lei exige associação constituída há mais de 2 anos.",
+        "e": "tem legitimidade, desde que autorizada por assembleia e com anuência do Ministério Público."
+      },
+      "gabarito": "a",
+      "comentario": "Art. 3º da Lei nº 7.853/1989: as medidas judiciais podem ser propostas pelo MP, Defensoria, União, Estados, Municípios, DF, associação constituída há mais de 1 ano, autarquia, empresa pública, fundação ou sociedade de economia mista com finalidade de proteção da pessoa com deficiência."
+    },
+    {
+      "id": "pcd-050",
+      "assunto": "Lei nº 7.853/1989 – Ministério Público e coisa julgada",
+      "origem": "fcc",
+      "enunciado": "Sobre as ações civis disciplinadas pela Lei nº 7.853/1989, é correto afirmar:",
+      "alternativas": {
+        "a": "A sentença terá eficácia de coisa julgada oponível erga omnes, inclusive quando a ação for julgada improcedente por deficiência de prova.",
+        "b": "A intervenção do Ministério Público é facultativa nas ações em que não for parte.",
+        "c": "O Ministério Público poderá instaurar inquérito civil ou requisitar certidões, informações, exames ou perícias, no prazo que assinalar, não inferior a 10 dias úteis.",
+        "d": "O Ministério Público poderá requisitar informações no prazo que assinalar, não inferior a 5 dias corridos.",
+        "e": "Não se aplica a essas ações, em nenhuma hipótese, a Lei nº 7.347/1985."
+      },
+      "gabarito": "c",
+      "comentario": "Art. 6º da Lei nº 7.853/1989. A coisa julgada erga omnes não se forma na improcedência por deficiência de prova (art. 4º); a intervenção do MP é obrigatória (art. 5º); aplica-se, no que couber, a Lei nº 7.347/1985 (art. 7º)."
+    },
+    {
+      "id": "pcd-051",
+      "assunto": "Lei nº 7.853/1989 – causas de aumento de pena",
+      "origem": "fcc",
+      "enunciado": "Nos termos da Lei nº 7.853/1989, com a redação dada pela Lei nº 13.146/2015, a pena dos crimes previstos no art. 8º será",
+      "alternativas": {
+        "a": "aumentada em 1/2 se a vítima for menor de 18 anos e dobrada se o crime for praticado em atendimento de urgência e emergência.",
+        "b": "aumentada em 1/3 se a vítima for maior de 60 anos, sem outras causas de aumento.",
+        "c": "aumentada em 2/3 se o crime for praticado por servidor público no exercício de suas funções.",
+        "d": "aumentada em 1/3 se a vítima for menor de 18 anos e agravada em 1/3 se o crime for praticado em atendimento de urgência e emergência.",
+        "e": "agravada em 1/3 apenas se o crime for praticado em atendimento de urgência e emergência."
+      },
+      "gabarito": "d",
+      "comentario": "Art. 8º, §§ 1º e 4º, da Lei nº 7.853/1989."
+    },
+    {
+      "id": "pcd-052",
+      "assunto": "Lei nº 7.853/1989 – crimes",
+      "origem": "fcc",
+      "enunciado": "Conforme a Lei nº 7.853/1989, incorre nas mesmas penas cominadas aos crimes do art. 8º quem",
+      "alternativas": {
+        "a": "impede ou dificulta o ingresso de pessoa com deficiência em planos privados de assistência à saúde, inclusive com cobrança de valores diferenciados.",
+        "b": "deixa de reservar vagas de estacionamento para veículos que transportem pessoa com deficiência.",
+        "c": "deixa de afixar o Símbolo Internacional de Acesso em edificação de uso coletivo.",
+        "d": "recusa atendimento prioritário a doador de sangue em instituição financeira.",
+        "e": "deixa de adaptar, no prazo legal, veículo de transporte coletivo."
+      },
+      "gabarito": "a",
+      "comentario": "Art. 8º, § 3º, da Lei nº 7.853/1989 (incluído pela LBI). A pena do art. 8º é de reclusão de 2 a 5 anos, e multa."
+    },
+    {
+      "id": "pcd-053",
+      "assunto": "Decreto nº 3.298/1999 – reserva de cargos em empresas",
+      "origem": "fcc",
+      "enunciado": "Segundo o Decreto nº 3.298/1999, a empresa com cem ou mais empregados está obrigada a preencher de dois a cinco por cento de seus cargos com beneficiários da Previdência Social reabilitados ou com pessoa com deficiência habilitada. Para uma empresa com 800 empregados, o percentual aplicável é de",
+      "alternativas": {
+        "a": "2%.",
+        "b": "4%.",
+        "c": "3%.",
+        "d": "5%.",
+        "e": "10%."
+      },
+      "gabarito": "b",
+      "comentario": "Art. 36 do Decreto nº 3.298/1999: até 200 empregados, 2%; de 201 a 500, 3%; de 501 a 1.000, 4%; mais de 1.000, 5% (mesma escala do art. 93 da Lei nº 8.213/1991)."
+    },
+    {
+      "id": "pcd-054",
+      "assunto": "Decreto nº 3.298/1999 – categorias de deficiência",
+      "origem": "fcc",
+      "enunciado": "Nos termos do Decreto nº 3.298/1999, com a redação dada pelo Decreto nº 5.296/2004, considera-se deficiência auditiva a",
+      "alternativas": {
+        "a": "perda unilateral, parcial ou total, de vinte e cinco decibéis (dB) ou mais, aferida por audiograma em qualquer frequência.",
+        "b": "perda bilateral, parcial ou total, de sessenta decibéis (dB) ou mais, aferida exclusivamente na frequência de 1.000Hz.",
+        "c": "perda unilateral ou bilateral de quarenta e um decibéis (dB) ou mais, aferida por avaliação clínica, dispensado o audiograma.",
+        "d": "perda bilateral total, denominada anacusia, exclusivamente.",
+        "e": "perda bilateral, parcial ou total, de quarenta e um decibéis (dB) ou mais, aferida por audiograma nas frequências de 500Hz, 1.000Hz, 2.000Hz e 3.000Hz."
+      },
+      "gabarito": "e",
+      "comentario": "Art. 4º, II, do Decreto nº 3.298/1999 (redação do Decreto nº 5.296/2004), reproduzido no art. 5º, § 1º, I, \"b\", do próprio Decreto nº 5.296/2004."
+    },
+    {
+      "id": "pcd-055",
+      "assunto": "Decreto nº 3.298/1999 – alterações posteriores",
+      "origem": "inedita",
+      "enunciado": "Um candidato invocou, em recurso administrativo, o art. 37 do Decreto nº 3.298/1999 para exigir reserva mínima de 5% das vagas em concurso público federal. Considerando as alterações sofridas por esse Decreto, é correto afirmar que",
+      "alternativas": {
+        "a": "os arts. 37 a 43 do Decreto nº 3.298/1999 permanecem integralmente em vigor, por não terem sido alterados desde sua edição.",
+        "b": "o art. 37 do Decreto nº 3.298/1999 foi revogado pela Lei nº 13.146/2015, que passou a prever reserva de 20% das vagas.",
+        "c": "os arts. 37 a 43 do Decreto nº 3.298/1999, que tratavam do acesso ao serviço público, foram revogados pelo Decreto nº 9.508/2018.",
+        "d": "os arts. 37 a 43 do Decreto nº 3.298/1999 foram revogados pelo Decreto nº 5.296/2004.",
+        "e": "apenas o art. 37 foi revogado, permanecendo em vigor as regras sobre equipe multiprofissional e laudo médico."
+      },
+      "gabarito": "c",
+      "comentario": "Os arts. 37 a 43 do Decreto nº 3.298/1999 (reserva em concursos, edital, laudo, equipe multiprofissional) foram revogados pelo Decreto nº 9.508/2018, que passou a disciplinar a matéria. O Decreto nº 5.296/2004 alterou o art. 4º e revogou os arts. 50 a 54."
+    },
+    {
+      "id": "pcd-056",
+      "assunto": "Resolução CSJT nº 386/2024 – ações afirmativas",
+      "origem": "inedita",
+      "enunciado": "A Resolução CSJT nº 386/2024, que institui a Política de Acessibilidade e Inclusão das Pessoas com Deficiência no âmbito da Justiça do Trabalho, prevê, entre as ações afirmativas,",
+      "alternativas": {
+        "a": "reserva de 5% dos cargos nos concursos públicos para magistrados e servidores, e reserva de, no mínimo, 10% das vagas nos contratos de serviços contínuos.",
+        "b": "reserva de 20% dos cargos nos concursos públicos para servidores, não se aplicando aos concursos para magistrados.",
+        "c": "reserva de 10% dos cargos para pessoas com deficiência nos concursos públicos para magistrados e servidores, e reserva de, no mínimo, 5% das vagas nos contratos de prestação de serviços contínuos com regime de dedicação exclusiva de mão de obra.",
+        "d": "reserva de 10% dos cargos nos concursos públicos, dispensada a manutenção da reserva em caso de vacância.",
+        "e": "reserva de, no mínimo, 2% das vagas nos contratos de serviços contínuos, exigível apenas no início da contratação."
+      },
+      "gabarito": "c",
+      "comentario": "Art. 7º, I e IV, da Resolução CSJT nº 386/2024. A reserva deve ser mantida, em especial nas vacâncias de cargo anteriormente ocupado por pessoa com deficiência (inciso II), e o quantitativo nos contratos deve ser mantido durante toda a vigência."
+    },
+    {
+      "id": "pcd-057",
+      "assunto": "Resolução CSJT nº 386/2024 – Comitê Gestor Nacional",
+      "origem": "fcc",
+      "enunciado": "Nos termos da Resolução CSJT nº 386/2024, o Comitê Gestor Nacional da Política de Acessibilidade e Inclusão das Pessoas com Deficiência",
+      "alternativas": {
+        "a": "reúne-se mensalmente, em caráter ordinário, vedadas reuniões extraordinárias.",
+        "b": "é coordenado por magistrado de Tribunal Regional do Trabalho eleito pelos demais membros.",
+        "c": "tem membros com mandato de quatro anos, vedada a recondução.",
+        "d": "reúne-se semestralmente, em caráter ordinário, mediante convocação do Presidente do TST.",
+        "e": "reúne-se trimestralmente, em caráter ordinário, podendo ser convocadas reuniões extraordinárias a critério do coordenador."
+      },
+      "gabarito": "e",
+      "comentario": "Art. 9º da Resolução CSJT nº 386/2024. O Comitê é coordenado por Ministro indicado pela Presidência do CSJT (art. 8º, I), com mandato de até dois anos para os membros dos incisos I a III, permitida recondução por um mandato consecutivo ou três alternados (art. 8º, § 2º)."
+    },
+    {
+      "id": "pcd-058",
+      "assunto": "Resolução CSJT nº 386/2024 – Comissão Permanente de Acessibilidade e Inclusão",
+      "origem": "fcc",
+      "enunciado": "A respeito da Comissão Permanente de Acessibilidade e Inclusão que os Tribunais Regionais do Trabalho devem constituir, a Resolução CSJT nº 386/2024 estabelece que",
+      "alternativas": {
+        "a": "deverá ser presidida por servidor com deficiência e contar com, pelo menos, um magistrado.",
+        "b": "deverá ser presidida por magistrado e garantir a participação de, pelo menos, dois magistrados e/ou servidores com deficiência.",
+        "c": "terá caráter temporário, sendo extinta após a elaboração do plano de ações.",
+        "d": "os tribunais que não a houvessem constituído deveriam fazê-lo no prazo máximo de 90 dias da publicação da Resolução.",
+        "e": "apresentará relatório semestral ao Comitê Gestor Nacional, dispensada a comunicação à Presidência do Tribunal."
+      },
+      "gabarito": "b",
+      "comentario": "Art. 11, §§ 1º e 2º, da Resolução CSJT nº 386/2024. O prazo para constituição era de 30 dias (§ 3º) e a Comissão apresenta relatório anual à Presidência do Tribunal (art. 13)."
+    },
+    {
+      "id": "pcd-059",
+      "assunto": "Resolução CSJT nº 386/2024 – unidade de acessibilidade e inclusão",
+      "origem": "inedita",
+      "enunciado": "Um Tribunal Regional do Trabalho pretende designar um único servidor para compor a sua unidade de acessibilidade e inclusão, vinculando-a a uma secretaria de nível intermediário. À luz da Resolução CSJT nº 386/2024, essa medida",
+      "alternativas": {
+        "a": "atende à Resolução, que deixa a estrutura e a composição da unidade a critério de cada Tribunal.",
+        "b": "atende à Resolução, desde que o servidor designado seja pessoa com deficiência.",
+        "c": "não atende à Resolução, que exige que a unidade seja subordinada ao Comitê Gestor Nacional do CSJT.",
+        "d": "não atende à Resolução, que exige unidade própria e exclusiva, subordinada diretamente à Presidência, à Secretaria-Geral ou à Diretoria-Geral, vedada a composição por servidor único.",
+        "e": "não atende à Resolução apenas quanto à vinculação, pois a composição por servidor único é expressamente admitida."
+      },
+      "gabarito": "d",
+      "comentario": "Art. 14, caput e parágrafo único, da Resolução CSJT nº 386/2024: a unidade deve contar com corpo funcional próprio suficiente, vedada a composição por servidor único."
+    },
+    {
+      "id": "pcd-060",
+      "assunto": "Resolução CSJT nº 386/2024 – princípios",
+      "origem": "fcc",
+      "enunciado": "Constitui princípio expresso da Política de Acessibilidade e Inclusão das Pessoas com Deficiência da Justiça do Trabalho, nos termos da Resolução CSJT nº 386/2024,",
+      "alternativas": {
+        "a": "a interseccionalidade como ferramenta de análise e definição de medidas de proteção.",
+        "b": "a supremacia do interesse da Administração sobre as necessidades individuais de acessibilidade.",
+        "c": "a reserva do possível como limite à implementação das medidas de acessibilidade.",
+        "d": "a centralização das decisões sobre acessibilidade exclusivamente no CSJT.",
+        "e": "a preferência pela atuação assistencialista em detrimento da autonomia da pessoa com deficiência."
+      },
+      "gabarito": "a",
+      "comentario": "Art. 4º, XI, da Resolução CSJT nº 386/2024. São também princípios a promoção do anticapacitismo, a não discriminação, o atendimento prioritário e o diálogo social, entre outros."
+    }
+  ]
+}

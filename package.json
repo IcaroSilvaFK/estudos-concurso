@@ -1,0 +1,23 @@
+{
+  "name": "estudos-concurso",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Banco de questões (estilo FCC) para o concurso do TRT da 8ª Região",
+  "type": "module",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "questoes": "node scripts/build.mjs"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "recharts": "^2.15.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.3",
+    "vite": "^5.4.10"
+  }
+}

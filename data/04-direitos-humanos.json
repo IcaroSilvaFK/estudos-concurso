@@ -1,0 +1,1056 @@
+{
+  "disciplina": "Noções de Direitos Humanos",
+  "prefixo": "dh",
+  "questoes": [
+    {
+      "id": "dh-001",
+      "assunto": "Gerações (dimensões) de direitos humanos",
+      "origem": "fcc",
+      "enunciado": "Na classificação dos direitos humanos em gerações (ou dimensões), associada ao lema da Revolução Francesa, os direitos de segunda geração relacionam-se ao valor:",
+      "alternativas": {
+        "a": "liberdade, abrangendo os direitos civis e políticos.",
+        "b": "igualdade, abrangendo os direitos econômicos, sociais e culturais.",
+        "c": "fraternidade, abrangendo o direito ao meio ambiente e à paz.",
+        "d": "segurança, abrangendo o direito de propriedade.",
+        "e": "solidariedade, abrangendo os direitos políticos."
+      },
+      "gabarito": "b",
+      "comentario": "Na classificação de Karel Vasak, a 1ª geração corresponde à liberdade (direitos civis e políticos), a 2ª à igualdade (direitos econômicos, sociais e culturais) e a 3ª à fraternidade ou solidariedade (paz, meio ambiente, desenvolvimento)."
+    },
+    {
+      "id": "dh-002",
+      "assunto": "Características dos direitos humanos",
+      "origem": "fcc",
+      "enunciado": "Ao afirmar que 'todos os direitos humanos são universais, indivisíveis, interdependentes e inter-relacionados', a Declaração e Programa de Ação de Viena (1993) rejeita:",
+      "alternativas": {
+        "a": "a hierarquização entre direitos civis e políticos e direitos econômicos, sociais e culturais.",
+        "b": "a proteção internacional dos direitos humanos.",
+        "c": "a aplicação dos tratados pelos tribunais internos.",
+        "d": "a existência de direitos sociais.",
+        "e": "a atuação de organismos internacionais de monitoramento."
+      },
+      "gabarito": "a",
+      "comentario": "A indivisibilidade e a interdependência significam que não há hierarquia entre as categorias de direitos: devem ser tratados de forma global, justa e equitativa, com o mesmo peso."
+    },
+    {
+      "id": "dh-003",
+      "assunto": "Declaração Universal dos Direitos Humanos",
+      "origem": "fcc",
+      "enunciado": "A Declaração Universal dos Direitos Humanos:",
+      "alternativas": {
+        "a": "é um tratado internacional ratificado pelos Estados, com mecanismo próprio de petições individuais.",
+        "b": "foi aprovada pelo Conselho de Segurança da ONU em 1945.",
+        "c": "prevê apenas direitos civis e políticos.",
+        "d": "foi adotada em 1948 sob a forma de resolução da Assembleia Geral da ONU, sendo considerada por grande parte da doutrina como expressão do costume internacional.",
+        "e": "foi incorporada ao direito brasileiro com status de emenda constitucional."
+      },
+      "gabarito": "d",
+      "comentario": "A DUDH foi adotada em 10/12/1948 pela Resolução 217-A (III) da Assembleia Geral. Formalmente não é tratado, mas há forte entendimento de que vincula como costume internacional e princípios gerais. Ela contempla direitos civis, políticos, econômicos, sociais e culturais."
+    },
+    {
+      "id": "dh-004",
+      "assunto": "Tratados de direitos humanos em face da CF/1988",
+      "origem": "fcc",
+      "enunciado": "Conforme a Constituição Federal, os tratados e convenções internacionais sobre direitos humanos que forem aprovados, em cada Casa do Congresso Nacional, em dois turnos, por três quintos dos votos dos respectivos membros:",
+      "alternativas": {
+        "a": "terão status de lei ordinária.",
+        "b": "terão status supralegal, mas infraconstitucional.",
+        "c": "serão equivalentes às emendas constitucionais.",
+        "d": "dependerão de referendo popular para vigorar.",
+        "e": "terão status de lei complementar."
+      },
+      "gabarito": "c",
+      "comentario": "Art. 5º, §3º, da CF (incluído pela EC nº 45/2004). Exemplo: a Convenção sobre os Direitos das Pessoas com Deficiência e seu Protocolo Facultativo (Decreto nº 6.949/2009)."
+    },
+    {
+      "id": "dh-005",
+      "assunto": "Tratados de direitos humanos em face da CF/1988",
+      "origem": "fcc",
+      "enunciado": "Segundo o entendimento firmado pelo Supremo Tribunal Federal (RE 466.343), os tratados internacionais de direitos humanos ratificados pelo Brasil e NÃO aprovados pelo rito do art. 5º, §3º, da Constituição possuem status:",
+      "alternativas": {
+        "a": "constitucional.",
+        "b": "de lei ordinária.",
+        "c": "supralegal.",
+        "d": "de decreto regulamentar.",
+        "e": "supraconstitucional."
+      },
+      "gabarito": "c",
+      "comentario": "Pela tese da supralegalidade, esses tratados ficam abaixo da Constituição e acima da legislação ordinária. Daí a Súmula Vinculante 25: é ilícita a prisão civil de depositário infiel, qualquer que seja a modalidade do depósito."
+    },
+    {
+      "id": "dh-006",
+      "assunto": "Controle de convencionalidade",
+      "origem": "fcc",
+      "enunciado": "O controle de convencionalidade consiste na:",
+      "alternativas": {
+        "a": "verificação da compatibilidade das leis com a Constituição, exclusivamente pelo STF.",
+        "b": "verificação da regularidade formal dos atos administrativos.",
+        "c": "análise da conveniência política da ratificação de tratados.",
+        "d": "revisão dos tratados internacionais pelo Poder Legislativo.",
+        "e": "compatibilização vertical das normas internas com os tratados internacionais de direitos humanos em vigor no Estado."
+      },
+      "gabarito": "e",
+      "comentario": "É a aferição da compatibilidade das normas internas com os tratados de direitos humanos. A Corte Interamericana firmou o dever de juízes nacionais exercerem esse controle no caso Almonacid Arellano vs. Chile (2006)."
+    },
+    {
+      "id": "dh-007",
+      "assunto": "Colisão entre direitos humanos: teorias para resolução",
+      "origem": "fcc",
+      "enunciado": "Na solução de colisões entre direitos fundamentais, a técnica da ponderação, associada à máxima da proporcionalidade, compreende o exame de:",
+      "alternativas": {
+        "a": "adequação, necessidade e proporcionalidade em sentido estrito.",
+        "b": "legalidade, moralidade e eficiência.",
+        "c": "hierarquia, cronologia e especialidade.",
+        "d": "anterioridade, irretroatividade e razoabilidade.",
+        "e": "publicidade, impessoalidade e motivação."
+      },
+      "gabarito": "a",
+      "comentario": "Na formulação de Robert Alexy, a proporcionalidade se desdobra em adequação (o meio fomenta o fim), necessidade (não há meio menos gravoso igualmente eficaz) e proporcionalidade em sentido estrito (sopesamento). Hierarquia, cronologia e especialidade são critérios para antinomias entre regras."
+    },
+    {
+      "id": "dh-008",
+      "assunto": "Interpretação dos tratados de direitos humanos",
+      "origem": "inedita",
+      "enunciado": "Na interpretação dos tratados de direitos humanos, havendo conflito entre normas internacionais e internas, deve prevalecer a norma que for mais favorável à pessoa humana. Trata-se do princípio:",
+      "alternativas": {
+        "a": "da reserva do possível.",
+        "b": "da soberania absoluta.",
+        "c": "lex posterior derogat priori.",
+        "d": "pro persona (ou da primazia da norma mais favorável).",
+        "e": "da reciprocidade."
+      },
+      "gabarito": "d",
+      "comentario": "O princípio pro persona (pro homine) orienta a aplicar a norma e a interpretação que assegurem maior proteção, independentemente da hierarquia ou da origem (interna ou internacional) da norma."
+    },
+    {
+      "id": "dh-009",
+      "assunto": "PIDCP e protocolos facultativos",
+      "origem": "fcc",
+      "enunciado": "Sobre o Pacto Internacional dos Direitos Civis e Políticos e seus Protocolos Facultativos, é correto afirmar:",
+      "alternativas": {
+        "a": "O Pacto não admite qualquer derrogação de direitos em situações de emergência.",
+        "b": "O Segundo Protocolo Facultativo institui a pena de morte para crimes de guerra.",
+        "c": "O Pacto é monitorado pelo Comitê de Direitos Econômicos, Sociais e Culturais.",
+        "d": "O Brasil não ratificou nenhum dos Protocolos Facultativos.",
+        "e": "O Primeiro Protocolo Facultativo permite que o Comitê de Direitos Humanos receba comunicações de indivíduos que aleguem ser vítimas de violação dos direitos do Pacto."
+      },
+      "gabarito": "e",
+      "comentario": "O 1º Protocolo permite petições individuais ao Comitê de Direitos Humanos. O 2º visa à abolição da pena de morte. O Brasil aderiu a ambos (aprovação pelo Decreto Legislativo nº 311/2009). O art. 4º do Pacto admite derrogações em emergências, exceto para direitos inderrogáveis."
+    },
+    {
+      "id": "dh-010",
+      "assunto": "PIDESC e protocolo facultativo",
+      "origem": "fcc",
+      "enunciado": "Nos termos do Pacto Internacional dos Direitos Econômicos, Sociais e Culturais, cada Estado-parte compromete-se a adotar medidas, até o máximo de seus recursos disponíveis, que visem assegurar:",
+      "alternativas": {
+        "a": "a imediata e integral efetivação de todos os direitos, sob pena de sanção do Conselho de Segurança.",
+        "b": "exclusivamente os direitos civis de seus nacionais.",
+        "c": "progressivamente, por todos os meios apropriados, o pleno exercício dos direitos reconhecidos no Pacto.",
+        "d": "a efetivação dos direitos apenas para estrangeiros residentes.",
+        "e": "a efetivação dos direitos condicionada à aprovação de lei complementar."
+      },
+      "gabarito": "c",
+      "comentario": "O art. 2º, §1º, do PIDESC consagra a realização progressiva. Daí decorrem a proibição de retrocesso social e o dever de usar o máximo de recursos disponíveis."
+    },
+    {
+      "id": "dh-011",
+      "assunto": "PIDESC e protocolo facultativo",
+      "origem": "fcc",
+      "enunciado": "Quanto ao monitoramento do PIDESC, é correto afirmar:",
+      "alternativas": {
+        "a": "O Comitê de Direitos Econômicos, Sociais e Culturais foi criado pelo próprio texto original do Pacto, em 1966.",
+        "b": "O Comitê de Direitos Humanos é o órgão responsável pelo monitoramento do PIDESC.",
+        "c": "O PIDESC não prevê qualquer sistema de relatórios.",
+        "d": "O PIDESC só admite monitoramento pela Corte Internacional de Justiça.",
+        "e": "O Protocolo Facultativo ao PIDESC, adotado em 2008, prevê a possibilidade de comunicações individuais ao Comitê DESC."
+      },
+      "gabarito": "e",
+      "comentario": "O Comitê DESC foi criado em 1985 por resolução do ECOSOC, e não pelo texto do Pacto. O Pacto prevê relatórios periódicos. O Protocolo Facultativo de 2008 trouxe as petições individuais."
+    },
+    {
+      "id": "dh-012",
+      "assunto": "Evolução histórica dos direitos humanos",
+      "origem": "fcc",
+      "enunciado": "São marcos históricos do constitucionalismo social, que consagraram direitos sociais e trabalhistas em textos constitucionais:",
+      "alternativas": {
+        "a": "a Magna Carta (1215) e o Bill of Rights (1689).",
+        "b": "a Constituição do México (1917) e a Constituição de Weimar (1919).",
+        "c": "a Declaração de Virgínia (1776) e a Declaração dos Direitos do Homem e do Cidadão (1789).",
+        "d": "o Habeas Corpus Act (1679) e a Petition of Rights (1628).",
+        "e": "a Paz de Vestfália (1648) e o Congresso de Viena (1815)."
+      },
+      "gabarito": "b",
+      "comentario": "As Constituições mexicana (1917) e alemã de Weimar (1919) são os marcos do constitucionalismo social, com direitos de 2ª geração. Os documentos ingleses e as declarações do século XVIII marcam os direitos de liberdade (1ª geração)."
+    },
+    {
+      "id": "dh-013",
+      "assunto": "Fundamentos filosóficos dos direitos humanos",
+      "origem": "inedita",
+      "enunciado": "A concepção segundo a qual o ser humano deve ser tratado sempre como um fim em si mesmo, e nunca como mero meio, sendo dotado de dignidade e não de preço, é associada ao pensamento de:",
+      "alternativas": {
+        "a": "Thomas Hobbes.",
+        "b": "Nicolau Maquiavel.",
+        "c": "Immanuel Kant.",
+        "d": "Hans Kelsen.",
+        "e": "Karl Marx."
+      },
+      "gabarito": "c",
+      "comentario": "Na Fundamentação da Metafísica dos Costumes, Kant formula o imperativo categórico e distingue o que tem preço do que tem dignidade. É um dos principais fundamentos filosóficos da dignidade da pessoa humana."
+    },
+    {
+      "id": "dh-014",
+      "assunto": "Fontes e princípios dos direitos humanos",
+      "origem": "fcc",
+      "enunciado": "Segundo a Convenção de Viena sobre o Direito dos Tratados (1969), é nulo o tratado que, no momento de sua conclusão, conflite com norma:",
+      "alternativas": {
+        "a": "imperativa de Direito Internacional geral (jus cogens).",
+        "b": "editada pelo Secretário-Geral da ONU.",
+        "c": "de soft law.",
+        "d": "regional de comércio.",
+        "e": "de direito interno de qualquer dos Estados-partes."
+      },
+      "gabarito": "a",
+      "comentario": "Art. 53 da Convenção de Viena: jus cogens é a norma aceita e reconhecida pela comunidade internacional como um todo como norma da qual nenhuma derrogação é permitida. Exemplo: a proibição da tortura e da escravidão."
+    },
+    {
+      "id": "dh-015",
+      "assunto": "PIDCP e protocolos facultativos",
+      "origem": "inedita",
+      "enunciado": "Em situações excepcionais que ameacem a existência da nação, o PIDCP admite a suspensão de algumas obrigações. Entre os direitos abaixo, aquele que PODE ser objeto de derrogação é:",
+      "alternativas": {
+        "a": "o direito à vida.",
+        "b": "a proibição da escravidão.",
+        "c": "a liberdade de circulação e de escolha de residência.",
+        "d": "a proibição da tortura.",
+        "e": "a liberdade de pensamento, de consciência e de religião."
+      },
+      "gabarito": "c",
+      "comentario": "O art. 4º, §2º, do PIDCP lista direitos inderrogáveis: vida (art. 6), proibição de tortura (7), de escravidão (8, §§1º e 2º), de prisão por descumprimento contratual (11), irretroatividade penal (15), personalidade jurídica (16) e liberdade de pensamento, consciência e religião (18). A liberdade de circulação (art. 12) não está nesse rol."
+    },
+    {
+      "id": "dh-016",
+      "assunto": "Evolução histórica dos direitos humanos",
+      "origem": "fcc",
+      "enunciado": "Documento outorgado em 1215 pelo rei João Sem Terra, que limitou o poder monárquico e previu que nenhum homem livre seria preso ou privado de seus bens senão mediante julgamento legal de seus pares ou pela lei da terra. Trata-se da:",
+      "alternativas": {
+        "a": "Declaração de Direitos do Bom Povo de Virgínia.",
+        "b": "Magna Carta.",
+        "c": "Bill of Rights.",
+        "d": "Petition of Right.",
+        "e": "Lei de Habeas Corpus."
+      },
+      "gabarito": "b",
+      "comentario": "A Magna Carta (1215), imposta pelos barões ingleses a João Sem Terra, é apontada como antecedente histórico das garantias do devido processo legal (law of the land). A Petition of Right é de 1628, o Habeas Corpus Act de 1679 e o Bill of Rights de 1689."
+    },
+    {
+      "id": "dh-017",
+      "assunto": "Evolução histórica dos direitos humanos",
+      "origem": "fcc",
+      "enunciado": "Segundo a doutrina (Flávia Piovesan), são precedentes históricos do processo de internacionalização dos direitos humanos, por romperem com a concepção de soberania estatal absoluta:",
+      "alternativas": {
+        "a": "o Direito Humanitário, a Liga das Nações e a Organização Internacional do Trabalho.",
+        "b": "o Tratado de Westfália, o Congresso de Viena de 1815 e a Doutrina Monroe.",
+        "c": "a Declaração dos Direitos do Homem e do Cidadão, a Revolução Industrial e o Manifesto Comunista.",
+        "d": "a Constituição do México de 1917, a Constituição de Weimar de 1919 e a Constituição brasileira de 1934.",
+        "e": "a Magna Carta, o Bill of Rights e a Declaração de Virgínia."
+      },
+      "gabarito": "a",
+      "comentario": "Para Piovesan, o Direito Humanitário, a Liga das Nações e a OIT (1919) foram os primeiros marcos da internacionalização, ao admitirem a intervenção internacional para proteção de direitos e relativizarem a soberania estatal."
+    },
+    {
+      "id": "dh-018",
+      "assunto": "Evolução histórica dos direitos humanos",
+      "origem": "fcc",
+      "enunciado": "Sobre o Pacto Internacional dos Direitos Civis e Políticos e o Pacto Internacional dos Direitos Econômicos, Sociais e Culturais, é correto afirmar:",
+      "alternativas": {
+        "a": "Foram adotados pela Assembleia Geral da ONU em 1966, entraram em vigor no plano internacional em 1976 e foram promulgados no Brasil em 1992.",
+        "b": "Foram ratificados pelo Brasil em 1969, antes de entrarem em vigor no plano internacional.",
+        "c": "Foram adotados em 1966, mas somente entraram em vigor no plano internacional após a Conferência de Viena de 1993.",
+        "d": "Resultaram da divisão do conteúdo da Declaração Universal em dois tratados, ambos desprovidos de órgãos de monitoramento.",
+        "e": "Foram adotados juntamente com a Declaração Universal, em 1948, como seus anexos obrigatórios."
+      },
+      "gabarito": "a",
+      "comentario": "Os Pactos foram adotados pela Assembleia Geral em 16/12/1966 e entraram em vigor em 1976. No Brasil, foram promulgados pelos Decretos nº 592/1992 (PIDCP) e nº 591/1992 (PIDESC)."
+    },
+    {
+      "id": "dh-019",
+      "assunto": "Evolução histórica dos direitos humanos",
+      "origem": "fcc",
+      "enunciado": "“Toda sociedade em que não esteja assegurada a garantia dos direitos nem determinada a separação dos poderes não tem Constituição.” Esse enunciado, marco do constitucionalismo liberal, consta da:",
+      "alternativas": {
+        "a": "Declaração Universal dos Direitos Humanos, de 1948.",
+        "b": "Constituição de Weimar, de 1919.",
+        "c": "Magna Carta, de 1215.",
+        "d": "Declaração de Independência dos Estados Unidos, de 1776.",
+        "e": "Declaração dos Direitos do Homem e do Cidadão, de 1789."
+      },
+      "gabarito": "e",
+      "comentario": "Trata-se do art. 16 da Declaração dos Direitos do Homem e do Cidadão (França, 1789), documento-símbolo dos direitos de liberdade de matriz liberal-burguesa."
+    },
+    {
+      "id": "dh-020",
+      "assunto": "Evolução histórica dos direitos humanos",
+      "origem": "fcc",
+      "enunciado": "O processo de internacionalização dos direitos humanos, em sua feição contemporânea, está associado:",
+      "alternativas": {
+        "a": "ao pós-Segunda Guerra Mundial, com a criação da ONU pela Carta de 1945 e a adoção da Declaração Universal em 1948, como resposta às atrocidades do nazismo.",
+        "b": "ao período entre guerras, com a criação da Corte Interamericana de Direitos Humanos pela Liga das Nações.",
+        "c": "à Paz de Westfália, que consagrou a responsabilidade internacional do Estado pela violação de direitos individuais.",
+        "d": "ao fim da Guerra Fria, quando se adotou o primeiro tratado internacional de proteção de direitos humanos.",
+        "e": "à Revolução Francesa, que instituiu o primeiro tribunal internacional de direitos humanos."
+      },
+      "gabarito": "a",
+      "comentario": "A reconstrução dos direitos humanos no pós-guerra (Carta da ONU de 1945 e DUDH de 1948) é o marco da internacionalização contemporânea, com a relativização da soberania estatal e o reconhecimento do indivíduo como sujeito de direito internacional."
+    },
+    {
+      "id": "dh-021",
+      "assunto": "Fundamentos filosóficos dos direitos humanos",
+      "origem": "fcc",
+      "enunciado": "Em “A Era dos Direitos”, Norberto Bobbio sustenta que o problema fundamental em relação aos direitos do homem, hoje, não é tanto o de:",
+      "alternativas": {
+        "a": "positivá-los, mas o de reconhecê-los como direitos naturais anteriores ao Estado.",
+        "b": "protegê-los, mas o de encontrar um fundamento absoluto e irresistível para eles.",
+        "c": "efetivá-los, mas o de defini-los a partir de uma natureza humana imutável.",
+        "d": "justificá-los, mas o de protegê-los, tratando-se de problema não filosófico, mas político.",
+        "e": "universalizá-los, mas o de restringi-los às tradições culturais de cada povo."
+      },
+      "gabarito": "d",
+      "comentario": "Bobbio afirma que o problema grave de nosso tempo não é mais o de fundamentar os direitos do homem, e sim o de protegê-los, rejeitando a busca de um fundamento absoluto (A Era dos Direitos)."
+    },
+    {
+      "id": "dh-022",
+      "assunto": "Fundamentos filosóficos dos direitos humanos",
+      "origem": "fcc",
+      "enunciado": "A expressão “direito a ter direitos”, que identifica a cidadania como pressuposto para a titularidade de direitos e inspirou a leitura de Celso Lafer sobre a reconstrução dos direitos humanos no pós-guerra, é atribuída a:",
+      "alternativas": {
+        "a": "Hannah Arendt.",
+        "b": "Hans Kelsen.",
+        "c": "John Locke.",
+        "d": "Thomas Hobbes.",
+        "e": "Jean-Jacques Rousseau."
+      },
+      "gabarito": "a",
+      "comentario": "Hannah Arendt, em “Origens do Totalitarismo”, ao analisar a situação dos apátridas, cunhou a ideia do direito a ter direitos; Celso Lafer desenvolveu essa reflexão em “A reconstrução dos direitos humanos”."
+    },
+    {
+      "id": "dh-023",
+      "assunto": "Fundamentos filosóficos dos direitos humanos",
+      "origem": "inedita",
+      "enunciado": "No debate entre universalismo e relativismo cultural, a Declaração e Programa de Ação de Viena (1993):",
+      "alternativas": {
+        "a": "adota o relativismo cultural forte, segundo o qual cada Estado define livremente quais direitos humanos reconhece.",
+        "b": "admite que as particularidades nacionais e regionais e os diversos contextos históricos, culturais e religiosos devem ser levados em consideração, mas afirma ser dever dos Estados promover e proteger todos os direitos humanos, independentemente de seus sistemas políticos, econômicos e culturais.",
+        "c": "condiciona a proteção dos direitos humanos ao grau de desenvolvimento econômico de cada Estado.",
+        "d": "nega qualquer relevância às particularidades culturais, por considerá-las incompatíveis com a universalidade.",
+        "e": "afirma que os direitos humanos são universais apenas no tocante aos direitos civis e políticos, sendo relativos os direitos sociais."
+      },
+      "gabarito": "b",
+      "comentario": "O § 5º da Declaração de Viena consagra um universalismo que considera as particularidades culturais, mas não as admite como justificativa para descumprir o dever estatal de proteger todos os direitos humanos."
+    },
+    {
+      "id": "dh-024",
+      "assunto": "Fontes e princípios dos direitos humanos",
+      "origem": "fcc",
+      "enunciado": "Nos termos do art. 38 do Estatuto da Corte Internacional de Justiça, frequentemente invocado como rol das fontes do Direito Internacional, inclusive dos direitos humanos, as decisões judiciárias e a doutrina dos juristas mais qualificados das diferentes nações constituem:",
+      "alternativas": {
+        "a": "fonte equivalente ao costume internacional, dotada de força vinculante geral.",
+        "b": "fonte principal, hierarquicamente superior aos tratados.",
+        "c": "meio auxiliar para a determinação das regras de direito.",
+        "d": "fontes vedadas na fundamentação das decisões da Corte.",
+        "e": "normas de jus cogens."
+      },
+      "gabarito": "c",
+      "comentario": "O art. 38, 1, do Estatuto da CIJ elenca convenções, costume e princípios gerais de direito, mencionando as decisões judiciárias e a doutrina como meio auxiliar para a determinação das regras de direito (alínea d)."
+    },
+    {
+      "id": "dh-025",
+      "assunto": "Classificação dos direitos humanos",
+      "origem": "fcc",
+      "enunciado": "Segundo a teoria dos status de Georg Jellinek, os direitos que asseguram ao indivíduo uma esfera de liberdade imune à interferência estatal, a exemplo das liberdades públicas clássicas, correspondem ao status:",
+      "alternativas": {
+        "a": "negativo.",
+        "b": "passivo.",
+        "c": "subjetivo.",
+        "d": "ativo.",
+        "e": "positivo."
+      },
+      "gabarito": "a",
+      "comentario": "Para Jellinek, o status negativo (status libertatis) corresponde à liberdade frente ao Estado; o positivo, à exigência de prestações estatais; o ativo, à participação na formação da vontade estatal; e o passivo, à sujeição do indivíduo ao Estado."
+    },
+    {
+      "id": "dh-026",
+      "assunto": "Características dos direitos humanos",
+      "origem": "fcc",
+      "enunciado": "Ao afirmar que os direitos humanos não nascem todos de uma vez, mas surgem gradualmente, a partir de lutas e de circunstâncias concretas, a doutrina refere-se à característica da:",
+      "alternativas": {
+        "a": "irrenunciabilidade.",
+        "b": "imprescritibilidade.",
+        "c": "universalidade.",
+        "d": "historicidade.",
+        "e": "inalienabilidade."
+      },
+      "gabarito": "d",
+      "comentario": "A historicidade indica que os direitos humanos são construídos ao longo da história, em resposta a lutas e demandas concretas, como enfatiza Bobbio ao afirmar que são direitos históricos."
+    },
+    {
+      "id": "dh-027",
+      "assunto": "Características dos direitos humanos",
+      "origem": "inedita",
+      "enunciado": "Lei superveniente que suprime, sem qualquer medida compensatória, o nível de concretização já alcançado por um direito social, esvaziando seu conteúdo, afronta o princípio:",
+      "alternativas": {
+        "a": "da margem nacional de apreciação.",
+        "b": "da reserva do possível.",
+        "c": "da subsidiariedade.",
+        "d": "da reciprocidade.",
+        "e": "da proibição do retrocesso (efeito cliquet)."
+      },
+      "gabarito": "e",
+      "comentario": "A vedação do retrocesso (efeito cliquet) impede que o Estado elimine ou reduza injustificadamente a proteção já alcançada por um direito, decorrendo, no PIDESC, da lógica da realização progressiva (art. 2º, § 1º)."
+    },
+    {
+      "id": "dh-028",
+      "assunto": "Características dos direitos humanos",
+      "origem": "fcc",
+      "enunciado": "Considere as seguintes afirmações sobre as características dos direitos humanos:\nI. A universalidade significa que a condição de pessoa é o requisito único para a titularidade de direitos.\nII. Os direitos humanos são absolutos, não admitindo, em nenhuma hipótese, restrição ou ponderação.\nIII. A imprescritibilidade significa que os direitos humanos não se perdem pelo decurso do tempo.\nEstá correto o que se afirma APENAS em:",
+      "alternativas": {
+        "a": "I e II.",
+        "b": "I e III.",
+        "c": "II e III.",
+        "d": "II.",
+        "e": "III."
+      },
+      "gabarito": "b",
+      "comentario": "Os direitos humanos são, em regra, relativos, podendo sofrer restrições e ponderação (salvo hipóteses como a proibição da tortura e da escravidão); a universalidade e a imprescritibilidade estão corretamente definidas."
+    },
+    {
+      "id": "dh-029",
+      "assunto": "Gerações (dimensões) de direitos humanos",
+      "origem": "fcc",
+      "enunciado": "A classificação dos direitos humanos em “gerações” é objeto de crítica doutrinária, que prefere o termo “dimensões”, porque aquela expressão:",
+      "alternativas": {
+        "a": "foi expressamente vedada pela Declaração Universal dos Direitos Humanos.",
+        "b": "atribui caráter meramente programático aos direitos civis e políticos.",
+        "c": "sugere a ideia equivocada de substituição de uma geração de direitos pela seguinte, quando, na verdade, há acumulação e interação entre eles.",
+        "d": "pressupõe que os direitos de liberdade surgiram após os direitos de solidariedade.",
+        "e": "impede o reconhecimento de direitos sociais como direitos humanos."
+      },
+      "gabarito": "c",
+      "comentario": "A crítica (feita, entre outros, por Cançado Trindade) aponta que “gerações” sugere sucessão e substituição, quando os direitos se acumulam e são indivisíveis e interdependentes; daí a preferência por “dimensões”."
+    },
+    {
+      "id": "dh-030",
+      "assunto": "Gerações (dimensões) de direitos humanos",
+      "origem": "fcc",
+      "enunciado": "Para Paulo Bonavides, integram a quarta dimensão dos direitos fundamentais, resultante da globalização política, os direitos:",
+      "alternativas": {
+        "a": "à saúde, à educação e à previdência social.",
+        "b": "ao voto, à associação e à reunião.",
+        "c": "à democracia, à informação e ao pluralismo.",
+        "d": "à greve, à sindicalização e ao salário mínimo.",
+        "e": "à vida, à liberdade e à propriedade."
+      },
+      "gabarito": "c",
+      "comentario": "Bonavides identifica como direitos de quarta dimensão a democracia (direta), a informação e o pluralismo, decorrentes da globalização dos direitos fundamentais; ele situa o direito à paz em uma quinta dimensão."
+    },
+    {
+      "id": "dh-031",
+      "assunto": "Fontes e princípios dos direitos humanos",
+      "origem": "fcc",
+      "enunciado": "O princípio da subsidiariedade dos mecanismos internacionais de proteção dos direitos humanos se manifesta, por exemplo, no Primeiro Protocolo Facultativo ao PIDCP, que condiciona o exame de comunicações individuais pelo Comitê de Direitos Humanos:",
+      "alternativas": {
+        "a": "à prévia autorização do Estado denunciado em cada caso concreto.",
+        "b": "à demonstração de que o indivíduo já recorreu à Corte Internacional de Justiça.",
+        "c": "à representação da vítima por organização não governamental registrada na ONU.",
+        "d": "à aprovação do Conselho de Segurança da ONU.",
+        "e": "ao prévio esgotamento dos recursos internos disponíveis, salvo se a aplicação desses recursos se prolongar injustificadamente."
+      },
+      "gabarito": "e",
+      "comentario": "Os arts. 2º e 5º, § 2º, “b”, do Primeiro Protocolo Facultativo exigem o esgotamento dos recursos internos, salvo quando sua aplicação exceder prazos razoáveis, expressão da natureza subsidiária da proteção internacional."
+    },
+    {
+      "id": "dh-032",
+      "assunto": "Interpretação dos tratados de direitos humanos",
+      "origem": "fcc",
+      "enunciado": "Segundo a regra geral de interpretação prevista no art. 31 da Convenção de Viena sobre o Direito dos Tratados (1969), aplicável aos tratados de direitos humanos, um tratado deve ser interpretado:",
+      "alternativas": {
+        "a": "exclusivamente a partir dos trabalhos preparatórios, que prevalecem sobre o texto.",
+        "b": "literalmente, vedando-se o recurso ao objeto e à finalidade do tratado.",
+        "c": "conforme a legislação interna de cada Estado, que define o alcance das obrigações assumidas.",
+        "d": "restritivamente, sempre em favor da soberania do Estado-parte.",
+        "e": "de boa-fé, segundo o sentido comum atribuível aos seus termos em seu contexto e à luz de seu objetivo e finalidade."
+      },
+      "gabarito": "e",
+      "comentario": "O art. 31, 1, da Convenção de Viena estabelece a interpretação de boa-fé, segundo o sentido comum dos termos, no contexto e à luz do objeto e finalidade; os trabalhos preparatórios são meio suplementar (art. 32)."
+    },
+    {
+      "id": "dh-033",
+      "assunto": "Interpretação dos tratados de direitos humanos",
+      "origem": "fcc",
+      "enunciado": "A compreensão de que os tratados de direitos humanos são “instrumentos vivos”, cuja interpretação deve acompanhar a evolução dos tempos e as condições de vida atuais, corresponde à interpretação:",
+      "alternativas": {
+        "a": "restritiva.",
+        "b": "autêntica.",
+        "c": "evolutiva.",
+        "d": "histórica estrita.",
+        "e": "originalista."
+      },
+      "gabarito": "c",
+      "comentario": "A interpretação evolutiva, adotada pelas Cortes Europeia e Interamericana de Direitos Humanos, considera os tratados instrumentos vivos, interpretados de acordo com as condições atuais e não apenas segundo a intenção original das partes."
+    },
+    {
+      "id": "dh-034",
+      "assunto": "Interpretação dos tratados de direitos humanos",
+      "origem": "inedita",
+      "enunciado": "Determinado Estado-parte do PIDCP pretende restringir direito fundamental previsto em sua legislação interna, sob o argumento de que o Pacto o reconhece em menor grau. Nos termos do art. 5º, § 2º, do PIDCP, essa restrição:",
+      "alternativas": {
+        "a": "depende de autorização do Secretário-Geral da ONU.",
+        "b": "é admitida, pois o Pacto fixa o teto máximo de proteção dos direitos humanos.",
+        "c": "somente é admitida durante estado de emergência oficialmente proclamado.",
+        "d": "é admitida, desde que haja prévia comunicação ao Comitê de Direitos Humanos.",
+        "e": "não se admite, pois o Pacto não pode servir de pretexto para restringir ou suspender direitos reconhecidos ou vigentes no Estado em virtude de leis, convenções, regulamentos ou costumes."
+      },
+      "gabarito": "e",
+      "comentario": "O art. 5º, § 2º, do PIDCP veda a restrição ou suspensão de direitos reconhecidos ou vigentes em um Estado-parte a pretexto de que o Pacto não os reconheça ou os reconheça em menor grau, expressão do princípio da primazia da norma mais favorável."
+    },
+    {
+      "id": "dh-035",
+      "assunto": "Colisão entre direitos humanos: teorias para resolução",
+      "origem": "fcc",
+      "enunciado": "Para Robert Alexy, os princípios distinguem-se das regras porque os princípios são:",
+      "alternativas": {
+        "a": "normas que, em caso de conflito, se resolvem pela declaração de invalidade de uma delas.",
+        "b": "mandamentos definitivos, aplicáveis segundo a lógica do tudo ou nada.",
+        "c": "normas desprovidas de caráter normativo, de natureza meramente moral.",
+        "d": "mandamentos de otimização, que ordenam que algo seja realizado na maior medida possível, dentro das possibilidades fáticas e jurídicas existentes.",
+        "e": "normas que somente se aplicam na ausência de regra expressa."
+      },
+      "gabarito": "d",
+      "comentario": "Para Alexy, princípios são mandamentos de otimização, cujas colisões se resolvem por ponderação (dimensão de peso), ao passo que as regras são mandamentos definitivos, cujos conflitos se resolvem no plano da validade ou por cláusula de exceção."
+    },
+    {
+      "id": "dh-036",
+      "assunto": "Colisão entre direitos humanos: teorias para resolução",
+      "origem": "fcc",
+      "enunciado": "A afirmação de que as regras são aplicáveis à maneira do “tudo ou nada” (all-or-nothing), enquanto os princípios possuem uma dimensão de peso ou importância, ausente nas regras, é associada à obra de:",
+      "alternativas": {
+        "a": "Hans Kelsen.",
+        "b": "Norberto Bobbio.",
+        "c": "Ronald Dworkin.",
+        "d": "Carl Schmitt.",
+        "e": "Herbert Hart."
+      },
+      "gabarito": "c",
+      "comentario": "Em “Levando os direitos a sério”, Ronald Dworkin distingue regras (aplicadas na forma tudo ou nada) e princípios (dotados de dimensão de peso), distinção posteriormente desenvolvida por Alexy."
+    },
+    {
+      "id": "dh-037",
+      "assunto": "Colisão entre direitos humanos: teorias para resolução",
+      "origem": "inedita",
+      "enunciado": "Na solução de colisão entre direitos, o intérprete busca coordenar e harmonizar os bens jurídicos em conflito, de modo a evitar o sacrifício total de um em relação ao outro, preservando-se ao máximo cada um deles. Trata-se do princípio:",
+      "alternativas": {
+        "a": "da supremacia do interesse público.",
+        "b": "da hierarquia entre direitos fundamentais.",
+        "c": "da norma posterior (lex posterior).",
+        "d": "da concordância prática (harmonização).",
+        "e": "da especialidade."
+      },
+      "gabarito": "d",
+      "comentario": "O princípio da concordância prática, formulado por Konrad Hesse, exige que os bens em tensão sejam coordenados de forma a conservar a máxima eficácia de cada um, sem sacrifício integral de nenhum."
+    },
+    {
+      "id": "dh-038",
+      "assunto": "Tratados de direitos humanos em face da CF/1988",
+      "origem": "fcc",
+      "enunciado": "O art. 5º, § 2º, da Constituição Federal, ao dispor que os direitos e garantias nela expressos não excluem outros decorrentes do regime e dos princípios por ela adotados, ou dos tratados internacionais em que a República seja parte, consagra:",
+      "alternativas": {
+        "a": "a vedação à incorporação de novos direitos por meio de tratados.",
+        "b": "a equivalência automática de todos os tratados às emendas constitucionais.",
+        "c": "o procedimento especial de aprovação de tratados de direitos humanos.",
+        "d": "a submissão do Brasil à jurisdição do Tribunal Penal Internacional.",
+        "e": "a cláusula de abertura material do catálogo de direitos fundamentais."
+      },
+      "gabarito": "e",
+      "comentario": "O § 2º do art. 5º é cláusula de abertura (não tipicidade) dos direitos fundamentais; o rito especial que confere equivalência a emenda constitucional consta do § 3º, incluído pela EC nº 45/2004."
+    },
+    {
+      "id": "dh-039",
+      "assunto": "Tratados de direitos humanos em face da CF/1988",
+      "origem": "fcc",
+      "enunciado": "Foi incorporado ao ordenamento brasileiro com equivalência de emenda constitucional, por ter sido aprovado nos termos do art. 5º, § 3º, da Constituição Federal:",
+      "alternativas": {
+        "a": "o Pacto Internacional dos Direitos Econômicos, Sociais e Culturais.",
+        "b": "a Convenção Americana sobre Direitos Humanos (Pacto de San José da Costa Rica).",
+        "c": "a Convenção Internacional sobre os Direitos das Pessoas com Deficiência e seu Protocolo Facultativo.",
+        "d": "o Pacto Internacional dos Direitos Civis e Políticos.",
+        "e": "a Convenção contra a Tortura e Outros Tratamentos ou Penas Cruéis, Desumanos ou Degradantes."
+      },
+      "gabarito": "c",
+      "comentario": "A Convenção sobre os Direitos das Pessoas com Deficiência e seu Protocolo Facultativo (Decreto nº 6.949/2009) foram os primeiros tratados aprovados pelo rito do art. 5º, § 3º; os demais tratados indicados foram incorporados antes da EC nº 45/2004, possuindo status supralegal segundo o STF."
+    },
+    {
+      "id": "dh-040",
+      "assunto": "Tratados de direitos humanos em face da CF/1988",
+      "origem": "fcc",
+      "enunciado": "Nos termos da Súmula Vinculante nº 25 do Supremo Tribunal Federal:",
+      "alternativas": {
+        "a": "É lícita a prisão civil do depositário infiel, desde que decretada por juiz competente e limitada a um ano.",
+        "b": "É ilícita a prisão civil de depositário infiel, qualquer que seja a modalidade do depósito.",
+        "c": "É lícita a prisão civil do depositário judicial, sendo ilícita apenas a do depositário contratual.",
+        "d": "É ilícita a prisão civil do devedor de alimentos, por força do Pacto de San José da Costa Rica.",
+        "e": "É ilícita a prisão civil do depositário infiel apenas na alienação fiduciária em garantia."
+      },
+      "gabarito": "b",
+      "comentario": "A SV 25 decorre do julgamento do RE 466.343, no qual o STF reconheceu o status supralegal do Pacto de San José (art. 7º, 7) e do PIDCP (art. 11), que vedam a prisão por dívidas, salvo a do devedor de alimentos."
+    },
+    {
+      "id": "dh-041",
+      "assunto": "Tratados de direitos humanos em face da CF/1988",
+      "origem": "inedita",
+      "enunciado": "Considerando a tese da supralegalidade adotada pelo STF no RE 466.343, em relação à prisão do depositário infiel prevista no art. 5º, LXVII, da Constituição, é correto afirmar que:",
+      "alternativas": {
+        "a": "a prisão continua admitida, por prevalecer a norma constitucional sobre qualquer tratado.",
+        "b": "o dispositivo constitucional foi declarado inconstitucional por violar cláusula pétrea.",
+        "c": "o dispositivo constitucional não foi revogado, mas deixou de ter aplicabilidade diante do efeito paralisante dos tratados sobre a legislação infraconstitucional que o regulamentava.",
+        "d": "a legislação infraconstitucional permanece aplicável, pois os tratados têm status de lei ordinária.",
+        "e": "o dispositivo constitucional foi revogado pelo Pacto de San José, que possui hierarquia superior à Constituição."
+      },
+      "gabarito": "c",
+      "comentario": "No RE 466.343, prevaleceu o voto do Min. Gilmar Mendes: os tratados de direitos humanos não aprovados pelo rito do § 3º estão abaixo da Constituição, mas acima das leis, paralisando a eficácia da legislação infraconstitucional (anterior ou posterior) que disciplinava a prisão do depositário infiel."
+    },
+    {
+      "id": "dh-042",
+      "assunto": "Tratados de direitos humanos em face da CF/1988",
+      "origem": "fcc",
+      "enunciado": "Antes do julgamento do RE 466.343 (2008), o entendimento tradicional do Supremo Tribunal Federal, firmado no RE 80.004 (1977), atribuía aos tratados internacionais incorporados ao direito brasileiro:",
+      "alternativas": {
+        "a": "status supralegal, inclusive para tratados que não versassem sobre direitos humanos.",
+        "b": "hierarquia constitucional, por força do art. 5º, § 2º.",
+        "c": "natureza de lei complementar.",
+        "d": "paridade normativa com as leis ordinárias, resolvendo-se eventuais conflitos pelos critérios cronológico e da especialidade.",
+        "e": "hierarquia supraconstitucional."
+      },
+      "gabarito": "d",
+      "comentario": "No RE 80.004, o STF firmou a paridade entre tratados e leis ordinárias; no RE 466.343, a maioria passou a reconhecer status supralegal aos tratados de direitos humanos, vencida a tese da hierarquia constitucional defendida pelo Min. Celso de Mello."
+    },
+    {
+      "id": "dh-043",
+      "assunto": "Tratados de direitos humanos em face da CF/1988",
+      "origem": "fcc",
+      "enunciado": "Segundo a jurisprudência do STF (ADI 1.480 e CR 8.279), o processo de incorporação de tratados internacionais ao direito interno brasileiro, em regra, se completa com:",
+      "alternativas": {
+        "a": "a publicação do tratado no Diário Oficial pelo Ministério das Relações Exteriores, dispensada a aprovação congressual.",
+        "b": "a aprovação pelo Senado Federal por resolução, dispensada a ratificação.",
+        "c": "a mera assinatura do tratado pelo Presidente da República.",
+        "d": "a promulgação, por decreto do Presidente da República, após a aprovação do tratado pelo Congresso Nacional por decreto legislativo e sua ratificação.",
+        "e": "a homologação do tratado pelo Supremo Tribunal Federal."
+      },
+      "gabarito": "d",
+      "comentario": "Compete ao Presidente celebrar tratados (art. 84, VIII) e ao Congresso resolver definitivamente sobre eles (art. 49, I); após a ratificação, a promulgação por decreto presidencial confere executoriedade interna ao tratado, conforme o STF (ADI 1.480 e CR 8.279)."
+    },
+    {
+      "id": "dh-044",
+      "assunto": "Controle de convencionalidade",
+      "origem": "fcc",
+      "enunciado": "A Corte Interamericana de Direitos Humanos utilizou de forma expressa, pela primeira vez em decisão do Tribunal, a expressão “controle de convencionalidade” a ser exercido pelos juízes nacionais no caso:",
+      "alternativas": {
+        "a": "Barcelona Traction (1970).",
+        "b": "Almonacid Arellano e outros vs. Chile (2006).",
+        "c": "Gomes Lund e outros vs. Brasil (2010).",
+        "d": "Velásquez Rodríguez vs. Honduras (1988).",
+        "e": "Ximenes Lopes vs. Brasil (2006)."
+      },
+      "gabarito": "b",
+      "comentario": "No caso Almonacid Arellano vs. Chile (2006), envolvendo lei de anistia, a Corte IDH afirmou que o Poder Judiciário deve exercer uma espécie de controle de convencionalidade entre as normas internas e a Convenção Americana."
+    },
+    {
+      "id": "dh-045",
+      "assunto": "Controle de convencionalidade",
+      "origem": "fcc",
+      "enunciado": "Segundo a doutrina de Valerio Mazzuoli, o controle concentrado de convencionalidade, perante o STF, por meio das ações do controle abstrato, é cabível em relação aos tratados de direitos humanos:",
+      "alternativas": {
+        "a": "não ratificados pelo Brasil, mas assinados pelo Presidente da República.",
+        "b": "com status de lei ordinária.",
+        "c": "equivalentes às emendas constitucionais, aprovados pelo rito do art. 5º, § 3º, da Constituição.",
+        "d": "de qualquer natureza, ainda que não versem sobre direitos humanos.",
+        "e": "com status supralegal, exclusivamente."
+      },
+      "gabarito": "c",
+      "comentario": "Para Mazzuoli, os tratados equivalentes às emendas constitucionais servem de paradigma ao controle concentrado de convencionalidade; todos os tratados de direitos humanos em vigor podem fundamentar o controle difuso, exercido por qualquer juiz."
+    },
+    {
+      "id": "dh-046",
+      "assunto": "Controle de convencionalidade",
+      "origem": "fcc",
+      "enunciado": "De acordo com a jurisprudência da Corte Interamericana de Direitos Humanos (caso Trabalhadores Demitidos do Congresso vs. Peru, 2006), o controle de convencionalidade pelos órgãos do Poder Judiciário dos Estados-partes:",
+      "alternativas": {
+        "a": "somente pode ser realizado pela Suprema Corte de cada país.",
+        "b": "restringe-se aos tratados aprovados com quórum de emenda constitucional.",
+        "c": "depende sempre de requerimento expresso da parte interessada.",
+        "d": "deve ser exercido inclusive de ofício, no marco das respectivas competências e das regulamentações processuais pertinentes.",
+        "e": "é atribuição exclusiva da Corte Interamericana."
+      },
+      "gabarito": "d",
+      "comentario": "No caso Trabalhadores Demitidos do Congresso (Aguado Alfaro e outros) vs. Peru (2006), a Corte IDH afirmou que os órgãos judiciais devem exercer não só o controle de constitucionalidade, mas também o de convencionalidade ex officio."
+    },
+    {
+      "id": "dh-047",
+      "assunto": "Controle de convencionalidade",
+      "origem": "inedita",
+      "enunciado": "Na ADI 5.240, o STF apreciou provimento de tribunal de justiça que disciplinou a audiência de custódia. Sobre o tema, é correto afirmar que o STF:",
+      "alternativas": {
+        "a": "afastou a aplicação da Convenção Americana por não ter sido promulgada por decreto presidencial.",
+        "b": "declarou a inconstitucionalidade do ato por invadir competência privativa da União para legislar sobre processo penal.",
+        "c": "afirmou que a Convenção Americana possui status de emenda constitucional, por ter sido aprovada pelo rito do art. 5º, § 3º.",
+        "d": "entendeu que a audiência de custódia somente poderia ser instituída por emenda constitucional.",
+        "e": "reconheceu a validade do ato, entendendo que ele não inovou na ordem jurídica, pois apenas explicitou direito já previsto na Convenção Americana sobre Direitos Humanos (art. 7º, 5), de status supralegal, e no Código de Processo Penal."
+      },
+      "gabarito": "e",
+      "comentario": "Na ADI 5.240, o STF julgou improcedente o pedido, por entender que o provimento apenas regulamentou a apresentação do preso ao juiz, direito previsto no art. 7º, 5, do Pacto de San José, de hierarquia supralegal."
+    },
+    {
+      "id": "dh-048",
+      "assunto": "Declaração Universal dos Direitos Humanos",
+      "origem": "fcc",
+      "enunciado": "Nos termos do art. 14 da Declaração Universal dos Direitos Humanos, o direito de procurar e de gozar asilo em outros países:",
+      "alternativas": {
+        "a": "é assegurado a todo ser humano, inclusive em caso de perseguição motivada por crimes de direito comum.",
+        "b": "não pode ser invocado em caso de perseguição legitimamente motivada por crimes de direito comum ou por atos contrários aos objetivos e princípios das Nações Unidas.",
+        "c": "não foi previsto na Declaração, constando apenas da Convenção de 1951 sobre o Estatuto dos Refugiados.",
+        "d": "depende de reconhecimento prévio do Alto Comissariado das Nações Unidas para Refugiados.",
+        "e": "é restrito aos nacionais dos Estados-membros da ONU."
+      },
+      "gabarito": "b",
+      "comentario": "O art. 14 da DUDH assegura a toda vítima de perseguição o direito de procurar e gozar asilo, excluindo-o em caso de perseguição legitimamente motivada por crimes de direito comum ou atos contrários aos propósitos ou princípios da ONU."
+    },
+    {
+      "id": "dh-049",
+      "assunto": "Declaração Universal dos Direitos Humanos",
+      "origem": "fcc",
+      "enunciado": "Segundo o art. 26 da Declaração Universal dos Direitos Humanos:",
+      "alternativas": {
+        "a": "a instrução superior será obrigatória e gratuita a todos.",
+        "b": "a instrução elementar será facultativa, cabendo aos pais decidir sobre sua realização.",
+        "c": "a instrução será gratuita, pelo menos nos graus elementares e fundamentais, e os pais têm prioridade de direito na escolha do gênero de instrução a ser ministrada a seus filhos.",
+        "d": "cabe exclusivamente ao Estado a escolha do gênero de instrução a ser ministrada às crianças.",
+        "e": "a instrução técnico-profissional será restrita aos que demonstrarem mérito."
+      },
+      "gabarito": "c",
+      "comentario": "O art. 26 da DUDH prevê instrução gratuita ao menos nos graus elementares e fundamentais, sendo a elementar obrigatória; a técnico-profissional acessível a todos; a superior baseada no mérito; e a prioridade dos pais na escolha do gênero de instrução (§ 3º)."
+    },
+    {
+      "id": "dh-050",
+      "assunto": "Declaração Universal dos Direitos Humanos",
+      "origem": "fcc",
+      "enunciado": "Conforme o art. 13 da Declaração Universal dos Direitos Humanos, todo ser humano tem o direito de:",
+      "alternativas": {
+        "a": "obter a nacionalidade do país em que residir há mais de cinco anos.",
+        "b": "deixar o próprio país, sem direito, porém, de a ele regressar caso tenha adquirido outra nacionalidade.",
+        "c": "circular livremente apenas no território do Estado de que seja nacional.",
+        "d": "deixar qualquer país, inclusive o próprio, e a este regressar.",
+        "e": "ingressar e fixar residência em qualquer país, independentemente de autorização estatal."
+      },
+      "gabarito": "d",
+      "comentario": "O art. 13 da DUDH assegura a liberdade de locomoção e residência dentro das fronteiras de cada Estado (§ 1º) e o direito de deixar qualquer país, inclusive o próprio, e a este regressar (§ 2º)."
+    },
+    {
+      "id": "dh-051",
+      "assunto": "Declaração Universal dos Direitos Humanos",
+      "origem": "inedita",
+      "enunciado": "Determinada empresa estabelece jornada sem qualquer limite e suprime as férias de seus empregados. À luz do art. 24 da Declaração Universal dos Direitos Humanos, essa prática viola o direito de todo ser humano a:",
+      "alternativas": {
+        "a": "nível de vida suficiente para assegurar saúde e bem-estar, apenas no caso de desemprego.",
+        "b": "repouso e lazer, inclusive a limitação razoável das horas de trabalho e a férias periódicas remuneradas.",
+        "c": "propriedade, só ou em sociedade com outros.",
+        "d": "participação no governo de seu país.",
+        "e": "liberdade de associação sindical, exclusivamente."
+      },
+      "gabarito": "b",
+      "comentario": "O art. 24 da DUDH prevê que todo ser humano tem direito a repouso e lazer, inclusive à limitação razoável das horas de trabalho e a férias periódicas remuneradas."
+    },
+    {
+      "id": "dh-052",
+      "assunto": "Declaração Universal dos Direitos Humanos",
+      "origem": "fcc",
+      "enunciado": "Nos termos do art. 15 da Declaração Universal dos Direitos Humanos:",
+      "alternativas": {
+        "a": "todo ser humano tem direito a uma nacionalidade, e ninguém será arbitrariamente privado de sua nacionalidade, nem do direito de mudar de nacionalidade.",
+        "b": "a nacionalidade é direito reservado aos nascidos de pais nacionais.",
+        "c": "a nacionalidade é concedida exclusivamente pelo critério do jus soli.",
+        "d": "o Estado pode privar o indivíduo de sua nacionalidade por motivos políticos, desde que previstos em lei.",
+        "e": "é vedada a mudança de nacionalidade."
+      },
+      "gabarito": "a",
+      "comentario": "O art. 15 da DUDH assegura o direito a uma nacionalidade e veda a privação arbitrária da nacionalidade ou do direito de mudá-la."
+    },
+    {
+      "id": "dh-053",
+      "assunto": "Declaração Universal dos Direitos Humanos",
+      "origem": "fcc",
+      "enunciado": "De acordo com o art. 29 da Declaração Universal dos Direitos Humanos, no exercício de seus direitos e liberdades, todo ser humano estará sujeito apenas às limitações:",
+      "alternativas": {
+        "a": "determinadas pela lei, exclusivamente com o fim de assegurar o devido reconhecimento e respeito dos direitos e liberdades de outrem e de satisfazer as justas exigências da moral, da ordem pública e do bem-estar de uma sociedade democrática.",
+        "b": "decorrentes de resoluções do Conselho de Segurança da ONU.",
+        "c": "fixadas pelos tratados comerciais firmados pelo Estado.",
+        "d": "impostas pelas tradições religiosas majoritárias de cada Estado.",
+        "e": "estabelecidas discricionariamente pelo Poder Executivo, conforme critérios de conveniência e oportunidade."
+      },
+      "gabarito": "a",
+      "comentario": "O art. 29, § 2º, da DUDH admite limitações determinadas pela lei, exclusivamente para assegurar o respeito aos direitos de outrem e satisfazer as justas exigências da moral, da ordem pública e do bem-estar de uma sociedade democrática."
+    },
+    {
+      "id": "dh-054",
+      "assunto": "Declaração Universal dos Direitos Humanos",
+      "origem": "fcc",
+      "enunciado": "Uma das características marcantes da Declaração Universal dos Direitos Humanos, adotada pela Resolução 217-A (III) da Assembleia Geral da ONU em 10 de dezembro de 1948, é:",
+      "alternativas": {
+        "a": "ter sido aprovada por unanimidade, sem abstenções.",
+        "b": "conjugar, em um mesmo documento, o catálogo de direitos civis e políticos com o de direitos econômicos, sociais e culturais, demarcando a concepção contemporânea de direitos humanos.",
+        "c": "prever exclusivamente direitos civis e políticos, deixando os direitos sociais para o PIDESC.",
+        "d": "ter instituído o Comitê de Direitos Humanos, com competência para receber petições individuais.",
+        "e": "ter sido ratificada pelos Estados como tratado internacional, nos termos da Convenção de Viena."
+      },
+      "gabarito": "b",
+      "comentario": "A DUDH foi aprovada com 48 votos favoráveis, nenhum contrário e 8 abstenções. Segundo Piovesan, ao combinar direitos civis e políticos (arts. 3º a 21) e direitos econômicos, sociais e culturais (arts. 22 a 28), demarcou a concepção contemporânea de direitos humanos, marcada pela universalidade e indivisibilidade."
+    },
+    {
+      "id": "dh-055",
+      "assunto": "Declaração Universal dos Direitos Humanos",
+      "origem": "fcc",
+      "enunciado": "Considere os seguintes enunciados, à luz da Declaração Universal dos Direitos Humanos:\nI. A família é o núcleo natural e fundamental da sociedade e tem direito à proteção da sociedade e do Estado.\nII. Todo ser humano tem direito à propriedade, só ou em sociedade com outros.\nIII. Ninguém será arbitrariamente preso, detido ou exilado.\nIV. A liberdade de religião não compreende a liberdade de mudar de religião ou crença.\nEstá de acordo com a Declaração o que consta APENAS em:",
+      "alternativas": {
+        "a": "I e II.",
+        "b": "I, II e III.",
+        "c": "II, III e IV.",
+        "d": "I e IV.",
+        "e": "III e IV."
+      },
+      "gabarito": "b",
+      "comentario": "Os itens I (art. 16, § 3º), II (art. 17, § 1º) e III (art. 9º) reproduzem a DUDH; o item IV está errado, pois o art. 18 assegura expressamente a liberdade de mudar de religião ou crença."
+    },
+    {
+      "id": "dh-056",
+      "assunto": "PIDCP e protocolos facultativos",
+      "origem": "fcc",
+      "enunciado": "Nos termos do art. 6º do Pacto Internacional dos Direitos Civis e Políticos, nos países em que a pena de morte não tenha sido abolida:",
+      "alternativas": {
+        "a": "ela não deverá ser imposta em casos de crimes cometidos por pessoas menores de 18 anos, nem aplicada a mulheres em estado de gravidez.",
+        "b": "é vedado ao condenado solicitar anistia, indulto ou comutação da pena.",
+        "c": "sua execução independe de sentença definitiva de tribunal competente em tempo de guerra.",
+        "d": "ela poderá ser aplicada a qualquer crime, desde que previsto em lei anterior.",
+        "e": "ela poderá ser imposta a menores de 18 anos, se o crime for de extrema gravidade."
+      },
+      "gabarito": "a",
+      "comentario": "O art. 6º, § 2º, restringe a pena de morte aos crimes mais graves, mediante sentença definitiva de tribunal competente; o § 4º assegura o direito de pedir indulto ou comutação; e o § 5º veda sua imposição a menores de 18 anos e sua aplicação a mulheres grávidas."
+    },
+    {
+      "id": "dh-057",
+      "assunto": "PIDCP e protocolos facultativos",
+      "origem": "inedita",
+      "enunciado": "Determinado Estado-parte do PIDCP, em estado de emergência oficialmente proclamado, edita lei autorizando a prisão de quem não puder cumprir obrigação contratual. À luz do Pacto, essa medida é:",
+      "alternativas": {
+        "a": "válida, pois o Pacto não trata da prisão por dívidas.",
+        "b": "válida, pois o estado de emergência autoriza a suspensão de todos os direitos do Pacto.",
+        "c": "inválida apenas se a obrigação contratual for de natureza trabalhista.",
+        "d": "válida, desde que comunicada ao Secretário-Geral da ONU no prazo de um ano.",
+        "e": "inválida, pois o art. 11 do Pacto, segundo o qual ninguém poderá ser preso apenas por não poder cumprir com uma obrigação contratual, não pode ser suspenso nem mesmo em situações excepcionais."
+      },
+      "gabarito": "e",
+      "comentario": "O art. 4º, § 2º, do PIDCP veda a suspensão dos arts. 6, 7, 8 (§§ 1º e 2º), 11, 15, 16 e 18; o art. 11 proíbe a prisão por inadimplemento de obrigação contratual."
+    },
+    {
+      "id": "dh-058",
+      "assunto": "PIDCP e protocolos facultativos",
+      "origem": "fcc",
+      "enunciado": "O Comitê de Direitos Humanos, instituído pelo Pacto Internacional dos Direitos Civis e Políticos, é composto de:",
+      "alternativas": {
+        "a": "doze membros, representantes dos governos dos Estados-partes.",
+        "b": "vinte e quatro membros, indicados pelo Secretário-Geral da ONU.",
+        "c": "dezoito membros, nacionais dos Estados-partes, que exercem suas funções a título pessoal.",
+        "d": "sete membros, eleitos pelo Conselho de Segurança da ONU.",
+        "e": "quinze juízes, eleitos pela Assembleia Geral e pelo Conselho de Segurança."
+      },
+      "gabarito": "c",
+      "comentario": "Conforme o art. 28 do PIDCP, o Comitê de Direitos Humanos compõe-se de 18 membros, nacionais dos Estados-partes, de elevada reputação moral e reconhecida competência, que exercem suas funções a título pessoal."
+    },
+    {
+      "id": "dh-059",
+      "assunto": "PIDCP e protocolos facultativos",
+      "origem": "fcc",
+      "enunciado": "Quanto ao sistema de comunicações interestatais previsto no art. 41 do PIDCP, é correto afirmar que:",
+      "alternativas": {
+        "a": "permite que indivíduos apresentem denúncias contra Estados, independentemente de ratificação de protocolo.",
+        "b": "decorre automaticamente da ratificação do Pacto, dispensando qualquer declaração.",
+        "c": "é processado perante a Corte Internacional de Justiça, que profere decisão vinculante.",
+        "d": "foi instituído pelo Segundo Protocolo Facultativo.",
+        "e": "o Comitê de Direitos Humanos somente pode recebê-las se ambos os Estados envolvidos tiverem declarado reconhecer a competência do Comitê para esse fim."
+      },
+      "gabarito": "e",
+      "comentario": "O art. 41 do PIDCP prevê cláusula facultativa: o Estado-parte pode declarar, a qualquer momento, que reconhece a competência do Comitê para receber comunicações de outro Estado-parte que também tenha feito tal declaração."
+    },
+    {
+      "id": "dh-060",
+      "assunto": "PIDCP e protocolos facultativos",
+      "origem": "fcc",
+      "enunciado": "O Segundo Protocolo Facultativo ao Pacto Internacional dos Direitos Civis e Políticos, destinado à abolição da pena de morte, admite reserva apenas para:",
+      "alternativas": {
+        "a": "a pena de morte imposta a menores de 18 anos.",
+        "b": "a aplicação da pena de morte em tempo de guerra, em virtude de condenação por crime de natureza militar de gravidade extrema cometido em tempo de guerra.",
+        "c": "a aplicação da pena de morte a crimes hediondos praticados em tempo de paz.",
+        "d": "os crimes de tráfico internacional de drogas.",
+        "e": "os Estados que mantenham a pena de morte em sua Constituição."
+      },
+      "gabarito": "b",
+      "comentario": "O art. 2º, § 1º, do Segundo Protocolo (1989) somente admite reserva que preveja a aplicação da pena de morte em tempo de guerra, por condenação por crime de natureza militar de gravidade extrema cometido em tempo de guerra, em harmonia com o art. 5º, XLVII, “a”, da CF."
+    },
+    {
+      "id": "dh-061",
+      "assunto": "PIDCP e protocolos facultativos",
+      "origem": "fcc",
+      "enunciado": "Entre as garantias asseguradas pelo art. 14 do PIDCP a toda pessoa acusada de delito, inclui-se o direito de:",
+      "alternativas": {
+        "a": "recorrer da sentença condenatória e da pena a uma instância superior, em conformidade com a lei.",
+        "b": "ser assistida por defensor apenas nos crimes punidos com pena de morte.",
+        "c": "ser obrigada a depor, desde que assistida por advogado.",
+        "d": "ser julgada exclusivamente por júri popular.",
+        "e": "não ser julgada sem que haja confissão."
+      },
+      "gabarito": "a",
+      "comentario": "O art. 14, § 5º, assegura o duplo grau de jurisdição em matéria penal, e o § 3º, “g”, o direito de não ser obrigado a depor contra si mesmo nem a confessar-se culpado."
+    },
+    {
+      "id": "dh-062",
+      "assunto": "PIDCP e protocolos facultativos",
+      "origem": "inedita",
+      "enunciado": "Em inspeção a estabelecimento prisional, verificou-se que presos provisórios e condenados ocupavam as mesmas celas, e que jovens processados permaneciam junto de adultos. À luz do art. 10 do PIDCP, é correto afirmar que:",
+      "alternativas": {
+        "a": "a separação entre presos provisórios e condenados é mera recomendação, sem caráter obrigatório.",
+        "b": "a separação entre jovens e adultos somente é exigida após a condenação definitiva.",
+        "c": "o Pacto não disciplina o tratamento de pessoas privadas de liberdade.",
+        "d": "as pessoas processadas devem ser separadas, salvo em circunstâncias excepcionais, das condenadas, e as jovens processadas devem ser separadas das adultas e julgadas o mais rápido possível.",
+        "e": "o regime penitenciário tem por objetivo principal a retribuição do mal causado pelo crime."
+      },
+      "gabarito": "d",
+      "comentario": "O art. 10, § 2º, “a” e “b”, do PIDCP impõe a separação entre processados e condenados (salvo circunstâncias excepcionais) e entre jovens e adultos; o § 3º estabelece que o regime penitenciário tem por objetivo principal a reforma e a reabilitação moral dos prisioneiros."
+    },
+    {
+      "id": "dh-063",
+      "assunto": "PIDCP e protocolos facultativos",
+      "origem": "fcc",
+      "enunciado": "De acordo com o art. 20 do Pacto Internacional dos Direitos Civis e Políticos, será proibida por lei:",
+      "alternativas": {
+        "a": "a divulgação de opiniões religiosas minoritárias.",
+        "b": "a liberdade de imprensa em período eleitoral.",
+        "c": "a criação de partidos políticos de orientação nacionalista.",
+        "d": "qualquer propaganda em favor da guerra e qualquer apologia do ódio nacional, racial ou religioso que constitua incitamento à discriminação, à hostilidade ou à violência.",
+        "e": "toda manifestação crítica ao governo em tempo de guerra."
+      },
+      "gabarito": "d",
+      "comentario": "O art. 20 do PIDCP determina que serão proibidas por lei a propaganda em favor da guerra (§ 1º) e a apologia do ódio nacional, racial ou religioso que constitua incitamento à discriminação, à hostilidade ou à violência (§ 2º)."
+    },
+    {
+      "id": "dh-064",
+      "assunto": "PIDCP e protocolos facultativos",
+      "origem": "fcc",
+      "enunciado": "Nos termos do art. 9º, § 3º, do Pacto Internacional dos Direitos Civis e Políticos, qualquer pessoa presa ou encarcerada em virtude de infração penal:",
+      "alternativas": {
+        "a": "poderá permanecer presa, sem apresentação a autoridade judicial, enquanto durar a investigação.",
+        "b": "terá direito à liberdade apenas mediante pagamento de fiança.",
+        "c": "deverá ser conduzida, sem demora, à presença do juiz ou de outra autoridade habilitada por lei a exercer funções judiciais, e terá o direito de ser julgada em prazo razoável ou de ser posta em liberdade, não devendo a prisão preventiva constituir a regra geral.",
+        "d": "deverá permanecer presa preventivamente, como regra geral, até o julgamento.",
+        "e": "somente terá direito de ser apresentada ao juiz após o oferecimento da denúncia."
+      },
+      "gabarito": "c",
+      "comentario": "O art. 9º, § 3º, do PIDCP prevê a condução sem demora da pessoa presa à presença do juiz, o julgamento em prazo razoável e o caráter excepcional da prisão preventiva, fundamento convencional da audiência de custódia, ao lado do art. 7º, 5, da Convenção Americana."
+    },
+    {
+      "id": "dh-065",
+      "assunto": "PIDESC e protocolo facultativo",
+      "origem": "fcc",
+      "enunciado": "No que se refere aos direitos sindicais, o art. 8º do Pacto Internacional dos Direitos Econômicos, Sociais e Culturais assegura:",
+      "alternativas": {
+        "a": "o direito de greve de forma absoluta, vedada qualquer regulamentação legal.",
+        "b": "a proibição de restrições ao direito de sindicalização de membros das forças armadas e da polícia.",
+        "c": "o direito de fundar sindicatos apenas a trabalhadores do setor privado.",
+        "d": "a unicidade sindical obrigatória em todos os Estados-partes.",
+        "e": "o direito de greve, exercido em conformidade com as leis de cada país, e o direito dos sindicatos de formar federações ou confederações nacionais e de estas formarem ou filiarem-se a organizações sindicais internacionais."
+      },
+      "gabarito": "e",
+      "comentario": "O art. 8º, § 1º, do PIDESC prevê o direito de fundar sindicatos, de formar federações e confederações, de os sindicatos exercerem livremente suas atividades e o direito de greve, exercido de conformidade com as leis de cada país; o § 2º admite restrições legais para forças armadas, polícia e administração pública."
+    },
+    {
+      "id": "dh-066",
+      "assunto": "PIDESC e protocolo facultativo",
+      "origem": "fcc",
+      "enunciado": "Segundo o art. 13, § 2º, do Pacto Internacional dos Direitos Econômicos, Sociais e Culturais, para assegurar o pleno exercício do direito à educação:",
+      "alternativas": {
+        "a": "a educação primária deverá ser obrigatória e acessível gratuitamente a todos, e a educação de nível superior deverá igualmente tornar-se acessível a todos, com base na capacidade de cada um, inclusive pela implementação progressiva do ensino gratuito.",
+        "b": "a educação secundária deverá ser restrita aos que demonstrarem mérito, sem previsão de gratuidade.",
+        "c": "os Estados ficam dispensados de garantir educação primária gratuita enquanto não atingirem determinado nível de desenvolvimento.",
+        "d": "a educação primária poderá ser cobrada, desde que haja bolsas para os mais pobres.",
+        "e": "a educação superior deverá ser obrigatória e imediatamente gratuita a todos."
+      },
+      "gabarito": "a",
+      "comentario": "O art. 13, § 2º, do PIDESC prevê: educação primária obrigatória e gratuita (“a”); secundária generalizada e acessível a todos, com implementação progressiva do ensino gratuito (“b”); e superior acessível a todos, com base na capacidade de cada um, também com implementação progressiva da gratuidade (“c”)."
+    },
+    {
+      "id": "dh-067",
+      "assunto": "PIDESC e protocolo facultativo",
+      "origem": "inedita",
+      "enunciado": "Determinado país em desenvolvimento, Estado-parte do PIDESC, pretende definir em que medida garantirá a estrangeiros não nacionais os direitos econômicos reconhecidos no Pacto. Nos termos do art. 2º, § 3º, do PIDESC:",
+      "alternativas": {
+        "a": "os países em desenvolvimento, levando devidamente em consideração os direitos humanos e a situação econômica nacional, poderão determinar em que medida garantirão os direitos econômicos reconhecidos no Pacto àqueles que não sejam seus nacionais.",
+        "b": "a faculdade de limitar direitos de estrangeiros é atribuída apenas aos países desenvolvidos.",
+        "c": "a medida depende de autorização prévia do Comitê de Direitos Econômicos, Sociais e Culturais.",
+        "d": "a faculdade abrange todos os direitos do Pacto, inclusive os sociais e culturais.",
+        "e": "nenhum Estado-parte pode estabelecer qualquer distinção entre nacionais e estrangeiros quanto aos direitos econômicos."
+      },
+      "gabarito": "a",
+      "comentario": "O art. 2º, § 3º, do PIDESC autoriza apenas os países em desenvolvimento, e somente quanto aos direitos econômicos, a determinar em que medida os garantirão a não nacionais, considerando os direitos humanos e a situação econômica nacional."
+    },
+    {
+      "id": "dh-068",
+      "assunto": "PIDESC e protocolo facultativo",
+      "origem": "fcc",
+      "enunciado": "Sobre o sistema de monitoramento do Pacto Internacional dos Direitos Econômicos, Sociais e Culturais, é correto afirmar:",
+      "alternativas": {
+        "a": "O Pacto não prevê qualquer mecanismo de monitoramento, nem mesmo relatórios.",
+        "b": "Os relatórios dos Estados-partes sobre as medidas adotadas e o progresso realizado são apresentados ao Secretário-Geral da ONU, que os encaminha ao Conselho Econômico e Social.",
+        "c": "O Comitê de Direitos Econômicos, Sociais e Culturais foi criado pelo próprio texto do Pacto, em 1966, com competência jurisdicional.",
+        "d": "As comunicações individuais foram previstas no texto original do Pacto, independentemente de protocolo.",
+        "e": "O texto original do Pacto criou o Comitê de Direitos Humanos para examinar petições individuais."
+      },
+      "gabarito": "b",
+      "comentario": "Pelos arts. 16 e 17 do PIDESC, os relatórios são encaminhados ao Secretário-Geral, que os transmite ao ECOSOC; o Comitê DESC foi criado posteriormente pelo ECOSOC (Resolução 1985/17), e as comunicações individuais vieram com o Protocolo Facultativo de 2008."
+    },
+    {
+      "id": "dh-069",
+      "assunto": "PIDESC e protocolo facultativo",
+      "origem": "fcc",
+      "enunciado": "Entre as condições de trabalho justas e favoráveis previstas no art. 7º do Pacto Internacional dos Direitos Econômicos, Sociais e Culturais, inclui-se:",
+      "alternativas": {
+        "a": "a jornada máxima de seis horas diárias em todos os Estados-partes.",
+        "b": "a vedação de qualquer distinção de remuneração, inclusive por trabalho de valor diferente.",
+        "c": "a promoção baseada exclusivamente em critérios de livre escolha do empregador.",
+        "d": "igual oportunidade para todos de serem promovidos, dentro de seu trabalho, à categoria superior que lhes corresponda, sem outras considerações que as de tempo de trabalho e capacidade.",
+        "e": "a remuneração igual por trabalho de igual valor, assegurada apenas aos trabalhadores nacionais."
+      },
+      "gabarito": "d",
+      "comentario": "O art. 7º do PIDESC assegura remuneração equitativa e igual por trabalho de igual valor, segurança e higiene, igual oportunidade de promoção baseada apenas em tempo de trabalho e capacidade (alínea “c”), descanso, lazer, limitação razoável das horas de trabalho e férias periódicas remuneradas."
+    },
+    {
+      "id": "dh-070",
+      "assunto": "PIDESC e protocolo facultativo",
+      "origem": "inedita",
+      "enunciado": "Uma trabalhadora gestante questiona a proteção que lhe é assegurada pelo PIDESC. Nos termos do art. 10, § 2º, do Pacto:",
+      "alternativas": {
+        "a": "a licença-maternidade é devida apenas às servidoras públicas.",
+        "b": "a licença deve ter duração mínima de 180 dias, conforme o próprio Pacto.",
+        "c": "a proteção à maternidade foi excluída do Pacto, sendo tratada apenas pela Declaração Universal.",
+        "d": "a proteção à maternidade restringe-se ao período posterior ao parto, sem previsão de remuneração.",
+        "e": "deve-se conceder proteção especial às mães por um período de tempo razoável antes e depois do parto, e, durante esse período, as mães trabalhadoras devem receber licença remunerada ou licença acompanhada de benefícios previdenciários adequados."
+      },
+      "gabarito": "e",
+      "comentario": "O art. 10, § 2º, do PIDESC determina proteção especial às mães por período razoável antes e depois do parto, com licença remunerada ou acompanhada de benefícios previdenciários adequados para as mães trabalhadoras."
+    }
+  ]
+}

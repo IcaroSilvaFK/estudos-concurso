@@ -1,0 +1,1206 @@
+{
+  "disciplina": "Língua Portuguesa",
+  "prefixo": "pt",
+  "questoes": [
+    {
+      "id": "pt-001",
+      "assunto": "Emprego do sinal indicativo de crase",
+      "origem": "fcc",
+      "enunciado": "O sinal indicativo de crase está empregado corretamente em:",
+      "alternativas": {
+        "a": "O analista entregou o relatório à diretora do setor de pessoal.",
+        "b": "O servidor referiu-se à documentos arquivados no ano anterior.",
+        "c": "A equipe começou à trabalhar logo após a reunião.",
+        "d": "O fiscal percorreu o prédio de ponta à ponta.",
+        "e": "Os candidatos dirigiram-se à uma sala reservada para a prova."
+      },
+      "gabarito": "a",
+      "comentario": "Em (a), 'entregar algo a alguém' exige a preposição 'a', e 'diretora' admite o artigo 'a': a + a = à. Em (b), 'documentos' é masculino plural; em (c), não há crase antes de verbo; em (d), expressões com palavras repetidas não levam crase; em (e), não há crase antes de artigo indefinido."
+    },
+    {
+      "id": "pt-002",
+      "assunto": "Ortografia e acentuação",
+      "origem": "fcc",
+      "enunciado": "Considerando as regras do Acordo Ortográfico vigente, todas as palavras estão corretamente grafadas e acentuadas em:",
+      "alternativas": {
+        "a": "ideia – heroico – voo – leem",
+        "b": "idéia – heroico – vôo – leem",
+        "c": "ideia – heróico – voo – lêem",
+        "d": "idéia – heróico – vôo – lêem",
+        "e": "ideia – heroico – vôo – lêem"
+      },
+      "gabarito": "a",
+      "comentario": "O Acordo eliminou o acento dos ditongos abertos 'ei' e 'oi' em paroxítonas (ideia, heroico), o acento circunflexo do hiato 'oo' (voo) e o das formas verbais com 'ee' (leem, creem, veem)."
+    },
+    {
+      "id": "pt-003",
+      "assunto": "Ortografia",
+      "origem": "fcc",
+      "enunciado": "Está correta a grafia de todas as palavras em:",
+      "alternativas": {
+        "a": "excessão – paralisação – ascensão – privilégio",
+        "b": "exceção – paralização – ascenção – previlégio",
+        "c": "excessão – paralização – ascensão – previlégio",
+        "d": "exceção – paralisação – ascensão – privilégio",
+        "e": "exceção – paralisação – ascenção – privilégio"
+      },
+      "gabarito": "d",
+      "comentario": "Grafias corretas: exceção (com ç), paralisação (de 'paralisar', com s), ascensão (com s) e privilégio (com i)."
+    },
+    {
+      "id": "pt-004",
+      "assunto": "Concordância verbal",
+      "origem": "fcc",
+      "enunciado": "A frase que está em conformidade com a norma-padrão quanto à concordância verbal é:",
+      "alternativas": {
+        "a": "Fazem cinco anos que o setor foi reestruturado.",
+        "b": "Devem haver soluções mais simples para o problema.",
+        "c": "Faz cinco anos que o setor foi reestruturado.",
+        "d": "Houveram muitas reclamações sobre o novo sistema.",
+        "e": "Existe, na pauta da reunião, muitos assuntos pendentes."
+      },
+      "gabarito": "c",
+      "comentario": "O verbo 'fazer' indicando tempo decorrido é impessoal e fica no singular (Faz cinco anos). 'Haver' com sentido de 'existir' também é impessoal e transmite essa impessoalidade ao auxiliar ('Deve haver'). Já 'existir' é pessoal e concorda com o sujeito: 'Existem muitos assuntos'."
+    },
+    {
+      "id": "pt-005",
+      "assunto": "Concordância nominal",
+      "origem": "fcc",
+      "enunciado": "A concordância nominal está correta em:",
+      "alternativas": {
+        "a": "Seguem anexas as planilhas solicitadas pela chefia.",
+        "b": "É proibida entrada de pessoas não autorizadas.",
+        "c": "Os próprios técnicos disseram: 'Nós mesmo resolveremos'.",
+        "d": "A servidora ficou meia preocupada com o prazo.",
+        "e": "'Muito obrigado', disse a secretária ao visitante."
+      },
+      "gabarito": "a",
+      "comentario": "'Anexo' é adjetivo e concorda com o substantivo (anexas as planilhas). 'Meio', advérbio, é invariável (meio preocupada); 'proibido' sem artigo fica no masculino (É proibido entrada); 'mesmo' concorda com o pronome (nós mesmos); a mulher diz 'obrigada'."
+    },
+    {
+      "id": "pt-006",
+      "assunto": "Regência verbal",
+      "origem": "fcc",
+      "enunciado": "A regência verbal está de acordo com a norma-padrão em:",
+      "alternativas": {
+        "a": "Os servidores assistiram o treinamento sobre o novo sistema.",
+        "b": "O técnico aspirava ao cargo de chefia da secretaria.",
+        "c": "Prefiro mais revisar os autos do que redigir despachos.",
+        "d": "Esqueci-me o número do processo.",
+        "e": "Todos devem obedecer o regulamento interno."
+      },
+      "gabarito": "b",
+      "comentario": "'Aspirar' no sentido de 'almejar' é transitivo indireto (aspirar a). 'Preferir' rege 'a' e dispensa 'mais' (prefiro isto a aquilo); 'assistir' (ver) é transitivo indireto (assistiram ao); 'esquecer-se' pronominal pede 'de'; 'obedecer' é transitivo indireto (obedecer ao)."
+    },
+    {
+      "id": "pt-007",
+      "assunto": "Pronomes (colocação pronominal)",
+      "origem": "fcc",
+      "enunciado": "A colocação do pronome átono está de acordo com a norma-padrão em:",
+      "alternativas": {
+        "a": "Me disseram que o prazo foi prorrogado.",
+        "b": "Ninguém informou-me sobre a mudança de horário.",
+        "c": "Quando encontrar-te, entregarei os documentos.",
+        "d": "Nunca o vi tão satisfeito com o resultado.",
+        "e": "Tudo fez-se conforme o planejado."
+      },
+      "gabarito": "d",
+      "comentario": "Advérbios de negação (nunca), pronomes indefinidos (ninguém, tudo) e conjunções subordinativas (quando) atraem o pronome (próclise). Não se inicia período com pronome oblíquo átono na norma-padrão (a)."
+    },
+    {
+      "id": "pt-008",
+      "assunto": "Vozes do verbo",
+      "origem": "fcc",
+      "enunciado": "Transpondo-se para a voz passiva a frase 'A comissão analisou os processos', a forma verbal resultante, mantendo-se o sentido e o tempo, será:",
+      "alternativas": {
+        "a": "têm sido analisados",
+        "b": "eram analisados",
+        "c": "serão analisados",
+        "d": "haviam sido analisados",
+        "e": "foram analisados"
+      },
+      "gabarito": "e",
+      "comentario": "'Analisou' está no pretérito perfeito do indicativo. Na passiva analítica, o auxiliar 'ser' assume esse tempo: 'Os processos foram analisados pela comissão'."
+    },
+    {
+      "id": "pt-009",
+      "assunto": "Discurso direto, indireto e indireto livre",
+      "origem": "fcc",
+      "enunciado": "O diretor afirmou: 'Amanhã entregarei o relatório.' Transpondo-se a fala para o discurso indireto, obtém-se corretamente:",
+      "alternativas": {
+        "a": "O diretor afirmou que amanhã entregarei o relatório.",
+        "b": "O diretor afirmou que amanhã entregará o relatório.",
+        "c": "O diretor afirmou que no dia seguinte entregaria o relatório.",
+        "d": "O diretor afirmou que no dia seguinte entregou o relatório.",
+        "e": "O diretor afirmou que no dia seguinte entregasse o relatório."
+      },
+      "gabarito": "c",
+      "comentario": "Na passagem para o discurso indireto, a 1ª pessoa vai para a 3ª, o futuro do presente vai para o futuro do pretérito (entregarei → entregaria) e 'amanhã' passa a 'no dia seguinte'."
+    },
+    {
+      "id": "pt-010",
+      "assunto": "Figuras de linguagem",
+      "origem": "fcc",
+      "enunciado": "Na frase 'O Planalto anunciou ontem novas medidas econômicas', a palavra 'Planalto' constitui exemplo de:",
+      "alternativas": {
+        "a": "metáfora",
+        "b": "hipérbole",
+        "c": "eufemismo",
+        "d": "antítese",
+        "e": "metonímia"
+      },
+      "gabarito": "e",
+      "comentario": "Há metonímia: o lugar (Palácio do Planalto) está no lugar de quem nele atua (a Presidência da República). A relação é de contiguidade, e não de semelhança, como seria na metáfora."
+    },
+    {
+      "id": "pt-011",
+      "assunto": "Denotação e conotação",
+      "origem": "inedita",
+      "enunciado": "A palavra destacada foi empregada em sentido conotativo em:",
+      "alternativas": {
+        "a": "A sala de audiências fica no segundo ANDAR.",
+        "b": "O gerente tem um coração de PEDRA diante dos pedidos.",
+        "c": "O FERRO utilizado na obra veio de outro estado.",
+        "d": "O pedreiro assentou a última PEDRA do muro.",
+        "e": "Ele guardou a CHAVE do arquivo na gaveta."
+      },
+      "gabarito": "b",
+      "comentario": "Em (b), 'coração de pedra' tem sentido figurado (insensibilidade): é linguagem conotativa. Nas demais, as palavras aparecem em seu sentido literal (denotativo)."
+    },
+    {
+      "id": "pt-012",
+      "assunto": "Elementos estruturais e processos de formação de palavras",
+      "origem": "inedita",
+      "enunciado": "É formada por parassíntese a palavra:",
+      "alternativas": {
+        "a": "infelizmente",
+        "b": "girassol",
+        "c": "entristecer",
+        "d": "planalto",
+        "e": "desleal"
+      },
+      "gabarito": "c",
+      "comentario": "Em 'entristecer' (en- + triste + -ecer), prefixo e sufixo entram ao mesmo tempo: não existem 'entriste' nem 'tristecer'. 'Infelizmente' tem derivação prefixal e sufixal; 'girassol' é composição por justaposição; 'planalto', por aglutinação; 'desleal', derivação prefixal."
+    },
+    {
+      "id": "pt-013",
+      "assunto": "Pontuação",
+      "origem": "fcc",
+      "enunciado": "A pontuação está inteiramente correta em:",
+      "alternativas": {
+        "a": "O tribunal implantou, o processo eletrônico em todas as varas.",
+        "b": "Os candidatos aprovados no concurso, tomarão posse em março.",
+        "c": "A diretora do setor de pessoal, decidiu rever as escalas.",
+        "d": "Informamos, que o prazo foi prorrogado.",
+        "e": "Em 2025, o tribunal implantou o processo eletrônico em todas as varas."
+      },
+      "gabarito": "e",
+      "comentario": "Em (e), a vírgula isola um adjunto adverbial deslocado para o início, o que é permitido. Nas demais, a vírgula separa termos que não podem ser separados: verbo e complemento (a, d) ou sujeito e verbo (b, c)."
+    },
+    {
+      "id": "pt-014",
+      "assunto": "Conectivos",
+      "origem": "fcc",
+      "enunciado": "'O projeto foi aprovado, conquanto houvesse resistência de parte da equipe.' Sem alteração do sentido, o conectivo destacado pode ser substituído por:",
+      "alternativas": {
+        "a": "porquanto",
+        "b": "embora",
+        "c": "conforme",
+        "d": "porque",
+        "e": "à medida que"
+      },
+      "gabarito": "b",
+      "comentario": "'Conquanto' é conjunção concessiva, equivalente a 'embora', 'ainda que' e 'se bem que'. 'Porquanto' e 'porque' são causais; 'conforme', conformativa; 'à medida que', proporcional."
+    },
+    {
+      "id": "pt-015",
+      "assunto": "Correlação de tempos e modos verbais",
+      "origem": "fcc",
+      "enunciado": "Preenchem corretamente as lacunas da frase 'Se o servidor ______ o prazo, o processo não ______ arquivado.', na ordem dada:",
+      "alternativas": {
+        "a": "cumpria – seja",
+        "b": "cumprisse – seria",
+        "c": "cumprisse – será",
+        "d": "cumprir – seria",
+        "e": "cumpre – fosse"
+      },
+      "gabarito": "b",
+      "comentario": "O pretérito imperfeito do subjuntivo (cumprisse) na condicional pede o futuro do pretérito do indicativo na principal (seria). A outra correlação aceita seria 'cumprir – será' (futuro do subjuntivo + futuro do presente)."
+    },
+    {
+      "id": "pt-016",
+      "assunto": "Coordenação e subordinação",
+      "origem": "fcc",
+      "enunciado": "No período 'O candidato estudou com dedicação, logo foi aprovado', a segunda oração classifica-se como coordenada sindética:",
+      "alternativas": {
+        "a": "alternativa",
+        "b": "explicativa",
+        "c": "aditiva",
+        "d": "conclusiva",
+        "e": "adversativa"
+      },
+      "gabarito": "d",
+      "comentario": "'Logo', posposto à primeira oração, introduz a conclusão do que foi dito antes. Equivale a 'portanto' e 'por isso'."
+    },
+    {
+      "id": "pt-017",
+      "assunto": "Sinonímia e antonímia",
+      "origem": "inedita",
+      "enunciado": "Em 'A medida teve caráter efêmero', o antônimo de 'efêmero' é:",
+      "alternativas": {
+        "a": "passageiro",
+        "b": "transitório",
+        "c": "fugaz",
+        "d": "duradouro",
+        "e": "momentâneo"
+      },
+      "gabarito": "d",
+      "comentario": "'Efêmero' significa 'de curta duração'. Passageiro, transitório, fugaz e momentâneo são sinônimos; o antônimo é 'duradouro' (também 'perene' ou 'permanente')."
+    },
+    {
+      "id": "pt-018",
+      "assunto": "Intertextualidade",
+      "origem": "fcc",
+      "enunciado": "Os versos 'Minha terra tem palmares / onde gorjeia o mar', de Oswald de Andrade, retomam a 'Canção do exílio', de Gonçalves Dias, com intenção crítica e humorística. Esse tipo de intertextualidade denomina-se:",
+      "alternativas": {
+        "a": "paráfrase",
+        "b": "tradução",
+        "c": "paródia",
+        "d": "citação",
+        "e": "epígrafe"
+      },
+      "gabarito": "c",
+      "comentario": "A paródia retoma um texto-fonte para subverter seu sentido, muitas vezes com ironia ou crítica. A paráfrase reformula o texto mantendo o sentido original."
+    },
+    {
+      "id": "pt-019",
+      "assunto": "Redação Oficial",
+      "origem": "fcc",
+      "enunciado": "De acordo com o Manual de Redação da Presidência da República (3ª edição), é correto afirmar:",
+      "alternativas": {
+        "a": "Os pronomes de tratamento, como 'Vossa Excelência', levam o verbo para a 2ª pessoa do plural.",
+        "b": "O ofício e o memorando continuam com diagramações distintas e independentes.",
+        "c": "O tratamento 'Digníssimo' deve preceder o cargo de todas as autoridades.",
+        "d": "O fecho 'Respeitosamente' é empregado nas comunicações dirigidas a autoridades de hierarquia superior.",
+        "e": "O fecho 'Atenciosamente' é exclusivo das comunicações dirigidas ao Presidente da República."
+      },
+      "gabarito": "d",
+      "comentario": "O Manual prevê 'Respeitosamente' para autoridades de hierarquia superior e 'Atenciosamente' para autoridades da mesma hierarquia ou de hierarquia inferior. Pronomes de tratamento levam o verbo à 3ª pessoa. 'Digníssimo' foi abolido, e a 3ª edição unificou os expedientes no 'padrão ofício'."
+    },
+    {
+      "id": "pt-020",
+      "assunto": "Flexão nominal e flexão verbal",
+      "origem": "inedita",
+      "enunciado": "A forma verbal está flexionada de acordo com a norma-padrão em:",
+      "alternativas": {
+        "a": "Quando vocês virem o resultado, entenderão a decisão.",
+        "b": "Quando eu ver o resultado, avisarei a equipe.",
+        "c": "O juiz interviu na discussão entre as partes.",
+        "d": "Se ele propor uma solução melhor, será ouvido.",
+        "e": "A empresa reaveu os valores pagos indevidamente."
+      },
+      "gabarito": "a",
+      "comentario": "O futuro do subjuntivo de 'ver' é 'vir' (quando eu vir, quando vocês virem). As formas corretas das demais são: propuser (derivado de 'pôr'), interveio (derivado de 'vir') e reouve (derivado de 'haver')."
+    },
+    {
+      "id": "pt-021",
+      "assunto": "Redação Oficial",
+      "origem": "fcc",
+      "enunciado": "Segundo o Manual de Redação da Presidência da República (3ª edição), quanto ao emprego de pronomes de tratamento e vocativos, é correto afirmar:",
+      "alternativas": {
+        "a": "Os adjetivos referidos a \"Vossa Senhoria\" concordam com o substantivo \"Senhoria\", e não com o sexo da pessoa a quem se dirige a comunicação.",
+        "b": "Emprega-se \"Sua Excelência\" quando se fala diretamente com a autoridade, e \"Vossa Excelência\" quando se fala sobre ela.",
+        "c": "O vocativo \"Excelentíssimo Senhor\", seguido do cargo, é reservado aos Chefes de Poder; as demais autoridades recebem o vocativo \"Senhor\" seguido do cargo.",
+        "d": "O endereçamento das comunicações dirigidas a autoridades tratadas por Vossa Excelência deve iniciar-se pela forma \"Ao Digníssimo Senhor\".",
+        "e": "O superlativo \"Ilustríssimo\" continua obrigatório para as autoridades tratadas por Vossa Senhoria e para os particulares."
+      },
+      "gabarito": "c",
+      "comentario": "O Manual reserva \"Excelentíssimo Senhor\" aos Chefes de Poder e prevê \"Senhor\" + cargo para as demais autoridades. Os adjetivos concordam com o sexo da pessoa (a); \"Vossa\" usa-se ao falar com a autoridade e \"Sua\", ao falar dela (b); \"Digníssimo\" e \"Ilustríssimo\" foram abolidos (d, e)."
+    },
+    {
+      "id": "pt-022",
+      "assunto": "Redação Oficial",
+      "origem": "fcc",
+      "enunciado": "De acordo com o Manual de Redação da Presidência da República (3ª edição), está corretamente grafado, no padrão ofício, o campo de local e data em:",
+      "alternativas": {
+        "a": "Belém, 1º de março de 2026.",
+        "b": "Belém, 01 de março de 2026.",
+        "c": "Belém – PA, 1º de março de 2026.",
+        "d": "Belém, 1º de Março de 2026.",
+        "e": "Belém, 1 de março de 2026"
+      },
+      "gabarito": "a",
+      "comentario": "O Manual prescreve: nome da cidade sem sigla da UF, seguido de vírgula; ordinal para o primeiro dia do mês, sem zero à esquerda; mês com inicial minúscula; ponto-final após a data. Só (a) atende a todas essas exigências."
+    },
+    {
+      "id": "pt-023",
+      "assunto": "Redação Oficial",
+      "origem": "fcc",
+      "enunciado": "Entre os atributos da redação oficial descritos no Manual de Redação da Presidência da República (3ª edição), a concisão consiste em",
+      "alternativas": {
+        "a": "suprimir conectivos e artigos, de modo que o texto adquira estilo telegráfico.",
+        "b": "evitar a impessoalidade, aproximando o texto da linguagem do destinatário.",
+        "c": "empregar jargões técnicos e siglas que reduzam a extensão do documento.",
+        "d": "restringir o corpo de toda comunicação oficial a um único parágrafo.",
+        "e": "transmitir o máximo de informações com o mínimo de palavras, eliminando redundâncias sem prejuízo do conteúdo."
+      },
+      "gabarito": "e",
+      "comentario": "Para o Manual, texto conciso é o que transmite o máximo de informações com o mínimo de palavras, sem sacrificar a clareza nem eliminar passagens substanciais. Supressão de conectivos, jargões e limitação artificial de parágrafos comprometem a clareza."
+    },
+    {
+      "id": "pt-024",
+      "assunto": "Redação Oficial",
+      "origem": "fcc",
+      "enunciado": "Conforme o Manual de Redação da Presidência da República (3ª edição), excetuadas as comunicações assinadas pelo ...... , todas as demais comunicações oficiais devem informar o signatário, indicando nome e cargo da autoridade que as expede.\nPreenche corretamente a lacuna:",
+      "alternativas": {
+        "a": "Vice-Presidente da República",
+        "b": "Presidente da República",
+        "c": "Ministro-Chefe da Casa Civil",
+        "d": "Presidente do Supremo Tribunal Federal",
+        "e": "Presidente do Congresso Nacional"
+      },
+      "gabarito": "b",
+      "comentario": "O Manual dispensa a identificação do signatário apenas nas comunicações assinadas pelo Presidente da República; todas as demais devem trazer nome e cargo de quem assina."
+    },
+    {
+      "id": "pt-025",
+      "assunto": "Ortografia e acentuação",
+      "origem": "fcc",
+      "enunciado": "De acordo com o Acordo Ortográfico vigente, todas as palavras estão corretamente acentuadas em:",
+      "alternativas": {
+        "a": "jóia – pára (verbo) – enjôo",
+        "b": "feiúra – assembléia – creem",
+        "c": "heroico – baiúca – têm",
+        "d": "paranoia – feiura – pôde (pretérito)",
+        "e": "Piauí – pêlo (substantivo) – leem"
+      },
+      "gabarito": "d",
+      "comentario": "Perderam o acento os ditongos abertos \"oi\" e \"ei\" de paroxítonas (paranoia), o \"u\" tônico após ditongo em paroxítonas (feiura, baiuca), o diferencial de \"para\" e \"pelo\" e o circunflexo de \"enjoo\". Permanece o acento diferencial de \"pôde\" (pretérito)."
+    },
+    {
+      "id": "pt-026",
+      "assunto": "Ortografia e acentuação",
+      "origem": "fcc",
+      "enunciado": "Está correta a grafia de todas as palavras em:",
+      "alternativas": {
+        "a": "obsessão – hesitar – enxaqueca – beneficente",
+        "b": "obcessão – exitar – enxaqueca – beneficiente",
+        "c": "obsessão – hezitar – enchaqueca – beneficente",
+        "d": "obsseção – hesitar – enxaqueca – beneficiente",
+        "e": "obsessão – hesitar – enchaqueca – beneficiente"
+      },
+      "gabarito": "a",
+      "comentario": "Grafam-se \"obsessão\", \"hesitar\" (com h e s), \"enxaqueca\" (x após en-) e \"beneficente\" (sem i antes do sufixo). As demais alternativas trazem ao menos uma dessas palavras com grafia incorreta."
+    },
+    {
+      "id": "pt-027",
+      "assunto": "Ortografia e acentuação",
+      "origem": "fcc",
+      "enunciado": "Quanto ao emprego do hífen, segundo o Acordo Ortográfico vigente, estão corretamente grafadas todas as palavras em:",
+      "alternativas": {
+        "a": "auto-estima – anti-inflamatório – micro-ondas",
+        "b": "autoestima – antiinflamatório – micro-ondas",
+        "c": "autoestima – anti-inflamatório – micro-ondas",
+        "d": "autoestima – anti-inflamatório – microondas",
+        "e": "auto-estima – antiinflamatório – microondas"
+      },
+      "gabarito": "c",
+      "comentario": "Prefixo terminado em vogal diferente da vogal inicial do segundo elemento junta-se sem hífen (autoestima); havendo vogais iguais, usa-se hífen (anti-inflamatório, micro-ondas)."
+    },
+    {
+      "id": "pt-028",
+      "assunto": "Emprego do sinal indicativo de crase",
+      "origem": "fcc",
+      "enunciado": "Preenchem corretamente as lacunas da frase, na ordem dada:\nO relatório foi enviado ...... Vossa Excelência, que o encaminhará ...... comissão responsável ...... partir de segunda-feira.",
+      "alternativas": {
+        "a": "à – à – à",
+        "b": "a – a – à",
+        "c": "à – a – a",
+        "d": "à – à – a",
+        "e": "a – à – a"
+      },
+      "gabarito": "e",
+      "comentario": "Não há crase antes de pronomes de tratamento como \"Vossa Excelência\", que não admitem artigo; há crase em \"à comissão\" (encaminhar a + a comissão); e não há crase antes de verbo (\"a partir\")."
+    },
+    {
+      "id": "pt-029",
+      "assunto": "Emprego do sinal indicativo de crase",
+      "origem": "fcc",
+      "enunciado": "O emprego do sinal indicativo de crase é facultativo no segmento destacado em:",
+      "alternativas": {
+        "a": "Entregou a petição À SECRETÁRIA da vara.",
+        "b": "Referiu-se À BAHIA como destino da viagem.",
+        "c": "Os portões serão abertos ÀS DEZ HORAS.",
+        "d": "Fez elogios públicos À SUA EQUIPE de apoio.",
+        "e": "Retornou A CASA logo após o expediente."
+      },
+      "gabarito": "d",
+      "comentario": "Antes de pronome possessivo feminino o artigo é facultativo, logo a crase também o é (\"à sua\" ou \"a sua\"). Em (a), (b) e (c) a crase é obrigatória; em (e), \"casa\" no sentido de lar, sem determinante, não admite crase."
+    },
+    {
+      "id": "pt-030",
+      "assunto": "Emprego do sinal indicativo de crase",
+      "origem": "fcc",
+      "enunciado": "O sinal indicativo de crase foi empregado INCORRETAMENTE em:",
+      "alternativas": {
+        "a": "Os autos foram devolvidos à vara de origem para nova instrução.",
+        "b": "A audiência foi remarcada para daqui à duas semanas.",
+        "c": "O orador compareceu à cerimônia vestido à moda antiga.",
+        "d": "A equipe esclareceu as dúvidas à medida que elas surgiam.",
+        "e": "O coordenador dirigiu-se àquele servidor com cortesia."
+      },
+      "gabarito": "b",
+      "comentario": "Em \"daqui a duas semanas\" o \"a\" é mera preposição diante de numeral que indica tempo futuro, sem artigo; logo, não há crase. Nas demais, a crase é correta (regência + artigo, locução feminina \"à moda\", \"à medida que\" e fusão com \"aquele\")."
+    },
+    {
+      "id": "pt-031",
+      "assunto": "Compreensão e interpretação de textos",
+      "origem": "inedita",
+      "enunciado": "Durante décadas, acreditou-se que a pontualidade era uma virtude exclusivamente individual, fruto de disciplina pessoal. Estudos recentes sobre mobilidade urbana, porém, indicam que boa parte dos atrasos crônicos em grandes cidades decorre de fatores alheios à vontade do trabalhador: transporte irregular, jornadas extensas e distâncias crescentes entre moradia e emprego. Isso não significa absolver a negligência, mas reconhecer que a cobrança por pontualidade, quando ignora as condições concretas de deslocamento, tende a punir mais quem menos pode evitá-la.\nDepreende-se do texto que",
+      "alternativas": {
+        "a": "a pontualidade deixou de ser considerada uma virtude pelos estudos recentes sobre mobilidade.",
+        "b": "a negligência dos trabalhadores deve ser perdoada, dada a precariedade do transporte urbano.",
+        "c": "os atrasos crônicos nas grandes cidades resultam exclusivamente de fatores estruturais.",
+        "d": "a disciplina pessoal é irrelevante para quem mora longe do local de trabalho.",
+        "e": "a exigência de pontualidade pode tornar-se injusta quando desconsidera as condições de deslocamento."
+      },
+      "gabarito": "e",
+      "comentario": "O texto conclui que a cobrança que ignora as condições concretas de deslocamento tende a punir quem menos pode evitar o atraso. O autor ressalva que não pretende absolver a negligência (b) e fala em \"boa parte\" dos atrasos, não em todos (c)."
+    },
+    {
+      "id": "pt-032",
+      "assunto": "Compreensão e interpretação de textos",
+      "origem": "inedita",
+      "enunciado": "Meu avô guardava as cartas da família numa lata de biscoitos. Quando a abri, anos depois de sua morte, não encontrei apenas papéis amarelados: encontrei a caligrafia apressada de quem escrevia à luz de lamparina, os pedidos de notícia que demoravam semanas para chegar, os pêsames atrasados para mortes já choradas. Hoje recebo mensagens instantâneas e as esqueço no mesmo dia. Talvez a lentidão daquelas cartas obrigasse a escolher melhor o que merecia ser dito.\nNo texto, o narrador sugere que",
+      "alternativas": {
+        "a": "as mensagens instantâneas são mais sinceras do que as cartas de antigamente.",
+        "b": "o avô preferia escrever cartas a receber visitas de parentes distantes.",
+        "c": "a demora da comunicação de outrora favorecia uma seleção mais cuidadosa do que se escrevia.",
+        "d": "as cartas antigas chegavam sempre depois da morte de seus destinatários.",
+        "e": "a tecnologia atual eliminou a necessidade de comunicar notícias de falecimento."
+      },
+      "gabarito": "c",
+      "comentario": "A última frase (\"Talvez a lentidão daquelas cartas obrigasse a escolher melhor o que merecia ser dito\") sustenta a alternativa (c). As demais extrapolam o texto ou generalizam indevidamente detalhes, como os \"pêsames atrasados\" (d)."
+    },
+    {
+      "id": "pt-033",
+      "assunto": "Compreensão e interpretação de textos",
+      "origem": "inedita",
+      "enunciado": "A conciliação ocupa lugar central no processo trabalhista. Na abertura da audiência, o juiz propõe um acordo às partes, e a proposta é renovada antes do julgamento. A lógica é simples: uma solução construída pelos próprios envolvidos tende a ser cumprida com mais facilidade do que uma decisão imposta. Não se trata, contudo, de pressionar o trabalhador a renunciar a direitos, mas de oferecer um caminho mais rápido quando ambos os lados estão dispostos a ceder.\nO segmento \"Não se trata, contudo, de pressionar o trabalhador a renunciar a direitos\" tem, no texto, a função de",
+      "alternativas": {
+        "a": "antecipar e rebater uma possível objeção ao procedimento valorizado pelo autor.",
+        "b": "introduzir uma consequência da obrigatoriedade da proposta de conciliação.",
+        "c": "reforçar a tese de que a decisão judicial é preferível ao acordo entre as partes.",
+        "d": "exemplificar situações em que o acordo é cumprido com mais facilidade.",
+        "e": "contradizer a afirmação inicial de que a conciliação ocupa lugar central."
+      },
+      "gabarito": "a",
+      "comentario": "Introduzido por \"contudo\", o segmento previne a objeção de que a conciliação serviria para forçar renúncia de direitos, defendendo assim o procedimento elogiado. Não há consequência (b), exemplificação (d) nem contradição da tese inicial (e)."
+    },
+    {
+      "id": "pt-034",
+      "assunto": "Compreensão e interpretação de textos",
+      "origem": "inedita",
+      "enunciado": "Há quem diga que os jovens não leem. Basta, porém, observar um vagão de metrô para notar dezenas deles debruçados sobre telas, percorrendo textos, legendas, comentários. O problema talvez não seja a quantidade de leitura, mas sua natureza: fragmentada, veloz, raramente detida sobre um mesmo assunto por mais de alguns minutos. Ler muito não é o mesmo que ler com profundidade.\nO autor do texto",
+      "alternativas": {
+        "a": "confirma que os jovens deixaram de ler em razão do uso excessivo de telas.",
+        "b": "defende que a leitura em telas é mais profunda do que a leitura em livros.",
+        "c": "considera insuficiente a quantidade de textos lidos pelos jovens atualmente.",
+        "d": "contesta a ideia de que os jovens não leem, mas aponta uma limitação no modo como leem.",
+        "e": "atribui ao transporte público a fragmentação da leitura praticada pelos jovens."
+      },
+      "gabarito": "d",
+      "comentario": "O autor refuta o lugar-comum de que os jovens não leem (\"Basta, porém, observar...\") e desloca o problema da quantidade para a natureza da leitura, fragmentada e pouco profunda. O metrô é apenas o cenário da observação (e)."
+    },
+    {
+      "id": "pt-035",
+      "assunto": "Compreensão e interpretação de textos",
+      "origem": "inedita",
+      "enunciado": "O funcionário mais elogiado da repartição jamais cometia erros. Também jamais assinava nada, jamais decidia nada, jamais se arriscava a opinar. Quando se aposentou, recebeu uma placa com os dizeres: \"Exemplo de zelo e prudência\". Os processos que passaram por sua mesa, contudo, continuam aguardando despacho.\nO efeito expressivo do texto decorre principalmente",
+      "alternativas": {
+        "a": "da exaltação sincera das virtudes do funcionário homenageado.",
+        "b": "da ironia entre a homenagem recebida e a inércia efetiva do funcionário.",
+        "c": "da descrição objetiva e neutra da rotina de uma repartição pública.",
+        "d": "da crítica aos colegas que não reconheciam o mérito do funcionário.",
+        "e": "da defesa da aposentadoria como prêmio ao servidor cuidadoso."
+      },
+      "gabarito": "b",
+      "comentario": "O texto opõe a placa (\"Exemplo de zelo e prudência\") à constatação de que o funcionário nada decidia e os processos seguem parados, o que gera ironia. Não há exaltação sincera (a) nem neutralidade (c)."
+    },
+    {
+      "id": "pt-036",
+      "assunto": "Relação do texto com seu contexto histórico",
+      "origem": "inedita",
+      "enunciado": "Os jornais da capital celebravam a chegada dos bondes elétricos, o alargamento das avenidas e as fachadas inspiradas em Paris. Poucos registravam, porém, para onde haviam ido as famílias expulsas dos cortiços demolidos no centro. A cidade que se queria moderna empurrava para os morros aqueles que não cabiam no cartão-postal.\nO texto remete criticamente ao contexto histórico",
+      "alternativas": {
+        "a": "da construção de Brasília, na segunda metade da década de 1950.",
+        "b": "das reformas urbanas do Rio de Janeiro no início do século XX, que modernizaram a cidade à custa da remoção da população pobre.",
+        "c": "da exploração do ouro em Minas Gerais ao longo do século XVIII.",
+        "d": "da industrialização acelerada promovida durante a década de 1970.",
+        "e": "da chegada da corte portuguesa ao Brasil, no início do século XIX."
+      },
+      "gabarito": "b",
+      "comentario": "Bondes elétricos, alargamento de avenidas, fachadas de inspiração parisiense e demolição de cortiços no centro da então capital, com deslocamento dos pobres para os morros, remetem às reformas urbanas do Rio de Janeiro no início do século XX."
+    },
+    {
+      "id": "pt-037",
+      "assunto": "Relação do texto com seu contexto histórico",
+      "origem": "inedita",
+      "enunciado": "Chega de sonetos perfeitos, de rimas preciosas e de musas gregas! Queremos o verso livre, a fala das ruas, o bonde, a fábrica, o caboclo e o imigrante. A arte nacional não pode continuar a imitar o que se fazia na Europa do século passado.\nO manifesto fictício acima expressa ideias associadas",
+      "alternativas": {
+        "a": "ao Arcadismo, que pregava o retorno à vida simples e bucólica do campo.",
+        "b": "ao Romantismo, que buscava a identidade nacional na idealização do indígena.",
+        "c": "ao Parnasianismo, que defendia o rigor formal e o culto da forma.",
+        "d": "ao Barroco, marcado pelo conflito entre fé e razão e pelo rebuscamento.",
+        "e": "ao Modernismo brasileiro da década de 1920, que rompia com a estética parnasiana e valorizava a linguagem cotidiana."
+      },
+      "gabarito": "e",
+      "comentario": "A rejeição dos sonetos perfeitos e das rimas preciosas (traços parnasianos), a defesa do verso livre, da fala das ruas e dos temas urbanos e nacionais caracterizam o Modernismo da década de 1920."
+    },
+    {
+      "id": "pt-038",
+      "assunto": "Denotação e conotação",
+      "origem": "fcc",
+      "enunciado": "A palavra \"raiz\" está empregada em sentido denotativo em:",
+      "alternativas": {
+        "a": "A raiz da mangueira rompeu a calçada da praça central.",
+        "b": "É preciso atacar a raiz do problema, e não apenas seus sintomas.",
+        "c": "Apesar das mudanças, ele mantém raízes profundas naquela cidade.",
+        "d": "A raiz da desigualdade está na má distribuição de renda.",
+        "e": "O costume de reunir a família aos domingos criou raízes entre os moradores."
+      },
+      "gabarito": "a",
+      "comentario": "Em (a), \"raiz\" designa literalmente a parte da planta, sentido próprio (denotativo). Nas demais, a palavra é usada em sentido figurado, como \"origem\", \"causa\" ou \"vínculo\"."
+    },
+    {
+      "id": "pt-039",
+      "assunto": "Denotação e conotação",
+      "origem": "inedita",
+      "enunciado": "Considere as frases abaixo.\nI. O servidor engoliu o comprimido sem água.\nII. O servidor engoliu a crítica sem responder.\nIII. A notícia da reestruturação caiu como uma bomba no setor.\nHá emprego de linguagem conotativa em",
+      "alternativas": {
+        "a": "I, apenas.",
+        "b": "II, apenas.",
+        "c": "II e III, apenas.",
+        "d": "I e III, apenas.",
+        "e": "I, II e III."
+      },
+      "gabarito": "c",
+      "comentario": "Em I, \"engolir\" tem sentido literal. Em II, \"engoliu a crítica\" significa \"suportou calado\", e em III \"caiu como uma bomba\" expressa impacto, ambos em sentido figurado (conotativo)."
+    },
+    {
+      "id": "pt-040",
+      "assunto": "Discurso direto, indireto e indireto livre",
+      "origem": "fcc",
+      "enunciado": "Há discurso indireto livre em:",
+      "alternativas": {
+        "a": "A servidora perguntou se o processo já havia sido distribuído.",
+        "b": "— O processo já foi distribuído? — perguntou a servidora ao colega.",
+        "c": "A servidora disse ao colega: \"O processo ainda não foi distribuído\".",
+        "d": "A servidora olhou a pilha de autos sobre a mesa. Meu Deus, quando conseguiria terminar tudo aquilo?",
+        "e": "A servidora afirmou que terminaria todo o trabalho até o fim da semana."
+      },
+      "gabarito": "d",
+      "comentario": "Em (d), a pergunta da personagem se mistura à voz do narrador, sem verbo de elocução nem marcas do discurso direto: é o discurso indireto livre. (a) e (e) são indiretos; (b) e (c), diretos."
+    },
+    {
+      "id": "pt-041",
+      "assunto": "Discurso direto, indireto e indireto livre",
+      "origem": "fcc",
+      "enunciado": "\"O chefe perguntou ao estagiário se ele havia trazido os documentos que lhe pedira na véspera.\"\nTranspondo-se a frase acima para o discurso direto, obtém-se corretamente:",
+      "alternativas": {
+        "a": "— Você trouxe os documentos que lhe pedi ontem? — perguntou o chefe ao estagiário.",
+        "b": "— Você havia trazido os documentos que lhe pedira na véspera? — perguntou o chefe ao estagiário.",
+        "c": "— Ele trouxe os documentos que lhe pedi ontem? — perguntou o chefe ao estagiário.",
+        "d": "— Você trará os documentos que lhe pedirei amanhã? — perguntou o chefe ao estagiário.",
+        "e": "— Você trouxe os documentos que lhe pedira na véspera? — perguntou o chefe ao estagiário."
+      },
+      "gabarito": "a",
+      "comentario": "No discurso direto, o mais-que-perfeito passa ao pretérito perfeito (\"havia trazido\" → \"trouxe\"; \"pedira\" → \"pedi\"), \"na véspera\" passa a \"ontem\" e a 3ª pessoa referente ao interlocutor passa a \"você\"."
+    },
+    {
+      "id": "pt-042",
+      "assunto": "Intertextualidade",
+      "origem": "fcc",
+      "enunciado": "O título de uma crônica sobre o trânsito, \"No meio do caminho tinha um engarrafamento\", retoma conhecido verso de Carlos Drummond de Andrade, alterando-lhe um termo com finalidade humorística. Esse procedimento intertextual caracteriza",
+      "alternativas": {
+        "a": "a epígrafe.",
+        "b": "a citação literal.",
+        "c": "a tradução.",
+        "d": "a paródia.",
+        "e": "a referência bibliográfica."
+      },
+      "gabarito": "d",
+      "comentario": "A retomada de um texto conhecido com alteração deliberada e efeito humorístico ou crítico configura paródia. Não é citação literal (b), pois o verso foi modificado, nem epígrafe (a), que transcreve o trecho no início de uma obra."
+    },
+    {
+      "id": "pt-043",
+      "assunto": "Intertextualidade",
+      "origem": "inedita",
+      "enunciado": "Há intertextualidade com um provérbio popular em:",
+      "alternativas": {
+        "a": "Tinha uma pedra no meio do processo, e ninguém se dispunha a removê-la.",
+        "b": "Ser ou não ser aprovado: eis a questão que tirava o sono do candidato.",
+        "c": "Diante de tantos adiamentos, a equipe concluiu que quem espera nem sempre alcança.",
+        "d": "E agora, José? — perguntava-se o coordenador diante da planilha vazia.",
+        "e": "Era uma vez um orçamento que cabia, sem sobras, no planejamento anual."
+      },
+      "gabarito": "c",
+      "comentario": "Em (c), retoma-se, com inversão de sentido, o provérbio \"Quem espera sempre alcança\". (a) e (d) dialogam com poemas de Drummond, (b) com Shakespeare e (e) com a fórmula de abertura dos contos de fadas."
+    },
+    {
+      "id": "pt-044",
+      "assunto": "Figuras de linguagem",
+      "origem": "fcc",
+      "enunciado": "Há eufemismo em:",
+      "alternativas": {
+        "a": "O silêncio gritava na sala de espera do pronto-socorro.",
+        "b": "Já expliquei esse procedimento um milhão de vezes.",
+        "c": "Os olhos do vigia eram dois faróis na escuridão do pátio.",
+        "d": "Bebeu dois copos de água antes de iniciar a sustentação oral.",
+        "e": "O antigo diretor deixou-nos no último inverno, após longa enfermidade."
+      },
+      "gabarito": "e",
+      "comentario": "Em (e), \"deixou-nos\" suaviza a ideia de morte, o que caracteriza eufemismo. Há paradoxo/personificação em (a), hipérbole em (b), metáfora em (c) e metonímia (continente pelo conteúdo) em (d)."
+    },
+    {
+      "id": "pt-045",
+      "assunto": "Figuras de linguagem",
+      "origem": "fcc",
+      "enunciado": "Em \"No silêncio da madrugada, só se ouvia o tique-taque do relógio da parede\", a expressão \"tique-taque\" constitui exemplo de",
+      "alternativas": {
+        "a": "antítese.",
+        "b": "onomatopeia.",
+        "c": "sinestesia.",
+        "d": "catacrese.",
+        "e": "ironia."
+      },
+      "gabarito": "b",
+      "comentario": "\"Tique-taque\" imita o som produzido pelo relógio, o que caracteriza onomatopeia. Não há oposição de ideias (antítese), mistura de sentidos (sinestesia), extensão de sentido por falta de termo próprio (catacrese) nem ironia."
+    },
+    {
+      "id": "pt-046",
+      "assunto": "Figuras de linguagem",
+      "origem": "fcc",
+      "enunciado": "Ocorre sinestesia em:",
+      "alternativas": {
+        "a": "O pé da mesa de reuniões estava quebrado havia semanas.",
+        "b": "Nas férias, li Machado de Assis do primeiro ao último volume.",
+        "c": "A filha caçula é a luz que ilumina a vida do velho juiz.",
+        "d": "Apressado, o mensageiro subiu para cima pela escada lateral.",
+        "e": "Um perfume doce e macio invadiu o saguão do edifício."
+      },
+      "gabarito": "e",
+      "comentario": "Em (e), atribuem-se ao perfume (olfato) qualidades do paladar (\"doce\") e do tato (\"macio\"), o que configura sinestesia. Há catacrese em (a), metonímia em (b), metáfora em (c) e pleonasmo vicioso em (d)."
+    },
+    {
+      "id": "pt-047",
+      "assunto": "Morfossintaxe",
+      "origem": "fcc",
+      "enunciado": "Em \"Que longo foi aquele dia de audiências!\", a palavra \"que\" classifica-se como",
+      "alternativas": {
+        "a": "pronome relativo.",
+        "b": "advérbio de intensidade.",
+        "c": "conjunção integrante.",
+        "d": "preposição acidental.",
+        "e": "conjunção consecutiva."
+      },
+      "gabarito": "b",
+      "comentario": "O \"que\" intensifica o adjetivo \"longo\" (equivale a \"quão\", \"muito\"), funcionando como advérbio de intensidade. Não retoma antecedente (pronome relativo) nem introduz oração (conjunção)."
+    },
+    {
+      "id": "pt-048",
+      "assunto": "Morfossintaxe",
+      "origem": "fcc",
+      "enunciado": "A partícula \"se\" funciona como pronome apassivador em:",
+      "alternativas": {
+        "a": "Precisa-se de técnicos com experiência em perícia contábil.",
+        "b": "O servidor se feriu com o grampeador durante o expediente.",
+        "c": "Se houver tempo, revisaremos novamente o texto do edital.",
+        "d": "Alugam-se salas comerciais no edifício ao lado do fórum.",
+        "e": "Os dois advogados se cumprimentaram ao final da sessão."
+      },
+      "gabarito": "d",
+      "comentario": "Em (d), o verbo transitivo direto \"alugar\" está na voz passiva sintética (\"salas comerciais são alugadas\"), e o \"se\" é pronome apassivador. Em (a), é índice de indeterminação do sujeito (VTI); em (b), reflexivo; em (c), conjunção; em (e), recíproco."
+    },
+    {
+      "id": "pt-049",
+      "assunto": "Morfossintaxe",
+      "origem": "fcc",
+      "enunciado": "Na frase \"Os servidores consideraram justa a decisão do colegiado\", o termo \"justa\" exerce a função sintática de",
+      "alternativas": {
+        "a": "predicativo do objeto.",
+        "b": "adjunto adnominal.",
+        "c": "predicativo do sujeito.",
+        "d": "objeto direto.",
+        "e": "complemento nominal."
+      },
+      "gabarito": "a",
+      "comentario": "\"Justa\" atribui uma qualidade ao objeto direto \"a decisão do colegiado\" por meio do verbo \"considerar\" (verbo transobjetivo), sendo, portanto, predicativo do objeto."
+    },
+    {
+      "id": "pt-050",
+      "assunto": "Elementos estruturais e processos de formação de palavras",
+      "origem": "fcc",
+      "enunciado": "É formada por derivação regressiva a palavra:",
+      "alternativas": {
+        "a": "infeliz",
+        "b": "pontapé",
+        "c": "debate",
+        "d": "lealdade",
+        "e": "aguardente"
+      },
+      "gabarito": "c",
+      "comentario": "\"Debate\" é substantivo deverbal formado pela redução do verbo \"debater\" (derivação regressiva). \"Infeliz\" é prefixal, \"lealdade\" é sufixal, e \"pontapé\" e \"aguardente\" são compostas."
+    },
+    {
+      "id": "pt-051",
+      "assunto": "Elementos estruturais e processos de formação de palavras",
+      "origem": "inedita",
+      "enunciado": "Na forma verbal \"estudávamos\", o segmento \"-va-\" corresponde a",
+      "alternativas": {
+        "a": "radical.",
+        "b": "vogal temática.",
+        "c": "desinência número-pessoal.",
+        "d": "desinência modo-temporal.",
+        "e": "sufixo derivacional."
+      },
+      "gabarito": "d",
+      "comentario": "Em \"estud-á-va-mos\", \"estud-\" é o radical, \"-a-\" a vogal temática, \"-va-\" a desinência modo-temporal do pretérito imperfeito do indicativo e \"-mos\" a desinência número-pessoal."
+    },
+    {
+      "id": "pt-052",
+      "assunto": "Sinonímia e antonímia",
+      "origem": "fcc",
+      "enunciado": "Em \"O relator mostrou-se reticente quanto à proposta apresentada\", o termo \"reticente\" pode ser substituído, sem alteração do sentido, por:",
+      "alternativas": {
+        "a": "entusiasmado",
+        "b": "favorável",
+        "c": "indiferente",
+        "d": "contrariado",
+        "e": "hesitante"
+      },
+      "gabarito": "e",
+      "comentario": "\"Reticente\" designa quem se mostra reservado, hesitante, que não se manifesta plenamente. \"Entusiasmado\" e \"favorável\" têm sentido oposto; \"indiferente\" e \"contrariado\" não equivalem ao termo."
+    },
+    {
+      "id": "pt-053",
+      "assunto": "Sinonímia e antonímia",
+      "origem": "fcc",
+      "enunciado": "Constituem um par de antônimos os vocábulos:",
+      "alternativas": {
+        "a": "exíguo – escasso",
+        "b": "prolixo – conciso",
+        "c": "ratificar – confirmar",
+        "d": "eminente – ilustre",
+        "e": "inócuo – inofensivo"
+      },
+      "gabarito": "b",
+      "comentario": "\"Prolixo\" (excessivamente longo, difuso) opõe-se a \"conciso\" (breve, preciso). Os demais pares são formados por sinônimos."
+    },
+    {
+      "id": "pt-054",
+      "assunto": "Pontuação",
+      "origem": "fcc",
+      "enunciado": "A vírgula está empregada de acordo com a norma-padrão em:",
+      "alternativas": {
+        "a": "Os processos que estavam atrasados, foram redistribuídos entre as varas.",
+        "b": "O juiz determinou, que as partes fossem intimadas com urgência.",
+        "c": "Brasília, a capital federal, foi inaugurada em abril de 1960.",
+        "d": "Os advogados, e os peritos compareceram pontualmente à audiência.",
+        "e": "Todos os documentos necessários à inscrição, devem ser digitalizados."
+      },
+      "gabarito": "c",
+      "comentario": "Em (c), as vírgulas isolam o aposto explicativo. Nas demais, há vírgula indevida entre sujeito e verbo (a, e), entre verbo e oração objetiva direta (b) e antes de \"e\" que une termos de mesma função (d)."
+    },
+    {
+      "id": "pt-055",
+      "assunto": "Pontuação",
+      "origem": "inedita",
+      "enunciado": "Considere as frases:\nI. Os servidores que trabalham no plantão receberão folga compensatória.\nII. Os servidores, que trabalham no plantão, receberão folga compensatória.\nÉ correto afirmar:",
+      "alternativas": {
+        "a": "Em I, apenas parte dos servidores receberá folga; em II, afirma-se que todos os servidores trabalham no plantão e receberão folga.",
+        "b": "As duas frases têm o mesmo sentido, diferindo apenas quanto à ênfase dada ao plantão.",
+        "c": "Em II, as vírgulas são inaceitáveis, pois separam o sujeito do verbo.",
+        "d": "Em I, a oração \"que trabalham no plantão\" é adjetiva explicativa.",
+        "e": "Em II, somente os servidores do plantão receberão folga, ao contrário dos demais."
+      },
+      "gabarito": "a",
+      "comentario": "Sem vírgulas (I), a oração adjetiva é restritiva e delimita o grupo beneficiado; entre vírgulas (II), é explicativa e atribui a característica a todos os servidores. A pontuação, portanto, altera o sentido."
+    },
+    {
+      "id": "pt-056",
+      "assunto": "Pontuação",
+      "origem": "fcc",
+      "enunciado": "A pontuação está inteiramente correta em:",
+      "alternativas": {
+        "a": "O relatório apontou três falhas, atraso nas entregas; falta de pessoal; e equipamentos obsoletos.",
+        "b": "Embora o prazo fosse curto a equipe; concluiu o trabalho no dia previsto.",
+        "c": "O relatório apontou três falhas: atraso nas entregas, falta de pessoal e equipamentos obsoletos.",
+        "d": "O relatório apontou: três falhas, atraso nas entregas falta de pessoal, e equipamentos obsoletos.",
+        "e": "O relatório, apontou três falhas: atraso nas entregas, falta de pessoal e, equipamentos obsoletos."
+      },
+      "gabarito": "c",
+      "comentario": "Em (c), os dois-pontos introduzem a enumeração, cujos itens se separam por vírgula, sem vírgula antes do \"e\" final. As demais apresentam pontuação inadequada, como ponto e vírgula entre sujeito e verbo (b) e vírgula entre sujeito e verbo (e)."
+    },
+    {
+      "id": "pt-057",
+      "assunto": "Pronomes",
+      "origem": "fcc",
+      "enunciado": "A substituição do segmento em maiúsculas pelo pronome correspondente está correta em:",
+      "alternativas": {
+        "a": "Devemos analisar OS RECURSOS ainda hoje. → Devemos analisá-los ainda hoje.",
+        "b": "O juiz ouviu AS TESTEMUNHAS na audiência. → O juiz ouviu-lhes na audiência.",
+        "c": "A secretária enviou O CONVITE pela manhã. → A secretária enviou-lhe pela manhã.",
+        "d": "Todos obedeceram AO REGULAMENTO. → Todos obedeceram-no.",
+        "e": "Encontrei O ADVOGADO no fórum. → Encontrei-lhe no fórum."
+      },
+      "gabarito": "a",
+      "comentario": "Objeto direto após infinitivo terminado em -r assume a forma \"-lo(s)\", com queda do \"r\": \"analisá-los\". \"Lhe\" não substitui objeto direto (b, c, e), e \"obedecer\" é transitivo indireto, exigindo \"lhe\" (d)."
+    },
+    {
+      "id": "pt-058",
+      "assunto": "Pronomes",
+      "origem": "fcc",
+      "enunciado": "A colocação do pronome átono está de acordo com a norma-padrão em:",
+      "alternativas": {
+        "a": "Entregarei-lhe o parecer na próxima reunião.",
+        "b": "Far-se-á a revisão dos cálculos na próxima semana.",
+        "c": "Não encaminharam-me a intimação no prazo legal.",
+        "d": "Quem avisou-te da mudança no horário da sessão?",
+        "e": "Comunicaremos-lhe a decisão assim que possível."
+      },
+      "gabarito": "b",
+      "comentario": "Com verbo no futuro do presente, sem fator de próclise, usa-se a mesóclise (\"far-se-á\"). Não se admite ênclise ao futuro (a, e), e o advérbio \"não\" (c) e o pronome interrogativo \"quem\" (d) atraem o pronome."
+    },
+    {
+      "id": "pt-059",
+      "assunto": "Pronomes",
+      "origem": "fcc",
+      "enunciado": "O pronome relativo está empregado de acordo com a norma-padrão em:",
+      "alternativas": {
+        "a": "Este é o processo que lhe falei na semana passada.",
+        "b": "A servidora cuja a filha foi aprovada no concurso está radiante.",
+        "c": "O cargo que aspiro exige experiência na área de gestão.",
+        "d": "Visitamos a cidade onde fomos no feriado prolongado.",
+        "e": "Esta é a lei a cujos dispositivos o parecer se refere."
+      },
+      "gabarito": "e",
+      "comentario": "\"Referir-se\" exige a preposição \"a\", que antecede corretamente o relativo \"cujos\", empregado sem artigo. Faltam preposições em (a) \"de que\", (c) \"a que\" e (d) \"aonde\"; em (b), \"cuja\" não admite artigo posposto."
+    },
+    {
+      "id": "pt-060",
+      "assunto": "Concordância nominal e verbal",
+      "origem": "fcc",
+      "enunciado": "A concordância verbal está de acordo com a norma-padrão em:",
+      "alternativas": {
+        "a": "Precisam-se de estagiários com conhecimento em informática.",
+        "b": "Fui eu quem redigiram o parecer encaminhado à presidência.",
+        "c": "Os Estados Unidos anunciou novas tarifas de importação.",
+        "d": "Faltam ainda três assinaturas para que o contrato seja registrado.",
+        "e": "Bateu cinco horas no relógio da repartição antes do fim da sessão."
+      },
+      "gabarito": "d",
+      "comentario": "Em (d), o sujeito \"três assinaturas\" leva o verbo ao plural. Em (a), com índice de indeterminação, o verbo fica no singular; em (b), \"quem\" exige 3ª pessoa do singular ou concordância com \"eu\"; em (c), nome no plural com artigo pede verbo no plural; em (e), \"cinco horas\" é sujeito de \"bater\" (\"bateram\")."
+    },
+    {
+      "id": "pt-061",
+      "assunto": "Concordância nominal e verbal",
+      "origem": "fcc",
+      "enunciado": "A concordância nominal está de acordo com a norma-padrão em:",
+      "alternativas": {
+        "a": "Os servidores estavam bastantes cansados após o plantão noturno.",
+        "b": "Foram apresentadas as propostas mais viáveis possíveis.",
+        "c": "Havia menas pessoas na audiência do que o esperado.",
+        "d": "Seguem inclusos as fotocópias dos documentos solicitados.",
+        "e": "Após o acerto das pendências, os dois sócios declararam estar quite com o fisco."
+      },
+      "gabarito": "b",
+      "comentario": "Na expressão superlativa com artigo no plural, \"possível\" concorda com o artigo: \"as mais viáveis possíveis\". \"Bastante\" como advérbio é invariável (a); \"menos\" não varia (c); \"inclusas\" deveria concordar com \"fotocópias\" (d); \"quite\" deveria ir ao plural, \"quites\", em referência a \"os dois sócios\" (e)."
+    },
+    {
+      "id": "pt-062",
+      "assunto": "Concordância nominal e verbal",
+      "origem": "fcc",
+      "enunciado": "Preenchem corretamente as lacunas da frase, na ordem dada:\nAinda ...... dúvidas sobre o edital, mas já ...... dois meses desde a publicação, e não ...... ocorrido novas retificações.",
+      "alternativas": {
+        "a": "resta – faz – têm",
+        "b": "restam – fazem – tem",
+        "c": "restam – faz – têm",
+        "d": "resta – fazem – tem",
+        "e": "restam – faz – tem"
+      },
+      "gabarito": "c",
+      "comentario": "\"Restar\" concorda com o sujeito \"dúvidas\" (restam); \"fazer\" indicando tempo decorrido é impessoal (faz); \"ter\" concorda com o sujeito \"novas retificações\" (têm)."
+    },
+    {
+      "id": "pt-063",
+      "assunto": "Flexão nominal e verbal",
+      "origem": "fcc",
+      "enunciado": "O plural está corretamente flexionado em todas as palavras de:",
+      "alternativas": {
+        "a": "cidadões – capitões – escrivãos",
+        "b": "cidadãos – capitões – escrivães",
+        "c": "cidadães – capitães – escrivãos",
+        "d": "cidadãos – capitães – escrivães",
+        "e": "cidadões – capitães – escrivães"
+      },
+      "gabarito": "d",
+      "comentario": "Os plurais consagrados pela norma são \"cidadãos\", \"capitães\" e \"escrivães\". As demais alternativas contêm ao menos uma forma inexistente na norma-padrão."
+    },
+    {
+      "id": "pt-064",
+      "assunto": "Flexão nominal e verbal",
+      "origem": "fcc",
+      "enunciado": "A forma verbal está flexionada de acordo com a norma-padrão em:",
+      "alternativas": {
+        "a": "Se o tribunal mantiver a sentença, a empresa recorrerá da decisão.",
+        "b": "Quando o perito vir à audiência, trará o laudo complementar.",
+        "c": "O réu se absteu de responder às perguntas da acusação.",
+        "d": "Os fiscais requiseram novos documentos à empresa autuada.",
+        "e": "Espero que o diretor medie o conflito entre os setores."
+      },
+      "gabarito": "a",
+      "comentario": "\"Manter\" segue \"ter\": \"se ... mantiver\". As formas corretas nas demais seriam \"vier\" (b), \"absteve\" (c), \"requereram\" (d) e \"medeie\" (e), já que \"mediar\" se conjuga como \"odiar\"."
+    },
+    {
+      "id": "pt-065",
+      "assunto": "Vozes do verbo",
+      "origem": "fcc",
+      "enunciado": "Transpondo-se a frase \"Divulgaram-se os resultados do concurso ontem\" para a voz passiva analítica, a forma correta é:",
+      "alternativas": {
+        "a": "Os resultados do concurso divulgaram ontem.",
+        "b": "Os resultados do concurso eram divulgados ontem.",
+        "c": "Divulgou-se os resultados do concurso ontem.",
+        "d": "Os resultados do concurso têm sido divulgados ontem.",
+        "e": "Os resultados do concurso foram divulgados ontem."
+      },
+      "gabarito": "e",
+      "comentario": "A passiva sintética \"divulgaram-se\" (pretérito perfeito) corresponde à analítica \"foram divulgados\", com o auxiliar \"ser\" no mesmo tempo. (c) mantém a passiva sintética, com erro de concordância; (b) e (d) alteram o tempo verbal."
+    },
+    {
+      "id": "pt-066",
+      "assunto": "Vozes do verbo",
+      "origem": "fcc",
+      "enunciado": "A frase está na voz passiva em:",
+      "alternativas": {
+        "a": "Vendeu-se o imóvel por valor abaixo do de mercado.",
+        "b": "Os candidatos se inscreveram dentro do prazo do edital.",
+        "c": "Trata-se de questões complexas, que exigem estudo.",
+        "d": "O servidor feriu-se com o estilete ao abrir a caixa.",
+        "e": "A comissão estava satisfeita com o resultado obtido."
+      },
+      "gabarito": "a",
+      "comentario": "Em (a), há passiva sintética: \"o imóvel foi vendido\". Em (b), o verbo é pronominal; em (c), o \"se\" indetermina o sujeito de verbo transitivo indireto; em (d), há voz reflexiva; em (e), verbo de ligação."
+    },
+    {
+      "id": "pt-067",
+      "assunto": "Correlação de tempos e modos verbais",
+      "origem": "fcc",
+      "enunciado": "A correlação entre tempos e modos verbais está de acordo com a norma-padrão em:",
+      "alternativas": {
+        "a": "Se o servidor tivesse revisado o texto, o erro não passará despercebido.",
+        "b": "Caso a proposta for aprovada, o projeto será iniciado em janeiro.",
+        "c": "Quando os documentos chegarem, a comissão analisaria o pedido.",
+        "d": "Se as partes tivessem chegado a um acordo, o processo teria sido arquivado.",
+        "e": "O diretor exigiu que os relatórios são entregues até sexta-feira."
+      },
+      "gabarito": "d",
+      "comentario": "O mais-que-perfeito do subjuntivo (\"tivessem chegado\") correlaciona-se com o futuro do pretérito composto (\"teria sido\"). Em (a) caberia \"teria passado\"; em (b), \"caso\" exige \"seja\"; em (c), \"analisará\"; em (e), \"fossem entregues\"."
+    },
+    {
+      "id": "pt-068",
+      "assunto": "Correlação de tempos e modos verbais",
+      "origem": "fcc",
+      "enunciado": "Preenchem corretamente as lacunas da frase, na ordem dada:\nSe a comissão ...... o relatório amanhã, o diretor ...... assiná-lo antes da reunião, que ...... marcada para sexta-feira.",
+      "alternativas": {
+        "a": "concluísse – poderá – está",
+        "b": "concluir – poderia – estava",
+        "c": "concluir – poderá – está",
+        "d": "concluísse – pode – estaria",
+        "e": "conclui – poderia – estará"
+      },
+      "gabarito": "c",
+      "comentario": "O futuro do subjuntivo (\"concluir\") na condicional correlaciona-se com o futuro do presente (\"poderá\"), e o fato já estabelecido vai no presente (\"está marcada\"). Combinar imperfeito do subjuntivo com futuro do presente (a) ou futuro do subjuntivo com futuro do pretérito (b) rompe a correlação."
+    },
+    {
+      "id": "pt-069",
+      "assunto": "Regência nominal e verbal",
+      "origem": "fcc",
+      "enunciado": "A regência verbal está de acordo com a norma-padrão em:",
+      "alternativas": {
+        "a": "A decisão do conselho implica em novos gastos para o órgão.",
+        "b": "O servidor procedeu à leitura da ata da sessão anterior.",
+        "c": "Os técnicos chegaram no tribunal pouco depois das oito horas.",
+        "d": "O cliente simpatizou-se com o advogado logo no primeiro contato.",
+        "e": "O documento que o diretor se referiu não foi localizado."
+      },
+      "gabarito": "b",
+      "comentario": "\"Proceder\", no sentido de \"dar início, realizar\", rege a preposição \"a\": \"procedeu à leitura\". \"Implicar\" (acarretar) é transitivo direto (a); \"chegar\" rege \"a\" (c); \"simpatizar\" não é pronominal (d); \"referir-se\" exige \"a que\" (e)."
+    },
+    {
+      "id": "pt-070",
+      "assunto": "Regência nominal e verbal",
+      "origem": "fcc",
+      "enunciado": "A regência nominal está de acordo com a norma-padrão em:",
+      "alternativas": {
+        "a": "O servidor sempre teve aversão com reuniões muito longas.",
+        "b": "A comissão está apta em julgar o recurso interposto.",
+        "c": "Ele se mostrou alheio com as críticas feitas ao projeto.",
+        "d": "O parecer foi favorável com o pedido de reconsideração.",
+        "e": "A medida adotada é compatível com as normas vigentes."
+      },
+      "gabarito": "e",
+      "comentario": "\"Compatível\" rege a preposição \"com\". As formas adequadas nas demais seriam \"aversão a\" (a), \"apta a/para\" (b), \"alheio a\" (c) e \"favorável a\" (d)."
+    },
+    {
+      "id": "pt-071",
+      "assunto": "Regência nominal e verbal",
+      "origem": "fcc",
+      "enunciado": "Preenchem corretamente as lacunas da frase, na ordem dada:\nO cargo ...... se candidatou exige a habilidade ...... ele mais se orgulha.",
+      "alternativas": {
+        "a": "que – que",
+        "b": "em que – a que",
+        "c": "a que – que",
+        "d": "que – de que",
+        "e": "a que – de que"
+      },
+      "gabarito": "e",
+      "comentario": "\"Candidatar-se\" rege a preposição \"a\" (candidatou-se a um cargo), e \"orgulhar-se\" rege \"de\" (orgulha-se de uma habilidade); as preposições devem anteceder o pronome relativo."
+    },
+    {
+      "id": "pt-072",
+      "assunto": "Coordenação e subordinação",
+      "origem": "fcc",
+      "enunciado": "No período \"É fundamental que os prazos processuais sejam cumpridos\", a oração \"que os prazos processuais sejam cumpridos\" classifica-se como subordinada substantiva",
+      "alternativas": {
+        "a": "objetiva direta.",
+        "b": "subjetiva.",
+        "c": "predicativa.",
+        "d": "completiva nominal.",
+        "e": "apositiva."
+      },
+      "gabarito": "b",
+      "comentario": "A oração exerce a função de sujeito do predicado nominal \"é fundamental\" (equivale a \"O cumprimento dos prazos é fundamental\"), sendo subordinada substantiva subjetiva."
+    },
+    {
+      "id": "pt-073",
+      "assunto": "Coordenação e subordinação",
+      "origem": "fcc",
+      "enunciado": "Classifica-se como subordinada adverbial consecutiva a oração em maiúsculas em:",
+      "alternativas": {
+        "a": "O orador falou tão baixo QUE NINGUÉM O OUVIU no fundo do auditório.",
+        "b": "O técnico saiu mais cedo PORQUE TINHA CONSULTA MÉDICA.",
+        "c": "Naquela semana, ele estudou mais DO QUE TRABALHOU.",
+        "d": "À MEDIDA QUE O PRAZO SE APROXIMAVA, crescia a tensão no setor.",
+        "e": "SE HOUVER QUÓRUM, a sessão será aberta às nove horas."
+      },
+      "gabarito": "a",
+      "comentario": "Em (a), a correlação \"tão... que\" introduz a consequência do fato expresso na principal. As demais orações são, respectivamente, causal (b), comparativa (c), proporcional (d) e condicional (e)."
+    },
+    {
+      "id": "pt-074",
+      "assunto": "Coordenação e subordinação",
+      "origem": "fcc",
+      "enunciado": "Há oração coordenada sindética explicativa em:",
+      "alternativas": {
+        "a": "Ou você revisa o texto, ou eu o devolvo ao autor.",
+        "b": "Estudou durante meses, porém não foi aprovado.",
+        "c": "Feche as janelas do arquivo, que vai chover.",
+        "d": "Não só redigiu o parecer, como também o revisou.",
+        "e": "Trabalhou a noite inteira; está, pois, exausto."
+      },
+      "gabarito": "c",
+      "comentario": "Em (c), após verbo no imperativo, \"que\" introduz a justificativa da ordem dada, configurando coordenada explicativa. As demais são alternativa (a), adversativa (b), aditiva (d) e conclusiva (e)."
+    },
+    {
+      "id": "pt-075",
+      "assunto": "Conectivos",
+      "origem": "fcc",
+      "enunciado": "Em \"O servidor foi promovido, visto que cumpriu todos os requisitos previstos no plano de carreira\", o conectivo \"visto que\" pode ser substituído, sem alteração do sentido, por:",
+      "alternativas": {
+        "a": "embora",
+        "b": "contanto que",
+        "c": "à medida que",
+        "d": "uma vez que",
+        "e": "a fim de que"
+      },
+      "gabarito": "d",
+      "comentario": "\"Visto que\" exprime causa, assim como \"uma vez que\" seguido de indicativo. \"Embora\" é concessivo, \"contanto que\" é condicional, \"à medida que\" é proporcional e \"a fim de que\" é final."
+    },
+    {
+      "id": "pt-076",
+      "assunto": "Conectivos",
+      "origem": "fcc",
+      "enunciado": "O conectivo em maiúsculas estabelece relação de finalidade em:",
+      "alternativas": {
+        "a": "COMO chovia muito, a audiência foi adiada.",
+        "b": "CONFORME previsto no edital, o prazo foi encerrado.",
+        "c": "AINDA QUE insistisse, não obteve resposta da chefia.",
+        "d": "Reuniram-se cedo PARA QUE a pauta fosse concluída.",
+        "e": "DESDE QUE haja verba, o projeto terá continuidade."
+      },
+      "gabarito": "d",
+      "comentario": "\"Para que\" exprime finalidade. \"Como\" anteposto à principal é causal (a), \"conforme\" é conformativo (b), \"ainda que\" é concessivo (c) e \"desde que\" com subjuntivo é condicional (e)."
+    },
+    {
+      "id": "pt-077",
+      "assunto": "Redação (confronto e reconhecimento de frases; organização e equivalência de estruturas)",
+      "origem": "fcc",
+      "enunciado": "Está correta a redação da seguinte frase:",
+      "alternativas": {
+        "a": "Os arquivos aonde constam as informações foram extraviados.",
+        "b": "Haviam muitos processos a serem julgados antes do recesso forense.",
+        "c": "Cabe aos gestores zelar pelo cumprimento das metas estabelecidas.",
+        "d": "O servidor, cujo o desempenho foi elogiado, recebeu menção honrosa.",
+        "e": "Afim de agilizar os trâmites, o setor adotou novos procedimentos."
+      },
+      "gabarito": "c",
+      "comentario": "Em (c), o sujeito oracional (\"zelar pelo cumprimento...\") leva \"cabe\" ao singular, e as regências estão corretas. Há erro em (a), em que caberia \"onde\" ou \"em que\"; em (b), \"haver\" existencial é impessoal (\"Havia\"); em (d), \"cujo\" não admite artigo; em (e), a locução é \"a fim de\"."
+    },
+    {
+      "id": "pt-078",
+      "assunto": "Redação (confronto e reconhecimento de frases; organização e equivalência de estruturas)",
+      "origem": "fcc",
+      "enunciado": "\"Embora o prazo seja curto, a equipe concluirá o trabalho.\"\nUma redação alternativa para a frase acima, que preserva o sentido original e a correção, é:",
+      "alternativas": {
+        "a": "Porque o prazo é curto, a equipe concluirá o trabalho.",
+        "b": "O prazo é curto, portanto a equipe concluirá o trabalho.",
+        "c": "Se o prazo for curto, a equipe concluirá o trabalho.",
+        "d": "Como o prazo é curto, a equipe concluirá o trabalho.",
+        "e": "O prazo é curto; a equipe, no entanto, concluirá o trabalho."
+      },
+      "gabarito": "e",
+      "comentario": "A relação concessiva (\"embora\") equivale à adversativa expressa por \"no entanto\": admite-se o obstáculo, que não impede o resultado. As demais introduzem causa (a, d), conclusão (b) ou condição (c)."
+    },
+    {
+      "id": "pt-079",
+      "assunto": "Redação (confronto e reconhecimento de frases; organização e equivalência de estruturas)",
+      "origem": "inedita",
+      "enunciado": "\"O servidor elaborou o parecer. O diretor confiou ao servidor a análise do caso.\"\nAs frases acima estão articuladas em um único período, com correção e preservação do sentido, em:",
+      "alternativas": {
+        "a": "O servidor a quem o diretor confiou a análise do caso elaborou o parecer.",
+        "b": "O servidor que o diretor confiou a análise do caso elaborou o parecer.",
+        "c": "O servidor cujo o diretor confiou a análise do caso elaborou o parecer.",
+        "d": "O servidor ao qual o diretor confiou-lhe a análise do caso elaborou o parecer.",
+        "e": "O servidor de quem o diretor confiou a análise do caso elaborou o parecer."
+      },
+      "gabarito": "a",
+      "comentario": "\"Confiar algo a alguém\" exige a preposição \"a\" antes do relativo: \"a quem\". Em (b) falta a preposição; em (c) \"cujo\" é inadequado e seguido de artigo; em (d) há redundância com \"lhe\"; em (e) a preposição \"de\" não corresponde à regência do verbo."
+    },
+    {
+      "id": "pt-080",
+      "assunto": "Redação (confronto e reconhecimento de frases; organização e equivalência de estruturas)",
+      "origem": "fcc",
+      "enunciado": "Está clara e correta a redação de:",
+      "alternativas": {
+        "a": "Tratam-se de medidas que visam reduzir os custos operacionais.",
+        "b": "Devem-se considerar as hipóteses levantadas pela defesa.",
+        "c": "O diretor, ao chegar na sala, solicitaram os relatórios do mês.",
+        "d": "Se caso houver alterações no cronograma, a equipe será comunicada.",
+        "e": "Anexo ao ofício seguem as planilhas de custos do exercício."
+      },
+      "gabarito": "b",
+      "comentario": "Em (b), com voz passiva sintética, o verbo concorda com o sujeito \"as hipóteses\". Em (a), \"trata-se\" fica no singular (índice de indeterminação); em (c), \"solicitou\" deve concordar com \"o diretor\"; em (d), \"se caso\" é redundante; em (e), \"anexas\" deve concordar com \"planilhas\"."
+    }
+  ]
+}
